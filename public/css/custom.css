@@ -14,16 +14,13 @@ body {
   border-bottom: none;
 }
 
-.masthead-title img{
+.masthead-title img {
   border-radius: 0;
   margin: 0;
-}
-
-.masthead-title a {
   opacity: 1.0;
 }
 
-.masthead-title a:hover {
+.masthead-title img:hover {
   opacity: 0.5;
 }
 
