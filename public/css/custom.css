@@ -1,0 +1,26 @@
+/*
+ * Overrides
+ *
+ * Custom overrides for Mark On Product Theme
+ */
+
+
+body {
+  background: #FAFAFA;
+}
+
+.masthead {
+  background: #000000;
+  border-bottom: none;
+}
+
+.sidebar-toggle {
+  color :#FAFAFA;
+  background-color: transparent;
+}
+
+.sidebar-toggle:active,
+#sidebar-checkbox:checked ~ .wrap .sidebar-toggle {
+  color :#FAFAFA;
+  background-color: transparent;
+}
