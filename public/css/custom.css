@@ -19,6 +19,9 @@ body {
   margin: 0;
 }
 
+.masthead-title a:hover {
+  opacity: 0.5;
+}
 
 .sidebar-toggle {
   color :#FAFAFA;
