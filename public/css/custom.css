@@ -13,3 +13,8 @@ body {
   background: #000000;
   border-bottom: none;
 }
+
+.sidebar-toggle {
+  color :#FAFAFA;
+  background-color: none;
+}
