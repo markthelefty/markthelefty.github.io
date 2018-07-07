@@ -21,6 +21,6 @@ body {
 
 .sidebar-toggle:active,
 #sidebar-checkbox:checked ~ .wrap .sidebar-toggle {
-  color :#FAFAFA;
+  color :#9a9a9a;
   background-color: transparent;
 }
