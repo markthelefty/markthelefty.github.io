@@ -14,6 +14,16 @@ body {
   border-bottom: none;
 }
 
+.masthead-title img {
+  border-radius: 0;
+  margin: 0;
+  opacity: 1.0;
+}
+
+.masthead-title img:hover {
+  opacity: 0.7;
+}
+
 .sidebar-toggle {
   color :#FAFAFA;
   background-color: transparent;
@@ -21,6 +31,6 @@ body {
 
 .sidebar-toggle:active,
 #sidebar-checkbox:checked ~ .wrap .sidebar-toggle {
-  color :#FAFAFA;
+  color :#9a9a9a;
   background-color: transparent;
 }
