@@ -19,6 +19,10 @@ body {
   margin: 0;
 }
 
+.masthead-title a {
+  opacity: 1.0;
+}
+
 .masthead-title a:hover {
   opacity: 0.5;
 }
