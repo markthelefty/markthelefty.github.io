@@ -5,6 +5,8 @@
  */
 
 
-body {
-  background: red;
+
+.masthead {
+  background: #000000;
+  border-bottom: none;
 }
