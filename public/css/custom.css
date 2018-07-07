@@ -46,3 +46,7 @@ body {
     color: #000;
     letter-spacing: -.025rem;
  }
+
+ .post-title {
+  font-size:10rem;
+ }
