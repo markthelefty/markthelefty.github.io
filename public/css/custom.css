@@ -46,13 +46,14 @@ body {
  }
 
  .post-title {
-    font-size:3.2rem;
+    font-size: 3.2rem;
     color: #000;
-    font-weight:700;
+    font-weight: 700;
  }
 
  .post p {
     font-family: 'PT Sans', Helvetica, Arial, sans-serif;
-    line-height:1.6;
+    line-height: 1.6;
+    margin-bottom: 1.8rem;
     /*color: #000;*/
  }
