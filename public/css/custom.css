@@ -18,3 +18,9 @@ body {
   color :#FAFAFA;
   background-color: transparent;
 }
+
+.sidebar-toggle:active,
+#sidebar-checkbox:checked ~ .wrap .sidebar-toggle {
+  color :#FAFAFA;
+  background-color: transparent;
+}
