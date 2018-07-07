@@ -52,6 +52,6 @@ body {
  }
 
  .post p {
-    font-family: 'PT Sans Narrow', Helvetica, Arial, sans-serif;
-    color: #000;
+    font-family: 'PT Sans', Helvetica, Arial, sans-serif;
+    /*color: #000;*/
  }
