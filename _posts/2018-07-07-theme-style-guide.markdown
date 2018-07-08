@@ -3,7 +3,7 @@ title: Theme Style Guide
 date: 2018-07-07 14:00:00 -04:00
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit! Nunc condimentum hendrerit sollicitudin. Sed ac iaculis ipsum, porttitor varius risus. Nam sed porta orci. Nullam egestas commodo purus ac dapibus. Fusce dictum diam a urna placerat, id aliquam risus aliquam. Cras posuere libero erat, eget cursus justo malesuada ac. In hac habitasse platea dictumst. Sed eu urna quis nulla imperdiet maximus a quis ante. Cras mattis in enim sit amet interdum.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc condimentum hendrerit sollicitudin. Sed ac iaculis ipsum, porttitor varius risus. Nam sed porta orci. Nullam egestas commodo purus ac dapibus. Fusce dictum diam a urna placerat, id aliquam risus aliquam. Cras posuere libero erat, eget cursus justo malesuada ac. In hac habitasse platea dictumst. Sed eu urna quis nulla imperdiet maximus a quis ante. Cras mattis in enim sit amet interdum.
 
 Phasellus nec hendrerit ex. Fusce egestas sollicitudin arcu, vitae tempus velit condimentum ac. Phasellus lobortis nec massa non laoreet. Duis non viverra odio. Donec vulputate volutpat nunc, in hendrerit lectus volutpat nec. Sed hendrerit lacus urna, sit amet congue arcu maximus eget. Vestibulum non orci gravida, venenatis nisl vitae, vestibulum urna. Etiam justo turpis, iaculis sed lacus in, vehicula placerat justo.
 
