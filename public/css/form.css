@@ -2,6 +2,14 @@
  * Contact Form Styles
  */
 
-#wuf-adv {
+.wufoo .create-message {
+  display:none;
+}
+
+.wufoo .start-cta {
+  display:none;
+}
+
+.col-12 .logo-container {
   display:none;
 }
