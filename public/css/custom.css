@@ -46,6 +46,10 @@ body {
   /*font-weight: 700;*/
  }
 
+h2, h3, h4 {
+  color: #67A53E;
+}
+
 .post-date {
   color: #999;
   font-size: .9rem;
