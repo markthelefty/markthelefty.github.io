@@ -233,6 +233,10 @@
  .wufoo input.btTxt:hover {
      background-color:#558733;
 }
+ .wufoo input.btTxt:active {
+     margin-top:2px;
+     box-shadow: 0 2px 0 0 #53994B;
+}
  .leftLabel .buttons div, .rightLabel .buttons div {
      float: right;
      margin: 0 0 0 20px;
