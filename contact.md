@@ -3,7 +3,7 @@ title: Contact
 layout: page
 ---
 
-Hey there you! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+Hey there! Have a question or comment? I'd love to hear from you. Send me a message and I'll respond as soon as possible.
 
 
 
