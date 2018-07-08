@@ -11,7 +11,6 @@ layout: page
 <div id="wufoo-s5su6dn06y89wa">
 Fill out my <a href="https://markthelefty.wufoo.com/forms/s5su6dn06y89wa">online form</a>.
 </div>
-<div id="wuf-adv" style="font-family:inherit;font-size: small;color:#a7a7a7;text-align:center;display:block;">Use <a href="http://www.wufoo.com/gallery/templates/">Wufoo templates</a> to make your own HTML forms.</div>
 <script type="text/javascript">var s5su6dn06y89wa;(function(d, t) {
 var s = d.createElement(t), options = {
 'userName':'markthelefty',
