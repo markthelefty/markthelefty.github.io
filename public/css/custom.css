@@ -142,14 +142,14 @@ Custom overrides for Mark On Product Theme
      color: #272727;
 }
 
-
+/* * Sticky Footer */
 body {
   display: flex;
   min-height: 100vh;
   flex-direction: column;
 }
 
-.wrap {
+.wra {
   flex: 1;
 }
  
