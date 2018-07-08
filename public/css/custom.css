@@ -73,3 +73,12 @@ h2 {
  strong {
   font-weight:600;
  }
+
+
+ /*
+ * Contact Form Styles
+ */
+
+#wuf-adv {
+  display:none;
+}
