@@ -99,6 +99,20 @@ Custom overrides for Mark On Product Theme
  .footer-social-icons ul li:hover a{
      color: #fff;
 }
+
+.footer-social-icons .social-twitter {
+     background: url("../public/theme-assets/img/social-github.svg") no-repeat 50% 50%;
+     background-size: 100% auto;
+}
+
+.footer-social-icons .social-social-linkedin {
+     
+}
+
+.footer-social-icons .social-twitter-social-github {
+     
+}
+
  .footer-menu-one{
      width: 100%;
      height: auto;
