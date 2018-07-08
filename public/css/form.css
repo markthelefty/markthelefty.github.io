@@ -18,7 +18,7 @@
 }
  .wufoo label.desc, .wufoo legend.desc{
     font-size:1.0rem;
-    /*font-family:Helvetica, Verdana, Tahoma, Arial, sans-serif;*/
+    font-family: "source-sans-pro",sans-serif;
     color:#333333
 }
  .wufoo li div, .wufoo li div label, .wufoo li span label{
