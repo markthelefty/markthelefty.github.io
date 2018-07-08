@@ -93,7 +93,7 @@ Custom overrides for Mark On Product Theme
      line-height: 50px;
 }
  .footer-social-icons ul li:hover{
-     background:red;
+     background:#000;
      cursor: pointer;
 }
  .footer-social-icons ul li:hover a{
