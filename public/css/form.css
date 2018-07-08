@@ -125,6 +125,11 @@
      color:#5C9055;
      background: white;
 }
+/* Confirm Message*/
+.embed .confirm h2.freeHeading {
+    margin:0;
+    padding:0;
+}
 /*Paging*/
  .pgStyle1 var, .pgStyle2 var, .pgStyle2 em, .page1 .pgStyle2 var, .pgStyle1 b, .wufoo .buttons .marker {
      font-size:1.0rem;
