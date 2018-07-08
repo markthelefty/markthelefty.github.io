@@ -9,7 +9,6 @@ Hey there you! This page is included as an example. Feel free to customize it fo
 
 
 <div id="wufoo-s5su6dn06y89wa">
-Fill out my <a href="https://markthelefty.wufoo.com/forms/s5su6dn06y89wa">online form</a>.
 </div>
 <script type="text/javascript">var s5su6dn06y89wa;(function(d, t) {
 var s = d.createElement(t), options = {
