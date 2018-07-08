@@ -54,6 +54,10 @@ Custom overrides for Mark On Product Theme
  strong {
      font-weight:600;
 }
+/* * Sidebar */
+.sidebar {
+     margin-top:65px;
+}
 /* * Footer */
  .footer-inner{
      width: 100%;
