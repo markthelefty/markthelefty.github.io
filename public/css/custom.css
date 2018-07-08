@@ -114,9 +114,7 @@ Custom overrides for Mark On Product Theme
      margin: 0px 15px;
 }
  .footer-menu-one ul li a{
-     font-family: arial;
      font-size:15px;
-     font-weight: 600;
      color: #fff;
      letter-spacing: 1px;
      text-transform: uppercase;
@@ -132,11 +130,9 @@ Custom overrides for Mark On Product Theme
      padding: 10px;
 }
  .footer-bottom p{
-     font-family: arial;
      font-size: 14px;
      text-align: center;
      color: #fff;
-     font-weight: 600;
      letter-spacing: 1px;
      padding:0;
      margin:0;
