@@ -98,7 +98,6 @@ Custom overrides for Mark On Product Theme
  .footer-social-icons ul li:hover a{
      color: #fff;
 }
-
 a.social-twitter {
      background: url("/public/theme-assets/img/social-twitter.svg") no-repeat 50% 50%;
 }
@@ -109,7 +108,6 @@ a.social-linkedin {
 a.social-github {
      background: url("/public/theme-assets/img/social-github.svg") no-repeat 50% 50%;
 }
-
  .footer-menu-one{
      width: 100%;
      height: auto;
