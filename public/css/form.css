@@ -50,30 +50,24 @@ form li.error p.error {display:none;}
 
 /* Rounding Up Corners */
 .wufoo li.focused {
-  -webkit-border-radius: 3px;
-  -moz-border-radius: 3px;
   border-radius: 3px;
 }
 
 
-/* Fields*/
+/* Fields */
 input.text, input.search, textarea.textarea {
   border: 1px solid #DEDDDD;
   background-image: none;
-  -webkit-border-radius: 3px;
-  -moz-border-radius: 3px;
   border-radius: 3px;
 }
 input:focus {
   border-color: rgba(82, 168, 236, 0.8);
   outline: 0;
   outline: thin dotted 9;
-  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(82, 168, 236, 0.6);
-  -moz-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(82, 168, 236, 0.6);
   box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(82, 168, 236, 0.6);
 }
 
-
+/* YUP */
 .wufoo input.text {
   width:100%;
 }
@@ -97,8 +91,6 @@ form li.error {
 
 form li.error input.text {
   border-color: #953B39;
-  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 6px #D59392;
-  -moz-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 6px #d59392;
   box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 6px #D59392
 }
 
@@ -135,8 +127,6 @@ color:#B94A48 !important;
   height: 28px;
   line-height: 28px;
   font-size: 17px;
-  -webkit-border-radius: 16px;
-  -moz-border-radius: 16px;
   border-radius: 16px;
   box-shadow:none;
   background-color:#e8e8e4;
@@ -183,9 +173,7 @@ color:#B94A48 !important;
 #payment .error .desc strong {color:#B94A48;}
 
 /*Buttons*/
-button.link {
-margin: 0 10% 0 0;
-}
+button.link {margin: 0 10% 0 0;}
 
 li.back-btn .link {
   font-size: 11px;
@@ -200,19 +188,12 @@ li.back-btn .link {
 .wufoo input.btTxt {
   float:right;
   margin: 0 0 0 0;
-  -webkit-border-radius: 4px;
-  -moz-border-radius: 4px;
-  -ms-border-radius: 4px;
-  -o-border-radius: 4px;
   border-radius: 4px;
   vertical-align: middle;
   zoom: 1;
   white-space: nowrap;
   color: white !important;
   line-height: 1;
-  -webkit-transition: background-color 0.15s ease-in-out;
-  -moz-transition: background-color 0.15s ease-in-out;
-  -o-transition: background-color 0.15s ease-in-out;
   transition: background-color 0.15s ease-in-out;
   text-align: center;
   font-weight: bold;
@@ -220,8 +201,6 @@ li.back-btn .link {
   display: inline-block;
   border: none;
   background-color: #77CC6D;
-  -webkit-box-shadow: 0 4px 0 0 #53994B;
-  -moz-box-shadow: 0 4px 0 0 #53994b;
   box-shadow: 0 4px 0 0 #53994B;
   font-size: 15px !important;
   padding: 3% 5%;
@@ -230,15 +209,11 @@ li.back-btn .link {
 
 .wufoo input.btTxt:hover {
   background-color:#5C9055;
-  -webkit-box-shadow: 0 4px 0 0 #345c2f;
-  -moz-box-shadow: 0 4px 0 0 #345c2f;
   box-shadow: 0 4px 0 0 #345c2f;
 }
 
 .wufoo input.btTxt:active {
   margin-top:2px;
-  -webkit-box-shadow: 0 2px 0 0 #53994B;
-  -moz-box-shadow: 0 2px 0 0 #53994b;
   box-shadow: 0 2px 0 0 #53994B;
 }
 
@@ -246,20 +221,3 @@ li.back-btn .link {
   float: right;
   margin: 0 0 0 20px;
 }
-
-/*Contact Form*/
-#fo31li1 span {width:32%;}
-
-#fo31li1 #Field1 {width:90%;}
-
-#fo31li1 #Field2 {width:100%;}
-
-#fo31li1 span label {text-align:left;}
-
-
-/*Job Alert Signup Form*/
-#form34 p.error {display:none !important;}
-#form34 #fo34li5 {margin: 20px 0 20px 0;}
-
-/*Feedback Form*/
-#form18 p.error {margin: 0% 0 0 1% !important}
