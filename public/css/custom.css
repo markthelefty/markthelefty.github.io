@@ -141,7 +141,8 @@ Custom overrides for Mark On Product Theme
      color: #fff;
 }
  .footer-bottom p a:hover{
-     color: #272727;
+     color: #68A344;
+     text-decoration: none;
 }
 
 /* * Sticky Footer */
