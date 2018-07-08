@@ -62,6 +62,9 @@
  .embed .confirm .logo-container {
     display:none !important;
 }
+.embed .confirm .create-message {
+    display:none !important;   
+}
 /* General Colors */
  .embed form, .embed body {
     background-color: #fafafa;
