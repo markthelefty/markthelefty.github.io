@@ -155,10 +155,10 @@ html, body {
 
   /* Equal to height of footer */
   /* But also accounting for potential margin-bottom of last child */
-  margin-bottom: -50px;
+  margin-bottom: -200px;
 }
 .footer,
 .push {
-  height: 50px;
+  height: 200px;
 }
  
