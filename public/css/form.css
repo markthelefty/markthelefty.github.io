@@ -74,6 +74,12 @@ input:focus {
 }
 
 
+.wufoo input.text {
+  width:100%;
+}
+
+
+
 /* Field Text*/
 input.text, textarea.textarea, select.select {
   font-size:14px;font-family:Helvetica, Verdana, Tahoma, Arial, sans-serif;color:#333333;
