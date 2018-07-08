@@ -64,7 +64,7 @@ Custom overrides for Mark On Product Theme
      height: auto;
      margin: auto;
      background: #272727;
-     padding:15px 0px;
+     padding:20px 0px 15px 0px;
 }
  .footer-social-icons{
      width: 100%;
@@ -102,7 +102,7 @@ Custom overrides for Mark On Product Theme
      width: 100%;
      height: auto;
      margin: auto;
-     margin-top:25px;
+     margin-top:10px;
 }
  .footer-menu-one ul{
      margin: 0px;
