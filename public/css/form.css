@@ -27,7 +27,8 @@
 }
  .wufoo input.text, .wufoo textarea.textarea, .wufoo select.select, .wufoo label.choice{
     font-size:1.0rem;
-    /*font-family:Helvetica, Verdana, Tahoma, Arial, sans-serif;*/
+    font-family: "source-sans-pro",sans-serif;
+    font-weight:300;
     color:#333333
 }
  .wufoo label.choice{
