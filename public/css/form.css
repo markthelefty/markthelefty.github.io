@@ -40,6 +40,7 @@ form span.req {color:#B94A48 !important;}
 /* Turining Stuff Off */
 #header.info {display:none;}
 #errorLi {display:none;}
+form li.error p.error {display:none;}
 
 
 /* General Colors */
