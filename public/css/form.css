@@ -3,13 +3,13 @@
  */
 
 .wufoo .create-message {
-  display:none;
+  display:none !important;
 }
 
 .wufoo .start-cta {
-  display:none;
+  display:none !important;
 }
 
 .col-12 .logo-container {
-  display:none;
+  display:none !important;
 }
