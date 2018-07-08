@@ -120,7 +120,8 @@ Custom overrides for Mark On Product Theme
      text-transform: uppercase;
 }
  .footer-menu-one ul li a:hover{
-     color: #32CD32;
+     color: #68A344;
+     text-decoration:none;
 }
  .footer-bottom{
      width: 100%;
@@ -137,13 +138,6 @@ Custom overrides for Mark On Product Theme
      padding:0;
      margin:0;
 }
- .footer-bottom p a{
-     color: #fff;
-}
- .footer-bottom p a:hover{
-     color: #68A344;
-     text-decoration: none;
-}
 
 /* * Sticky Footer */
 body {
@@ -154,6 +148,6 @@ body {
 
 .wrapper {
   flex: 1;
-  margin-bottom:10rem;
+  margin-bottom:8rem;
 }
  
