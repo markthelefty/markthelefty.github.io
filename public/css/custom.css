@@ -89,6 +89,7 @@ Custom overrides for Mark On Product Theme
      display: block;
      width: 45px;
      height: 45px;
+     background-size: 68% auto;
 }
  .footer-social-icons ul li:hover{
      background:#000;
@@ -100,15 +101,13 @@ Custom overrides for Mark On Product Theme
 
 a.social-twitter {
      background: url("/public/theme-assets/img/social-twitter.svg") no-repeat 50% 50%;
-     background-size: 100% auto;
 }
 
-.footer-social-icons .social-social-linkedin {
-     
+a.social-linkedin {
+     background: url("/public/theme-assets/img/social-linkedin.svg") no-repeat 50% 50%;
 }
-
-.footer-social-icons .social-twitter-social-github {
-     
+a.social-github {
+     background: url("/public/theme-assets/img/social-github.svg") no-repeat 50% 50%;
 }
 
  .footer-menu-one{
