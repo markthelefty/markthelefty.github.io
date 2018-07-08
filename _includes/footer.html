@@ -9,21 +9,28 @@
   </ul>
 </div>  
  
-<div class="footer-menu-one">
+<nav class="footer-menu-one">
   <ul>
-    <li><a href="#">Home</a></li>
-           <li><a href="#">About us</a></li>
-           <li><a href="#">Services</a></li>
-           <li><a href="#">Products</a></li>
-           <li><a href="#">Contact us</a></li>
-  </ul>
-</div>
- 
+    <li><a class="footer-nav-item{% if page.title == "Home" %} active{% endif %}" href="/">Home</a></li>
 
- 
- 
+    {% comment %}
+      The code below dynamically generates a sidebar nav of pages with
+      `layout: page` in the front-matter. See readme for usage.
+    {% endcomment %}
+
+    {% assign pages_list = site.pages %}
+    {% for node in pages_list %}
+      {% if node.title != null %}
+        {% if node.layout == "page" %}
+        <li><a class="footer-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a></li>
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+   </ul>
+</nav>
+
 </div>
  
 <div class="footer-bottom">
-  <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
+  <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved. <span class="site-version">Currently v{{ site.version }}</span></p>
 </div>
