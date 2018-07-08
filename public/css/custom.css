@@ -101,7 +101,7 @@ Custom overrides for Mark On Product Theme
 }
 
  .footer-social-icons ul li a i.social-twitter {
-     background: url("../public/theme-assets/img/social-twitter.svg") no-repeat 50% 50%;
+     background: url("public/theme-assets/img/social-twitter.svg") no-repeat 50% 50%;
      background-size: 100% auto;
 }
 
