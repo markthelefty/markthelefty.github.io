@@ -94,7 +94,7 @@
 /* Field Text*/
  input.text, textarea.textarea, select.select {
     font-size:1.0rem;
-    font-family:Helvetica, Verdana, Tahoma, Arial, sans-serif;
+    /*font-family:Helvetica, Verdana, Tahoma, Arial, sans-serif;*/
     color:#333333;
     box-sizing:border-box;
     padding:6px;
@@ -124,7 +124,7 @@
      font-size:1.0rem;
      font-weight:600;
      margin: 10px 0 20px 0;
-     font-family:Helvetica, Verdana, Tahoma, Arial, sans-serif;
+         /*font-family:Helvetica, Verdana, Tahoma, Arial, sans-serif;*/
      color:#5C9055;
      background: white;
 }
@@ -132,7 +132,7 @@
 .embed .confirm h2.freeHeading {
     margin:0;
     padding:0;
-    font-family:Helvetica, Verdana, Tahoma, Arial, sans-serif;
+        /*font-family:Helvetica, Verdana, Tahoma, Arial, sans-serif;*/
     font-size:1.0rem;
     font-weight:600;
 }
