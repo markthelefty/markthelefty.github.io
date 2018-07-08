@@ -133,9 +133,11 @@
 .embed .confirm h2.freeHeading {
     margin:0;
     padding:0;
-        /*font-family:Helvetica, Verdana, Tahoma, Arial, sans-serif;*/
-    font-size:1.0rem;
-    font-weight:600;
+    font-family: "source-sans-pro",sans-serif;
+    font-size:1.25rem;
+    font-weight:400;
+    color:#67A53E;
+    letter-spacing: -.025rem;
 }
 /*Paging*/
  .pgStyle1 var, .pgStyle2 var, .pgStyle2 em, .page1 .pgStyle2 var, .pgStyle1 b, .wufoo .buttons .marker {
