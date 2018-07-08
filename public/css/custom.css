@@ -40,25 +40,18 @@ body {
  * Typography
  */
 
-h1, h2, h3, h4, h5, h6 {
-  font-family: 'PT Sans', Helvetica, Arial, sans-serif;
-  color: #000;
- }
-
 .post-title {
-  font-size: 2.8rem;
+  font-size: 2.3rem;
   color: #000;
-  font-weight: 700;
+  /*font-weight: 700;*/
  }
 
 .post-date {
-  font-family: 'PT Sans Narrow', Helvetica, Arial, sans-serif;
   color: #999;
   font-size: .9rem;
 }
 
 .post p {
-  font-family: 'PT Sans', Helvetica, Arial, sans-serif;
   line-height: 1.6;
   margin-bottom: 1.8rem;
  }
