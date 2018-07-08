@@ -141,4 +141,15 @@ Custom overrides for Mark On Product Theme
  .footer-bottom p a:hover{
      color: #272727;
 }
+
+
+body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+.wrap {
+  flex: 1;
+}
  
