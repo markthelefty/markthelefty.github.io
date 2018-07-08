@@ -8,13 +8,27 @@ layout: page
 </p>
 
 
-<form method="post" action="https://contact-us.prod.with-datafire.io/contact">
-  <label>Your e-mail</label>
-  <input type="text" name="from">
+<div id="wufoo-s5su6dn06y89wa">
+Fill out my <a href="https://markthelefty.wufoo.com/forms/s5su6dn06y89wa">online form</a>.
+</div>
+<div id="wuf-adv" style="font-family:inherit;font-size: small;color:#a7a7a7;text-align:center;display:block;">Use <a href="http://www.wufoo.com/gallery/templates/">Wufoo templates</a> to make your own HTML forms.</div>
+<script type="text/javascript">var s5su6dn06y89wa;(function(d, t) {
+var s = d.createElement(t), options = {
+'userName':'markthelefty',
+'formHash':'s5su6dn06y89wa',
+'autoResize':true,
+'height':'497',
+'async':true,
+'host':'wufoo.com',
+'header':'show',
+'ssl':true};
+s.src = ('https:' == d.location.protocol ? 'https://' : 'http://') + 'www.wufoo.com/scripts/embed/form.js';
+s.onload = s.onreadystatechange = function() {
+var rs = this.readyState; if (rs) if (rs != 'complete') if (rs != 'loaded') return;
+try { s5su6dn06y89wa = new WufooForm();s5su6dn06y89wa.initialize(options);s5su6dn06y89wa.display(); } catch (e) {}};
+var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s, scr);
+})(document, 'script');</script>
 
-  <label>Message</label>
-  <textarea name="message"></textarea>
-</form>
 
 
 In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
