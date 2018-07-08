@@ -2,14 +2,14 @@
  * Contact Form Styles
  */
 
-.wufoo .create-message {
+.embed .confirm .create-message {
   display:none !important;
 }
 
-.wufoo .start-cta {
+.embed .confirm a.start-cta {
   display:none !important;
 }
 
-.col-12 .logo-container {
+.embed .confirm .logo-container {
   display:none !important;
 }
