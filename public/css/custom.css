@@ -15,10 +15,6 @@ Custom overrides for Mark On Product Theme
      margin: 0 auto;
      opacity: 1.0;
 }
-@media (min-width: 30rem) {
- .masthead-title img {
-     margin:0;
-}
 }
 @media (min-width: 38rem) {
  .masthead-title img {
