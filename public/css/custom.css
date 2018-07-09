@@ -60,9 +60,7 @@ Custom overrides for Mark On Product Theme
      font-weight:600;
 }
 /* * Sidebar */
-.sidebar {
-     margin-top:65px;
-}
+
 /* * Footer */
  .footer-inner{
      width: 100%;
@@ -164,14 +162,4 @@ a.social-github {
 .wrap {
      height:100vh;
 }
-/*body {
-  display: flex;
-  min-height: 100vh;
-  flex-direction: column;
-}
-
-.wrapper {
-  flex: 1;
-  margin-bottom:8rem;
-}*/
  
