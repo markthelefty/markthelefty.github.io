@@ -160,6 +160,6 @@ a.social-github {
      width: 100%;
 }
 .wrap {
-     height:100vh;
+     min-height:100vh;
 }
  
