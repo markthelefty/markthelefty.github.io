@@ -12,17 +12,17 @@ Custom overrides for Mark On Product Theme
 }
  .masthead-title img {
      border-radius: 0;
-     margin: 0;
+     margin: 0 auto;
      opacity: 1.0;
 }
 @media (min-width: 30rem) {
  .masthead-title img {
-     margin: 0 auto;
+     margin:0;
 }
 }
 @media (min-width: 38rem) {
  .masthead-title img {
-     margin: 0 auto;
+     margin:0;
 }
 }
  .masthead-title img:hover {
