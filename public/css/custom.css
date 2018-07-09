@@ -155,7 +155,7 @@ a.social-github {
 }
 
 /* * Sticky Footer */
-body {
+/*body {
   display: flex;
   min-height: 100vh;
   flex-direction: column;
@@ -164,5 +164,5 @@ body {
 .wrapper {
   flex: 1;
   margin-bottom:8rem;
-}
+}*/
  
