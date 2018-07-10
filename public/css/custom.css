@@ -153,38 +153,6 @@ a.social-github {
 }
 
 /* * Sticky Footer */
-html {
-  height: 100%;
-  box-sizing: border-box;
-}
 
-*,
-*:before,
-*:after {
-  box-sizing: inherit;
-}
-
-body {
-  position: relative;
-  margin: 0;
-  min-height: 100%;
-}
-.wrap {
-    min-height: 1000px;   
-}
-
-/**
- * Footer Styles
- */
-
-.footer {
-  position: absolute;
-  right: 0;
-  bottom: 0;
-  left: 0;
-  padding: 1rem;
-  background-color: #efefef;
-  text-align: center;
-}
 
  
