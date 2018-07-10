@@ -1,8 +1,4 @@
-/* Overrides 
-Custom overrides for Mark On Product Theme 
-*/
-
-
+/* Overrides Custom overrides for Mark On Product Theme */
  body {
      background: #FAFAFA;
 }
@@ -16,10 +12,11 @@ Custom overrides for Mark On Product Theme
      opacity: 1.0;
 }
 /*@media (min-width: 38rem) {
- .masthead-title img {
-     margin:0;
+     .masthead-title img {
+         margin:0;
+    }
 }
-}*/
+*/
  .masthead-title img:hover {
      opacity: 0.7;
 }
@@ -60,7 +57,6 @@ Custom overrides for Mark On Product Theme
      font-weight:600;
 }
 /* * Sidebar */
-
 /* * Footer */
  .footer-inner{
      width: 100%;
@@ -101,14 +97,13 @@ Custom overrides for Mark On Product Theme
  .footer-social-icons ul li:hover a{
      color: #fff;
 }
-a.social-twitter {
+ a.social-twitter {
      background: url("/public/theme-assets/img/social-twitter.svg") no-repeat 50% 50%;
 }
-
-a.social-linkedin {
+ a.social-linkedin {
      background: url("/public/theme-assets/img/social-linkedin.svg") no-repeat 50% 50%;
 }
-a.social-github {
+ a.social-github {
      background: url("/public/theme-assets/img/social-github.svg") no-repeat 50% 50%;
 }
  .footer-menu-one{
@@ -151,26 +146,23 @@ a.social-github {
      padding:0;
      margin:0;
 }
-
 /* * Sticky Footer */
-html,
-body {
-  height: 100%;
+ html, body {
+     height: 100%;
 }
-.wrap {
-  min-height: 100%;
-  position: relative;
+ .wrap {
+     min-height: 100%;
+     position: relative;
 }
-
-.content {
-  padding-bottom: 170px;
-  /* Height of the footer element */
+ .content {
+     padding-bottom: 170px;
+    /* Height of the footer element */
 }
-.footer {
-  width: 100%;
-  height: 170px;
-  position: absolute;
-  bottom: 0;
-  left: 0;
+ .footer {
+     width: 100%;
+     height: 170px;
+     position: absolute;
+     bottom: 0;
+     left: 0;
 }
  
