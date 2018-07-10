@@ -154,10 +154,6 @@ a.social-github {
 
 /* * Sticky Footer */
 .wrap {
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex;
 
 }
 
