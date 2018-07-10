@@ -170,7 +170,7 @@ body {
   min-height: 100%;
 }
 .wrap {
-   height: 100vh;    
+   height: 100% auto;    
 }
 
 /**
