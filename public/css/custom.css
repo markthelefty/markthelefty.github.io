@@ -149,10 +149,10 @@
 /* * Sticky Footer */
  html, body {
      height: 100%;
+     -webkit-overflow-scrolling: touch;
 }
  .wrap {
      min-height: 100%;
-     -webkit-overflow-scrolling: touch;
 }
  .content {
      padding-bottom: 170px;
