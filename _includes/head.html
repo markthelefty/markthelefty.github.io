@@ -28,15 +28,15 @@
   <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
 
   <script>
-function KeepFoot() {
-    if (height < screen.height) {
-        document.getElementById("footer").style.position = "fixed";
-        document.getElementById("footer").style.bottom = "0";
-        document.getElementById("footer").style.left = "0";
-        document.getElementById("footer").style.right = "0";
-    }
-}
+ (function() {
+    var offsetHeight = document.getElementById('wrap').offsetHeight;   
+    var screenHeight = screen.height;
 
-KeepFoot();
+if(offsetHeight < screenHeight){
+    document.getElementById("footer").style.position = "fixed";
+    document.getElementById("footer").style.bottom = "0";
+    document.getElementById("footer").style.left = "0";
+}
+})();
   </script>
 </head>
