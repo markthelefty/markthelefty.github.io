@@ -221,8 +221,8 @@
 		"oA": 0,
 		"oAP": "\/public\/apple-touch-icon-144-precomposed.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -235,13 +235,6 @@
 		"oAP": "\/public\/css\/custom-min.css",
 		"oF": 0,
 		"oS": 3
-		},
-	"\/public\/css\/design.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/public\/css\/design.html",
-		"oF": 0
 		},
 	"\/public\/css\/form.css": {
 		"aP": 1,
