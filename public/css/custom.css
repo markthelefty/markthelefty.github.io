@@ -1,4 +1,4 @@
-/* Overrides Custom overrides for Mark On Product Theme */
+/* Overrides Custom overrides for LAnyon Theme */
  body {
      background: #FAFAFA;
 }
@@ -28,6 +28,12 @@
      color :#9a9a9a;
      background-color: transparent;
 }
+
+@media (min-width: 38rem)
+.container {
+    max-width: 31rem;
+}
+
 /* * Typography */
  .post-title {
      font-size: 2.3rem;
