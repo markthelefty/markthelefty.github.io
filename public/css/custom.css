@@ -2,7 +2,7 @@
  body {
      background: #FAFAFA;
 }
-html {
+.wrap {
   @media (min-width: 20rem) {
     background-color: red;
   }
