@@ -2,14 +2,6 @@
  body {
      background: #FAFAFA;
 }
-.wrap {
-  @media (min-width: 20rem) {
-    background-color: red;
-  }
-  @media (min-width: 30em) {
-    background-color: green;
-  }
-}
  .masthead {
      background: #272727;
      border-bottom: none;
@@ -33,25 +25,34 @@
 
 /* * Typography */
  .post-title {
-     font-size: 2.3rem;
-     color: #000;
+
+          @media (min-width: 30em) {
+               font-size: 2.3rem;
+               color: #000;
+          }
 }
  h2, h3, h4 {
      color: #67A53E;
 }
  h2 {
-     font-size:1.6rem;
+     
+          @media (min-width: 30em) {
+               font-size:1.6rem;
+          }
 }
  .post-date {
      color: #999;
      font-size: .9rem;
 }
  .post p {
-     line-height: 1.6;
-     margin-bottom: 1.8rem;
-     font-weight:300;
-     font-size:1.1rem;
-     color: #393939;
+
+          @media (min-width: 30em) {
+               line-height: 1.6;
+               margin-bottom: 1.8rem;
+               font-weight:300;
+               font-size:1.1rem;
+               color: #393939;
+          }
 }
  ul {
      font-weight:300;
