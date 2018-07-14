@@ -14,18 +14,18 @@
         <div class="container">
           <label for="sidebar-checkbox" class="sidebar-toggle"></label>
 
-          <h3 class="masthead-title">
+          <div class="masthead-title">
             <a href="/" title="Home"><img src="/public/theme-assets/img/logo.svg" alt="Mark On Product Logo"></a>
-          </h3>
+          </div>
         </div>
       </div>
 
       <div class="container content">
         {{ content }}
       </div>
-      <div class="container footer">
-        {% include footer.html %}
-      </div>
+        <div class="footer">
+          {% include footer.html %}
+        </div>
     </div>
 
   </body>

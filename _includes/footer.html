@@ -1,1 +1,35 @@
-<p>Hi I'm The Footer</p>
+<div class="footer-inner">
+ 
+<div class="footer-social-icons">
+  <ul>
+    <li><a class="social-twitter" href="https://twitter.com/MarkMitchell?lang=en" target="blank"></a></li>
+    <li><a class="social-linkedin" href="https://www.linkedin.com/in/markreidmitchell/" target="blank"></a></li>
+    <li><a class="social-github" href="https://github.com/markthelefty" target="blank"></a></li>
+  </ul>
+</div>  
+ 
+<nav class="footer-menu-one">
+  <ul>
+    <li><a class="footer-nav-item{% if page.title == "Home" %} active{% endif %}" href="/">Home</a></li>
+
+    {% comment %}
+      The code below dynamically generates a sidebar nav of pages with
+      `layout: page` in the front-matter. See readme for usage.
+    {% endcomment %}
+
+    {% assign pages_list = site.pages %}
+    {% for node in pages_list %}
+      {% if node.title != null %}
+        {% if node.layout == "page" %}
+        <li><a class="footer-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a></li>
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+   </ul>
+</nav>
+
+</div>
+ 
+<div class="footer-bottom">
+  <p>&copy; {{ site.time | date: '%Y' }} All rights reserved. <span class="site-version">v{{ site.version }}</span></p>
+</div>
