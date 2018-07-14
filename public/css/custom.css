@@ -2,6 +2,14 @@
  body {
      background: #FAFAFA;
 }
+html {
+  @media (min-width: 20rem) {
+    background-color: red;
+  }
+  @media (min-width: 30em) {
+    background-color: green;
+  }
+}
  .masthead {
      background: #272727;
      border-bottom: none;
@@ -11,12 +19,6 @@
      margin: 0;
      opacity: 1.0;
 }
-/*@media (min-width: 38rem) {
-     .masthead-title img {
-         margin:0;
-    }
-}
-*/
  .masthead-title img:hover {
      opacity: 0.7;
 }
@@ -57,7 +59,6 @@
  strong {
      font-weight:600;
 }
-/* * Sidebar */
 /* * Footer */
  .footer-inner{
      width: 100%;
