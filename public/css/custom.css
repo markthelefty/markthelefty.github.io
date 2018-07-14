@@ -29,9 +29,9 @@
      background-color: transparent;
 }
 
-@media (min-width: 38rem)
+@media (min-width: 37rem)
 .container {
-    max-width: 31rem;
+    max-width: 32rem;
 }
 
 /* * Typography */
