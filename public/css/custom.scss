@@ -67,10 +67,14 @@ h3 {
     }
 }
 ul {
-    font-weight: 300;
+    @media (min-width:30em) {
+        font-weight: 300;
+    }
 }
 strong {
-    font-weight: 600;
+    @media (min-width:30em) {
+        font-weight: 600;
+    }
 }
 .footer-inner {
     width: 100%;
