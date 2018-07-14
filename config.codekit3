@@ -72,6 +72,13 @@
 		"oAP": "\/_layouts\/post.html",
 		"oF": 0
 		},
+	"\/_posts\/2013-12-31-whats-jekyll.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_posts\/2013-12-31-whats-jekyll.html",
+		"oF": 0
+		},
 	"\/_posts\/2013-12-31-whats-jekyll.md": {
 		"cB": 0,
 		"cS": 0,
@@ -90,6 +97,13 @@
 		"rFN": 0,
 		"uCM": 0
 		},
+	"\/_posts\/2014-01-01-example-content.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_posts\/2014-01-01-example-content.html",
+		"oF": 0
+		},
 	"\/_posts\/2014-01-01-example-content.md": {
 		"cB": 0,
 		"cS": 0,
@@ -107,6 +121,13 @@
 		"pME": 1,
 		"rFN": 0,
 		"uCM": 0
+		},
+	"\/_posts\/2014-01-02-introducing-lanyon.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_posts\/2014-01-02-introducing-lanyon.html",
+		"oF": 0
 		},
 	"\/_posts\/2014-01-02-introducing-lanyon.md": {
 		"cB": 0,
@@ -131,6 +152,13 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_posts\/2018-07-07-theme-style-guide.markdown",
+		"oF": 0
+		},
+	"\/about.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/about.html",
 		"oF": 0
 		},
 	"\/about.md": {
@@ -158,11 +186,25 @@
 		"oAP": "\/atom.xml",
 		"oF": 0
 		},
+	"\/build\/.gitignore": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/build\/.gitignore",
+		"oF": 0
+		},
 	"\/CNAME": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/CNAME",
+		"oF": 0
+		},
+	"\/contact.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/contact.html",
 		"oF": 0
 		},
 	"\/contact.md": {
@@ -197,6 +239,13 @@
 		"oAP": "\/index.html",
 		"oF": 0
 		},
+	"\/LICENSE.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/LICENSE.html",
+		"oF": 0
+		},
 	"\/LICENSE.md": {
 		"cB": 0,
 		"cS": 0,
@@ -226,55 +275,70 @@
 		"oT": 1,
 		"q": 100
 		},
-	"\/public\/css\/custom.css": {
-		"aP": 1,
+	"\/public\/css\/custom.scss": {
+		"aP": 0,
 		"bl": 0,
-		"ft": 16,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/public\/css\/custom-min.css",
+		"oAP": "\/public\/css\/custom.css",
 		"oF": 0,
-		"oS": 3
+		"oS": 0,
+		"uL": 1
 		},
-	"\/public\/css\/form.css": {
-		"aP": 1,
+	"\/public\/css\/form.scss": {
+		"aP": 0,
 		"bl": 0,
-		"ft": 16,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/public\/css\/form-min.css",
+		"oAP": "\/public\/css\/form.css",
 		"oF": 0,
-		"oS": 3
+		"oS": 0,
+		"uL": 1
 		},
-	"\/public\/css\/lanyon.css": {
-		"aP": 1,
+	"\/public\/css\/lanyon.scss": {
+		"aP": 0,
 		"bl": 0,
-		"ft": 16,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/public\/css\/lanyon-min.css",
+		"oAP": "\/public\/css\/lanyon.css",
 		"oF": 0,
-		"oS": 3
+		"oS": 0,
+		"uL": 1
 		},
-	"\/public\/css\/poole.css": {
-		"aP": 1,
+	"\/public\/css\/poole.scss": {
+		"aP": 0,
 		"bl": 0,
-		"ft": 16,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/public\/css\/poole-min.css",
+		"oAP": "\/public\/css\/poole.css",
 		"oF": 0,
-		"oS": 3
+		"oS": 0,
+		"uL": 1
 		},
-	"\/public\/css\/syntax.css": {
-		"aP": 1,
+	"\/public\/css\/syntax.scss": {
+		"aP": 0,
 		"bl": 0,
-		"ft": 16,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/public\/css\/syntax-min.css",
+		"oAP": "\/public\/css\/syntax.css",
 		"oF": 0,
-		"oS": 3
+		"oS": 0,
+		"uL": 1
 		},
 	"\/public\/favicon.ico": {
 		"cB": 0,
@@ -323,6 +387,13 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"\/README.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/README.html",
+		"oF": 0
+		},
 	"\/README.md": {
 		"cB": 0,
 		"cS": 0,
@@ -351,7 +422,8 @@
 	"displayValue": "markthelefty.github.io",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "\/public\/apple-touch-icon-144-precomposed.png",
-	"iconImageWasSetByUser": 0
+	"iconImageWasSetByUser": 0,
+	"lastBuiltDate": 553280903
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
