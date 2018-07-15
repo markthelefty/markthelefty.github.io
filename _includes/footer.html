@@ -33,3 +33,13 @@
 <div class="footer-bottom">
   <p>&copy; {{ site.time | date: '%Y' }} All rights reserved. <span class="site-version">v{{ site.version }}</span></p>
 </div>
+
+
+  <script
+    src="/public/js/cloudinary-core-shrinkwrap-min.js" 
+    type="text/javascript">
+  </script>
+  <script type="text/javascript">
+    var cl = cloudinary.Cloudinary.new({cloud_name: "dbrkuvff5"}); 
+    cl.responsive();
+</script>
