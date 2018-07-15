@@ -383,6 +383,16 @@
 		"oS": 3,
 		"uL": 1
 		},
+	"\/public\/css\/typekit.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/public\/css\/typekit-min.css",
+		"oF": 0,
+		"oS": 3
+		},
 	"\/public\/css\/typekit.scss": {
 		"aP": 1,
 		"bl": 0,
@@ -402,6 +412,16 @@
 		"oA": 0,
 		"oAP": "\/public\/favicon.ico",
 		"oF": 0
+		},
+	"\/public\/js\/cloudinary-core-shrinkwrap.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/public\/js\/cloudinary-core-shrinkwrap-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
 		},
 	"\/public\/theme-assets\/img\/logo.svg": {
 		"ft": 2097152,
