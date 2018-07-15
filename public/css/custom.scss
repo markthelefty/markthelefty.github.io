@@ -7,8 +7,11 @@ body {
 }
 .masthead-title img {
     border-radius: 0;
-    margin: 0;
+    margin: 0 auto;
     opacity: 1.0;
+    @media (min-width:30em) {
+        margin: 0;
+    }
 }
 .masthead-title img:hover {
     opacity: 0.7;
@@ -57,7 +60,7 @@ h3 {
         font-size: .9rem;
     }
 }
-.post p {
+p {
     @media (min-width:30em) {
         line-height: 1.6;
         margin-bottom: 1.8rem;
@@ -67,10 +70,14 @@ h3 {
     }
 }
 ul {
-    font-weight: 300;
+    @media (min-width:30em) {
+        font-weight: 300;
+    }
 }
 strong {
-    font-weight: 600;
+    @media (min-width:30em) {
+        font-weight: 600;
+    }
 }
 .footer-inner {
     width: 100%;
@@ -160,6 +167,7 @@ a.social-github {
     padding: 0;
     margin: 0;
 }
+/*Sticky Footer*/
 html, body {
     height: 100%;
     -webkit-overflow-scrolling: touch;
@@ -176,4 +184,16 @@ html, body {
     position: absolute;
     bottom: 0;
     left: 0;
+}
+/*Misc*/
+.sidebar-toggle {
+    padding: 0.2rem .5rem;
+}
+.message {
+    color: #393939;
+    border-left-width: 0.2em;
+    border-left-style: solid;
+    background-color: #f1f1f1;
+    border-left-color: #D3D8E0;
+    margin-bottom:3rem;
 }
