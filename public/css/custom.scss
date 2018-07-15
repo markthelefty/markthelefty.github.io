@@ -7,7 +7,7 @@ body {
 }
 .masthead-title img {
     border-radius: 0;
-    margin: 0;
+    margin: 0 auto;
     opacity: 1.0;
 }
 .masthead-title img:hover {
@@ -164,6 +164,7 @@ a.social-github {
     padding: 0;
     margin: 0;
 }
+/*Sticky Footer*/
 html, body {
     height: 100%;
     -webkit-overflow-scrolling: touch;
