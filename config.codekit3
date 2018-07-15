@@ -413,12 +413,32 @@
 		"oAP": "\/public\/favicon.ico",
 		"oF": 0
 		},
+	"\/public\/js\/cloudinary-core-shrinkwrap-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/public\/js\/cloudinary-core-shrinkwrap-min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
 	"\/public\/js\/cloudinary-core-shrinkwrap.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/public\/js\/cloudinary-core-shrinkwrap-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/public\/js\/cssrelpreload.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/public\/js\/cssrelpreload-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
