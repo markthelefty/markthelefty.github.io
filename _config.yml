@@ -9,7 +9,7 @@ collections:
     title: Uploads
     output: true
 markdown: kramdown
-pygments: true
+rouge: true
 permalink: pretty
 tagline: Product Management In The Real World
 description: This is the personal blog of Mark Mitchell. The focus most of the time
