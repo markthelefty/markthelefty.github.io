@@ -48,6 +48,8 @@ I started to think “these skills feel like they could be valuable”.
 
 So that was it, I decided I wanted to build websites. I tried my hand at a few things around the web and ultimately decided I wanted to build websites for businesses and help them get customers. I was still selling Wine and Liquor as my day job, but I spent nights and weekends building the websites. I literally went door-to-door in my town to get the first few clients. Before I knew it I had a small business on my hands. I wasn’t getting rich, but I was getting pretty good at building and selling them.
 
+<img src="https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/v1531701347/bcs-interactive-logo.png" alt="BCS Interactive Logo" class="cld-responsive">
+
 Eventually a mutual friend connected me to a guy who had a similar sized business looking to grow. I was looking for a path to build websites full-time, partnering made sense for both of us. So I took the plunge, partnered with Lou Kotsinins and co-founded BCS Interactive. BCS was great, we build websites and apps for mostly small businesses and non-profits. Lou is still going strong with it today. But after a few years I was getting a little burnt on it and needed all of the trimmings that come along with a real corporate job. So we amicably parted ways and I started job hunting.
 
 ## Product Manager (2012)
