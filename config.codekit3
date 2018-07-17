@@ -268,29 +268,6 @@
 		"oT": 1,
 		"q": 100
 		},
-	"\/public\/css\/custom.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/public\/css\/custom-min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/public\/css\/custom.scss": {
-		"aP": 1,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/public\/css\/custom.css",
-		"oF": 0,
-		"oS": 3,
-		"uL": 1
-		},
 	"\/public\/css\/form.css": {
 		"aP": 1,
 		"bl": 0,
@@ -309,22 +286,64 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/public\/css\/form.css",
+		"oAP": "\/_includes\/css\/form.css",
 		"oF": 0,
 		"oS": 3,
 		"uL": 1
 		},
-	"\/public\/css\/lanyon.css": {
+	"\/public\/css\/partials\/custom.scss": {
 		"aP": 1,
 		"bl": 0,
-		"ft": 16,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
 		"ma": 0,
-		"oA": 0,
-		"oAP": "\/public\/css\/lanyon-min.css",
+		"oA": 1,
+		"oAP": "\/_includes\/css\/custom.css",
 		"oF": 0,
-		"oS": 3
+		"oS": 3,
+		"uL": 1
 		},
-	"\/public\/css\/lanyon.scss": {
+	"\/public\/css\/partials\/lanyon.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/_includes\/css\/lanyon.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/public\/css\/partials\/poole.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/_includes\/css\/poole.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/public\/css\/partials\/typekit.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/_includes\/css\/typekit.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/public\/css\/style.scss": {
 		"aP": 1,
 		"bl": 0,
 		"dP": 10,
@@ -332,30 +351,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/public\/css\/lanyon.css",
-		"oF": 0,
-		"oS": 3,
-		"uL": 1
-		},
-	"\/public\/css\/poole.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/public\/css\/poole-min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/public\/css\/poole.scss": {
-		"aP": 1,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/public\/css\/poole.css",
+		"oAP": "\/_includes\/css\/style.css",
 		"oF": 0,
 		"oS": 3,
 		"uL": 1
@@ -378,30 +374,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/public\/css\/syntax.css",
-		"oF": 0,
-		"oS": 3,
-		"uL": 1
-		},
-	"\/public\/css\/typekit.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/public\/css\/typekit-min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/public\/css\/typekit.scss": {
-		"aP": 1,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/public\/css\/typekit.css",
+		"oAP": "\/_includes\/css\/syntax.css",
 		"oF": 0,
 		"oS": 3,
 		"uL": 1
@@ -429,16 +402,6 @@
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/public\/js\/cloudinary-core-shrinkwrap-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"\/public\/js\/cssrelpreload.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/public\/js\/cssrelpreload-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
@@ -515,8 +478,8 @@
 	},
 "projectAttributes": {
 	"creationDate": 553279141,
-	"displayValue": "markthelefty.github.io",
-	"displayValueWasSetByUser": 0,
+	"displayValue": "Mark On Product",
+	"displayValueWasSetByUser": 1,
 	"iconImageName": "\/public\/apple-touch-icon-144-precomposed.png",
 	"iconImageWasSetByUser": 0,
 	"lastBuiltDate": 553280903
@@ -2428,10 +2391,10 @@
 	"languageDefaultsSASS": {
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.css",
-		"autoOutputPathRelativePath": "..\/css",
+		"autoOutputPathRelativePath": "_includes\/css",
 		"autoOutputPathReplace1": "sass",
 		"autoOutputPathReplace2": "css",
-		"autoOutputPathStyle": 0,
+		"autoOutputPathStyle": 1,
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
