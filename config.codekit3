@@ -51,16 +51,6 @@
 		"oAP": "\/_includes\/sidebar.html",
 		"oF": 0
 		},
-	"\/_includes\/style.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/_includes\/style-min.css",
-		"oF": 0,
-		"oS": 3
-		},
 	"\/_layouts\/default.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -296,7 +286,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/public\/css\/form.css",
+		"oAP": "\/_includes\/css\/form.css",
 		"oF": 0,
 		"oS": 3,
 		"uL": 1
@@ -309,7 +299,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/public\/css\/partials\/custom.css",
+		"oAP": "\/_includes\/css\/custom.css",
 		"oF": 0,
 		"oS": 3,
 		"uL": 1
@@ -322,7 +312,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/public\/css\/partials\/lanyon.css",
+		"oAP": "\/_includes\/css\/lanyon.css",
 		"oF": 0,
 		"oS": 3,
 		"uL": 1
@@ -335,7 +325,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/public\/css\/partials\/poole.css",
+		"oAP": "\/_includes\/css\/poole.css",
 		"oF": 0,
 		"oS": 3,
 		"uL": 1
@@ -348,20 +338,10 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/public\/css\/partials\/typekit.css",
+		"oAP": "\/_includes\/css\/typekit.css",
 		"oF": 0,
 		"oS": 3,
 		"uL": 1
-		},
-	"\/public\/css\/style.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/public\/css\/style-min.css",
-		"oF": 0,
-		"oS": 3
 		},
 	"\/public\/css\/style.scss": {
 		"aP": 1,
@@ -371,7 +351,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/public\/css\/style.css",
+		"oAP": "\/_includes\/css\/style.css",
 		"oF": 0,
 		"oS": 3,
 		"uL": 1
@@ -394,7 +374,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/public\/css\/syntax.css",
+		"oAP": "\/_includes\/css\/syntax.css",
 		"oF": 0,
 		"oS": 3,
 		"uL": 1
@@ -2411,10 +2391,10 @@
 	"languageDefaultsSASS": {
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.css",
-		"autoOutputPathRelativePath": "..\/css",
+		"autoOutputPathRelativePath": "_includes\/css",
 		"autoOutputPathReplace1": "sass",
 		"autoOutputPathReplace2": "css",
-		"autoOutputPathStyle": 2,
+		"autoOutputPathStyle": 1,
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
