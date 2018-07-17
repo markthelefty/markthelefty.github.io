@@ -343,17 +343,7 @@
 		"oS": 3,
 		"uL": 1
 		},
-	"\/public\/css\/styles.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/public\/css\/styles-min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/public\/css\/styles.scss": {
+	"\/public\/css\/style.scss": {
 		"aP": 1,
 		"bl": 0,
 		"dP": 10,
@@ -361,7 +351,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/public\/css\/styles.css",
+		"oAP": "\/public\/css\/style.css",
 		"oF": 0,
 		"oS": 3,
 		"uL": 1
