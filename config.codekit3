@@ -268,29 +268,6 @@
 		"oT": 1,
 		"q": 100
 		},
-	"\/public\/css\/custom.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/public\/css\/custom-min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/public\/css\/custom.scss": {
-		"aP": 1,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/public\/css\/custom.css",
-		"oF": 0,
-		"oS": 3,
-		"uL": 1
-		},
 	"\/public\/css\/form.css": {
 		"aP": 1,
 		"bl": 0,
@@ -314,40 +291,69 @@
 		"oS": 3,
 		"uL": 1
 		},
-	"\/public\/css\/lanyon.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/public\/css\/lanyon-min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/public\/css\/lanyon.scss": {
+	"\/public\/css\/partials\/custom.scss": {
 		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
 		"ft": 4,
 		"ma": 0,
-		"oA": 0,
-		"oAP": "\/public\/css\/lanyon.css",
+		"oA": 1,
+		"oAP": "\/public\/css\/partials\/custom.css",
 		"oF": 0,
 		"oS": 3,
 		"uL": 1
 		},
-	"\/public\/css\/poole.css": {
+	"\/public\/css\/partials\/lanyon.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/public\/css\/partials\/lanyon.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/public\/css\/partials\/poole.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/public\/css\/partials\/poole.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/public\/css\/partials\/typekit.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/public\/css\/partials\/typekit.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/public\/css\/styles.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/public\/css\/poole-min.css",
+		"oAP": "\/public\/css\/styles-min.css",
 		"oF": 0,
 		"oS": 3
 		},
-	"\/public\/css\/poole.scss": {
+	"\/public\/css\/styles.scss": {
 		"aP": 1,
 		"bl": 0,
 		"dP": 10,
@@ -355,7 +361,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/public\/css\/poole.css",
+		"oAP": "\/public\/css\/styles.css",
 		"oF": 0,
 		"oS": 3,
 		"uL": 1
@@ -379,29 +385,6 @@
 		"ma": 0,
 		"oA": 0,
 		"oAP": "\/public\/css\/syntax.css",
-		"oF": 0,
-		"oS": 3,
-		"uL": 1
-		},
-	"\/public\/css\/typekit.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/public\/css\/typekit-min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/public\/css\/typekit.scss": {
-		"aP": 1,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/public\/css\/typekit.css",
 		"oF": 0,
 		"oS": 3,
 		"uL": 1
@@ -2441,7 +2424,7 @@
 		"autoOutputPathRelativePath": "..\/css",
 		"autoOutputPathReplace1": "sass",
 		"autoOutputPathReplace2": "css",
-		"autoOutputPathStyle": 0,
+		"autoOutputPathStyle": 2,
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
