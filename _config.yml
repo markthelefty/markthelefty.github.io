@@ -10,7 +10,7 @@ collections:
     output: true
 markdown: kramdown
 rouge: true
-permalink: "/:title:output_ext"
+permalink: "/:title"
 tagline: Product Management In The Real World
 description: This is the personal blog of Mark Mitchell. The focus most of the time
   will be my views and experiences leading a Product Management team. Some of the
