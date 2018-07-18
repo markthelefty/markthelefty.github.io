@@ -1,6 +1,7 @@
 ---
 title: Theme Style Guide
 date: 2018-07-07 14:00:00 -04:00
+meta-description: This will be the meta description.
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc condimentum hendrerit sollicitudin. Sed ac iaculis ipsum, porttitor varius risus. Nam sed porta orci. Nullam egestas commodo purus ac dapibus. [Fusce dictum diam](http://www.google.com) a urna placerat, id aliquam risus aliquam. Cras posuere libero erat, eget cursus justo malesuada ac. In hac habitasse platea dictumst. Sed eu urna quis nulla imperdiet maximus a quis ante. Cras mattis in enim sit amet interdum.
