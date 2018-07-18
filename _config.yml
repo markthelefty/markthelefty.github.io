@@ -15,6 +15,12 @@ defaults:
   values:
     test-1: hello
     test-2: world
+- scope:
+    path: ''
+    type: pages
+  values:
+    test-1: hello
+    test-2: world
 markdown: kramdown
 rouge: true
 permalink: "/:title"
@@ -34,20 +40,3 @@ social card image:
   social-image: "/path/to/image.jpg"
 meta description:
   meta: 
-
-defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      test-1: "hello"
-      test-2: "world"
-  -
-    scope:
-      path: ""
-      type: "pages"
-    values:
-      test-1: "hello"
-      test-2: "world"
-
