@@ -13,14 +13,14 @@ defaults:
     path: ''
     type: posts
   values:
-    test-1: hello
-    test-2: world
+    meta-description:
+    post-image:
 - scope:
     path: ''
     type: pages
   values:
-    test-1: hello
-    test-2: world
+    meta-description:
+    post-image:
 markdown: kramdown
 rouge: true
 permalink: "/:title"
