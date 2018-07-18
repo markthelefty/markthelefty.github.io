@@ -7,9 +7,9 @@
 
   	{% if page.path contains '_posts' %}
   <!--Facebook-->
-  <meta property="og:title" content="{{ title }}" />
+  <meta property="og:title" content="{{ page.title }}" />
 	{% else %}
-  <meta property="og:title" content="{{ title }}" />	
+  <meta property="og:title" content="{{ page.title }}" />	
 	{% endif %}
 
   <!--Search-->
