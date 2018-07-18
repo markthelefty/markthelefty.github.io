@@ -30,6 +30,16 @@
 		"oAP": "\/_config.yml",
 		"oF": 0
 		},
+	"\/_includes\/css\/style.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/_includes\/css\/style-min.css",
+		"oF": 0,
+		"oS": 3
+		},
 	"\/_includes\/footer.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -154,13 +164,6 @@
 		"oAP": "\/_posts\/2018-07-07-theme-style-guide.markdown",
 		"oF": 0
 		},
-	"\/about.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/about.html",
-		"oF": 0
-		},
 	"\/about.md": {
 		"cB": 0,
 		"cS": 0,
@@ -193,13 +196,6 @@
 		"oAP": "\/CNAME",
 		"oF": 0
 		},
-	"\/contact.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/contact.html",
-		"oF": 0
-		},
 	"\/contact.md": {
 		"cB": 0,
 		"cS": 0,
@@ -217,13 +213,6 @@
 		"pME": 1,
 		"rFN": 0,
 		"uCM": 0
-		},
-	"\/design.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/design.html",
-		"oF": 0
 		},
 	"\/index.html": {
 		"cB": 0,
