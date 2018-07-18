@@ -23,3 +23,7 @@ paginate: 5
 version: 1.0.0
 github:
   repo: https://github.com/markthelefty/markthelefty.github.io
+social card image:
+  social-image: "/path/to/image.jpg"
+meta description:
+  meta: 
