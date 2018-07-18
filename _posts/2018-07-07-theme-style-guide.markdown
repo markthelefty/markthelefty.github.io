@@ -2,6 +2,7 @@
 title: Theme Style Guide
 date: 2018-07-07 14:00:00 -04:00
 meta-description: This will be the meta description.
+post-image: https://res.cloudinary.com/dbrkuvff5/image/upload/v1531684667/Mark%20Mitchell%20at%20Sorcerer%20Sound%20Recording%20Studios.jpg
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc condimentum hendrerit sollicitudin. Sed ac iaculis ipsum, porttitor varius risus. Nam sed porta orci. Nullam egestas commodo purus ac dapibus. [Fusce dictum diam](http://www.google.com) a urna placerat, id aliquam risus aliquam. Cras posuere libero erat, eget cursus justo malesuada ac. In hac habitasse platea dictumst. Sed eu urna quis nulla imperdiet maximus a quis ante. Cras mattis in enim sit amet interdum.
