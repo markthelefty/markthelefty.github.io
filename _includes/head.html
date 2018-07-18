@@ -8,7 +8,7 @@
   	{% if page.path contains '_posts' %}
   <!--Facebook-->
   <meta property="og:title" content="{{ post.title }}" />
-  <meta property="og:description" content="{{ page['meta-description'] }}" />
+  <meta property="og:description" content="{{ post['meta-description'] }}" />
   <meta property="og:url" content="{{ site.baseurl }}{% post_url %}" />
   <meta property="og:image" content="{{ post['post-image'] }}" />
 
@@ -24,10 +24,10 @@
   <meta name="description" content="This is an example of a meta description. This will often show up in search results.">
 	{% else %}
 	  <!--Facebook-->
-  <meta property="og:title" content="{{ post.title }}" />
-  <meta property="og:description" content="{{ page['prep time'] }}" />
-  <meta property="og:url" content="http://domain.com/page-title/" />
-  <meta property="og:image" content="/path/to/image.jpg" />
+  <meta property="og:title" content="{{ page.title }}" />
+  <meta property="og:description" content="{{ page['meta-description'] }}" />
+  <meta property="og:url" content="{{ site.baseurl }}{% page_url %}" />
+  <meta property="og:image" content="{{ page['post-image'] }}" />
 
   <!--Twitter-->
   <meta name="twitter:card" content="summary_large_image">
