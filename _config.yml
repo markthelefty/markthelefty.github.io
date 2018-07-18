@@ -37,3 +37,10 @@ defaults:
     values:
       test-1: "hello"
       test-2: "world"
+  -
+      scope:
+      path: ""
+      type: "pages"
+    values:
+      test-1: "hello"
+      test-2: "world"
