@@ -82,13 +82,6 @@
 		"oAP": "\/_layouts\/post.html",
 		"oF": 0
 		},
-	"\/_posts\/2013-12-31-whats-jekyll.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_posts\/2013-12-31-whats-jekyll.html",
-		"oF": 0
-		},
 	"\/_posts\/2013-12-31-whats-jekyll.md": {
 		"cB": 0,
 		"cS": 0,
@@ -107,13 +100,6 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/_posts\/2014-01-01-example-content.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_posts\/2014-01-01-example-content.html",
-		"oF": 0
-		},
 	"\/_posts\/2014-01-01-example-content.md": {
 		"cB": 0,
 		"cS": 0,
@@ -131,13 +117,6 @@
 		"pME": 1,
 		"rFN": 0,
 		"uCM": 0
-		},
-	"\/_posts\/2014-01-02-introducing-lanyon.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_posts\/2014-01-02-introducing-lanyon.html",
-		"oF": 0
 		},
 	"\/_posts\/2014-01-02-introducing-lanyon.md": {
 		"cB": 0,
@@ -220,31 +199,6 @@
 		"oA": 0,
 		"oAP": "\/index.html",
 		"oF": 0
-		},
-	"\/LICENSE.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/LICENSE.html",
-		"oF": 0
-		},
-	"\/LICENSE.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/LICENSE.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
 		},
 	"\/public\/apple-touch-icon-144-precomposed.png": {
 		"ft": 32768,
