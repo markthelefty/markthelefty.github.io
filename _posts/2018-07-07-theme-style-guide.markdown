@@ -1,7 +1,7 @@
 ---
 title: Theme Style Guide
 date: 2018-07-07 14:00:00 -04:00
-meta-description: This will be the meta description.
+meta-description: This will be the POST meta description.
 post-image: https://res.cloudinary.com/dbrkuvff5/image/upload/v1531684667/Mark%20Mitchell%20at%20Sorcerer%20Sound%20Recording%20Studios.jpg
 ---
 
