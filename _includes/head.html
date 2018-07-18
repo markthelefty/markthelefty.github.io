@@ -5,7 +5,6 @@
   <!-- Enable responsiveness on mobile devices-->
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
 
-  	{% if page.path contains '_posts' %}
   <!--Facebook-->
   <meta property="og:title" content="{{ post.title }}" />
   <meta property="og:description" content="{{ post['meta-description'] }}" />
@@ -22,12 +21,11 @@
 
   <!--Search-->
   <meta name="description" content="This is an example of a meta description. This will often show up in search results.">
-	{% else %}
 
 
   <!--Search-->
   <meta name="description" content="This is an example of a meta description. This will often show up in search results.">
-	{% endif %}
+
 
   <title>
     {% if page.title %}
