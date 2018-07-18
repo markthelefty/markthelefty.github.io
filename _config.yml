@@ -34,8 +34,6 @@ social card image:
   social-image: "/path/to/image.jpg"
 meta description:
   meta: 
-<<<<<<< HEAD
-
 
 defaults:
   -
@@ -52,5 +50,4 @@ defaults:
     values:
       test-1: "hello"
       test-2: "world"
-=======
->>>>>>> 9eb320a0492d5b58ca71897f8637ee23455f2b5a
+
