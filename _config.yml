@@ -8,6 +8,13 @@ collections:
   uploads:
     title: Uploads
     output: true
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    test-1: hello
+    test-2: world
 markdown: kramdown
 rouge: true
 permalink: "/:title"

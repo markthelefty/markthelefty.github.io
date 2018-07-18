@@ -1,7 +1,6 @@
 ---
 title: What's Jekyll?
 date: 2013-12-30 19:00:00 -05:00
-test: testksdjhf
 layout: post
 ---
 
