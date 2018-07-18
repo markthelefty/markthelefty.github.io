@@ -164,13 +164,6 @@
 		"oAP": "\/_posts\/2018-07-07-theme-style-guide.markdown",
 		"oF": 0
 		},
-	"\/about.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/about.html",
-		"oF": 0
-		},
 	"\/about.md": {
 		"cB": 0,
 		"cS": 0,
@@ -201,13 +194,6 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/CNAME",
-		"oF": 0
-		},
-	"\/contact.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/contact.html",
 		"oF": 0
 		},
 	"\/contact.md": {
