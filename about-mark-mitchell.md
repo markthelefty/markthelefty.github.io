@@ -2,7 +2,7 @@
 title: About Me
 date: 2018-07-14 14:18:00 -04:00
 description: This is a PAGE description. New!!
-image: https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/v1531684667/Mark%20Mitchell%20at%20Sorcerer%20Sound%20Recording%20Studios.jpg
+image: https://res.cloudinary.com/dbrkuvff5/image/upload/v1532888548/social-images/linkedin-test.jpg
 layout: page
 ---
 
