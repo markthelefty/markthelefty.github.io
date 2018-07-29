@@ -2,7 +2,7 @@
 title: About Me
 date: 2018-07-14 14:18:00 -04:00
 description: This is a PAGE description. New!!
-image: https://res.cloudinary.com/dbrkuvff5/image/upload/v1532888548/social-images/linkedin-test.jpg
+image: https://res.cloudinary.com/dbrkuvff5/image/upload/v1532888961/social-images/linkedin-test.jpg
 layout: page
 ---
 
