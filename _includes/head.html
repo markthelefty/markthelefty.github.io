@@ -8,7 +8,7 @@
   {% if page.path contains '_posts' %}
   <!--Facebook-->
   <meta property="og:title" content="{{ page.title }}" />
-  <meta property="og:description" content="{{ ['meta-description'] }}" />
+  <meta property="og:description" content="{{ post['meta-description'] }}" />
 	{% else %}
   <meta property="og:title" content="{{ page.title }}" />	
   <meta property="og:description" content="{{ page['meta-description'] }}" />
@@ -39,4 +39,6 @@
 
   <!-- RSS -->
   <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
+
+  {% seo %}
 </head>
