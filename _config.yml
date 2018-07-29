@@ -37,4 +37,4 @@ version: 1.0.0
 github:
   repo: https://github.com/markthelefty/markthelefty.github.io
 plugins:
-  - jekyll-seo-tag
+- jekyll-seo-tag
