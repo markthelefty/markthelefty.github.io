@@ -33,7 +33,7 @@ author:
   name: Mark Mitchell
   url: https://twitter.com/MarkMitchell
 paginate: 5
-version: 1.0.0
+version: 1.2.1
 github:
   repo: https://github.com/markthelefty/markthelefty.github.io
 plugins:
