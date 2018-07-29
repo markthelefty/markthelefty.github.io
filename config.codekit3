@@ -207,17 +207,6 @@
 		"oAP": "\/index.html",
 		"oF": 0
 		},
-	"\/public\/apple-touch-icon-144-precomposed.png": {
-		"ft": 32768,
-		"iS": 2357,
-		"oA": 0,
-		"oAP": "\/public\/apple-touch-icon-144-precomposed.png",
-		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
 	"\/public\/css\/form.css": {
 		"aP": 1,
 		"bl": 0,
@@ -356,46 +345,6 @@
 		"sC": 3,
 		"tS": 0
 		},
-	"\/public\/theme-assets\/img\/logo.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/public\/theme-assets\/img\/logo.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/public\/theme-assets\/img\/social-github.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/public\/theme-assets\/img\/social-github.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/public\/theme-assets\/img\/social-linkedin.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/public\/theme-assets\/img\/social-linkedin.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/public\/theme-assets\/img\/social-twitter.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/public\/theme-assets\/img\/social-twitter.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
 	"\/README.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -430,7 +379,7 @@
 	"creationDate": 553279141,
 	"displayValue": "Mark On Product",
 	"displayValueWasSetByUser": 1,
-	"iconImageName": "\/public\/apple-touch-icon-144-precomposed.png",
+	"iconImageName": "meme-owl",
 	"iconImageWasSetByUser": 0,
 	"lastBuiltDate": 553280903
 	},
