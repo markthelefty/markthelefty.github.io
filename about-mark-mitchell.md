@@ -1,8 +1,8 @@
 ---
 title: About Me
 date: 2018-07-14 14:18:00 -04:00
-meta-description: This will be the PAGE meta description.
-post-image: https://res.cloudinary.com/dbrkuvff5/image/upload/v1531684667/Mark%20Mitchell%20at%20Sorcerer%20Sound%20Recording%20Studios.jpg
+description: This is a PAGE description. New!!
+image: https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/v1531684667/Mark%20Mitchell%20at%20Sorcerer%20Sound%20Recording%20Studios.jpg
 layout: page
 ---
 
