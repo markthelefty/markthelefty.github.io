@@ -10,9 +10,11 @@ The goal is to use several core "brand" colors. Currently there are two primary 
 
 <img src="https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/v1532945102/post-images/colors.png" alt="Style Guide Brand Colors" class="cld-responsive">
 
-<code>
-
-</code>
+```css
+.brand-green {color: #67a43e;}
+.brand-black {color: #272727}
+.background-white {color: #fafafa}
+```
 
 
 ## Fonts
