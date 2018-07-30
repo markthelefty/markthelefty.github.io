@@ -1,8 +1,13 @@
+/*Color Varibales*/
+$brand-green: #67a43e;
+$brand-black: #272727;
+$background-white: #fafafa;
+
 body {
-    background: #FAFAFA;
+    background: $background-white;
 }
 .masthead {
-    background: #272727;
+    background: $brand-black;
     border-bottom: none;
 }
 .masthead-title img {
@@ -39,7 +44,7 @@ html {
     }
 }
 h2, h3, h4 {
-    color: #67A53E;
+    color: $brand-green;
 }
 h2 {
     font-size: 1.2rem;
@@ -83,7 +88,7 @@ strong {
     width: 100%;
     height: auto;
     margin: auto;
-    background: #272727;
+    background: $brand-black;
     padding: 20px 0px 15px 0px;
 }
 .footer-social-icons {
@@ -102,10 +107,10 @@ strong {
     height: 45px;
     margin: 0px 10px;
     border-radius: 100%;
-    background: #68A344;
+    background: $brand-green;
 }
 .footer-social-icons ul li a {
-    color: #272727;
+    /*color: #272727;*/
     display: block;
     width: 45px;
     height: 45px;
@@ -156,7 +161,7 @@ a.social-github {
     width: 100%;
     height: auto;
     margin: auto;
-    background: #68A344;
+    background: $brand-green;
     padding: 10px;
 }
 .footer-bottom p {
