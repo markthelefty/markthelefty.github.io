@@ -7,14 +7,12 @@ image: https://res.cloudinary.com/dbrkuvff5/image/upload/v1532890567/social-imag
 
 ## Colors
 The goal is to use several core "brand" colors. Currently there are two primary colors and one secondary color.
-
 <img src="https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/v1532952269/post-images/colors.png" alt="Style Guide Brand Colors" class="cld-responsive">
 ```css
 .brand-green {color: #67a43e;}
 .brand-black {color: #272727}
 .background-white {color: #fafafa}
 ```
-
 
 ## Fonts
 Like colors the fonts used are intentionally limited and each has a specific purpose
