@@ -1,6 +1,6 @@
 ---
 title: Theme Style Guide
-date: 2018-07-07 14:00:00 -04:00
+date: 2018-07-30 14:00:00 -04:00
 description: This is a post META description. New!!
 image: https://res.cloudinary.com/dbrkuvff5/image/upload/v1532890567/social-images/linkedin-post-img-test.jpg
 ---
