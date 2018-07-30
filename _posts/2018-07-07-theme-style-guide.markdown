@@ -5,7 +5,7 @@ description: This is a post META description. New!!
 image: https://res.cloudinary.com/dbrkuvff5/image/upload/v1532890567/social-images/linkedin-post-img-test.jpg
 ---
 
-##Colors
+## Colors
 The goal is to use several core "brand" colors. Currently there is two primary colors and one secondary color.
 
 <img src="https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/v1532945102/post-images/colors.png" alt="Style Guide Brand Colors" class="cld-responsive">
