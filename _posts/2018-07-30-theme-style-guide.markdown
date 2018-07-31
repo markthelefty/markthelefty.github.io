@@ -39,10 +39,9 @@ font-family: PT Sans
 #### Post SubTitle (h4)
 font-family: PT Sans
 ```
-
-
-
 ### Paragraphs
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin aliquet sed magna et sodales. Vestibulum vehicula dolor sit amet luctus viverra. Praesent facilisis dictum sapien, et elementum lorem imperdiet pulvinar. Nulla lacinia, arcu eget venenatis dapibus, neque tellus vestibulum elit, tempor condimentum turpis elit a justo.
+
 
 #### Bold
 
