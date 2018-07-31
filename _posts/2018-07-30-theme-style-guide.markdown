@@ -44,7 +44,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin aliquet sed magna
 ```css
 {font-family: "source-sans-pro";
 color: #393939;
-font-size:22px;
+font-size: 22px;
 font-weight: 300;
 line-height: 35.2px;}
 ```
