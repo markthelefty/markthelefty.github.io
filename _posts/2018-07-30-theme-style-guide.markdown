@@ -18,14 +18,22 @@ The goal is to use several core "brand" colors. Currently there are two primary 
 Like colors the fonts used are intentionally limited and each has a specific purpose.
 
 ### Headings
-# Post Title (H1)
+# Post Title (h1)
 {: .post-title}
 ```markdown
-# Post Title (H1)
+# Post Title (h1)
 ```
-## Post Title (H2)
+## Post Title (h2)
 ```markdown
-## Post Title (H2)
+## Post SubTitle (h2)
+```
+### Post Title (h3)
+```markdown
+### Post SubTitle (h3)
+```
+#### Post Title (h4)
+```markdown
+#### Post SubTitle (h4)
 ```
 
 
