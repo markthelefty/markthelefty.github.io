@@ -71,7 +71,9 @@ Citations, like <cite>&mdash; Mark Mitchell</cite>, should use `<cite>`.
 <cite>&mdash; Mark Mitchell</cite>
 ```
 
-#### Deleted and Inserted
+#### Deleted Text
+
+#### Inserted Text
 
 #### Super and Sub text
 
