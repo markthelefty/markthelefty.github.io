@@ -157,7 +157,7 @@ Inline `code` has `back-ticks around` it.
 {: .divider}
 
 | Company | Contact | Country |
-| ------------- | ------------- | ------------- |
+| --- | --- | --- |
 | Alfreds Futterkiste    | Maria Anders    | Germany    |
 | Centro Moctezuma    | Francisco Chang    | Mexico    |
 | Ernst Handel    | Roland Mendel    | Austria    |
@@ -165,7 +165,7 @@ Inline `code` has `back-ticks around` it.
 
 ```markdown
 | Company | Contact | Country |
-| ------------- | ------------- | ------------- |
+| --- | --- | --- |
 | Alfreds Futterkiste    | Maria Anders    | Germany    |
 | Centro Moctezuma    | Francisco Chang    | Mexico    |
 | Ernst Handel    | Roland Mendel    | Austria    |
