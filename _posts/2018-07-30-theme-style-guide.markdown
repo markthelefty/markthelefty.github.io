@@ -17,7 +17,7 @@ The goal is to use several core "brand" colors. Currently there are two primary 
 ## Typography
 Like colors the fonts used are intentionally limited and each has a specific purpose.
 
-#Post Titles
+# Post Titles
 
 ```markdown
 #Post Title
