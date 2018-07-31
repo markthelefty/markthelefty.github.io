@@ -50,48 +50,48 @@ font-size: 22px;
 font-weight: 300;
 line-height: 35.2px;}
 ```
-#### Italics
+### Italics
 *Italics* can be used for emphasis.
 ```markdown
 *Italics*
 ```
-#### Bold
+### Bold
 **Bold text** can be used for stronger emphasis.
 ```markdown
 **Bold text**
 ```
 
-#### Abbreviations
+### Abbreviations
 Abbreviations, like <abbr title="HyperText Markup Langage">HTML</abbr> should use `<abbr>`, with an optional `title` attribute for the full phrase.
 ```html
 <abbr title="HyperText Markup Langage">HTML</abbr>
 ```
 
-#### Citations
+### Citations
 Citations, like <cite>&mdash; Mark Mitchell</cite>, should use `<cite>`.
 ```html
 <cite>&mdash; Mark Mitchell</cite>
 ```
 
-#### Deleted Text
+### Deleted Text
 <del>Deleted</del> text should use `<del>`.
 ```html
 <del>Deleted</del>
 ```
 
-#### Inserted Text
+### Inserted Text
 <ins>Inserted</ins> text should use `<ins>`.
 ```html
 <ins>Inserted</ins>
 ```
 
-#### Superscript <sup>text</sup>
+### Superscript <sup>text</sup>
 Superscript <sup>text</sup> uses `<sup>`.
 ```html
 Superscript <sup>text</sup>
 ```
 
-#### Subscript <sub>text</sub>
+### Subscript <sub>text</sub>
 Subscript <sub>text</sub> uses `<sub>`.
 ```html
 Subscript <sub>text</sub>
