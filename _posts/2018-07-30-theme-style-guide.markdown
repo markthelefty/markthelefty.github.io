@@ -158,6 +158,9 @@ Inline `code` has `back-ticks around` it.
 
 | Company | Contact | Country |
 | ------------- | ------------- | ------------- |
+| Alfreds Futterkiste    | Maria Anders    | Germany    |
+| Table cell    | Table cell    | Table cell    |
+| Table cell    | Table cell    | Table cell    |
 | Table cell    | Table cell    | Table cell    |
 
 <br/>
