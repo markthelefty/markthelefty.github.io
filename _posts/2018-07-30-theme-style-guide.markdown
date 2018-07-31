@@ -161,6 +161,15 @@ Alfreds Futterkiste | Maria Anders | Germany
 Centro comercial Moctezuma | Francisco Chang | Mexico
 Ernst Handel | Roland Mendel | Austria
 Island Trading | Helen Bennett | UK
+
+```markdown
+Column One | Column Two | Column Three
+--- | --- | ---
+Alfreds Futterkiste | Maria Anders | Germany
+Centro comercial Moctezuma | Francisco Chang | Mexico
+Ernst Handel | Roland Mendel | Austria
+Island Trading | Helen Bennett | UK
+```
 <br/>
 
 ## Links
