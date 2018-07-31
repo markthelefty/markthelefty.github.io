@@ -155,6 +155,7 @@ Inline `code` has `back-ticks around` it.
 
 ## Tables
 {: .divider}
+
 | Company | Contact | Country |
 | ------------- | ------------- | ------------- |
 | Table cell    | Table cell    | Table cell    |
