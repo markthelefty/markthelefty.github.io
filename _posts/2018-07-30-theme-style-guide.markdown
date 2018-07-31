@@ -13,7 +13,7 @@ The goal is to use several core "brand" colors. Currently there are two primary 
 .brand-green {color: #67a43e}
 .brand-black {color: #272727}
 .background-white {color: #fafafa}
-```
+```  
 
 ## Typography
 {: .divider}
