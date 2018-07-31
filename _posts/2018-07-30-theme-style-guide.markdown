@@ -129,6 +129,26 @@ Inline `code` has `back-ticks around` it.
 ## Lists
 {: .divider}
 
+### Unordered Lists
+* Praesent commodo cursus magna, vel scelerisque consectetur et.
+* Donec id elit non mi porta gravida at eget metus.
+* Nulla vitae elit libero, a pharetra augue.
+```markdown
+* Praesent commodo cursus magna, vel scelerisque consectetur et.
+* Donec id elit non mi porta gravida at eget metus.
+* Nulla vitae elit libero, a pharetra augue.
+```
+
+### Ordered Lists
+1. Praesent commodo cursus magna, vel scelerisque consectetur et.
+2. Donec id elit non mi porta gravida at eget metus.
+3. Nulla vitae elit libero, a pharetra augue.
+```markdown
+1. Praesent commodo cursus magna, vel scelerisque consectetur et.
+2. Donec id elit non mi porta gravida at eget metus.
+3. Nulla vitae elit libero, a pharetra augue.
+```
+
 <br/>
 
 ## Tables
