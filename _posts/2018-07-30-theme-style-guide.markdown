@@ -104,7 +104,6 @@ Inline `code` has `back-ticks around` it.
 ### Code (Markdown)
 ```markdown
 ### A blue heading
-{: .brand-green}
 ```
 
 ### Code (CSS)
