@@ -22,18 +22,22 @@ Like colors the fonts used are intentionally limited and each has a specific pur
 {: .post-title}
 ```markdown
 # Post Title (h1)
+font-family: Myriad Pro
 ```
 ## Post Title (h2)
 ```markdown
 ## Post SubTitle (h2)
+font-family: PT Sans
 ```
 ### Post Title (h3)
 ```markdown
 ### Post SubTitle (h3)
+font-family: PT Sans
 ```
 #### Post Title (h4)
 ```markdown
 #### Post SubTitle (h4)
+font-family: PT Sans
 ```
 
 
