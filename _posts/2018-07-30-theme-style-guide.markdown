@@ -20,7 +20,7 @@ Like colors the fonts used are intentionally limited and each has a specific pur
 # Post Title
 
 ```markdown
-#Post Title
+# Post Title
 ```
 
 
