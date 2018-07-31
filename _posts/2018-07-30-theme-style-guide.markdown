@@ -59,9 +59,11 @@ line-height: 35.2px;}
 **Bold text**
 ```
 
-#### Title and Abbreviations
+#### Abbreviations
+Abbreviations, like <abbr title="HyperText Markup Langage">HTML</abbr> should use `<abbr>`, with an optional `title` attribute for the full phrase.
+```html
 <abbr title="HyperText Markup Langage">HTML</abbr>
-
+```
 
 #### Citations
 
