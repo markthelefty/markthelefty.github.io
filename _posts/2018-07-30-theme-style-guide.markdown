@@ -66,6 +66,10 @@ Abbreviations, like <abbr title="HyperText Markup Langage">HTML</abbr> should us
 ```
 
 #### Citations
+Citations, like <cite>&mdash; Mark Mitchell</cite>, should use `<cite>`.
+```html
+<cite>&mdash; Mark otto</cite>
+```
 
 #### Deleted and Inserted
 
