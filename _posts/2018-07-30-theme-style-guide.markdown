@@ -155,32 +155,19 @@ Inline `code` has `back-ticks around` it.
 
 ## Tables
 {: .divider}
-Column One | Column Two | Column Three
---- | --- | ---
-Alfreds Futterkiste | Maria Anders | Germany
-Centro comercial Moctezuma | Francisco Chang | Mexico
-Ernst Handel | Roland Mendel | Austria
-Island Trading | Helen Bennett | UK
+| Company | Contact | Country |
+| ------------- | ------------- | ------------- |
+| Alfreds Futterkiste    | Maria Anders    | Germany    |
+| Centro Moctezuma    | Francisco Chang    | Mexico    |
+| Ernst Handel    | Roland Mendel    | Austria    |
+| Island Trading    | Helen Bennett    | UK    |
 
-```markdown
-Column One | Column Two | Column Three
---- | --- | ---
-Alfreds Futterkiste | Maria Anders | Germany
-Centro comercial Moctezuma | Francisco Chang | Mexico
-Ernst Handel | Roland Mendel | Austria
-Island Trading | Helen Bennett | UK
-```
 <br/>
 
 ## Links
 {: .divider}
 
-| Company | Contact | Country |
-| ------------- | ------------- | ------------- |
-| Table cell    | Table cell    | Table cell    |
-| Table cell    | Table cell    | Table cell    |
-| Table cell    | Table cell    | Table cell    |
-| Table cell    | Table cell    | Table cell    |
+
 
 ## Image Styles
 {: .divider}
