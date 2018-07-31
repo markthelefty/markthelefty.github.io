@@ -158,7 +158,7 @@ Inline `code` has `back-ticks around` it.
 
 | Company | Contact | Country |
 | --- | --- | --- |
-| Alfreds Futterkiste    | Maria Anders    | Germany    |
+| Alfreds Futterkiste | Maria Anders | Germany |
 | Centro Moctezuma    | Francisco Chang    | Mexico    |
 | Ernst Handel    | Roland Mendel    | Austria    |
 | Island Trading    | Helen Bennett    | UK    |
