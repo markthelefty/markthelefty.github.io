@@ -155,7 +155,12 @@ Inline `code` has `back-ticks around` it.
 
 ## Tables
 {: .divider}
-
+Column One | Column Two | Column Three
+--- | --- | ---
+Alfreds Futterkiste | Maria Anders | Germany
+1 | 2 | 3
+1 | 2 | 3
+1 | 2 | 3
 <br/>
 
 ## Links
