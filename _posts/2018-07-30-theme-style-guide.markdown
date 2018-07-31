@@ -14,7 +14,7 @@ The goal is to use several core "brand" colors. Currently there are two primary 
 .brand-black {color: #272727}
 .background-white {color: #fafafa}
 ```  
-\
+<br/>
 ## Typography
 {: .divider}
 Like colors the fonts used are intentionally limited and each has a specific purpose.
