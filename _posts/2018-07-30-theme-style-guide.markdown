@@ -48,10 +48,16 @@ font-size: 22px;
 font-weight: 300;
 line-height: 35.2px;}
 ```
-
-#### Bold
-
 #### Italics
+*Italics* can be used for emphasis.
+```markdown
+*Italics*
+```
+#### Bold
+**Bold text** can be used for stronger emphasis.
+```markdown
+**Bold text**
+```
 
 #### Title and Abbreviations
 
