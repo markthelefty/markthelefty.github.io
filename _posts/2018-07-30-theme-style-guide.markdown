@@ -174,7 +174,10 @@ Island Trading | Helen Bennett | UK
 
 ## Links
 {: .divider}
-
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
 ## Image Styles
 {: .divider}
 
