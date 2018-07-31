@@ -78,9 +78,9 @@ Citations, like <cite>&mdash; Mark Mitchell</cite>, should use `<cite>`.
 ```
 
 #### Inserted Text
-<ins>inserted</ins> text should use `<ins>`.
+<ins>Inserted</ins> text should use `<ins>`.
 ```html
-<ins>inserted</ins>
+<ins>Inserted</ins>
 ```
 
 #### Superscript <sup>text</sup>
