@@ -174,10 +174,13 @@ Island Trading | Helen Bennett | UK
 
 ## Links
 {: .divider}
-| Command | Description |
-| --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
+
+| Table heading | Table heading | Table heading |
+| ------------- | ------------- | ------------- |
+| Table cell    | Table cell    | Table cell    |
+| Table cell    | Table cell    | Table cell    |
+| Table cell    | Table cell    | Table cell    |
+| Table cell    | Table cell    | Table cell    |
 
 ## Image Styles
 {: .divider}
