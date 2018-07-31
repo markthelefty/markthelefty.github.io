@@ -162,6 +162,14 @@ Inline `code` has `back-ticks around` it.
 | Ernst Handel    | Roland Mendel    | Austria    |
 | Island Trading    | Helen Bennett    | UK    |
 
+```markdown
+| Company | Contact | Country |
+| ------------- | ------------- | ------------- |
+| Alfreds Futterkiste    | Maria Anders    | Germany    |
+| Centro Moctezuma    | Francisco Chang    | Mexico    |
+| Ernst Handel    | Roland Mendel    | Austria    |
+| Island Trading    | Helen Bennett    | UK    |
+```
 <br/>
 
 ## Links
