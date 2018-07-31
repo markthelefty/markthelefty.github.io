@@ -168,13 +168,6 @@ Inline `code` has `back-ticks around` it.
 ## Links
 {: .divider}
 
-| Table heading | Table heading | Table heading |
-| ------------- | ------------- | ------------- |
-| Table cell    | Table cell    | Table cell    |
-| Table cell    | Table cell    | Table cell    |
-| Table cell    | Table cell    | Table cell    |
-| Table cell    | Table cell    | Table cell    |
-
 ## Image Styles
 {: .divider}
 
