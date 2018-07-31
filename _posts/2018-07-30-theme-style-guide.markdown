@@ -18,7 +18,7 @@ The goal is to use several core "brand" colors. Currently there are two primary 
 Like colors the fonts used are intentionally limited and each has a specific purpose.
 
 # Post Title
-
+{: .post-title}
 ```markdown
 # Post Title
 ```
