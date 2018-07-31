@@ -14,5 +14,43 @@ The goal is to use several core "brand" colors. Currently there are two primary 
 .background-white {color: #fafafa}
 ```
 
-## Fonts
+## Typography
 Like colors the fonts used are intentionally limited and each has a specific purpose
+
+### Headings
+
+### Paragraphs
+
+#### Bold
+
+#### Italics
+
+#### Title and Abbreviations
+
+#### Citations
+
+#### Deleted and Inserted
+
+#### Super and Sub text
+
+### Code
+
+### Lists
+
+### Tables
+
+### Links
+
+## Image Styles
+
+### Cloudinary Urls
+
+## Code Elements
+
+## HTML Elements
+
+### Message
+
+### Blockquote
+
+
