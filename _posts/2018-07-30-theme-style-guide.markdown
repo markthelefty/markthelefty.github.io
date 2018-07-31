@@ -124,22 +124,42 @@ Inline `code` has `back-ticks around` it.
 ```html
 <h2 class="brand-green">Post Subtitle</h2>
 ```
+<br/>
 
-### Lists
+## Lists
+{: .divider}
 
-### Tables
+<br/>
 
-### Links
+## Tables
+{: .divider}
+
+<br/>
+
+## Links
+{: .divider}
 
 ## Image Styles
+{: .divider}
 
 ### Cloudinary Urls
 
+<br/>
+
 ## Code Elements
+{: .divider}
+
+<br/>
 
 ## HTML Elements
+{: .divider}
 
-### Message
+<br/>
+
+## Message Styles
+{: .divider}
+
+### Message Style 1
 
 ### Blockquote
 
