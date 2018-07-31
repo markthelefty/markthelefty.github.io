@@ -103,17 +103,18 @@ Inline `code` has `back-ticks around` it.
 
 ### Code (Markdown)
 ```markdown
-Subscript <sub>text</sub>
+### A blue heading
+{: .brand-green}
 ```
 
 ### Code (CSS)
 ```css
-Subscript <sub>text</sub>
+.brand-green {color: #67a43e}
 ```
 
 ### Code (HTML)
 ```html
-Subscript <sub>text</sub>
+<h2 class="brand-green">Post Subtitle</h2>
 ```
 
 ### Lists
