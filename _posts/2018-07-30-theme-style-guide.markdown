@@ -175,7 +175,7 @@ Island Trading | Helen Bennett | UK
 ## Links
 {: .divider}
 
-| Table heading | Table heading | Table heading |
+| Company | Contact | Country |
 | ------------- | ------------- | ------------- |
 | Table cell    | Table cell    | Table cell    |
 | Table cell    | Table cell    | Table cell    |
