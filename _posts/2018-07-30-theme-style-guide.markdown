@@ -95,9 +95,26 @@ Subscript <sub>text</sub> uses `<sub>`.
 Subscript <sub>text</sub>
 ```
 
+### Code (Inline)
+Inline `code` has `back-ticks around` it.
+```markdown
+`code`
+```
 
+### Code (Markdown)
+```markdown
+Subscript <sub>text</sub>
+```
 
-### Code
+### Code (CSS)
+```css
+Subscript <sub>text</sub>
+```
+
+### Code (HTML)
+```html
+Subscript <sub>text</sub>
+```
 
 ### Lists
 
