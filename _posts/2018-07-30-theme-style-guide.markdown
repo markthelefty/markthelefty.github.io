@@ -61,7 +61,9 @@ line-height: 35.2px;}
 
 #### Title and Abbreviations
 <abbr title="HyperText Markup Langage">HTML</abbr>
-
+```html
+<abbr title="HyperText Markup Langage">HTML</abbr>
+```
 
 #### Citations
 
