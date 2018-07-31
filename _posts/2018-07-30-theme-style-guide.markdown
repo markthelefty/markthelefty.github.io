@@ -17,7 +17,7 @@ The goal is to use several core "brand" colors. Currently there are two primary 
 <br/>
 ## Typography
 {: .divider}
-Like colors the fonts used are intentionally limited and each has a specific purpose.
+The fonts choices are intentionally limited and each has a specific purpose.
 
 ### Headings
 # Post Title (h1)
