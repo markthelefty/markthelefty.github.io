@@ -71,9 +71,31 @@ Citations, like <cite>&mdash; Mark Mitchell</cite>, should use `<cite>`.
 <cite>&mdash; Mark Mitchell</cite>
 ```
 
-#### Deleted and Inserted
+#### Deleted Text
+<del>Deleted</del> text should use `<del>`.
+```html
+<del>Deleted</del>
+```
 
-#### Super and Sub text
+#### Inserted Text
+<ins>inserted</ins> text should use `<ins>`.
+```html
+<ins>inserted</ins>
+```
+
+#### Superscript <sup>text</sup>
+Superscript <sup>text</sup> uses `<sup>`.
+```html
+Superscript <sup>text</sup>
+```
+
+#### Subscript <sub>text</sub>
+Subscript <sub>text</sub> uses `<sub>`.
+```html
+Subscript <sub>text</sub>
+```
+
+
 
 ### Code
 
