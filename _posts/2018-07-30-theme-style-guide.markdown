@@ -112,7 +112,7 @@ Inline `code` has `back-ticks around` it.
 
 ### Code (Markdown)
 ```markdown
-### A blue heading
+### H3 Example
 ```
 
 ### Code (CSS)
