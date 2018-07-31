@@ -24,19 +24,19 @@ Like colors the fonts used are intentionally limited and each has a specific pur
 # Post Title (h1)
 font-family: Myriad Pro
 ```
-## Post Title (h2)
+## Post Subtitle (h2)
 ```markdown
-## Post SubTitle (h2)
+## Post Subtitle (h2)
 font-family: PT Sans
 ```
-### Post Title (h3)
+### Post Subtitle (h3)
 ```markdown
-### Post SubTitle (h3)
+### Post Subtitle (h3)
 font-family: PT Sans
 ```
-#### Post Title (h4)
+#### Post Subtitle (h4)
 ```markdown
-#### Post SubTitle (h4)
+#### Post Subtitle (h4)
 font-family: PT Sans
 ```
 ### Paragraphs
