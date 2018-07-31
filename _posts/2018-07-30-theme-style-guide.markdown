@@ -41,6 +41,7 @@ font-family: PT Sans
 #### Post Subtitle (h4)
 font-family: PT Sans
 ```
+<br/>
 ### Paragraphs
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin aliquet sed magna et sodales. Vestibulum vehicula dolor sit amet luctus viverra. Praesent facilisis dictum sapien, et elementum lorem imperdiet pulvinar. Nulla lacinia, arcu eget venenatis dapibus, neque tellus vestibulum elit, tempor condimentum turpis elit a justo.
 ```css
@@ -96,6 +97,12 @@ Subscript <sub>text</sub> uses `<sub>`.
 ```html
 Subscript <sub>text</sub>
 ```
+<br/>
+
+## Code Stlyes
+{: .divider}
+Code styles are automatically applied by the Markdown parser as long as the correct code type is added.
+
 
 ### Code (Inline)
 Inline `code` has `back-ticks around` it.
