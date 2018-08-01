@@ -185,23 +185,42 @@ Inline `code` has `back-ticks around` it.
 
 ### 25% Width
 ![Image 25% Wide](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/v1533113115/post-images/post-image-sample-25.png){: .cld-responsive .width-25}
+```markdown
+![Alt Text](img/url){: .cld-responsive .width-25}
+```
 
 ### 50% Width
 ![Image 50% Wide](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/v1533113115/post-images/post-image-sample-50.png){: .cld-responsive .width-50}
+```markdown
+![Alt Text](img/url){: .cld-responsive .width-50}
+```
 
 ### 75% Width
 ![Image 75% Wide](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/v1533113115/post-images/post-image-sample-75.png){: .cld-responsive .width-75}
+```markdown
+![Alt Text](img/url){: .cld-responsive .width-75}
+```
 
 ### 100% Width
 ![Image 100% Wide](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/v1533113115/post-images/post-image-sample-100.png){: .cld-responsive .width-100}
+```markdown
+![Alt Text](img/url){: .cld-responsive .width-100}
+Note: 100% width is default so adding this class won't be needed in most cases.
+```
 
 ### 25% Width (Float Left)
 ![Image 25% Wide](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/v1533113115/post-images/post-image-sample-25.png){: .cld-responsive .width-25 .float-left}
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin aliquet sed magna et sodales. Vestibulum vehicula dolor sit amet luctus viverra. Praesent facilisis dictum sapien, et elementum lorem imperdiet pulvinar. Nulla lacinia, arcu eget venenatis dapibus, neque tellus vestibulum elit, tempor condimentum turpis elit a justo.
+```markdown
+![Alt Text](img/url){: .cld-responsive .width-25 .float-left}
+```
 
 ### 25% Width (Float Right)
 ![Image 25% Wide](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/v1533113115/post-images/post-image-sample-25.png){: .cld-responsive .width-25 .float-right}
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin aliquet sed magna et sodales. Vestibulum vehicula dolor sit amet luctus viverra. Praesent facilisis dictum sapien, et elementum lorem imperdiet pulvinar. Nulla lacinia, arcu eget venenatis dapibus, neque tellus vestibulum elit, tempor condimentum turpis elit a justo.
+```markdown
+![Alt Text](img/url){: .cld-responsive .width-25 .float-right}
+```
 
 ### Cloudinary Urls
 
