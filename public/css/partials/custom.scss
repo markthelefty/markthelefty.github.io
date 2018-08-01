@@ -227,12 +227,9 @@ tbody tr:nth-child(odd) th {
     max-width: 50% !important;
 }
 .75-wide {
-    max-width: 75% !important;
+    border:1px solid red;
+    width:75%;
 }
 .100-wide {
     max-width: 100% !important;
-}
-.ass {
-    border:1px solid red;
-    width:75%;
 }
