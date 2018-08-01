@@ -5,6 +5,8 @@ description: This is a post META description. New!!
 image: https://res.cloudinary.com/dbrkuvff5/image/upload/v1532890567/social-images/linkedin-post-img-test.jpg
 ---
 
+Mark On Product is written using [Markdown](https://daringfireball.net/projects/markdown/). The content on the pages use a good amount of [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/). Most of the core components are detailed below, this [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) is also helpful. The [GitHub Markdown](https://help.github.com/categories/writing-on-github/) documentation is also a great reference.
+
 ## Colors
 {: .divider}
 The goal is to use several core "brand" colors. Currently there are two primary colors and one secondary color.
