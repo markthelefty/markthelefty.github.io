@@ -221,14 +221,14 @@ tbody tr:nth-child(odd) th {
   background-color: #f3f3f3;
 }
 img.25-wide {
-    width: 25%;
+    max-width: 25%;
 }
 img.50-wide {
-    width: 50%;
+    max-width: 50%;
 }
 img.75-wide {
-    width: 75%;
+    max-width: 75%;
 }
 img.100-wide {
-    width: 100%;
+    max-width: 100%;
 }
