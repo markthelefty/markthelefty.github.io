@@ -222,15 +222,27 @@ tbody tr:nth-child(odd) th {
 }
 .width-25 {
     max-width:25%;
+    @media (min-width:30em) {
+        max-width:100%;
+    }
 }
 .width-50 {
     max-width:50%;
+    @media (min-width:30em) {
+        max-width:100%;
+    }
 }
 .width-75 {
     max-width:75%;
+    @media (min-width:30em) {
+        max-width:100%;
+    }
 }
 .width-100 {
     max-width:100%;
+    @media (min-width:30em) {
+        max-width:100%;
+    }
 }
 .float-left {
     float:left;
