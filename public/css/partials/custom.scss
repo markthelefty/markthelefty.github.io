@@ -245,10 +245,16 @@ tbody tr:nth-child(odd) th {
     }
 }
 .float-left {
-    float:left;
+    float:none;
+    @media (min-width:30em) {
+        float:left;
+    }
 }
 .float-right {
-    float:right;
+    float:none;
+    @media (min-width:30em) {
+        float:right;
+    }
 }
 
 
