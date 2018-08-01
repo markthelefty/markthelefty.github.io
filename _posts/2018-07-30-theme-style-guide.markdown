@@ -184,7 +184,7 @@ Inline `code` has `back-ticks around` it.
 {: .divider}
 
 ### Image 25% Width (180px)
-![Image 25% Wide](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/v1533083312/post-images/post-image-sample-25.png){: .cld-responsive}
+![Image 25% Wide](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/v1533113115/post-images/post-image-sample-25.png){: .cld-responsive}
 
 
 ### Cloudinary Urls
