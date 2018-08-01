@@ -186,6 +186,16 @@ Inline `code` has `back-ticks around` it.
 ### 25% Width
 ![Image 25% Wide](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/v1533113115/post-images/post-image-sample-25.png){: .cld-responsive}
 
+### 50% Width
+![Image 50% Wide](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/v1533113115/post-images/post-image-sample-50.png){: .cld-responsive}
+
+### 75% Width
+![Image 75% Wide](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/v1533113115/post-images/post-image-sample-75.png){: .cld-responsive}
+
+### 100% Width
+![Image 100% Wide](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/v1533113115/post-images/post-image-sample-100.png){: .cld-responsive}
+
+
 
 ### Cloudinary Urls
 
