@@ -255,6 +255,7 @@ tbody tr:nth-child(odd) th {
     float:none;
     @media (min-width:30em) {
         float:right;
+        margin: 0.5rem 0 0 1.2rem;
     }
 }
 
