@@ -199,7 +199,7 @@ Inline `code` has `back-ticks around` it.
 
 ##Floats
 ### 25% Width
-![Image 25% Wide](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/v1533113115/post-images/post-image-sample-25.png){: .cld-responsive .width-25 .float-left}
+![Image 25% Wide](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/v1533113115/post-images/post-image-sample-75.png){: .cld-responsive .width-25 .float-left}
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin aliquet sed magna et sodales. Vestibulum vehicula dolor sit amet luctus viverra. Praesent facilisis dictum sapien, et elementum lorem imperdiet pulvinar. Nulla lacinia, arcu eget venenatis dapibus, neque tellus vestibulum elit, tempor condimentum turpis elit a justo.
 
 
