@@ -228,7 +228,7 @@ tbody tr:nth-child(odd) th {
 }
 .width-75 {
     border:1px solid red;
-    width:75%;
+    max-width:75%;
 }
 .100-wide {
     max-width: 100% !important;
