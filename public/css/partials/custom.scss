@@ -202,10 +202,10 @@ html, body {
     border-left-color: #D3D8E0;
     margin-bottom:3rem;
 }
-/*img {
+img {
     max-width: 100%;
     height: auto;
-}*/
+}
 pre {
     background-color: #eee;
 
@@ -220,15 +220,15 @@ tbody tr:nth-child(odd) td,
 tbody tr:nth-child(odd) th {
   background-color: #f3f3f3;
 }
-.25-wide {
+img.25-wide {
     max-width: 25% !important;
 }
-.50-wide {
+img.50-wide {
     max-width: 50% !important;
 }
-.75-wide {
+img.75-wide {
     max-width: 75% !important;
 }
-.100-wide {
+img.100-wide {
     max-width: 100% !important;
 }
