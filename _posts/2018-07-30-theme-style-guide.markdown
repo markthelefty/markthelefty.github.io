@@ -11,7 +11,7 @@ Mark On Product is written using [Markdown](https://daringfireball.net/projects/
 {: .divider}
 The goal is to use several core "brand" colors. Currently there are two primary colors and one secondary color.
 
-![Style Guide Brand Colors](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/v1532952269/post-images/colors.png){: .cld-responsive}
+![Style Guide Brand Colors](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/v1533289307/post-images/colors.png){: .cld-responsive}
 
 ```css
 .brand-green {color: #67a43e}
