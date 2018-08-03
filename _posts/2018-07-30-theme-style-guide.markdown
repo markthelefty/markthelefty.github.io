@@ -19,6 +19,7 @@ The goal is to use several core "brand" colors. Currently there are two primary 
 .background-white {color: #fafafa}
 ```  
 <br/>
+
 ## Typography
 {: .divider}
 The fonts choices are intentionally limited and each has a specific purpose.
@@ -162,7 +163,6 @@ Inline `code` has `back-ticks around` it.
 2. Donec id elit non mi porta gravida at eget metus.
 3. Nulla vitae elit libero, a pharetra augue.
 ```
-
 <br/>
 
 ## Tables
@@ -188,6 +188,7 @@ Inline `code` has `back-ticks around` it.
 ## Links
 {: .divider}
 
+<br/>
 ## Image Styles
 {: .divider}
 
@@ -252,7 +253,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin aliquet sed magna
 
 ## HTML Elements
 {: .divider}
-
 <br/>
 
 ## Dividers
@@ -276,7 +276,6 @@ Page content can be divided using the following two methods.
 ```html
 <hr>
 ```
-
 <br/>
 
 ## Message Styles
