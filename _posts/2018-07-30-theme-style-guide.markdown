@@ -252,7 +252,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin aliquet sed magna
 
 <br/>
 
-##Dividers
+## Dividers
 Page content can be divided using the following two methods.
 
 ### Add `.divider` class to an element:
