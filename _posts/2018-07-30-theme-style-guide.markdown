@@ -255,7 +255,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin aliquet sed magna
 ##Dividers
 Page content can be divided using the following two methods.
 
-### Add `.divider class` to an element:
+### Add `.divider` class to an element:
 
 ### H3 Example
 {: .divider}
@@ -265,6 +265,13 @@ Page content can be divided using the following two methods.
 
 ```markdown
 {: .divider}
+```
+
+### Use `<hr>` HTML element.
+
+<hr>
+```html
+<hr>
 ```
 
 ## Message Styles
