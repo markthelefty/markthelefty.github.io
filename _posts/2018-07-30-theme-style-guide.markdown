@@ -117,23 +117,23 @@ Subscript <sub>text</sub>
 Code styles are automatically applied by the Markdown parser as long as the correct code type is added.
 
 
-### Code (Inline)
+### Inline
 Inline `code` has `back-ticks around` it.
 ```markdown
 `code`
 ```
 
-### Code (Markdown)
+### Markdown
 ```markdown
 ### H3 Example
 ```
 
-### Code (CSS)
+### CSS
 ```css
 .brand-green {color: #67a43e}
 ```
 
-### Code (HTML)
+### HTML
 ```html
 <h2 class="brand-green">Post Subtitle</h2>
 ```
