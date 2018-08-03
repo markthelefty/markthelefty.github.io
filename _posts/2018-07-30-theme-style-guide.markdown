@@ -58,12 +58,16 @@ line-height: 35.2px;}
 
 ### Paragraphs Lead Text
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. {: .lead} Proin aliquet sed magna et sodales. Vestibulum vehicula dolor sit amet luctus viverra. Praesent facilisis dictum sapien, et elementum lorem imperdiet pulvinar. Nulla lacinia, arcu eget venenatis dapibus, neque tellus vestibulum elit, tempor condimentum turpis elit a justo.
+```markdown
+{: .lead}
+```
 
 ### Italics
 *Italics* can be used for emphasis.
 ```markdown
 *Italics*
 ```
+
 ### Bold
 **Bold text** can be used for stronger emphasis.
 ```markdown
