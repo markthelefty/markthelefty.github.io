@@ -250,11 +250,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin aliquet sed magna
 
 <br/>
 
-## Code Elements
-{: .divider}
-
-<br/>
-
 ## HTML Elements
 {: .divider}
 
@@ -281,6 +276,8 @@ Page content can be divided using the following two methods.
 ```html
 <hr>
 ```
+
+<br/>
 
 ## Message Styles
 {: .divider}
