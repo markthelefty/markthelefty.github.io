@@ -11,7 +11,7 @@ Mark On Product is written using [Markdown](https://daringfireball.net/projects/
 {: .divider}
 The goal is to use several core "brand" colors. Currently there are two primary colors and one secondary color.
 
-![Style Guide Brand Colors](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/v1532952269/post-images/colors.png){: .cld-responsive}
+![Style Guide Brand Colors](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/v1533289307/post-images/colors.png){: .cld-responsive}
 
 ```css
 .brand-green {color: #67a43e}
@@ -184,43 +184,59 @@ Inline `code` has `back-ticks around` it.
 {: .divider}
 
 ### 25% Width
-![Image 25% Wide](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/v1533113115/post-images/post-image-sample-25.png){: .cld-responsive .width-25}
+![Image 25% Wide](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/v1533119534/post-images/post-image-sample-25.png){: .cld-responsive .width-25}
 ```markdown
 ![Alt Text](img/url){: .cld-responsive .width-25}
 ```
 
 ### 50% Width
-![Image 50% Wide](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/v1533113115/post-images/post-image-sample-50.png){: .cld-responsive .width-50}
+![Image 50% Wide](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/v1533119534/post-images/post-image-sample-50.png){: .cld-responsive .width-50}
 ```markdown
 ![Alt Text](img/url){: .cld-responsive .width-50}
 ```
 
 ### 75% Width
-![Image 75% Wide](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/v1533113115/post-images/post-image-sample-75.png){: .cld-responsive .width-75}
+![Image 75% Wide](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/v1533119534/post-images/post-image-sample-75.png){: .cld-responsive .width-75}
 ```markdown
 ![Alt Text](img/url){: .cld-responsive .width-75}
 ```
 
 ### 100% Width
-![Image 100% Wide](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/v1533113115/post-images/post-image-sample-100.png){: .cld-responsive .width-100}
+![Image 100% Wide](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/v1533119534/post-images/post-image-sample-100.png){: .cld-responsive .width-100}
 ```markdown
 ![Alt Text](img/url){: .cld-responsive .width-100}
 Note: 100% width is default so adding this class won't be needed in most cases.
 ```
 
 ### 25% Width (Float Left)
-![Image 25% Wide](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/v1533113115/post-images/post-image-sample-25.png){: .cld-responsive .width-25 .float-left}
+![Image 25% Wide](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/v1533119534/post-images/post-image-sample-25.png){: .cld-responsive .width-25 .float-left}
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin aliquet sed magna et sodales. Vestibulum vehicula dolor sit amet luctus viverra. Praesent facilisis dictum sapien, et elementum lorem imperdiet pulvinar. Nulla lacinia, arcu eget venenatis dapibus, neque tellus vestibulum elit, tempor condimentum turpis elit a justo.
 ```markdown
 ![Alt Text](img/url){: .cld-responsive .width-25 .float-left}
 ```
 
 ### 25% Width (Float Right)
-![Image 25% Wide](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/v1533113115/post-images/post-image-sample-25.png){: .cld-responsive .width-25 .float-right}
+![Image 25% Wide](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/v1533119534/post-images/post-image-sample-25.png){: .cld-responsive .width-25 .float-right}
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin aliquet sed magna et sodales. Vestibulum vehicula dolor sit amet luctus viverra. Praesent facilisis dictum sapien, et elementum lorem imperdiet pulvinar. Nulla lacinia, arcu eget venenatis dapibus, neque tellus vestibulum elit, tempor condimentum turpis elit a justo.
 ```markdown
 ![Alt Text](img/url){: .cld-responsive .width-25 .float-right}
 ```
+
+### 50% Width (Float Left)
+![Image 50% Wide](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/v1533119534/post-images/post-image-sample-50.png){: .cld-responsive .width-50 .float-left}
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin aliquet sed magna et sodales. Vestibulum vehicula dolor sit amet luctus viverra. Praesent facilisis dictum sapien, et elementum lorem imperdiet pulvinar. Nulla lacinia, arcu eget venenatis dapibus, neque tellus vestibulum elit, tempor condimentum turpis elit a justo.
+```markdown
+![Alt Text](img/url){: .cld-responsive .width-50 .float-left}
+```
+
+### 75% Width (Float Left)
+![Image 75% Wide](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/v1533119534/post-images/post-image-sample-75.png){: .cld-responsive .width-75 .float-left}
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin aliquet sed magna et sodales. Vestibulum vehicula dolor sit amet luctus viverra. Praesent facilisis dictum sapien, et elementum lorem imperdiet pulvinar. Nulla lacinia, arcu eget venenatis dapibus, neque tellus vestibulum elit, tempor condimentum turpis elit a justo.
+```markdown
+![Alt Text](img/url){: .cld-responsive .width-75 .float-left}
+```
+
+
 
 ### Cloudinary Urls
 
@@ -235,6 +251,28 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin aliquet sed magna
 {: .divider}
 
 <br/>
+
+## Dividers
+Page content can be divided using the following two methods.
+
+### Add `.divider` class to an element:
+
+### H3 Example
+{: .divider}
+
+### Image Example
+![Image 100% Wide](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/v1533119534/post-images/post-image-sample-100.png){: .cld-responsive .width-100 .divider}
+
+```markdown
+{: .divider}
+```
+
+### Use `<hr>` HTML element.
+
+<hr>
+```html
+<hr>
+```
 
 ## Message Styles
 {: .divider}
