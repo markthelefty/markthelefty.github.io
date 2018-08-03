@@ -187,8 +187,12 @@ Inline `code` has `back-ticks around` it.
 
 ## Links
 {: .divider}
-
+Links will [look like this](http://example.com).
+```markdown
+[Linked Text](http://url.com)
+```
 <br/>
+
 ## Image Styles
 {: .divider}
 
