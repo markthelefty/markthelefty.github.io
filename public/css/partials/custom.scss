@@ -202,14 +202,7 @@ html, body {
 .sidebar-toggle {
     padding: 0.2rem .5rem;
 }
-.message {
-    color: #393939;
-    border-left-width: 0.2em;
-    border-left-style: solid;
-    background-color: #f1f1f1;
-    border-left-color: #D3D8E0;
-    margin-bottom:3rem;
-}
+
 img {
     max-width: 100%;
     height: auto;
@@ -278,6 +271,14 @@ hr {
 }
 .divider {
     border-bottom: 1px solid $divider-gray;
+}
+.message {
+    /*color: #393939;*/
+    border-left-width: 0.2em;
+    border-left-style: solid;
+    background-color: #f1f1f1;
+    border-left-color: #D3D8E0;
+    margin-bottom:3rem;
 }
 
 
