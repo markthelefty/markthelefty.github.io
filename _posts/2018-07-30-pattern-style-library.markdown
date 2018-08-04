@@ -286,7 +286,7 @@ Add `.divider` class to an element:
 ## Message Styles
 {: .divider}
 
-### Message Default
+### Default Message
 This is a default message.
 {: .message}
 ```markdown
@@ -294,7 +294,7 @@ This is a default message.
 {: .message}
 ```
 
-### Message Secondary
+### Secondary Message
 This is a secondary message.
 {: .message .message-secondary}
 ```markdown
