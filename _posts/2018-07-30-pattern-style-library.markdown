@@ -271,7 +271,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin aliquet sed magna
 ### Image Photo Credit
 ![Image 75% Wide](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/v1533119534/post-images/post-image-sample-75.png){: .cld-responsive .width-75}
 
-Photo courtesy of: Example Name {: .photo-credit}
+Photo courtesy of: Example Name{: .photo-credit}
 
 ### Cloudinary Urls
 [Cloudinary](https://cloudinary.com/) is used for all image and asset hosting. Use the code below to automatically build the URLs and add the correct classes.
