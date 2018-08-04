@@ -270,8 +270,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin aliquet sed magna
 
 ### Image Photo Credit
 <figure>![Image 100% Wide](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/v1533119534/post-images/post-image-sample-100.png){: .cld-responsive}
-  <figcaption>Photo courtesy of [this person](http://www.example.com/)</figcaption>
-</figure>
+<figcaption>Photo courtesy of [this person](http://www.example.com/)</figcaption></figure>
 
 
 ### Cloudinary Urls
