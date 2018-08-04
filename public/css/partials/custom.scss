@@ -328,10 +328,16 @@ hr {
 
 .message {
     /*color: #393939;*/
-    border-left-width: 0.2em;
-    border-left-style: solid;
     background-color: #f1f1f1;
     border-left-color: #D3D8E0;
+    border-left-width: 0.2em;
+    border-left-style: solid;
     margin-bottom: 3rem;
     padding: 1rem;
+}
+
+.message-secondary {
+    /*color: #393939;*/
+    background-color: #E5F2FF;
+    border-left-color: #CBE6FF;
 }
