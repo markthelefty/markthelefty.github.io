@@ -1,4 +1,2 @@
-Gemfile
-
 gems:
   - jekyll-figure
