@@ -297,7 +297,7 @@ Add `.divider` class to an element:
 ### Generate an `<hr>` HTML element.
 
 ---
-```html
+```markdown
 ---
 ```
 <br/>
