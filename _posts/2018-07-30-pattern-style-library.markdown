@@ -270,7 +270,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin aliquet sed magna
 
 ### Image Photo Credit
 <figure>
-<figcaption>Photo courtesy of [this person (http://www.example.com/</figcaption>
+<figcaption>Photo courtesy of [this person (http://www.example.com/)</figcaption>
 </figure>
 
 
