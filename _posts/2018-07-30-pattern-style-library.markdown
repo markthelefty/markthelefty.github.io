@@ -250,7 +250,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin aliquet sed magna
 ```
 
 ### Linked Image
-[![Linked Image](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/v1533119534/post-images/post-image-sample-100.png)](http://wordpress.com/ "Title")
+[![Linked Image](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/v1533119534/post-images/post-image-sample-100.png)]
+(http://www.example.com/ "Example Title")
 
 
 ### Cloudinary Urls
