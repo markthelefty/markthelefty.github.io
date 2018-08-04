@@ -289,3 +289,4 @@ Add `.divider` class to an element:
 ### Message Style 1
 
 ### Blockquote
+<blockquote>This is a blockquote</blockquote>
