@@ -294,11 +294,11 @@ Add `.divider` class to an element:
 {: .divider}
 ```
 
-### Use `<hr>` HTML element.
+### Generate an `<hr>` HTML element.
 
-<hr>
+---
 ```html
-<hr>
+---
 ```
 <br/>
 
