@@ -146,7 +146,6 @@ Inline `code` has `back-ticks around` it.
 * Praesent commodo cursus magna, vel scelerisque consectetur et.
 * Donec id elit non mi porta gravida at eget metus.
 * Nulla vitae elit libero, a pharetra augue.
-
 ```markdown
 * Praesent commodo cursus magna, vel scelerisque consectetur et.
 * Donec id elit non mi porta gravida at eget metus.
@@ -157,11 +156,22 @@ Inline `code` has `back-ticks around` it.
 1. Praesent commodo cursus magna, vel scelerisque consectetur et.
 2. Donec id elit non mi porta gravida at eget metus.
 3. Nulla vitae elit libero, a pharetra augue.
-
 ```markdown
 1. Praesent commodo cursus magna, vel scelerisque consectetur et.
 2. Donec id elit non mi porta gravida at eget metus.
 3. Nulla vitae elit libero, a pharetra augue.
+```
+
+### Mixed Lists
+1. Praesent commodo cursus magna, vel scelerisque consectetur et.
+   * Mixed Item One
+   * Mixed Item Two
+2. Donec id elit non mi porta gravida at eget metus.
+```markdown
+1. Praesent commodo cursus magna, vel scelerisque consectetur et.
+   * Mixed Item One
+   * Mixed Item Two
+2. Donec id elit non mi porta gravida at eget metus.
 ```
 <br/>
 
