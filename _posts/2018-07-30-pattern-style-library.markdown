@@ -341,8 +341,8 @@ This is a secondary message.
 ```
 
 ### Blockquotes
-> This is quoted text
+> "This is quoted text"
 
 ```markdown
-> This is quoted text
+> "This is quoted text"
 ```
