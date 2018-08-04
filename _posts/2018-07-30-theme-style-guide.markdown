@@ -289,5 +289,4 @@ Add `.divider` class to an element:
 ### Message Style 1
 
 ### Blockquote
-
-<a id='F0QtxjUKTjpmffnIiEfubQ' class='gie-single' href='http://www.gettyimages.com/detail/967257354' target='_blank' style='color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:none;'>Embed From Getty Mark</a><script>window.gie=window.gie||function(c){(gie.q=gie.q||[]).push(c)};gie(function(){gie.widgets.load({id:'F0QtxjUKTjpmffnIiEfubQ',sig:'xKey1WiaocDutFw_24b8okF5XaDzurpu8oCQ_JCx93Q=',w:'594px',h:'414px',items:'967257354',caption: true ,tld:'com',is360: false })});</script><script src='//embed-cdn.gettyimages.com/widgets.js' charset='utf-8' async></script>
+<blockquote>This is a blockquote</blockquote>
