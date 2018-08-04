@@ -31,19 +31,19 @@ The fonts choices are intentionally limited and each has a specific purpose.
 # Post Title (h1)
 font-family: Myriad Pro
 ```
-## Post Subtitle (h2)
+## Subpage Title (h2)
 ```markdown
-## Post Subtitle (h2)
+## Subpage Title (h2)
 font-family: PT Sans
 ```
-### Post Subtitle (h3)
+### Section Header (h3)
 ```markdown
-### Post Subtitle (h3)
+### Section Header (h3)
 font-family: PT Sans
 ```
-#### Post Subtitle (h4)
+#### Sub Section Heading (h4)
 ```markdown
-#### Post Subtitle (h4)
+#### Sub Section Heading (h4)
 font-family: PT Sans
 ```
 <br/>
