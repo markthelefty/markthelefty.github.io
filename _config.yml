@@ -38,3 +38,4 @@ github:
   repo: https://github.com/markthelefty/markthelefty.github.io
 plugins:
 - jekyll-seo-tag
+- jekyll-figure
