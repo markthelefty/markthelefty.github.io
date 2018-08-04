@@ -286,8 +286,21 @@ Add `.divider` class to an element:
 ## Message Styles
 {: .divider}
 
-### Message Style 1
-<div class="message">This is a message</div>
+### Message Default
+This is a default message.
+{: .message}
+```markdown
+This is a default message.
+{: .message}
+```
+
+### Message Secondary
+This is a secondary message.
+{: .message .message-secondary}
+```markdown
+This is a secondary message.
+{: .message .message-secondary}
+```
 
 ### Blockquote
 <blockquote>This is a blockquote</blockquote>
