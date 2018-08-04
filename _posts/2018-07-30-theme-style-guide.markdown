@@ -19,6 +19,7 @@ The goal is to use several core "brand" colors. Currently there are two primary 
 .background-white {color: #fafafa}
 ```  
 <br/>
+
 ## Typography
 {: .divider}
 The fonts choices are intentionally limited and each has a specific purpose.
@@ -46,7 +47,7 @@ font-family: PT Sans
 font-family: PT Sans
 ```
 <br/>
-### Paragraphs
+### Paragraph
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin aliquet sed magna et sodales. Vestibulum vehicula dolor sit amet luctus viverra. Praesent facilisis dictum sapien, et elementum lorem imperdiet pulvinar. Nulla lacinia, arcu eget venenatis dapibus, neque tellus vestibulum elit, tempor condimentum turpis elit a justo.
 ```css
 {font-family: "source-sans-pro";
@@ -56,7 +57,7 @@ font-weight: 300;
 line-height: 35.2px;}
 ```
 
-### Paragraphs Lead Text
+### Paragraph Lead Text
 <span class="lead">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</span> Proin aliquet sed magna et sodales. Vestibulum vehicula dolor sit amet luctus viverra. Praesent facilisis dictum sapien, et elementum lorem imperdiet pulvinar.
 ```html
 <span class="lead">
@@ -116,23 +117,23 @@ Subscript <sub>text</sub>
 Code styles are automatically applied by the Markdown parser as long as the correct code type is added.
 
 
-### Code (Inline)
+### Inline
 Inline `code` has `back-ticks around` it.
 ```markdown
 `code`
 ```
 
-### Code (Markdown)
+### Markdown
 ```markdown
 ### H3 Example
 ```
 
-### Code (CSS)
+### CSS
 ```css
 .brand-green {color: #67a43e}
 ```
 
-### Code (HTML)
+### HTML
 ```html
 <h2 class="brand-green">Post Subtitle</h2>
 ```
@@ -162,7 +163,6 @@ Inline `code` has `back-ticks around` it.
 2. Donec id elit non mi porta gravida at eget metus.
 3. Nulla vitae elit libero, a pharetra augue.
 ```
-
 <br/>
 
 ## Tables
@@ -187,6 +187,11 @@ Inline `code` has `back-ticks around` it.
 
 ## Links
 {: .divider}
+Links will [look like this](http://example.com).
+```markdown
+[Linked Text](http://url.com)
+```
+<br/>
 
 ## Image Styles
 {: .divider}
@@ -244,26 +249,21 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin aliquet sed magna
 ![Alt Text](img/url){: .cld-responsive .width-75 .float-left}
 ```
 
-
-
 ### Cloudinary Urls
-
-<br/>
-
-## Code Elements
-{: .divider}
-
+[Cloudinary](https://cloudinary.com/) is used for all image and asset hosting. Use the code below to automatically build the URLs and add the correct classes.
+```markdown
+![Alt Text](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/[file_number]/[folder_name]/[file_name]){: .cld-responsive}
+```
 <br/>
 
 ## HTML Elements
 {: .divider}
-
 <br/>
 
 ## Dividers
 Page content can be divided using the following two methods.
 
-### Add `.divider` class to an element:
+Add `.divider` class to an element:
 
 ### H3 Example
 {: .divider}
@@ -281,6 +281,7 @@ Page content can be divided using the following two methods.
 ```html
 <hr>
 ```
+<br/>
 
 ## Message Styles
 {: .divider}
@@ -288,5 +289,3 @@ Page content can be divided using the following two methods.
 ### Message Style 1
 
 ### Blockquote
-
-
