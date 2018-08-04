@@ -321,7 +321,8 @@ This is a secondary message.
 {: .message .message-danger}
 ```
 
-
-
 ### Blockquote
-<blockquote>This is a blockquote</blockquote>
+> This is quoted text
+```markdown
+> This is quoted text
+```
