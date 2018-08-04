@@ -290,7 +290,6 @@ Add `.divider` class to an element:
 This is a default message.
 {: .message}
 ```markdown
-This is a default message.
 {: .message}
 ```
 
@@ -298,9 +297,31 @@ This is a default message.
 This is a secondary message.
 {: .message .message-secondary}
 ```markdown
-This is a secondary message.
 {: .message .message-secondary}
 ```
+
+### Success Message
+This is a secondary message.
+{: .message .message-success}
+```markdown
+{: .message .message-success}
+```
+
+### Alert Message
+This is a secondary message.
+{: .message .message-alert}
+```markdown
+{: .message .message-alert}
+```
+
+### Danger Message
+This is a secondary message.
+{: .message .message-danger}
+```markdown
+{: .message .message-danger}
+```
+
+
 
 ### Blockquote
 <blockquote>This is a blockquote</blockquote>
