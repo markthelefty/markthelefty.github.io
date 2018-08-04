@@ -287,5 +287,7 @@ Add `.divider` class to an element:
 {: .divider}
 
 ### Message Style 1
+<div class="message">This is a message</div>
 
 ### Blockquote
+<blockquote>This is a blockquote</blockquote>
