@@ -383,11 +383,8 @@ blockquote {
         @media (min-width: 30em) {
             display: table-cell;
             width:25%;
+            vertical-align: middle;
     }
-}
-
-.author-image img {
-    vertical-align: middle;
 }
 
 .author-bio {
