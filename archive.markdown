@@ -9,7 +9,7 @@ date: 2018-08-05 13:43:00 -04:00
        {% assign currentDate = post.date | date: "%Y" %}
        {% if currentDate != myDate %}
            {% unless forloop.first %}</ul>{% endunless %}
-           <h1>{{ currentDate }}</h1>
+           <h2>{{ currentDate }}</h2>
            <ul>
            {% assign myDate = currentDate %}
        {% endif %}
