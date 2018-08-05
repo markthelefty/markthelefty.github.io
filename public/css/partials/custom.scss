@@ -380,7 +380,6 @@ blockquote {
 .author-image {
     width:50%;
     margin:0 auto;
-    background-color: red;
         @media (min-width: 30em) {
             display: table-cell;
             width:25%;
@@ -392,7 +391,6 @@ blockquote {
 }
 
 .author-bio {
-    background-color: blue;
         @media (min-width: 30em) {
             display: table-cell;
             float:left;
