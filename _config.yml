@@ -39,7 +39,7 @@ author:
     efficitur id metus a, auctor ultrices lacus.
   image: https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/v1533481229/post-images/mark-mitchell-bio-photo.png
 paginate: 5
-version: 1.2.1
+version: 1.2.2
 github:
   repo: https://github.com/markthelefty/markthelefty.github.io
 plugins:
