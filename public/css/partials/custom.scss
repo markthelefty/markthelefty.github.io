@@ -378,11 +378,11 @@ blockquote {
 }
 
 .author-image {
-    width:50%;
-    margin:0 auto;
+    width: 50%;
+    margin: 0 auto;
         @media (min-width: 30em) {
             display: table-cell;
-            width:25%;
+            width: 25%;
             vertical-align: middle;
     }
 }
@@ -397,6 +397,6 @@ blockquote {
 
 .author-bio p{
         @media (min-width: 30em) {
-            
+            font-size: 1rem;
     }
 }
