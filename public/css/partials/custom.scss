@@ -369,8 +369,9 @@ blockquote {
 
 .about-author {
     border-top: 1px solid $divider-gray;
+    border-bottom: 1px solid $divider-gray;
     padding-top: 1rem;
-    overflow: hidden;
+    overflow: hidden; /*clear fix*/
 }
 
 .author-image {
