@@ -37,7 +37,7 @@ author:
     et. Curabitur in cursus justo. Nullam in dui eget nunc gravida pellentesque at
     sed urna. Duis tincidunt lectus a accumsan porttitor. Pellentesque dui lacus,
     efficitur id metus a, auctor ultrices lacus.
-  image: 
+  image: https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/v1533481229/post-images/mark-mitchell-bio-photo.png
 paginate: 5
 version: 1.2.1
 github:
