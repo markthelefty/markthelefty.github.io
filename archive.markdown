@@ -3,7 +3,7 @@ title: Archive
 date: 2018-08-05 13:43:00 -04:00
 ---
 
-<section class="archive-post-list">
+<section class="post">
 
    {% for post in site.posts %}
        {% assign currentDate = post.date | date: "%Y" %}
