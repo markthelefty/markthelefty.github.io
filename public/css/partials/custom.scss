@@ -371,14 +371,16 @@ blockquote {
     border-top: 1px solid $divider-gray;
 }
 .author-image {
-
+    width:50%;
+    margin:0 auto;
         @media (min-width: 30em) {
+            float:left;
     }
 }
 
 .author-bio {
-    
-        @media (min-width: 30em) {
 
+        @media (min-width: 30em) {
+            float:left;
     }
 }
