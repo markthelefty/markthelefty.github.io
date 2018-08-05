@@ -370,6 +370,7 @@ blockquote {
 .about-author {
     border-top: 1px solid $divider-gray;
     padding-top: 1rem;
+    overflow: hidden;
 }
 
 .author-image {
