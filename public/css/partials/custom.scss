@@ -372,20 +372,24 @@ blockquote {
     border-bottom: 1px solid $divider-gray;
     padding-top: 1rem;
     overflow: hidden; /*clear fix*/
+        @media (min-width: 30em) {
+            display: table;
+    }
 }
 
 .author-image {
     width:50%;
     margin:0 auto;
         @media (min-width: 30em) {
-            float:left;
+            display: table-cell;
             width:25%;
     }
 }
 
 .author-bio {
-    width:75%;
+
         @media (min-width: 30em) {
-            float:left;
+            width:75%;
+            display: table-cell;
     }
 }
