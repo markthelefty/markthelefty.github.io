@@ -379,11 +379,12 @@ blockquote {
     margin:0 auto;
         @media (min-width: 30em) {
             float:left;
+            width:25%;
     }
 }
 
 .author-bio {
-
+    width:75%;
         @media (min-width: 30em) {
             float:left;
     }
