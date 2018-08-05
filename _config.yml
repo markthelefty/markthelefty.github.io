@@ -32,6 +32,11 @@ url: https://markonproduct.com
 author:
   name: Mark Mitchell
   url: https://twitter.com/MarkMitchell
+  bio: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam id elit vel
+    lectus ultricies tristique. Sed aliquam posuere odio, in iaculis dolor cursus
+    et. Curabitur in cursus justo. Nullam in dui eget nunc gravida pellentesque at
+    sed urna. Duis tincidunt lectus a accumsan porttitor. Pellentesque dui lacus,
+    efficitur id metus a, auctor ultrices lacus.
 paginate: 5
 version: 1.2.1
 github:
