@@ -390,7 +390,7 @@ blockquote {
 .author-bio {
     background-color: blue;
         @media (min-width: 30em) {
-            width:75%;
             display: table-cell;
+            float:left;
     }
 }
