@@ -216,7 +216,6 @@ a.social-github {
 
 
 /*Sticky Footer*/
-
 html,
 body {
     height: 100%;
@@ -241,7 +240,6 @@ body {
 
 
 /*Misc*/
-
 .sidebar-toggle {
     padding: 0.2rem .5rem;
 }
@@ -367,4 +365,14 @@ blockquote {
     /*color: #393939;*/
     background-color: #FBEBED;
     border-left-color: #F9D7DB;
+}
+
+.about-author {
+    border-top: 1px solid $divider-gray;
+}
+.author-image {
+}
+
+.author-bio {
+
 }
