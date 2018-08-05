@@ -176,6 +176,31 @@ Inline `code` has `back-ticks around` it.
    * Mixed Item Two
 2. Donec id elit non mi porta gravida at eget metus.
 ```
+
+### Definition Lists
+<dl>
+  <dt>HyperText Markup Language (HTML)</dt>
+  <dd>The language used to describe and define the content of a Web page</dd>
+
+  <dt>Cascading Style Sheets (CSS)</dt>
+  <dd>Used to describe the appearance of Web content</dd>
+
+  <dt>JavaScript (JS)</dt>
+  <dd>The programming language used to build advanced Web sites and applications</dd>
+</dl>
+```html
+<dl>
+  <dt>HyperText Markup Language (HTML)</dt>
+  <dd>The language used to describe and define the content of a Web page</dd>
+
+  <dt>Cascading Style Sheets (CSS)</dt>
+  <dd>Used to describe the appearance of Web content</dd>
+
+  <dt>JavaScript (JS)</dt>
+  <dd>The programming language used to build advanced Web sites and applications</dd>
+</dl>
+```
+
 <br/>
 
 ## Tables
