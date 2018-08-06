@@ -336,18 +336,18 @@ In most cases dividing lines will be added by default as part of the design. In 
 
 The first is to add class `.divider`. This should be used to add a divider to an HTML element.
 
-### H3 Example
+### H3 With a Divider
 {: .divider}
 
-### Image Example
+### Image With a Divider
 ![Image 100% Wide](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/v1533119534/post-images/post-image-sample-100.png){: .cld-responsive .width-100 .divider}
 
 ```markdown
-### H3 Example
+### H3 With a Divider
 {: .divider}
 ```
 
-In circumstances when there isn't an element to add the divider class to, simply generate a `<hr>`.
+In circumstances when there isn't an element to add the divider class to, simply generate a `<hr>` using Markdown.
 
 ---
 ```markdown
