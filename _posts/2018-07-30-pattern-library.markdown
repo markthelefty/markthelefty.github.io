@@ -120,7 +120,7 @@ Subscript <sub>text</sub>
 Code styles are automatically applied by the Markdown parser as long as the correct code type is added.
 
 ### Inline
-Inline `code` has `back-ticks around` it.
+Inline `code` has (*back-ticks*) around it.
 ```markdown
 `code`
 ```
