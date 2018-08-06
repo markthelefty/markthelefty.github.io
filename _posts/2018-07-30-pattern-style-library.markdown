@@ -225,7 +225,7 @@ The tables used are fairly simple, nothing too tricky. Refer to
 
 | Company | Contact | Country |
 | --- | :---: | ---: |
-| Alfreds Futterkiste | Maria Anders | Germany |
+| Left Aligned | Center Aligned | Right Aligned |
 | Centro Moctezuma | Francisco Chang | Mexico |
 | Ernst Handel | Roland Mendel | Austria |
 | Island Trading | Helen Bennett | UK |
