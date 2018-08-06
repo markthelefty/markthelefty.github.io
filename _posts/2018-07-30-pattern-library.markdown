@@ -12,7 +12,7 @@ Mark On Product is built using [Jekyll](https://jekyllrb.com/), the theme is bui
 
 ## Colors
 {: .divider}
-There are several core "brand" colors, currently there are two primary colors and one secondary color.
+There are several core "brand" colors, there are two primary colors and one secondary color.
 
 ![Style Guide Brand Colors](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/v1533289307/post-images/colors.png){: .cld-responsive}
 
