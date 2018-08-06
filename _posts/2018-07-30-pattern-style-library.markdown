@@ -204,7 +204,7 @@ There are four lists styles supported. Unordered lists, ordered lists, mixed lis
 
 ## Tables
 {: .divider}
-
+The tables used are fairly simple, nothing too tricky. Refer to 
 
 | Company | Contact | Country |
 | --- | --- | --- |
@@ -222,6 +222,13 @@ There are four lists styles supported. Unordered lists, ordered lists, mixed lis
 | Island Trading | Helen Bennett | UK |
 ```
 <br/>
+
+| Company | Contact | Country |
+| --- | :---: | ---: |
+| Alfreds Futterkiste | Maria Anders | Germany |
+| Centro Moctezuma | Francisco Chang | Mexico |
+| Ernst Handel | Roland Mendel | Austria |
+| Island Trading | Helen Bennett | UK |
 
 ## Links
 {: .divider}
