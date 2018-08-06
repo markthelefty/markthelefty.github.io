@@ -6,6 +6,7 @@ image: https://res.cloudinary.com/dbrkuvff5/image/upload/v1532890567/social-imag
 ---
 
 The purpose of this library is to serve as a reference for how the commonly used components should be coded and styled. Mark On Product is written using [Markdown](https://daringfireball.net/projects/markdown/). The content is primarily written using [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/). Many of the core components are detailed below, this [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) is also helpful. The [GitHub Markdown](https://help.github.com/categories/writing-on-github/) documentation is also a great reference.
+<br>
 
 ## Colors
 {: .divider}
