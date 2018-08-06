@@ -207,7 +207,7 @@ There are four lists styles supported. Unordered lists, ordered lists, mixed lis
 
 ## Tables
 {: .divider}
-The tables used are fairly simple, nothing too tricky. 
+Tables used are fairly simple, nothing too tricky. 
 
 ### Standard Left Aligned
 
