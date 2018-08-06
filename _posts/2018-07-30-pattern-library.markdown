@@ -117,7 +117,7 @@ Subscript <sub>text</sub>
 
 ## Code Stlyes
 {: .divider}
-Code styles are automatically applied by the parser as long as the correct code type is added.
+Code styles are automatically applied by the Markdown parser as long as the correct code type is added.
 
 ### Inline
 Inline `code` has `back-ticks around` it.
