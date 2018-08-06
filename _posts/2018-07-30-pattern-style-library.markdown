@@ -330,12 +330,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin aliquet sed magna
 
 ## Dividers
 {: .divider}
-lkjlkj
+In most cases dividing lines will be added by default as part of the design. In scenarios where you'd like to add a divider manually there's two ways to ways to do it:
 
-## Dividers
-Page content can be divided using the following two methods.
-
-Add `.divider` class to an element:
+The first is to add `.divider` class to an element:
 
 ### H3 Example
 {: .divider}
