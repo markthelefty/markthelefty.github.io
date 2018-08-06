@@ -241,7 +241,6 @@ The tables used are fairly simple, nothing too tricky.
 | Ernst Handel | Roland Mendel | Austria |
 | Island Trading | Helen Bennett | UK |
 ```
-
 <br/>
 ## Links
 {: .divider}
@@ -249,6 +248,7 @@ Links will [look like this](http://example.com), nice and simple.
 ```markdown
 [Linked Text](http://url.com)
 ```
+
 <br/>
 
 ## Image Styles
