@@ -25,7 +25,7 @@ There are several core "brand" colors, there are two primary colors and one seco
 
 ## Typography
 {: .divider}
-The fonts choices are intentionally limited and each has a specific purpose.
+The fonts choices are intentionally limited and each has a specific purpose. Post Headings `h1` are set in Myriad Pro. Post Subpage Titles `h2`, Section Headers `h3`, and Subsection Headers `h4` are all set in PT Sans.
 
 ### Headings
 # Post Title (h1)
@@ -44,9 +44,9 @@ font-family: PT Sans
 ### Section Header (h3)
 font-family: PT Sans
 ```
-#### Sub Section Heading (h4)
+#### Subsection Header (h4)
 ```markdown
-#### Sub Section Heading (h4)
+#### Subsection Header (h4)
 font-family: PT Sans
 ```
 <br/>
