@@ -258,7 +258,7 @@ Images should be sized using [this Sketch template](https://res.cloudinary.com/d
 
 The width is set by adding a class `.width-25`, `.width-50`, `.width-75` or `.width-100`. Images are 100% wide by default so adding it isn't necessary. All images are 100% wide (and can't be floated) on mobile device sized screens.
 
-All image filetypes are acceptable, but care should be taken to ensure the appropriate types are being used. JPG should be used for photos and PNG should be used for design assets like logos. 
+All image filetypes are acceptable, but care should be taken to ensure the appropriate types are being used. `JPG` should be used for photos and `PNG` should be used for design assets like logos. 
 
 Cloudinary will serve the smallest file type and size automatically as long as the `.cld-responsive` class is added.
 
