@@ -9,7 +9,7 @@ The purpose of this library is to serve as a reference for how the commonly used
 
 ## Colors
 {: .divider}
-The goal is to use several core "brand" colors. Currently there are two primary colors and one secondary color.
+There are several core "brand" colors, currently there are two primary colors and one secondary color.
 
 ![Style Guide Brand Colors](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/v1533289307/post-images/colors.png){: .cld-responsive}
 
@@ -60,7 +60,7 @@ line-height: 35.2px;}
 ### Paragraph Lead Text
 <span class="lead">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</span> Proin aliquet sed magna et sodales. Vestibulum vehicula dolor sit amet luctus viverra. Praesent facilisis dictum sapien, et elementum lorem imperdiet pulvinar.
 ```html
-<span class="lead">
+<span class="lead">Lead Text</span>
 ```
 
 ### Italics
@@ -76,9 +76,9 @@ line-height: 35.2px;}
 ```
 
 ### Abbreviations
-Abbreviations, like <abbr title="HyperText Markup Langage">HTML</abbr> should use `<abbr>`, with an optional `title` attribute for the full phrase.
+Abbreviations, like <abbr title="absent without leave">AWOL</abbr> should use `<abbr>`, with an optional `title` attribute for the full phrase.
 ```html
-<abbr title="HyperText Markup Langage">HTML</abbr>
+<abbr title="absent without leave">AWOL</abbr>
 ```
 
 ### Citations
@@ -114,8 +114,7 @@ Subscript <sub>text</sub>
 
 ## Code Stlyes
 {: .divider}
-Code styles are automatically applied by the Markdown parser as long as the correct code type is added.
-
+Code styles are automatically applied by the parser as long as the correct code type is added.
 
 ### Inline
 Inline `code` has `back-ticks around` it.
@@ -141,6 +140,7 @@ Inline `code` has `back-ticks around` it.
 
 ## Lists
 {: .divider}
+
 
 ### Unordered Lists
 * Praesent commodo cursus magna, vel scelerisque consectetur et.
