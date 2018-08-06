@@ -355,6 +355,9 @@ In circumstances when there isn't an element to add the divider class to, simply
 
 ## Message Styles
 {: .divider}
+Messages can be used to highlight certain items or call special attention to particular content. They are classes added to paragraphs. Messages should not be longer than one or two short sentences.
+
+To create a message add `.message` to a paragraph. This defines the default style. To create a secondary, success, alert, or danger message add that as a second class.
 
 ### Default Message
 This is a default message.
