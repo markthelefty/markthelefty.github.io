@@ -376,7 +376,7 @@ This is a secondary message.
 ```
 
 ### Success Message
-This is a secondary message.
+This is a success message.
 {: .message .message-success}
 ```markdown
 {: .message .message-success}
