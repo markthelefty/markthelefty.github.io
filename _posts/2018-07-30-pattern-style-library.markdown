@@ -330,7 +330,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin aliquet sed magna
 
 ## Dividers
 {: .divider}
-In most cases dividing lines will be added by default as part of the design. In scenarios where you'd like to add a divider manually there's two ways to ways to do it:
+In most cases dividing lines will be added by default as part of the design. In scenarios where you'd like to add a divider manually there's two ways to ways to do it.
 
 The first is to add `.divider` class to an element. This should be used to add a divider to an HTML element.
 
