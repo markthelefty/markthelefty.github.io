@@ -328,9 +328,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin aliquet sed magna
 ```
 <br/>
 
-## HTML Elements
+## Dividers
 {: .divider}
-<br/>
+lkjlkj
 
 ## Dividers
 Page content can be divided using the following two methods.
