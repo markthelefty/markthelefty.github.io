@@ -330,7 +330,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin aliquet sed magna
 ```
 <br/>
 
-## Dividers
+## Horizontal Rules and Dividers
 {: .divider}
 In most cases dividing lines will be added by default as part of the design. In scenarios where you'd like to add a divider manually, there's two ways to do it.
 
