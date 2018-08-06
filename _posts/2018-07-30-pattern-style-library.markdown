@@ -341,6 +341,7 @@ The first is to add `.divider` class to an element. This should be used to add a
 ![Image 100% Wide](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/v1533119534/post-images/post-image-sample-100.png){: .cld-responsive .width-100 .divider}
 
 ```markdown
+### H3 Example
 {: .divider}
 ```
 
