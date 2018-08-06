@@ -345,7 +345,7 @@ The first is to add `.divider` class to an element. This should be used to add a
 {: .divider}
 ```
 
-In circumstances when there isn't an element to add the divider class to, simply generate a `<hr>` horizontal rule.
+In circumstances when there isn't an element to add the divider class to, simply generate a `<hr>`.
 
 ---
 ```markdown
