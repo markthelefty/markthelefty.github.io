@@ -102,13 +102,13 @@ Citations, like <cite>&mdash; Mark Mitchell</cite>, should use `<cite>`.
 <ins>Inserted</ins>
 ```
 
-### Superscript
+### Superscript Text
 Superscript <sup>text</sup> uses `<sup>`.
 ```html
 Superscript <sup>text</sup>
 ```
 
-### Subscript
+### Subscript Text
 Subscript <sub>text</sub> uses `<sub>`.
 ```html
 Subscript <sub>text</sub>
