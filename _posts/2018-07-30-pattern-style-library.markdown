@@ -204,8 +204,9 @@ There are four lists styles supported. Unordered lists, ordered lists, mixed lis
 
 ## Tables
 {: .divider}
-The tables used are fairly simple, nothing too tricky. Refer to 
+The tables used are fairly simple, nothing too tricky. 
 
+### Standard Left Aligned
 | Company | Contact | Country |
 | --- | --- | --- |
 | Alfreds Futterkiste | Maria Anders | Germany |
@@ -221,14 +222,24 @@ The tables used are fairly simple, nothing too tricky. Refer to
 | Ernst Handel | Roland Mendel | Austria |
 | Island Trading | Helen Bennett | UK |
 ```
-<br/>
 
+### Mixed Alignment
 | Company | Contact | Country |
 | --- | :---: | ---: |
-| Alfreds Futterkiste | Maria Anders | Germany |
+| Left Aligned | Center Aligned | Right Aligned |
 | Centro Moctezuma | Francisco Chang | Mexico |
 | Ernst Handel | Roland Mendel | Austria |
 | Island Trading | Helen Bennett | UK |
+
+```markdown
+| Company | Contact | Country |
+| --- | :---: | ---: |
+| Left Aligned | Center Aligned | Right Aligned |
+| Centro Moctezuma | Francisco Chang | Mexico |
+| Ernst Handel | Roland Mendel | Austria |
+| Island Trading | Helen Bennett | UK |
+```
+
 
 ## Links
 {: .divider}
