@@ -332,7 +332,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin aliquet sed magna
 {: .divider}
 In most cases dividing lines will be added by default as part of the design. In scenarios where you'd like to add a divider manually there's two ways to ways to do it:
 
-The first is to add `.divider` class to an element:
+The first is to add `.divider` class to an element. This should be used if you'd like to add a divider to an HTML element.
 
 ### H3 Example
 {: .divider}
@@ -344,7 +344,7 @@ The first is to add `.divider` class to an element:
 {: .divider}
 ```
 
-### Generate an `<hr>` HTML element.
+In circumstances when there isn't an element to add the divider class to, simply generate a `<hr>` horizontal rule.
 
 ---
 ```markdown
