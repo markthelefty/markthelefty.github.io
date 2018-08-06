@@ -207,6 +207,7 @@ There are four lists styles supported. Unordered lists, ordered lists, mixed lis
 The tables used are fairly simple, nothing too tricky. 
 
 ### Standard Left Aligned
+
 | Company | Contact | Country |
 | --- | --- | --- |
 | Alfreds Futterkiste | Maria Anders | Germany |
@@ -224,6 +225,7 @@ The tables used are fairly simple, nothing too tricky.
 ```
 
 ### Mixed Alignment
+
 | Company | Contact | Country |
 | --- | :---: | ---: |
 | Left Aligned | Center Aligned | Right Aligned |
@@ -243,7 +245,7 @@ The tables used are fairly simple, nothing too tricky.
 
 ## Links
 {: .divider}
-Links will [look like this](http://example.com).
+Links will [look like this](http://example.com), nice and simple.
 ```markdown
 [Linked Text](http://url.com)
 ```
@@ -251,6 +253,7 @@ Links will [look like this](http://example.com).
 
 ## Image Styles
 {: .divider}
+
 
 ### 25% Width
 ![Image 25% Wide](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/v1533119534/post-images/post-image-sample-25.png){: .cld-responsive .width-25}
