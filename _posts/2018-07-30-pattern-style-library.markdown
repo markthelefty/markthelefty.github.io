@@ -252,7 +252,7 @@ Links will [look like this](http://example.com), nice and simple.
 ```
 <br/>
 
-## Image Styles
+## Image Sizing and Formatting
 {: .divider}
 Images should be sized using [this Sketch template](https://res.cloudinary.com/dbrkuvff5/raw/upload/v1533548442/post-files/post-image-template.sketch). There's no secret to the sizing, but it will ensure consistency. There's 4 sizes, you should consider the final display size as a percentage of the full-body width i.e., 25% of the content container. 
 
