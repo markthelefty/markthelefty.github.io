@@ -117,7 +117,7 @@ Subscript <sub>text</sub>
 
 ## Code Stlyes
 {: .divider}
-Code markup is automatically applied by the Markdown parser as long as the correct code type is added. Styles are handled by the `syntax.css` stylesheet.
+Code markup is automatically applied by the Markdown parser as long as the correct code type is added. Styles are handled by [Pygments](http://jwarby.github.io/jekyll-pygments-themes/languages/javascript.html) the `syntax.css` stylesheet.
 
 ### Inline
 Inline `code` has (*back-ticks*) around it.
