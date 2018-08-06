@@ -140,7 +140,7 @@ Inline `code` has `back-ticks around` it.
 
 ## Lists
 {: .divider}
-
+There are four lists styles supported. Unordered lists, ordered lists, mixed lists, and definition lists. All lists can be written in Markdown except for definition lists, they will require HTML.
 
 ### Unordered Lists
 * Praesent commodo cursus magna, vel scelerisque consectetur et.
