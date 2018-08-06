@@ -258,7 +258,7 @@ Links will [look like this](http://example.com), nice and simple.
 {: .divider}
 Images should be sized using [this Sketch template](https://res.cloudinary.com/dbrkuvff5/raw/upload/v1533548442/post-files/post-image-template.sketch). There's no secret to the sizing, but it will ensure consistency. There's four sizes, you should consider the final display size as a percentage of the full-body width i.e., 25% of the content container. 
 
-The width is set by adding a class `.width-25`, `.width-50`, `.width-75` or `.width-100`. Images are 100% wide by default so adding it isn't necessary. All images are 100% wide (and can't be floated) on mobile device sized screens.
+The width is set by adding a class `.width-25`, `.width-50`, `.width-75` or `.width-100`. Images are 100% wide by default so adding it isn't necessary. On small (mobile sized) screens all images are 100% wide.
 
 All image filetypes are acceptable, but care should be taken to ensure the appropriate types are being used. `.jpg` should be used for photos and `.png` should be used for design assets like logos. 
 
