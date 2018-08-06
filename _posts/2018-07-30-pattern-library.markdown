@@ -336,7 +336,7 @@ In most cases dividing lines will be added by default as part of the design. In 
 
 The first is to add class `.divider`. This should be used to add a divider to an HTML element.
 
-### H3 Example
+### H3 With a Divider
 {: .divider}
 
 ### Image Example
