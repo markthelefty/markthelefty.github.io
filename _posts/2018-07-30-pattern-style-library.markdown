@@ -190,21 +190,21 @@ There are four lists styles supported. Unordered lists, ordered lists, mixed lis
 </dl>
 ```html
 <dl>
-  <dt>HyperText Markup Language (HTML)</dt>
-  <dd>The language used to describe and define the content of a Web page</dd>
+  <dt>Aluminum</dt>
+  <dd>Aluminium or aluminum is a chemical element with symbol Al and atomic number 13. It is a silvery-white, soft, nonmagnetic and ductile metal in the boron group.</dd>
 
-  <dt>Cascading Style Sheets (CSS)</dt>
-  <dd>Used to describe the appearance of Web content</dd>
+  <dt>Brass</dt>
+  <dd>Brass is a metallic alloy that is made of copper and zinc. The proportions of zinc and copper can vary to create different types of brass alloys with varying mechanical and electrical properties.</dd>
 
-  <dt>JavaScript (JS)</dt>
-  <dd>The programming language used to build advanced Web sites and applications</dd>
+  <dt>Copper</dt>
+  <dd>Copper is a chemical element with symbol Cu (from Latin: cuprum) and atomic number 29. It is a soft, malleable, and ductile metal with very high thermal and electrical conductivity.</dd>
 </dl>
 ```
-
 <br/>
 
 ## Tables
 {: .divider}
+
 
 | Company | Contact | Country |
 | --- | --- | --- |
