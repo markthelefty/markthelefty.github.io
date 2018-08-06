@@ -381,14 +381,14 @@ This is a secondary message.
 ```
 
 ### Alert Message
-This is a secondary message.
+This is an alert message.
 {: .message .message-alert}
 ```markdown
 {: .message .message-alert}
 ```
 
 ### Danger Message
-This is a secondary message.
+This is a danger message.
 {: .message .message-danger}
 ```markdown
 {: .message .message-danger}
