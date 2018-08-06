@@ -260,6 +260,8 @@ The width is set by adding a class `.width-25`, `.width-50`, `.width-75` or `.wi
 
 All image filetypes are acceptable, but care should be taken to ensure the appropriate types are being used. JPG should be used for photos and PNG should be used for design assets like logos. 
 
+Cloudinary will serve the smallest file type and size automatically as long as the `.cld-responsive` class is added.
+
 ### 25% Width
 ![Image 25% Wide](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/v1533119534/post-images/post-image-sample-25.png){: .cld-responsive .width-25}
 ```markdown
