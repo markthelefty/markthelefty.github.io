@@ -254,7 +254,7 @@ Links will [look like this](http://example.com), nice and simple.
 
 ## Image Styles
 {: .divider}
-
+Images should be sized using [this Sketch template](https://res.cloudinary.com/dbrkuvff5/raw/upload/v1533548442/post-files/post-image-template.sketch). 
 
 ### 25% Width
 ![Image 25% Wide](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/v1533119534/post-images/post-image-sample-25.png){: .cld-responsive .width-25}
