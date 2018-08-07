@@ -407,23 +407,25 @@ blockquote {
     text-align: center;
     vertical-align: middle;
     padding: .3rem 0;
-    border: 1px solid #fff;
     border-radius: .3rem;
     text-decoration: none;
     margin: 2rem auto 0 auto;
 }
-.btn:hover,
-.btn:focus {
-    background: #fff;
-    color: #000;
-    text-decoration: none;
-}
-.btn:active {
-    background: #e0e0e0;
-}
 
 .rss-subscribe {
     width:8rem;
+    border: 1px solid #fff;
+}
+
+.rss-subscribe:active {
+    background: #e0e0e0;
+}
+
+.rss-subscribe:hover,
+.rss-subscribe:focus {
+    background: #fff;
+    color: #000;
+    text-decoration: none;
 }
 
 .rss-subscribe:before{
@@ -434,7 +436,7 @@ blockquote {
     position: relative;
     top: 0px;
     left: 0px;
-    background: url("https://res.cloudinary.com/dbrkuvff5/image/upload/v1533678974/assets/icon-rss.svg") no-repeat 50% 50%;
+    background: url("https://res.cloudinary.com/dbrkuvff5/image/upload/v1533679603/assets/icon-rss-wht.svg") no-repeat 50% 50%;
     background-size: 100% 100%;
 }
 
