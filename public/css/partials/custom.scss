@@ -419,7 +419,7 @@ blockquote {
 
 .rss-subscribe {
     width: 9rem;
-    background-color: rgba(68,68,68,1.0);
+    background: rgba(44,44,44,1.0);
     margin-top: 3rem;
 }
 
@@ -429,7 +429,7 @@ blockquote {
 
 .rss-subscribe:hover,
 .rss-subscribe:focus {
-    background: rgba(44,44,44,1.0);
+    background-color: rgba(68,68,68,1.0);
     text-decoration: none;
 }
 
