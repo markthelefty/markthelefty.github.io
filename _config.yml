@@ -40,7 +40,7 @@ author:
     that craziness <a href="/about-mark-mitchell">here</a>.
   image: https://res.cloudinary.com/dbrkuvff5/image/upload/v1533636293/post-images/mark-mitchell-bio-photo.gif
 paginate: 5
-version: 1.2.2
+version: 1.2.3
 github:
   repo: https://github.com/markthelefty/markthelefty.github.io
 plugins:
