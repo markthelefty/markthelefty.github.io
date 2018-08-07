@@ -1,15 +1,20 @@
 ---
-title: Pattern and Style Library
+title: Pattern Library
 date: 2018-07-30 14:00:00 -04:00
 description: This is a post META description. New!!
 image: https://res.cloudinary.com/dbrkuvff5/image/upload/v1532890567/social-images/linkedin-post-img-test.jpg
 ---
 
-Mark On Product is written using [Markdown](https://daringfireball.net/projects/markdown/). The content on the pages use a good amount of [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/). Most of the core components are detailed below, this [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) is also helpful. The [GitHub Markdown](https://help.github.com/categories/writing-on-github/) documentation is also a great reference.
+![Pattern Library Image](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/v1533600164/post-images/pattern-library-header-image.png){: .cld-responsive}
+
+The purpose of this pattern library is to serve as a reference for how commonly used components should be marked up and styled. Mark On Product is written using [Markdown](https://daringfireball.net/projects/markdown/). Most core components are written using [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/). Many of the common patterns are detailed below, this [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) is also helpful. The [GitHub Markdown](https://help.github.com/categories/writing-on-github/) documentation also serves as a great reference.
+
+Mark On Product is built using [Jekyll](https://jekyllrb.com/), the theme is built from [Lanyon](http://lanyon.getpoole.com/) and has been heavily customized.
+<br>
 
 ## Colors
 {: .divider}
-The goal is to use several core "brand" colors. Currently there are two primary colors and one secondary color.
+There are several core "brand" colors, two primary colors and one secondary color.
 
 ![Style Guide Brand Colors](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/v1533289307/post-images/colors.png){: .cld-responsive}
 
@@ -22,10 +27,10 @@ The goal is to use several core "brand" colors. Currently there are two primary 
 
 ## Typography
 {: .divider}
-The fonts choices are intentionally limited and each has a specific purpose.
+The fonts choices are intentionally limited and each has a specific purpose. Post Titles `h1` are set in Myriad Pro. Post Subpage Titles `h2`, Section Headers `h3`, and Subsection Headers `h4` are all set in PT Sans.
 
 ### Headings
-# Post Title (h1)
+# Post Titles (h1)
 {: .post-title}
 ```markdown
 # Post Title (h1)
@@ -41,9 +46,9 @@ font-family: PT Sans
 ### Section Header (h3)
 font-family: PT Sans
 ```
-#### Sub Section Heading (h4)
+#### Subsection Header (h4)
 ```markdown
-#### Sub Section Heading (h4)
+#### Subsection Header (h4)
 font-family: PT Sans
 ```
 <br/>
@@ -60,7 +65,7 @@ line-height: 35.2px;}
 ### Paragraph Lead Text
 <span class="lead">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</span> Proin aliquet sed magna et sodales. Vestibulum vehicula dolor sit amet luctus viverra. Praesent facilisis dictum sapien, et elementum lorem imperdiet pulvinar.
 ```html
-<span class="lead">
+<span class="lead">Lead Text</span>
 ```
 
 ### Italics
@@ -76,9 +81,9 @@ line-height: 35.2px;}
 ```
 
 ### Abbreviations
-Abbreviations, like <abbr title="HyperText Markup Langage">HTML</abbr> should use `<abbr>`, with an optional `title` attribute for the full phrase.
+Abbreviations, like <abbr title="absent without leave">AWOL</abbr> should use `<abbr>`, with an optional `title` attribute for the full phrase.
 ```html
-<abbr title="HyperText Markup Langage">HTML</abbr>
+<abbr title="absent without leave">AWOL</abbr>
 ```
 
 ### Citations
@@ -99,13 +104,13 @@ Citations, like <cite>&mdash; Mark Mitchell</cite>, should use `<cite>`.
 <ins>Inserted</ins>
 ```
 
-### Superscript <sup>text</sup>
+### Superscript Text
 Superscript <sup>text</sup> uses `<sup>`.
 ```html
 Superscript <sup>text</sup>
 ```
 
-### Subscript <sub>text</sub>
+### Subscript Text
 Subscript <sub>text</sub> uses `<sub>`.
 ```html
 Subscript <sub>text</sub>
@@ -114,11 +119,10 @@ Subscript <sub>text</sub>
 
 ## Code Stlyes
 {: .divider}
-Code styles are automatically applied by the Markdown parser as long as the correct code type is added.
-
+Code markup is automatically applied by the Markdown parser as long as the correct code type is added. Styles are handled by [Pygments](http://jwarby.github.io/jekyll-pygments-themes/languages/javascript.html) via the `syntax.css` stylesheet.
 
 ### Inline
-Inline `code` has `back-ticks around` it.
+Inline `code` has (*back-ticks*) around it.
 ```markdown
 `code`
 ```
@@ -141,6 +145,7 @@ Inline `code` has `back-ticks around` it.
 
 ## Lists
 {: .divider}
+There are four lists styles supported. Unordered lists, ordered lists, mixed lists, and definition lists. All lists can be written in Markdown except for definition lists, they are written in HTML.
 
 ### Unordered Lists
 * Praesent commodo cursus magna, vel scelerisque consectetur et.
@@ -179,32 +184,34 @@ Inline `code` has `back-ticks around` it.
 
 ### Definition Lists
 <dl>
-  <dt>HyperText Markup Language (HTML)</dt>
-  <dd>The language used to describe and define the content of a Web page</dd>
+  <dt>Aluminum</dt>
+  <dd>Aluminium or aluminum is a chemical element with symbol Al and atomic number 13. It is a silvery-white, soft, nonmagnetic and ductile metal in the boron group.</dd>
 
-  <dt>Cascading Style Sheets (CSS)</dt>
-  <dd>Used to describe the appearance of Web content</dd>
+  <dt>Brass</dt>
+  <dd>Brass is a metallic alloy that is made of copper and zinc. The proportions of zinc and copper can vary to create different types of brass alloys with varying mechanical and electrical properties.</dd>
 
-  <dt>JavaScript (JS)</dt>
-  <dd>The programming language used to build advanced Web sites and applications</dd>
+  <dt>Copper</dt>
+  <dd>Copper is a chemical element with symbol Cu (from Latin: cuprum) and atomic number 29. It is a soft, malleable, and ductile metal with very high thermal and electrical conductivity.</dd>
 </dl>
 ```html
 <dl>
-  <dt>HyperText Markup Language (HTML)</dt>
-  <dd>The language used to describe and define the content of a Web page</dd>
+  <dt>Aluminum</dt>
+  <dd>Aluminium or aluminum is a chemical element with symbol Al and atomic number 13. It is a silvery-white, soft, nonmagnetic and ductile metal in the boron group.</dd>
 
-  <dt>Cascading Style Sheets (CSS)</dt>
-  <dd>Used to describe the appearance of Web content</dd>
+  <dt>Brass</dt>
+  <dd>Brass is a metallic alloy that is made of copper and zinc. The proportions of zinc and copper can vary to create different types of brass alloys with varying mechanical and electrical properties.</dd>
 
-  <dt>JavaScript (JS)</dt>
-  <dd>The programming language used to build advanced Web sites and applications</dd>
+  <dt>Copper</dt>
+  <dd>Copper is a chemical element with symbol Cu (from Latin: cuprum) and atomic number 29. It is a soft, malleable, and ductile metal with very high thermal and electrical conductivity.</dd>
 </dl>
 ```
-
 <br/>
 
 ## Tables
 {: .divider}
+Tables used are fairly simple, nothing too tricky. 
+
+### Standard Left Aligned
 
 | Company | Contact | Country |
 | --- | --- | --- |
@@ -217,6 +224,24 @@ Inline `code` has `back-ticks around` it.
 | Company | Contact | Country |
 | --- | --- | --- |
 | Alfreds Futterkiste | Maria Anders | Germany |
+| Centro Moctezuma | Francisco Chang | Mexico |
+| Ernst Handel | Roland Mendel | Austria |
+| Island Trading | Helen Bennett | UK |
+```
+
+### Mixed Alignment
+
+| Company | Contact | Country |
+| --- | :---: | ---: |
+| Left Aligned | Center Aligned | Right Aligned |
+| Centro Moctezuma | Francisco Chang | Mexico |
+| Ernst Handel | Roland Mendel | Austria |
+| Island Trading | Helen Bennett | UK |
+
+```markdown
+| Company | Contact | Country |
+| --- | :---: | ---: |
+| Left Aligned | Center Aligned | Right Aligned |
 | Centro Moctezuma | Francisco Chang | Mexico |
 | Ernst Handel | Roland Mendel | Austria |
 | Island Trading | Helen Bennett | UK |
@@ -225,14 +250,21 @@ Inline `code` has `back-ticks around` it.
 
 ## Links
 {: .divider}
-Links will [look like this](http://example.com).
+Links will [look like this](http://example.com), nice and simple.
 ```markdown
 [Linked Text](http://url.com)
 ```
 <br/>
 
-## Image Styles
+## Image Sizing and Formatting
 {: .divider}
+Images can be sized using [this Sketch template](https://res.cloudinary.com/dbrkuvff5/raw/upload/v1533594760/post-files/post-image-template.sketch). There's no secret to the sizing, but it will ensure consistency. There's four sizes, you should consider the final display size as a percentage of the full-body width i.e., 25% of the content container. 
+
+The width is set by adding a class `.width-25`, `.width-50`, `.width-75` or `.width-100`. Images are 100% wide by default so adding a width class isn't necessary. On small (*mobile sized*) screens all images are 100% wide by default.
+
+All image filetypes are acceptable, but care should be taken to ensure the appropriate types are being used. `.jpg` should be used for photos and `.png` should be used for design assets (*like logos*). 
+
+Cloudinary will serve the smallest filetype and size automatically as long as the `.cld-responsive` class is added.
 
 ### 25% Width
 ![Image 25% Wide](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/v1533119534/post-images/post-image-sample-25.png){: .cld-responsive .width-25}
@@ -293,33 +325,31 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin aliquet sed magna
 [![Linked Image](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/v1533119534/post-images/post-image-sample-100.png){: .cld-responsive}](http://www.example.com/ "Example Title")
 ```
 
-### Cloudinary Urls
-[Cloudinary](https://cloudinary.com/) is used for all image and asset hosting. Use the code below to automatically build the URLs and add the correct classes.
+### Cloudinary URLs
+[Cloudinary](https://cloudinary.com/) is used for all image and asset hosting. Use the code below to automatically build the URLs and add the `.cld-responsive` class.
 ```markdown
 ![Alt Text](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/[file_number]/[folder_name]/[file_name]){: .cld-responsive}
 ```
 <br/>
 
-## HTML Elements
+## Horizontal Rules and Dividers
 {: .divider}
-<br/>
+In most cases dividing lines will be added by default as part of the design. In scenarios where you'd like to add a divider manually, there's two ways to do it.
 
-## Dividers
-Page content can be divided using the following two methods.
+The first is to add class `.divider`. This should be used to add a divider to an HTML element.
 
-Add `.divider` class to an element:
-
-### H3 Example
+### h3 With a Divider
 {: .divider}
 
-### Image Example
+### Image With a Divider
 ![Image 100% Wide](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/v1533119534/post-images/post-image-sample-100.png){: .cld-responsive .width-100 .divider}
 
 ```markdown
+### h3 With a Divider
 {: .divider}
 ```
 
-### Generate an `<hr>` HTML element.
+In circumstances when there isn't an element to add the divider class to, simply generate a `<hr>` using Markdown.
 
 ---
 ```markdown
@@ -329,6 +359,9 @@ Add `.divider` class to an element:
 
 ## Message Styles
 {: .divider}
+Messages can be used to call special attention to important content. Messages should not be longer than one or two short sentences.
+
+To create a message, add `.message` to a paragraph. This defines the default style. To create a secondary, success, alert, or danger message add that as a second class. This concept is loosely based on how [Bootstrap](https://getbootstrap.com/docs/4.0/components/alerts/) styles alerts.
 
 ### Default Message
 This is a default message.
@@ -345,21 +378,21 @@ This is a secondary message.
 ```
 
 ### Success Message
-This is a secondary message.
+This is a success message.
 {: .message .message-success}
 ```markdown
 {: .message .message-success}
 ```
 
 ### Alert Message
-This is a secondary message.
+This is an alert message.
 {: .message .message-alert}
 ```markdown
 {: .message .message-alert}
 ```
 
 ### Danger Message
-This is a secondary message.
+This is a danger message.
 {: .message .message-danger}
 ```markdown
 {: .message .message-danger}
