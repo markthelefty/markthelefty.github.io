@@ -35,8 +35,9 @@ author:
   bio: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam id elit vel
     lectus ultricies tristique. Sed aliquam posuere odio, in iaculis dolor cursus
     et. Curabitur in cursus justo. Nullam in dui eget nunc gravida pellentesque at
-    sed urna. Duis tincidunt lectus a accumsan porttitor. Pellentesque dui lacus,
-    efficitur id metus a, auctor ultrices lacus.
+    sed urna. Duis tincidunt lectus a accumsan porttitor. I starterd in the music
+    business then made my way to Product Management, you can get all the details of
+    that craziness [here]({{ site.baseurl }}{% post_url about-mark-mitchell %})
   image: https://res.cloudinary.com/dbrkuvff5/image/upload/v1533636293/post-images/mark-mitchell-bio-photo.gif
 paginate: 5
 version: 1.2.2
