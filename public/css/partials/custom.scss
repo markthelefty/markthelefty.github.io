@@ -429,7 +429,7 @@ blockquote {
 
 .rss-subscribe:hover,
 .rss-subscribe:focus {
-    background: #000;
+    background: rgba(255,255,255,0.1);
     text-decoration: none;
 }
 
@@ -453,6 +453,10 @@ blockquote {
     opacity: 0.3;
     margin: 1rem auto 2rem auto;
     width:4rem;
+}
+
+.sidebar-icon img:hover {
+    opacity: 0.1;
 }
 
 
