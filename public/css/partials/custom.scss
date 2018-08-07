@@ -415,8 +415,6 @@ blockquote {
 .rss-subscribe {
     width:8rem;
     border: 1px solid #fff;
-    background: url("https://res.cloudinary.com/dbrkuvff5/image/upload/v1533679603/assets/icon-rss-wht.svg") no-repeat 50% 50%;
-    background-size: 100% 100%;
 }
 
 .rss-subscribe:active {
@@ -430,7 +428,7 @@ blockquote {
     text-decoration: none;
 }
 
-/*.rss-subscribe:before{
+.rss-subscribe:before{
     content:  "\0000a0";
     display: inline-block;
     width: .7rem;
@@ -440,7 +438,7 @@ blockquote {
     left: 0px;
     background: url("https://res.cloudinary.com/dbrkuvff5/image/upload/v1533679603/assets/icon-rss-wht.svg") no-repeat 50% 50%;
     background-size: 100% 100%;
-}*/
+}
 
 
 
