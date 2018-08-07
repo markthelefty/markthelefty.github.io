@@ -429,9 +429,7 @@ blockquote {
 .rss-subscribe:before{
     content:  "\0000a0";
     display: inline-block;
-    height: 24px;
-    width: 24px;
-    line-height: 24px;
+    width: .7rem;
     margin: 0 4px -6px -4px;
     position: relative;
     top: 0px;
