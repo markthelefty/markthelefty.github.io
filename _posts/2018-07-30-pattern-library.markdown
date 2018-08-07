@@ -1,7 +1,10 @@
 ---
 title: Pattern Library
 date: 2018-07-30 14:00:00 -04:00
-description: This is a post META description. New!!
+description: Every publication, application and organization can benefit from having
+  consistent branding and design patterns. It takes some time and effort to build
+  a complete pattern library, but the effort is worth it. This is the Mark On Product
+  pattern library - hopefully it's useful.
 image: https://res.cloudinary.com/dbrkuvff5/image/upload/v1533634577/social-images/pattern-library-social-image.jpg
 ---
 
