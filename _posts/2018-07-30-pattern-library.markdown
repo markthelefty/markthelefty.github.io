@@ -2,7 +2,7 @@
 title: Pattern Library
 date: 2018-07-30 14:00:00 -04:00
 description: This is a post META description. New!!
-image: https://res.cloudinary.com/dbrkuvff5/image/upload/v1532890567/social-images/linkedin-post-img-test.jpg
+image: https://res.cloudinary.com/dbrkuvff5/image/upload/v1533634577/social-images/pattern-library-social-image.jpg
 ---
 
 ![Pattern Library Image](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/v1533600164/post-images/pattern-library-header-image.png){: .cld-responsive}
