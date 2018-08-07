@@ -5,6 +5,8 @@ description: This is a post META description. New!!
 image: https://res.cloudinary.com/dbrkuvff5/image/upload/v1532890567/social-images/linkedin-post-img-test.jpg
 ---
 
+![Pattern Library Image](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/v1533600164/post-images/pattern-library-header-image.png){: .cld-responsive}
+
 The purpose of this pattern library is to serve as a reference for how commonly used components should be marked up and styled. Mark On Product is written using [Markdown](https://daringfireball.net/projects/markdown/). Most core components are written using [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/). Many of the common patterns are detailed below, this [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) is also helpful. The [GitHub Markdown](https://help.github.com/categories/writing-on-github/) documentation also serves as a great reference.
 
 Mark On Product is built using [Jekyll](https://jekyllrb.com/), the theme is built from [Lanyon](http://lanyon.getpoole.com/) and has been heavily customized.
