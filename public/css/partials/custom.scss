@@ -49,6 +49,10 @@ html {
     background-color: transparent;
 }
 
+.sidebar a {
+    font-size:1rem;
+}
+
 .page-title,
 .post-title {
     font-family: "myriad-pro", "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
@@ -446,8 +450,9 @@ blockquote {
 }
 
 .sidebar-icon img {
-    opacity: 1.0;
-    margin:0 auto;
+    opacity: 0.3;
+    margin: 1rem auto 2rem auto;
+    width:4rem;
 }
 
 
