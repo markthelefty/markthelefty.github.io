@@ -6,6 +6,7 @@ description: Every publication, application and organization can benefit from ha
   a complete pattern library, but the effort is worth it. This is the Mark On Product
   pattern library - hopefully it's useful.
 image: https://res.cloudinary.com/dbrkuvff5/image/upload/v1533634577/social-images/pattern-library-social-image.jpg
+readtime: 10
 ---
 
 ![Pattern Library Image](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/v1533600164/post-images/pattern-library-header-image.png){: .cld-responsive}
