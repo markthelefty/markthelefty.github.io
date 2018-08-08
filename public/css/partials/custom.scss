@@ -115,17 +115,17 @@ strong {
 
 .footer-inner {
     width: 100%;
-    height: 40px;
+    /*height: auto;*/
     /*margin: auto;*/
     background: $brand-black;
     padding: .9rem 0 .6rem 0;
 }
 
-/*.footer-social-icons {
-    width: 100%;
-    height: auto;
-    margin: auto;
-}*/
+.footer-social-icons {
+    /*width: 100%;*/
+    height: 30px;
+    /*margin: auto;*/
+}
 
 .footer-social-icons ul {
     margin: 0;
