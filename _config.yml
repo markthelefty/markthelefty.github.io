@@ -14,7 +14,8 @@ defaults:
     type: posts
   values:
     description: 
-    image: 
+    pageimage: 
+    socialimage: 
     readtime: 
 - scope:
     path: ''
