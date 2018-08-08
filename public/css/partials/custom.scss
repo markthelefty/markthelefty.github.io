@@ -147,7 +147,7 @@ strong {
     display: block;
     width: 45px;
     height: 45px;
-    background-size: 68% auto;
+    /*background-size: 68% auto;*/
 }
 
 .footer-social-icons ul li:hover {
@@ -161,10 +161,12 @@ strong {
 
 a.social-twitter {
     background: url("https://res.cloudinary.com/dbrkuvff5/image/upload/v1532885968/assets/social-twitter.svg") no-repeat 50% 50%;
+    background-size: 68% auto;
 }
 
 a.social-linkedin {
     background: url("https://res.cloudinary.com/dbrkuvff5/image/upload/v1532885965/assets/social-linkedin.svg") no-repeat 50% 50%;
+    background-size: 68% auto;
 }
 
 a.social-github {
