@@ -98,6 +98,19 @@ h3 {
     margin: 0 1rem 0 0;  
 }
 
+.post-readtime:before{
+    content:  "\0000a0";
+    display: inline-block;
+    width: 1rem;
+    height:1rem;
+    margin: 0 0.3rem 0 0;
+    position: relative;
+    top: .2rem;
+    left: 0;
+    background: url("https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/v1533724681/assets/icon-readtime.svg") no-repeat;
+    background-size: 100% 100%;
+}
+
 p {
     @media (min-width: 30em) {
         line-height: 1.6;
