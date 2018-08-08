@@ -101,11 +101,11 @@ h3 {
 .post-readtime:before{
     content:  "\0000a0";
     display: inline-block;
-    width: 1rem;
-    height:1rem;
-    margin: 0 0.3rem 0 0;
+    width: .7rem;
+    height: .7rem;
+    margin: 0 0.2rem 0 0;
     position: relative;
-    top: .2rem;
+    top: .3rem;
     left: 0;
     background: url("https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/v1533724681/assets/icon-readtime.svg") no-repeat;
     background-size: 100% 100%;
