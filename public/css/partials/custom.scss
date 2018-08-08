@@ -49,6 +49,10 @@ html {
     background-color: transparent;
 }
 
+.sidebar a {
+    font-size:1rem;
+}
+
 .page-title,
 .post-title {
     font-family: "myriad-pro", "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
@@ -111,10 +115,10 @@ strong {
 
 .footer-inner {
     width: 100%;
-    height: auto;
-    margin: auto;
+    /*height: auto;*/
+    /*margin: auto;*/
     background: $brand-black;
-    padding: 20px 0px 15px 0px;
+    padding: .9rem 0 .6rem 0;
 }
 
 .footer-social-icons {
@@ -124,16 +128,16 @@ strong {
 }
 
 .footer-social-icons ul {
-    margin: 0px;
-    padding: 0px;
+    margin: 0;
+    padding: 0;
     text-align: center;
 }
 
 .footer-social-icons ul li {
     display: inline-block;
-    width: 45px;
-    height: 45px;
-    margin: 0px 10px;
+    width: 2.2rem;
+    height: 2.2rem;
+    margin: 0 .5rem;
     border-radius: 100%;
     background: $brand-green;
 }
@@ -141,9 +145,9 @@ strong {
 .footer-social-icons ul li a {
     /*color: #272727;*/
     display: block;
-    width: 45px;
-    height: 45px;
-    background-size: 68% auto;
+    width: 2.2rem;
+    height: 2.2rem;
+    /*background-size: 68% auto;*/
 }
 
 .footer-social-icons ul li:hover {
@@ -157,56 +161,59 @@ strong {
 
 a.social-twitter {
     background: url("https://res.cloudinary.com/dbrkuvff5/image/upload/v1532885968/assets/social-twitter.svg") no-repeat 50% 50%;
+    background-size: 66% auto;
 }
 
 a.social-linkedin {
     background: url("https://res.cloudinary.com/dbrkuvff5/image/upload/v1532885965/assets/social-linkedin.svg") no-repeat 50% 50%;
+    background-size: 64% auto;
 }
 
 a.social-github {
     background: url("https://res.cloudinary.com/dbrkuvff5/image/upload/v1532885964/assets/social-github.svg") no-repeat 50% 50%;
+    background-size: 75% auto;
 }
 
 .footer-menu-one {
     width: 100%;
-    height: auto;
-    margin: auto;
-    margin-top: 10px;
+    /*height: auto;*/
+    /*margin: auto;*/
+    margin-top: .4rem;
 }
 
 .footer-menu-one ul {
-    margin: 0px;
-    padding: 0px;
+    margin: 0;
+    padding: 0;
     text-align: center;
 }
 
 .footer-menu-one ul li {
     display: inline-block;
-    margin: 0px 15px;
+    margin: 0 .5rem;
 }
 
 .footer-menu-one ul li a {
-    font-size: 15px;
+    font-size: .740rem;
     color: #fff;
     letter-spacing: 1px;
     text-transform: uppercase;
 }
 
 .footer-menu-one ul li a:hover {
-    color: #68A344;
+    color: $brand-green;
     text-decoration: none;
 }
 
 .footer-bottom {
     width: 100%;
-    height: auto;
-    margin: auto;
+    /*height: auto;*/
+    /*margin: auto;*/
     background: $brand-green;
-    padding: 10px;
+    padding: .4rem;
 }
 
 .footer-bottom p {
-    font-size: 14px;
+    font-size: .740rem;
     text-align: center;
     color: #fff;
     letter-spacing: 1px;
@@ -227,12 +234,12 @@ body {
 }
 
 .content {
-    padding-bottom: 170px;
+    padding-bottom: 160px;
 }
 
 .footer {
     width: 100%;
-    height: 170px;
+    height: 160px;
     position: absolute;
     bottom: 0;
     left: 0;
@@ -401,3 +408,60 @@ blockquote {
             line-height: 1.5rem;
     }
 }
+
+.btn {
+    display: block;
+    text-align: center;
+    vertical-align: middle;
+    padding: .3rem 0;
+    border-radius: .3rem;
+    text-decoration: none;
+    margin: 0 auto;
+    cursor: pointer;
+}
+
+.rss-subscribe {
+    width: 9rem;
+    background: rgba(44,44,44,1.0);
+    margin-top: 3rem;
+}
+
+.rss-subscribe:active {
+    background: #e0e0e0;
+}
+
+.rss-subscribe:hover,
+.rss-subscribe:focus {
+    background-color: rgba(68,68,68,1.0);
+    text-decoration: none;
+}
+
+.rss-subscribe:before{
+    content:  "\0000a0";
+    display: inline-block;
+    width: 1rem;
+    height:1rem;
+    margin: 0 0.3rem 0 0;
+    position: relative;
+    top: .2rem;
+    left: 0;
+    background: url("https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/v1533679603/assets/icon-rss-wht.svg") no-repeat;
+    background-size: 100% 100%;
+}
+
+.sidebar-icon {
+    display: block;
+}
+
+.sidebar-icon img {
+    opacity: 0.3;
+    margin: 1rem auto 2rem auto;
+    width:4rem;
+}
+
+.sidebar-icon img:hover {
+    opacity: 0.1;
+}
+
+
+

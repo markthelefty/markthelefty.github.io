@@ -136,11 +136,11 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/_posts\/2018-07-30-theme-style-guide.markdown": {
+	"\/_posts\/2018-07-30-pattern-library.markdown": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/_posts\/2018-07-30-theme-style-guide.markdown",
+		"oAP": "\/_posts\/2018-07-30-pattern-library.markdown",
 		"oF": 0
 		},
 	"\/about-mark-mitchell.md": {
@@ -160,6 +160,13 @@
 		"pME": 1,
 		"rFN": 0,
 		"uCM": 0
+		},
+	"\/archive.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/archive.markdown",
+		"oF": 0
 		},
 	"\/atom.xml": {
 		"cB": 0,
