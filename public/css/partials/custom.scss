@@ -118,7 +118,7 @@ strong {
     /*height: auto;
     margin: auto;*/
     background: $brand-black;
-    padding: 1em;
+    padding: 1rem;
 }
 
 /*.footer-social-icons {
@@ -135,9 +135,9 @@ strong {
 
 .footer-social-icons ul li {
     display: inline-block;
-    width: 2.2em;
-    height: 2.2em;
-    margin: 0 .5em;
+    width: 2.2rem;
+    height: 2.2rem;
+    margin: 0 .5rem;
     border-radius: 100%;
     background: $brand-green;
 }
@@ -145,8 +145,8 @@ strong {
 .footer-social-icons ul li a {
     /*color: #272727;*/
     display: block;
-    width: 2.2em;
-    height: 2.2em;
+    width: 2.2rem;
+    height: 2.2rem;
     /*background-size: 68% auto;*/
 }
 
@@ -178,7 +178,7 @@ a.social-github {
     width: 100%;
     /*height: auto;*/
     /*margin: auto;*/
-    margin-top: .4em;
+    margin-top: .4rem;
 }
 
 .footer-menu-one ul {
@@ -189,11 +189,11 @@ a.social-github {
 
 .footer-menu-one ul li {
     display: inline-block;
-    margin: 0px 15px;
+    margin: 0 .5rem;
 }
 
 .footer-menu-one ul li a {
-    font-size: 15px;
+    font-size: .9rem;
     color: #fff;
     letter-spacing: 1px;
     text-transform: uppercase;
@@ -209,11 +209,11 @@ a.social-github {
     /*height: auto;*/
     /*margin: auto;*/
     background: $brand-green;
-    padding: .4em;
+    padding: .4rem;
 }
 
 .footer-bottom p {
-    font-size: 14px;
+    font-size: .9rem;
     text-align: center;
     color: #fff;
     letter-spacing: 1px;
