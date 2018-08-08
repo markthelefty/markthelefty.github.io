@@ -115,8 +115,8 @@ strong {
 
 .footer-inner {
     width: 100%;
-    /*height: auto;
-    margin: auto;*/
+    height: 40px;
+    /*margin: auto;*/
     background: $brand-black;
     padding: .9rem 0 .6rem 0;
 }
@@ -131,7 +131,6 @@ strong {
     margin: 0;
     padding: 0;
     text-align: center;
-    display:block; /*ffff*/
 }
 
 .footer-social-icons ul li {
