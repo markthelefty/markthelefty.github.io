@@ -14,7 +14,7 @@ defaults:
     type: posts
   values:
     description: 
-    pageimage: 
+    postimage: 
     socialimage: 
     readtime: 
 - scope:
@@ -22,7 +22,6 @@ defaults:
     type: pages
   values:
     description: 
-    image: 
 markdown: kramdown
 rouge: true
 permalink: "/:title"
