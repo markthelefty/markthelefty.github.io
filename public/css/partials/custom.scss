@@ -754,20 +754,16 @@ blockquote {
     grid-template-columns: 1fr 1fr 1fr;
   } 
 }
-
-section:first-child {
+section:first-child { /*Styles for the first article*/
   @media (min-width: 500px) {
    grid-column: 1/ span 2;
   } 
 }
-
-section:first-child h1{
+section:first-child h1{ /*Styles for the first article*/
    @media (min-width: 500px) {
     font-size: 30px;
   } 
 }
-
-/* card */
 .card {
   min-height: 100%;
   background: #fff;
@@ -780,12 +776,10 @@ section:first-child h1{
   transition: all .1s ease-in;
   border-top: 4px solid $brand-green;
 }
-
 .card:hover {
   top: -2px;
   box-shadow: 0 4px 5px rgba(0,0,0,0.2);
 }
-
 .card article {
   padding: 20px;
   display: flex;
@@ -799,14 +793,12 @@ section:first-child h1{
   background-size: cover;
   background-position: center center;
 }
-
 .card h1 {
   /*white-space: nowrap;*/
   overflow: hidden;
   text-overflow: ellipsis;
   max-width: 140ch;
 }
-
 .card p { 
   flex: 1; /* make p grow to fill available space*/
   /*white-space: nowrap;*/
