@@ -3,107 +3,24 @@ layout: default
 ---
 
   <div class="article-grid">
-
-    <section>
-      <a href="#" class="card">
-        <div class="thumb cld-responsive" style="background-image: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/210284/flex-1.jpg);"></div>
-          <article>
-            <h1 class="post-title">International Artist Feature Malaysia</h1>
-              <ul class="post-meta">
-                <li class="post-date">July 30, 2018</li>
-                <li class="post-readtime">9 min read</li>
-              </ul>
-              <hr>
-              <p>Every publication, application and organization can benefit from having consistent branding and design patterns. It takes some time and effort to build a complete pattern library, but the effort is worth it. This is the Mark On Product pattern library - hopefully it’s useful.</p>
-          </article>
-      </a>
-    </section>
-
-    <section>
-      <a href="#" class="card">
-        <div class="thumb cld-responsive" style="background-image: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/210284/flex-1.jpg);"></div>
-          <article>
-            <h1 class="post-title">International Artist Feature Malaysia</h1>
-              <ul class="post-meta">
-                <li class="post-date">July 30, 2018</li>
-                <li class="post-readtime">9 min read</li>
-              </ul>
-              <hr>
-              <p>Every publication, application and organization can benefit from having consistent branding and design patterns. It takes some time and effort to build a complete pattern library, but the effort is worth it. This is the Mark On Product pattern library - hopefully it’s useful.</p>
-          </article>
-      </a>
-    </section>
-
-    <section>
-      <a href="#" class="card">
-        <div class="thumb cld-responsive" style="background-image: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/210284/flex-1.jpg);"></div>
-          <article>
-            <h1 class="post-title">International Artist Feature Malaysia</h1>
-              <ul class="post-meta">
-                <li class="post-date">July 30, 2018</li>
-                <li class="post-readtime">9 min read</li>
-              </ul>
-              <hr>
-              <p>Every publication, application and organization can benefit from having consistent branding and design patterns. It takes some time and effort to build a complete pattern library, but the effort is worth it. This is the Mark On Product pattern library - hopefully it’s useful.</p>
-          </article>
-      </a>
-    </section>
-
-    <section>
-      <a href="#" class="card">
-        <div class="thumb cld-responsive" style="background-image: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/210284/flex-1.jpg);"></div>
-          <article>
-            <h1 class="post-title">International Artist Feature Malaysia</h1>
-              <ul class="post-meta">
-                <li class="post-date">July 30, 2018</li>
-                <li class="post-readtime">9 min read</li>
-              </ul>
-              <hr>
-              <p>Every publication, application and organization can benefit from having consistent branding and design patterns. It takes some time and effort to build a complete pattern library, but the effort is worth it. This is the Mark On Product pattern library - hopefully it’s useful.</p>
-          </article>
-      </a>
-    </section>
-
-    <section>
-      <a href="#" class="card">
-        <div class="thumb cld-responsive" style="background-image: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/210284/flex-1.jpg);"></div>
-          <article>
-            <h1 class="post-title">International Artist Feature Malaysia</h1>
-              <ul class="post-meta">
-                <li class="post-date">July 30, 2018</li>
-                <li class="post-readtime">9 min read</li>
-              </ul>
-              <hr>
-              <p>Every publication, application and organization can benefit from having consistent branding and design patterns. It takes some time and effort to build a complete pattern library, but the effort is worth it. This is the Mark On Product pattern library - hopefully it’s useful.</p>
-          </article>
-      </a>
-    </section>
-
-   
-
-
+    {% for post in paginator.posts %}
+      <section>
+        <a href="{{ post.url }}" class="card">
+          <div class="thumb cld-responsive" style="background-image: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/210284/flex-1.jpg);"></div>
+            <article>
+              <h1 class="post-title">{{ post.title }}</h1>
+                <ul class="post-meta">
+                  <li class="post-date">{{ post.date | date: '%B %d, %Y' }}</li>
+                  <li class="post-readtime">{{ post.readtime }} min read</li>
+                </ul>
+                <hr>
+              <p>{{ post.description }}</p>
+            </article>
+        </a>
+      </section>
+    {% endfor %}
   </div><!--/article-grid-->
 
-
-
-
-
-
-              <div class="post-card">
-          <a href="#">
-          <img class="cld-responsive" src="https://res.cloudinary.com/dbrkuvff5/image/upload/v1533634577/social-images/pattern-library-social-image.jpg">
-          </a>
-          <div class="post-card-content">
-          <h1 class="post-title"><a href="#">Pattern Library</a></h1>
-          <ul class="post-meta">
-            <li class="post-date">July 30, 2018</li>
-            <li class="post-readtime">9 min read</li>
-          </ul>
-          <hr>
-        <p>Every publication, application and organization can benefit from having consistent branding and design patterns. It takes some time and.</p>
-        <a href="#">Have A Read</a>
-        </div>
-      </div>
 
 
 
