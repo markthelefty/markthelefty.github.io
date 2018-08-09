@@ -6,7 +6,7 @@ layout: default
     {% for post in paginator.posts %}
       <section>
         <a href="{{ post.url }}" class="card">
-          <div class="thumb cld-responsive" style="background-image: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/210284/flex-1.jpg);"></div>
+          <div class="thumb cld-responsive" style="background-image: url({{ page.postimage }});"></div>
             <article>
               <h1 class="post-title">{{ post.title }}</h1>
                 <ul class="post-meta">
