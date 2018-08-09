@@ -2,23 +2,27 @@
 layout: default
 ---
 
-<div class="posts">
-  {% for post in paginator.posts %}
-  <div class="post">
-    <h1 class="post-title">
-      <a href="{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h1>
+  <div class="article-grid">
+    {% for post in paginator.posts limit:11 %}
+      <section>
+        <a href="{{ post.url }}" class="card">
+          <div class="thumb cld-responsive" style="background-image: url({{ post.postimage }});"></div>
+            <article>
+              <h1 class="post-title">{{ post.title }}</h1>
+                <ul class="post-meta">
+                  <li class="post-date">{{ post.date | date: '%B %d, %Y' }}</li>
+                  <li class="post-readtime">{{ post.readtime }} min read</li>
+                </ul>
+                <hr>
+              <p>{{ post.description }}</p>
+            </article>
+        </a>
+      </section>
+    {% endfor %}
+  </div><!--/article-grid-->
 
-    <span class="post-date">{{ post.date | date: '%B %d, %Y' }}</span>
-    
-    {{ post.content }}
-  </div>
-  {% endfor %}
-</div>
 
-<div class="pagination">
+<!--<div class="pagination">
   {% if paginator.next_page %}
     <a class="pagination-item older" href="/page{{paginator.next_page}}">Older</a>
   {% else %}
@@ -33,4 +37,4 @@ layout: default
   {% else %}
     <span class="pagination-item newer">Newer</span>
   {% endif %}
-</div>
+</div>-->
