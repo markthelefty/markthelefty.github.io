@@ -746,9 +746,9 @@ blockquote {
 }
 
 .post-card {
-  border: 1px solid #000;
   margin-bottom: 1.5rem;
   border: 1px solid $divider-gray;
+  border-top: 3px $brand-green;
   background-color: #fff;
   border-radius: 3px;
   @media (min-width: 70em) {
