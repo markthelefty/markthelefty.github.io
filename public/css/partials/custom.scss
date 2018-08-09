@@ -779,9 +779,7 @@ blockquote {
 
 
 
-.band {
-  /*width: 90%;*/
-  /*max-width: 1240px;*/
+.article-grid {
   margin: 0 auto;
   display: grid;
   grid-template-columns: 1fr;
@@ -794,6 +792,12 @@ blockquote {
     grid-template-columns: 1fr 1fr 1fr;
   } 
 }
+
+.article-grid:nth-of-type(1) {
+  background-color: red;
+}
+
+
 
 .item-1 {
    @media (min-width: 500px) {
