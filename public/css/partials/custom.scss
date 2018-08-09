@@ -202,13 +202,13 @@ tbody tr:nth-child(odd) td, tbody tr:nth-child(odd) th {
 
 /* Container and Wrap */
 .container {
-  max-width: 95%;
+  max-width: 96%;
   margin: 0 auto;
   padding: 0 1rem;
 }
 @media (min-width: 30rem) {
   .container {
-    max-width: 80%;
+    max-width: 75%;
   }
 }
 
