@@ -750,6 +750,7 @@ blockquote {
   margin-bottom: 1.5rem;
   border: 1px solid $divider-gray;
   background-color: #fff;
+  border-radius: 3px;
   @media (min-width: 70em) {
     width:45%;
     float:left;
