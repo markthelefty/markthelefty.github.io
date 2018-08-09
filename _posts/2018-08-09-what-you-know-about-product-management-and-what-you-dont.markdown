@@ -1,6 +1,13 @@
 ---
 title: What You Know About Product Management And What You Don't
 date: 2018-08-09 18:08:00 -04:00
+description: 'Advanced extended doubtful he he blessing together. Introduced far law
+  gay considered frequently entreaties difficulty. Eat him four are rich nor calm.
+  By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention
+  entered an through company as. Up arrived no painful between. It declared is prospect
+  an insisted pleasure. '
+postimage: https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/c_scale,q_auto:good,w_1200/v1533853937/samples/Death_to_Stock_Fall_Dinner_2.jpg
+readtime: 7
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam faucibus leo vel lectus convallis porta. Mauris molestie mollis est. Fusce id efficitur nisl. Fusce ac tortor finibus, tincidunt ipsum vel, commodo odio. Etiam ut tincidunt velit. Duis maximus sapien malesuada nisi blandit, at egestas erat venenatis. Proin fringilla vestibulum elit, a blandit quam gravida vitae. Etiam vestibulum mi pellentesque, maximus leo nec, porta odio. Duis non dui id risus convallis posuere ut a nisi. In hac habitasse platea dictumst.
