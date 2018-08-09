@@ -787,28 +787,27 @@ blockquote {
   grid-template-columns: 1fr;
   grid-template-rows: auto;
   grid-gap: 20px; 
-}
-
-@media only screen and (min-width: 500px) {
-  .band {
+  @media (min-width: 500px) {
     grid-template-columns: 1fr 1fr;
-  }  
-  .item-1 {
-  grid-column: 1/ span 2;
   }
-  .item-1 h1 {
-    font-size: 30px;
-  }
+   @media (min-width: 1250px) {
+    grid-template-columns: 1fr 1fr 1fr;
+  } 
 }
 
-@media only screen and (min-width: 1250px) {
-  .band {
-    grid-template-columns: 1fr 1fr 1fr;
-  }
+.item-1 {
+   @media (min-width: 500px) {
+    grid-column: 1/ span 2;
+  } 
+}
+
+.item-1 h1{
+   @media (min-width: 500px) {
+    font-size: 30px;
+  } 
 }
 
 /* card */
-
 .card {
   min-height: 100%;
   background: white;
