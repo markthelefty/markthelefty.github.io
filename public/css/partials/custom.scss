@@ -746,7 +746,7 @@ blockquote {
   display: grid;
   grid-template-columns: 1fr;
   grid-template-rows: auto;
-  grid-gap: 1rem; 
+  grid-gap: 2rem; 
   @media (min-width: 500px) {
     grid-template-columns: 1fr 1fr;
   }
@@ -800,4 +800,7 @@ section:first-child h1{ /*Styles for the first article*/
 .card p { 
   flex: 1; /* make p grow to fill available space*/
   font-size: 0.9rem;
+}
+.card hr {
+  margin: .75rem 0;
 }
