@@ -744,13 +744,12 @@ blockquote {
   top: .2rem;
   width: 1rem;
 }
-
 .post-card {
   margin-bottom: 1.7rem;
   border-left: 1px solid $divider-gray;
   border-right: 1px solid $divider-gray;
   border-bottom: 1px solid $divider-gray;
-  border-top: 3px solid $brand-green;
+  border-top: 4px solid $brand-green;
   background-color: #fff;
   border-radius: 3px;
   overflow:hidden;
@@ -759,17 +758,20 @@ blockquote {
     float:left;
   }
 }
-
 .post-card:nth-child(odd) {
     @media (min-width: 70em) {
       margin-right:5%;
   }  
 }
-
 .post-card:nth-child(even) {
 
 }
-
 .post-card-content {
   padding: 1rem 1rem 1.5rem 1rem;
+}
+.post-card-content h1{
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 15ch;
 }
