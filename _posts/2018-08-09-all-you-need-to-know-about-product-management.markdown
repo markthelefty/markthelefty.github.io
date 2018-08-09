@@ -5,7 +5,7 @@ description: 'At distant inhabit amongst by. Appetite welcomed interest the good
   boy not. Estimable education for disposing pronounce her. John size good gay plan
   sent old roof own. Inquietude saw understood his friendship frequently yet. Nature
   his marked ham wished. '
-postimage: https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/v1533853937/samples/Deat_to_Stock_Goods_4.jpg
+postimage: https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/c_scale,q_auto:good,w_1200/v1533853937/samples/Deat_to_Stock_Goods_4.jpg
 readtime: 8
 ---
 
