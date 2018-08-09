@@ -746,7 +746,9 @@ blockquote {
 }
 
 .post-card {
-  width:50%;
-  float:left;
   border: 1px solid #000;
+  @media (min-width: 30em) {
+    width:50%;
+    float:left;
+  }
 }
