@@ -257,19 +257,6 @@
 		"oS": 3,
 		"uL": 1
 		},
-	"\/public\/css\/partials\/simple-grid.scss": {
-		"aP": 1,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/_includes\/css\/simple-grid.css",
-		"oF": 0,
-		"oS": 3,
-		"uL": 1
-		},
 	"\/public\/css\/partials\/typekit.scss": {
 		"aP": 1,
 		"bl": 0,
