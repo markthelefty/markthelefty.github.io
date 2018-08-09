@@ -770,13 +770,13 @@ blockquote {
   padding: 1rem 1rem 1.5rem 1rem;
 }
 .post-card-content h1 {
-    white-space: nowrap;
+    /*white-space: nowrap;*/
     overflow: hidden;
     text-overflow: ellipsis;
     max-width: 140ch;
 }
 .post-card-content p {
-    white-space: nowrap;
+    /*white-space: nowrap;*/
     overflow: hidden;
     text-overflow: ellipsis;
     max-width: 280ch;
