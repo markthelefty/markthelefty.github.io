@@ -747,7 +747,7 @@ blockquote {
 
 .post-card {
   border: 1px solid #000;
-  @media (min-width: 60em) {
+  @media (min-width: 70em) {
     width:45%;
     float:left;
   }
@@ -755,7 +755,7 @@ blockquote {
 
 .post-card:nth-child(odd) {
   background: red;
-    @media (min-width: 60em) {
+    @media (min-width: 70em) {
       margin-right:5%;
   }  
 }
