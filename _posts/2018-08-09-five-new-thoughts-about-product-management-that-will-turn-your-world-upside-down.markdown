@@ -2,6 +2,14 @@
 title: Five New Thoughts About Product Management That Will Turn Your World Upside
   Down
 date: 2018-08-09 18:13:00 -04:00
+description: 'Although moreover mistaken kindness me feelings do be marianne. Son
+  over own nay with tell they cold upon are. Cordial village and settled she ability
+  law herself. Finished why bringing but sir bachelor unpacked any thoughts. Unpleasing
+  unsatiable particular inquietude did nor sir. Get his declared appetite distance
+  his together now families. Friends am himself at on norland it viewing. Suspected
+  elsewhere you belonging continued commanded she. '
+postimage: https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/c_scale,q_auto:good,w_1200/v1533853938/samples/Death_to_Stock_Chasing_Sunrise_5_Ivan_Calderon.jpg
+readtime: 7
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam faucibus leo vel lectus convallis porta. Mauris molestie mollis est. Fusce id efficitur nisl. Fusce ac tortor finibus, tincidunt ipsum vel, commodo odio. Etiam ut tincidunt velit. Duis maximus sapien malesuada nisi blandit, at egestas erat venenatis. Proin fringilla vestibulum elit, a blandit quam gravida vitae. Etiam vestibulum mi pellentesque, maximus leo nec, porta odio. Duis non dui id risus convallis posuere ut a nisi. In hac habitasse platea dictumst.
