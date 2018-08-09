@@ -792,17 +792,12 @@ blockquote {
 }
 
 section:first-child {
-  background-color: red;
-}
-
-
-.item-1 {
-   @media (min-width: 500px) {
-    grid-column: 1/ span 2;
+  @media (min-width: 500px) {
+   grid-column: 1/ span 2;
   } 
 }
 
-.item-1 h1{
+section:first-child h1{
    @media (min-width: 500px) {
     font-size: 30px;
   } 
