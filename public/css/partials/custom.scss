@@ -481,13 +481,12 @@ a.pagination-item:hover {
   padding-top: .5rem;
 }
 .masthead-title {
-  margin-left: 10.5%;
 }
 .masthead-title img {
   margin: 0 auto;
   opacity: 1.0;
   @media (min-width: 30em) {
-    margin: 0;
+    margin: 0 0 0 10.5%;
   }
 }
 .masthead-title img:hover {
