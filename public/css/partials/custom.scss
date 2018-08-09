@@ -755,12 +755,11 @@ blockquote {
 }
 
 .post-card:nth-child(odd) {
-  background: red;
     @media (min-width: 70em) {
       margin-right:5%;
   }  
 }
 
 .post-card:nth-child(even) {
-    background: blue;
+
 }
