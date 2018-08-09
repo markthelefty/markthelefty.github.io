@@ -469,7 +469,7 @@ a.pagination-item:hover {
 /*Masthead*/
 .masthead {
   background: $brand-black;
-  /*margin-bottom: 2rem;*/
+  margin-bottom: 2rem;
   padding-top: .5rem;
 }
 .masthead-title img {
@@ -829,7 +829,6 @@ blockquote {
 .card article {
   padding: 20px;
   display: flex;
-  
   flex: 1;
   justify-content: space-between;
   flex-direction: column;
