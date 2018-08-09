@@ -1,6 +1,14 @@
 ---
 title: Everything You Need To Know About Product Management
 date: 2018-08-09 18:11:00 -04:00
+description: 'As absolute is by amounted repeated entirely ye returned. These ready
+  timed enjoy might sir yet one since. Years drift never if could forty being no.
+  On estimable dependent as suffering on my. Rank it long have sure in room what as
+  he. Possession traveling sufficient yet our. Talked vanity looked in to. Gay perceive
+  led believed endeavor. Rapturous no of estimable oh therefore direction up. Sons
+  the ever not fine like eyes all sure. '
+postimage: https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/c_scale,q_auto:good,w_1200/v1533853938/samples/Death_to_Stock_Chasing_Sunrise_3_Julian_DeSchutter.jpg
+readtime: 5
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam faucibus leo vel lectus convallis porta. Mauris molestie mollis est. Fusce id efficitur nisl. Fusce ac tortor finibus, tincidunt ipsum vel, commodo odio. Etiam ut tincidunt velit. Duis maximus sapien malesuada nisi blandit, at egestas erat venenatis. Proin fringilla vestibulum elit, a blandit quam gravida vitae. Etiam vestibulum mi pellentesque, maximus leo nec, porta odio. Duis non dui id risus convallis posuere ut a nisi. In hac habitasse platea dictumst.
