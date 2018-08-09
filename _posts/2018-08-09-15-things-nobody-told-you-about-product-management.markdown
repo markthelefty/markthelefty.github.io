@@ -6,7 +6,7 @@ description: 'Sitting mistake towards his few country ask. You delighted two rap
   unaffected. Norland adapted put ham cordial. Ladies talked may shy basket narrow
   see. Him she distrusts questions sportsmen. Tolerably pretended neglected on my
   earnestly by. Sex scale sir style truth ought. '
-postimage: https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/v1533853938/samples/Deat_to_Stock_Goods_1.jpg
+postimage: https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/c_scale,q_auto:good,w_1200/v1533853938/samples/Deat_to_Stock_Goods_1.jpg
 readtime: 3
 ---
 
