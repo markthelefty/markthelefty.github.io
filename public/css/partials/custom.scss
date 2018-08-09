@@ -752,3 +752,11 @@ blockquote {
     float:left;
   }
 }
+
+.post-card:nth-child(odd) {
+    background: red;
+}
+
+.post-card:nth-child(even) {
+    background: blue;
+}
