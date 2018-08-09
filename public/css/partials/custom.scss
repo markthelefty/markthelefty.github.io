@@ -202,20 +202,20 @@ tbody tr:nth-child(odd) td, tbody tr:nth-child(odd) th {
 
 /* Container and Wrap */
 .container {
-  /*margin-left: auto;*/
-  /*margin-right: auto;*/
-  /*max-width: 28rem;*/
-  /*padding-left: 1rem;*/
-  /*padding-right: 1rem;*/
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 28rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
 }
 @media (min-width: 38rem) {
   .container {
-    /*max-width: 32rem;*/
+    max-width: 32rem;
   }
 }
 @media (min-width: 56rem) {
   .container {
-    /*max-width: 38rem;*/
+    max-width: 38rem;
   }
 }
 .wrap {
