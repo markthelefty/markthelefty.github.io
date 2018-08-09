@@ -748,13 +748,16 @@ blockquote {
 .post-card {
   border: 1px solid #000;
   @media (min-width: 60em) {
-    width:50%;
+    width:45%;
     float:left;
   }
 }
 
 .post-card:nth-child(odd) {
-    background: red;
+  background: red;
+    @media (min-width: 60em) {
+      margin-right:5%;
+  }  
 }
 
 .post-card:nth-child(even) {
