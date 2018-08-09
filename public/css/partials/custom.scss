@@ -206,16 +206,12 @@ tbody tr:nth-child(odd) td, tbody tr:nth-child(odd) th {
   margin: 0 auto;
   padding: 0 1rem;
 }
-@media (min-width: 38rem) {
+@media (min-width: 30rem) {
   .container {
-    max-width: 32rem;
+    max-width: 80%;
   }
 }
-@media (min-width: 56rem) {
-  .container {
-    max-width: 38rem;
-  }
-}
+
 .wrap {
   min-height: 100%; /*Sticky Footer*/
   position: relative;
