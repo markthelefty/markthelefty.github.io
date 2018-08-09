@@ -7,22 +7,10 @@
 
     {% include sidebar.html %}
 
-    <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
-         content to avoid any CSS collisions with our real content. -->
     <div class="wrap">
-      <div class="masthead">
-        <div class="container">
-            <label for="sidebar-checkbox" class="sidebar-toggle"></label>
-            <div class="masthead-title">
-              <a href="/" title="Home">
-                <img src="https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/v1533676576/assets/logo.svg" alt="Mark On Product Logo">
-              </a>
-          </div><!--/masthead-title-->
-        </div><!--/container-->
-      </div><!--/masthead-->
-    </div><!--/wrap-->
+      {% include masthead.html %}
 
-    <div class="wrap">
+
       <div class="container content">
         <div class="row">
           <div class="col-1">
@@ -39,9 +27,7 @@
         </div><!--/row-->
       </div><!--/container content-->
 
-      <div class="footer">
-        {% include footer.html %}
-      </div><!--/footer-->
+      {% include footer.html %}
     </div><!--/wrap-->
 
   </body>
