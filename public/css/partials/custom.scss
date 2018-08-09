@@ -788,16 +788,13 @@ blockquote {
 
 
 .band {
-  width: 90%;
-  max-width: 1240px;
+  /*width: 90%;*/
+  /*max-width: 1240px;*/
   margin: 0 auto;
-  
   display: grid;
-  
   grid-template-columns: 1fr;
   grid-template-rows: auto;
-  grid-gap: 20px;
-  
+  grid-gap: 20px; 
 }
 
 @media only screen and (min-width: 500px) {
