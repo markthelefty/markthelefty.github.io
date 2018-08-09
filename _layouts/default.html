@@ -9,90 +9,38 @@
 
     <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
          content to avoid any CSS collisions with our real content. -->
-
-
-
-
-
-
-
-
-
-
     <div class="wrap">
       <div class="masthead">
-
-
         <div class="container">
-
             <label for="sidebar-checkbox" class="sidebar-toggle"></label>
-
-
-       
-
             <div class="masthead-title">
               <a href="/" title="Home">
                 <img src="https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/v1533676576/assets/logo.svg" alt="Mark On Product Logo">
               </a>
           </div><!--/masthead-title-->
-
         </div><!--/container-->
-
       </div><!--/masthead-->
 
+      <div class="container content">
+        <div class="row">
+          <div class="col-1">
+            <!-- holder for 1 col space, can use later if needed -->
+          </div><!--/col-1 (left/top)-->
 
+          <div class="col-10">
+            {{ content }}
+          </div><!--/col-10 (main content)-->
 
+          <div class="col-1">
+            <!-- holder for 1 col space, can use later if needed -->
+          </div><!--/col-1 (right/bottom)-->
+        </div><!--/row-->
+      </div><!--/container content-->
 
-
-
-
-
-      <!--<div class="container content">
-        {{ content }}
-      </div>-->
-
-
-
-
-
-<div class="container content">
-      <div class="row">
-        <div class="col-1">
-          <p>Left</p>
-          <!-- This content will take up 3/12 (or 1/4) of the container -->
-        </div>
-        <div class="col-10">
-          {{ content }}
-          <!-- This content will take up 3/12 (or 1/4) of the container -->
-        </div>
-        <div class="col-1">
-          <p>Right</p>
-          <!-- This content will take up 6/12 (or 1/2) of the container -->
-        </div>
-      </div>
-</div>
-
-
-
-
-
-
-        <div class="footer">
-          {% include footer.html %}
-        </div>
-
+      <div class="footer">
+        {% include footer.html %}
+      </div><!--/footer-->
     </div><!--/wrap-->
-
-
-
-
-
-
-
-
-
-
-
 
   </body>
 </html>
