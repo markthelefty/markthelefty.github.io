@@ -794,15 +794,8 @@ section:first-child h1{ /*Styles for the first article*/
   background-position: center center;
 }
 .card h1 {
-  /*white-space: nowrap;*/
-  overflow: hidden;
-  text-overflow: ellipsis;
-  max-width: 140ch;
+  font-size:1.4rem;
 }
 .card p { 
   flex: 1; /* make p grow to fill available space*/
-  /*white-space: nowrap;*/
-  overflow: hidden;
-  text-overflow: ellipsis;
-  max-width: 280ch;
 }
