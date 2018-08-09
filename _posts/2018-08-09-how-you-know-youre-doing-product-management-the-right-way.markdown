@@ -1,6 +1,14 @@
 ---
 title: How You Know You're Doing Product Management The Right Way
 date: 2018-08-09 18:15:00 -04:00
+description: 'She suspicion dejection saw instantly. Well deny may real one told yet
+  saw hard dear. Bed chief house rapid right the. Set noisy one state tears which.
+  No girl oh part must fact high my he. Simplicity in excellence melancholy as remarkably
+  discovered. Own partiality motionless was old excellence she inquietude contrasted.
+  Sister giving so wicket cousin of an he rather marked. Of on game part body rich.
+  Adapted mr savings venture it or comfort affixed friends. '
+postimage: https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/v1533853938/samples/Deat_to_Stock_Goods_3.jpg
+readtime: 6
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam faucibus leo vel lectus convallis porta. Mauris molestie mollis est. Fusce id efficitur nisl. Fusce ac tortor finibus, tincidunt ipsum vel, commodo odio. Etiam ut tincidunt velit. Duis maximus sapien malesuada nisi blandit, at egestas erat venenatis. Proin fringilla vestibulum elit, a blandit quam gravida vitae. Etiam vestibulum mi pellentesque, maximus leo nec, porta odio. Duis non dui id risus convallis posuere ut a nisi. In hac habitasse platea dictumst.
