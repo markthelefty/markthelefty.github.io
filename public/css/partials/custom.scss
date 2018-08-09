@@ -63,14 +63,14 @@ h1 {
 h2 {
   font-size: 1.2rem;
   margin-top: 1rem;
-  @media (min-width: 30em) {
+  @media (min-width: 30rem) {
     font-size: 1.6rem;
   }
 }
 h3 {
   font-size: 1.1rem;
   margin-top: 1.5rem;
-  @media (min-width: 30em) {
+  @media (min-width: 30rem) {
     font-size: 1.3rem;
   }
 }
@@ -84,7 +84,7 @@ h4, h5, h6 {
 p {
   margin-bottom: 1rem;
   margin-top: 0;
-  @media (min-width: 30em) {
+  @media (min-width: 30rem) {
     color: #393939;
     font-size: 1.1rem;
     font-weight: 300;
@@ -94,7 +94,7 @@ p {
 }
 strong {
   color: #303030;
-  @media (min-width: 30em) {
+  @media (min-width: 30rem) {
     font-weight: 600;
   }
 }
@@ -104,7 +104,7 @@ strong {
 ul, ol, dl {
   margin-bottom: 1rem;
   margin-top: 0;
-  @media (min-width: 30em) {
+  @media (min-width: 30rem) {
     font-weight: 300;
   }
 }
@@ -233,7 +233,7 @@ tbody tr:nth-child(odd) td, tbody tr:nth-child(odd) th {
   font-family: "myriad-pro", "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   font-size: 1.5rem;
   margin-top: 0;
-  @media (min-width: 30em) {
+  @media (min-width: 30rem) {
     color: #000;
     font-size: 2.3rem;
   }
@@ -243,7 +243,7 @@ tbody tr:nth-child(odd) td, tbody tr:nth-child(odd) th {
   font-size: .7rem;
   margin: -.5rem 0 1rem 0;
   padding: 0;
-  @media (min-width: 30em) {
+  @media (min-width: 30rem) {
     font-size: .9rem;
   }
 }
@@ -262,7 +262,7 @@ tbody tr:nth-child(odd) td, tbody tr:nth-child(odd) th {
   position: relative;
   top: .2rem;
   width: .7rem;
-  @media (min-width: 30em) {
+  @media (min-width: 30rem) {
     top: .3rem;
   }
 }
@@ -581,38 +581,38 @@ a.social-github {
 /*Utility Classes*/
 .width-25 {
   max-width: 100%;
-  @media (min-width: 30em) {
+  @media (min-width: 30rem) {
     max-width: 25%;
   }
 }
 .width-50 {
   max-width: 100%;
-  @media (min-width: 30em) {
+  @media (min-width: 30rem) {
     max-width: 50%;
   }
 }
 .width-75 {
   max-width: 100%;
-  @media (min-width: 30em) {
+  @media (min-width: 30rem) {
     max-width: 75%;
   }
 }
 .width-100 {
   max-width: 100%;
-  @media (min-width: 30em) {
+  @media (min-width: 30rem) {
     max-width: 100%;
   }
 }
 .float-left {
   float: none;
-  @media (min-width: 30em) {
+  @media (min-width: 30rem) {
     float: left;
     margin: 0.5rem 1.2rem 0 0;
   }
 }
 .float-right {
   float: none;
-  @media (min-width: 30em) {
+  @media (min-width: 30rem) {
     float: right;
     margin: 0.5rem 0 0 1.2rem;
   }
@@ -674,28 +674,28 @@ blockquote {
   border-top: 1px solid $divider-gray;
   overflow: hidden; /*clear fix*/
   padding-top: 1rem;
-  @media (min-width: 30em) {
+  @media (min-width: 30rem) {
     display: table;
   }
 }
 .author-image {
   margin: 0 auto;
   width: 50%;
-  @media (min-width: 30em) {
+  @media (min-width: 30rem) {
     display: table-cell;
     vertical-align: middle;
     width: 25%;
   }
 }
 .author-bio {
-  @media (min-width: 30em) {
+  @media (min-width: 30rem) {
     display: table-cell;
     float: left;
     padding-left: 2em;
   }
 }
 .author-bio p {
-  @media (min-width: 30em) {
+  @media (min-width: 30rem) {
     font-size: .9rem;
     line-height: 1.5rem;
   }
@@ -747,13 +747,13 @@ blockquote {
   background-color: #fff;
   border-radius: 3px;
   overflow:hidden;
-  @media (min-width: 70em) {
+  @media (min-width: 70rem) {
     width:45%;
     float:left;
   }
 }
 .post-card:nth-child(odd) {
-    @media (min-width: 70em) {
+    @media (min-width: 70rem) {
       margin-right:5%;
   }  
 }
