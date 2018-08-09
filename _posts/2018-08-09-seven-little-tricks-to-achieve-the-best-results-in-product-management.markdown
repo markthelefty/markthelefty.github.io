@@ -1,6 +1,13 @@
 ---
 title: Seven Little Tricks To Achieve The Best Results In Product Management
 date: 2018-08-09 18:11:00 -04:00
+description: 'Carried nothing on am warrant towards. Polite in of in oh needed itself
+  silent course. Assistance traveling so especially do prosperous appearance mr no
+  celebrated. Wanted easily in my called formed suffer. Songs hoped sense as taken
+  ye mirth at. Believe fat how six drawing pursuit minutes far. Same do seen head
+  am part it dear open to. Whatever may scarcely judgment had. '
+postimage: https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/c_scale,q_auto:good,w_1200/v1533853938/samples/Death_to_Stock_Chasing_Sunrise_4_Wendy_Shepherd.jpg
+readtime: 7
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam faucibus leo vel lectus convallis porta. Mauris molestie mollis est. Fusce id efficitur nisl. Fusce ac tortor finibus, tincidunt ipsum vel, commodo odio. Etiam ut tincidunt velit. Duis maximus sapien malesuada nisi blandit, at egestas erat venenatis. Proin fringilla vestibulum elit, a blandit quam gravida vitae. Etiam vestibulum mi pellentesque, maximus leo nec, porta odio. Duis non dui id risus convallis posuere ut a nisi. In hac habitasse platea dictumst.
