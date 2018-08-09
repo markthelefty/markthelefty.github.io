@@ -7,7 +7,7 @@ description: 'She suspicion dejection saw instantly. Well deny may real one told
   discovered. Own partiality motionless was old excellence she inquietude contrasted.
   Sister giving so wicket cousin of an he rather marked. Of on game part body rich.
   Adapted mr savings venture it or comfort affixed friends. '
-postimage: https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/v1533853938/samples/Deat_to_Stock_Goods_3.jpg
+postimage: https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/c_scale,q_auto:good,w_1200/v1533853938/samples/Deat_to_Stock_Goods_3.jpg
 readtime: 6
 ---
 
