@@ -751,6 +751,7 @@ blockquote {
   border-top: 3px $brand-green;
   background-color: #fff;
   border-radius: 3px;
+  background-clip: padding-box;
   @media (min-width: 70em) {
     width:45%;
     float:left;
