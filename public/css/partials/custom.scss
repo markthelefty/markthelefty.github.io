@@ -739,49 +739,10 @@ blockquote {
   top: .2rem;
   width: 1rem;
 }
-.post-card {
-  margin-bottom: 1.7rem;
-  border-left: 1px solid $divider-gray;
-  border-right: 1px solid $divider-gray;
-  border-bottom: 1px solid $divider-gray;
-  border-top: 4px solid $brand-green;
-  background-color: #fff;
-  border-radius: 3px;
-  overflow:hidden;
-  @media (min-width: 70rem) {
-    width:45%;
-    float:left;
-  }
-}
-.post-card:nth-child(odd) {
-    @media (min-width: 70rem) {
-      margin-right:5%;
-  }  
-}
-.post-card:nth-child(even) {
 
-}
-.post-card-content {
-  padding: 1rem 1rem 1.5rem 1rem;
-}
-.post-card-content h1 {
-    /*white-space: nowrap;*/
-    overflow: hidden;
-    text-overflow: ellipsis;
-    max-width: 140ch;
-}
-.post-card-content p {
-    /*white-space: nowrap;*/
-    overflow: hidden;
-    text-overflow: ellipsis;
-    max-width: 280ch;
-}
-
-
-
-
+/*Homepage Article Grid*/
 .article-grid {
-  margin: 0 auto;
+  margin: 0 auto 9rem auto;
   display: grid;
   grid-template-columns: 1fr;
   grid-template-rows: auto;
@@ -809,15 +770,15 @@ section:first-child h1{
 /* card */
 .card {
   min-height: 100%;
-  background: white;
+  background: #fff;
   box-shadow: 0 2px 5px rgba(0,0,0,0.1);
   display: flex;
   flex-direction: column;
   text-decoration: none;
-  color: #444;
   position: relative;
   top: 0;
   transition: all .1s ease-in;
+  border-top: 4px solid $brand-green;
 }
 
 .card:hover {
