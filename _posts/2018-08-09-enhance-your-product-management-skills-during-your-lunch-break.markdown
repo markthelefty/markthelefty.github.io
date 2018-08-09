@@ -1,6 +1,13 @@
 ---
 title: Enhance Your Product Management Skills During Your Lunch Break
 date: 2018-08-09 18:13:00 -04:00
+description: 'In as name to here them deny wise this. As rapid woody my he me which.
+  Men but they fail shew just wish next put. Led all visitor musical calling nor her.
+  Within coming figure sex things are. Pretended concluded did repulsive education
+  smallness yet yet described. Had country man his pressed shewing. No gate dare rose
+  he. Eyes year if miss he as upon. '
+postimage: https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/c_scale,q_auto:good,w_1200/v1533853938/samples/Death_to_Stock_Chasing_Sunrise_2_Julian_DeSchutter.jpg
+readtime: 3
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam faucibus leo vel lectus convallis porta. Mauris molestie mollis est. Fusce id efficitur nisl. Fusce ac tortor finibus, tincidunt ipsum vel, commodo odio. Etiam ut tincidunt velit. Duis maximus sapien malesuada nisi blandit, at egestas erat venenatis. Proin fringilla vestibulum elit, a blandit quam gravida vitae. Etiam vestibulum mi pellentesque, maximus leo nec, porta odio. Duis non dui id risus convallis posuere ut a nisi. In hac habitasse platea dictumst.
