@@ -839,23 +839,17 @@ section:first-child h1{
   background-position: center center;
 }
 
+.card h1 {
+  /*white-space: nowrap;*/
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 140ch;
+}
+
 .card p { 
   flex: 1; /* make p grow to fill available space*/
-  line-height: 1.4;
-}
-
-/* typography */
-h1 {
-  font-size: 20px;
-  margin: 0;
-  color: #333;
-}
-
-.card span {
-  font-size: 12px;
-  font-weight: bold;
-  color: #999;
-  text-transform: uppercase;
-  letter-spacing: .05em;
-  margin: 2em 0 0 0;
+  /*white-space: nowrap;*/
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 280ch;
 }
