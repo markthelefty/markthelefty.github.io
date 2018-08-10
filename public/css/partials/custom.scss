@@ -760,12 +760,14 @@ section:nth-child(1) { /*Styles for the first article*/
   } 
 }
 section:nth-child(1) h1{ /*Styles for the first article*/
-   @media (min-width: 500px) {
-      font-size:1.7rem;
+  @media (min-width: 500px) {
+    font-size:1.7rem;
   } 
 }
 section:nth-child(2) p {
-  color:red;
+  @media (min-width: 500px) {
+    font-size:1rem;
+  } 
 }
 .card {
   min-height: 100%;
