@@ -755,16 +755,8 @@ blockquote {
    grid-column: 1/ span 2;
   } 
 }
-.article-grid section:nth-child(1) h1{ /*Styles for the first article*/
-  @media (min-width: 500px) {
-    font-size:1.7rem;
-  } 
-}
-.article-grid section:nth-child(2) p {
-  @media (min-width: 500px) {
-    font-size:1rem;
-  } 
-}
+
+
 .card {
   min-height: 100%;
   background: #fff;
@@ -798,9 +790,19 @@ blockquote {
   font-size:1.3rem;
   margin: 0 0 1rem 0;
 }
+.card:nth-child(1) h1{ /*Styles for the first article*/
+  @media (min-width: 500px) {
+    font-size:1.7rem;
+  } 
+}
 .card p { 
   flex: 1; /* make p grow to fill available space*/
   font-size: 0.9rem;
+}
+.card:nth-child(2) p {
+  @media (min-width: 500px) {
+    font-size:1rem;
+  } 
 }
 .card hr {
   margin: .75rem 0;
