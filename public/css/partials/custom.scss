@@ -750,17 +750,17 @@ blockquote {
     grid-template-columns: 1fr 1fr 1fr;
   } 
 }
-section:nth-child(1) { /*Styles for the first article*/
+.article-grid section:nth-child(1) { /*Styles for the first article*/
   @media (min-width: 500px) {
    grid-column: 1/ span 2;
   } 
 }
-section:nth-child(1) h1{ /*Styles for the first article*/
+.article-grid section:nth-child(1) h1{ /*Styles for the first article*/
   @media (min-width: 500px) {
     font-size:1.7rem;
   } 
 }
-section:nth-child(2) p {
+.article-grid section:nth-child(2) p {
   @media (min-width: 500px) {
     font-size:1rem;
   } 
