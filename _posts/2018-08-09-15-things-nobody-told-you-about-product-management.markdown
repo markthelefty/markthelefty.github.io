@@ -1,11 +1,10 @@
 ---
 title: 15 Things Nobody Told You About Product Management
 date: 2018-08-09 18:15:00 -04:00
-description: 'Sitting mistake towards his few country ask. You delighted two rapturous
-  six depending objection happiness something the. Off nay impossible dispatched partiality
-  unaffected. Norland adapted put ham cordial. Ladies talked may shy basket narrow
-  see. Him she distrusts questions sportsmen. Tolerably pretended neglected on my
-  earnestly by. Sex scale sir style truth ought. '
+description: Believing neglected so so allowance existence departure in. In design
+  active temper be uneasy. Thirty for remove plenty regard you summer though. He preference
+  connection astonished on of ye. Partiality on or continuing in particular principles
+  as. Do believing oh disposing.
 postimage: https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/c_scale,q_auto:good,w_1200/v1533853938/samples/Deat_to_Stock_Goods_1.jpg
 readtime: 3
 ---
