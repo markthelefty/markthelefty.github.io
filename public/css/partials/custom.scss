@@ -202,12 +202,29 @@ tbody tr:nth-child(odd) td, tbody tr:nth-child(odd) th {
 .container {
   margin: 0 auto;
   padding: 0 1rem;
+
+
+@media only screen and (min-width: 48em) {
+    width: 49rem;
+  }
+
+@media only screen and (min-width: 64em) {
+    width: 65rem;
+  }
+
+@media only screen and (min-width: 75em) {
+
+    width: 76rem;
+  }
+
 }
-@media (min-width: 30rem) {
+
+
+/*@media (min-width: 30rem) {
   .container {
     max-width: 60rem;
   }
-}
+}*/
 .wrap {
   min-height: 100%; /*Sticky Footer*/
   position: relative;
@@ -217,6 +234,24 @@ tbody tr:nth-child(odd) td, tbody tr:nth-child(odd) th {
 .content {
   padding-bottom: 160px; /*Sticky Footer*/
 }
+/*Multi Col Layout*/
+.layout-2-col {
+  @media (min-width: 30rem) {
+    display: flex;
+  }
+}
+.content-primary {
+  @media (min-width: 30rem) {
+    flex: 75%;
+  }
+}
+.content-secondary {
+  @media (min-width: 30rem) {
+    flex: 25%;
+    margin: 0 0 0 2rem;
+  }
+}
+/*Homepage Body Class*/
 .pg-home {
   background-color: #fafafa;
 }
@@ -828,21 +863,3 @@ blockquote {
 
 
 
-.layout-2-col {
-  @media (min-width: 30rem) {
-    display: flex;
-  }
-}
-
-.content-primary {
-  @media (min-width: 30rem) {
-    flex: 75%;
-  }
-}
-
-.content-secondary {
-  @media (min-width: 30rem) {
-    flex: 25%;
-    margin: 0 0 0 2rem;
-  }
-}
