@@ -760,7 +760,15 @@ blockquote {
     font-size:1.7rem;
   } 
 }
+
+
+
+.article-grid section:nth-child(1) p {
+  display:block;
+}
+
 .article-grid section:nth-child(2) p {
+  display:block;
   @media (min-width: 500px) {
     font-size:1rem;
   } 
@@ -786,8 +794,7 @@ blockquote {
   display: flex;
   flex: 1;
   justify-content: space-between;
-  flex-direction: column;
-  
+  flex-direction: column; 
 }
 .card .thumb {
   padding-bottom: 60%;
@@ -799,6 +806,7 @@ blockquote {
   margin: 0 0 1rem 0;
 }
 .card p { 
+  display: none;
   flex: 1; /* make p grow to fill available space*/
   font-size: 0.9rem;
 }
