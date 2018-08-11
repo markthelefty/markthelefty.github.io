@@ -33,21 +33,7 @@ background-color: black;
   background-color: red;
     }
 
-@include mq('tablet') {
-  background-color: green;
-    }
 
-    @include mq('desktop-sm') {
-  background-color: blue;
-    }
-
-    @include mq('desktop') {
-  background-color: purple;
-    }
-
-    @include mq('desktop-lg') {
-  background-color: yellow;
-    }
 
 
 }
