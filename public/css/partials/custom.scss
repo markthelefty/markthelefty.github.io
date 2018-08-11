@@ -13,7 +13,7 @@ $text-black: #393939;
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
 }
-html, body {
+body {
   -webkit-overflow-scrolling: touch;
   height: 100%; /*Sticky Footer*/
   margin: 0;
@@ -24,7 +24,7 @@ html, body {
   line-height: 1.5;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
-  background: $background-white;
+  background-color: $background-white;
   @media (min-width: 30em) {
     font-family: "source-sans-pro", "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   }
@@ -85,6 +85,7 @@ h4, h5, h6 {
 
 /* Body text */
 p {
+  color:#000000;
   margin-bottom: 1rem;
   margin-top: 0;
   @media (min-width: 30rem) {
