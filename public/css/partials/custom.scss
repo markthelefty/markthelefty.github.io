@@ -773,6 +773,13 @@ blockquote {
     font-size:1rem;
   } 
 }
+.article-grid section:nth-child(1) hr {
+  display:block;
+}
+
+.article-grid section:nth-child(2) hr {
+  display:block;
+}
 .card {
   min-height: 100%;
   background: #fff;
@@ -811,5 +818,6 @@ blockquote {
   font-size: 0.9rem;
 }
 .card hr {
+  display:none;
   margin: .75rem 0;
 }
