@@ -184,7 +184,7 @@ img {
 }
 
 
-/* Tables */
+/* ==== Tables ==== */
 table {
   border: 1px solid #e5e5e5;
   border-collapse: collapse;
@@ -202,7 +202,7 @@ tbody tr:nth-child(odd) td, tbody tr:nth-child(odd) th {
   background-color: #f3f3f3;
 }
 
-/* Container and Wrap */
+/* ==== Container and Wrap ==== */
 .container {
   max-width: 96%;
   margin: 0 auto;
@@ -223,7 +223,7 @@ tbody tr:nth-child(odd) td, tbody tr:nth-child(odd) th {
   padding-bottom: 160px; /*Sticky Footer*/
 }
 
-/* Posts and Pages */
+/* ==== Posts and Pages ==== */
 .page, .post {
   margin-bottom: 4rem;
 }
@@ -293,7 +293,7 @@ tbody tr:nth-child(odd) td, tbody tr:nth-child(odd) th {
 }
 
 
-/* Pagination */
+/* ==== Pagination ==== */
 .pagination {
   color: #ccc;
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
@@ -336,8 +336,7 @@ a.pagination-item:hover {
   }
 }
 
-
-/* Sidebar */
+/* ==== Sidebar ==== */
 .sidebar {
   background-color: #202020;
   bottom: 0;
@@ -357,8 +356,7 @@ a.pagination-item:hover {
   }
 }
 
-
-/* Sidebar Content */
+/* ==== Sidebar Content ==== */
 .sidebar a {
   color: #fff;
   font-size: 1rem;
@@ -370,7 +368,6 @@ a.pagination-item:hover {
 .sidebar-item p:last-child {
   margin-bottom: 0;
 }
-
 
 /* Sidebar Icon Design */
 .sidebar-icon {
@@ -384,7 +381,6 @@ a.pagination-item:hover {
 .sidebar-icon img:hover {
   opacity: 0.1;
 }
-
 
 /* Sidebar Nav */
 .sidebar-nav {
@@ -468,11 +464,11 @@ a.pagination-item:hover {
   left: 14rem;
 }
 
+/* ==== Custom Styles ==== */
 
-/* ==== Custom ==== */
 
 
-/*Masthead*/
+/* ==== Masthead ==== */
 .masthead {
   background: $brand-black;
   margin-bottom: 2rem;
@@ -490,7 +486,7 @@ a.pagination-item:hover {
   opacity: 0.7;
 }
 
-/*Footer*/
+/* ==== Footer ==== */
 .footer {
   bottom: 0; /*Sticky Footer*/
   height: 160px; /*Sticky Footer*/
@@ -582,8 +578,7 @@ a.social-github {
   text-align: center;
 }
 
-
-/*Utility Classes*/
+/* ==== Utility Classes ==== */
 .width-25 {
   max-width: 100%;
   @media (min-width: 30rem) {
@@ -628,7 +623,7 @@ a.social-github {
   text-transform: uppercase;
 }
 
-/*Dividers*/
+/* ==== Dividers ==== */
 hr {
   border: 0;
   border-bottom: 1px solid $divider-gray;
@@ -639,7 +634,7 @@ hr {
   border-bottom: 1px solid $divider-gray;
 }
 
-/*Messages*/
+/* ==== Messages ==== */
 blockquote {
   border-left-color: #D3D8E0;
   border-left-style: solid;
@@ -673,7 +668,7 @@ blockquote {
   border-left-color: #F9D7DB;
 }
 
-/*Author Bio*/
+/* ==== Author Bio ==== */
 .about-author {
   border-bottom: 1px solid $divider-gray;
   border-top: 1px solid $divider-gray;
@@ -706,7 +701,7 @@ blockquote {
   }
 }
 
-/*Button Generic*/
+/* ==== Button Generic ==== */
 .btn {
   border-radius: .3rem;
   cursor: pointer;
@@ -744,7 +739,7 @@ blockquote {
   width: 1rem;
 }
 
-/*Homepage Article Grid*/
+/* ==== Homepage Article Grid ==== */
 .article-grid {
   margin: 0 auto 9rem auto;
   display: grid;
@@ -758,33 +753,35 @@ blockquote {
     grid-template-columns: 1fr 1fr 1fr;
   } 
 }
-.article-grid section:nth-child(1) { /*Styles for the first article*/
+/*Style First Article*/
+.article-grid section:nth-child(1) {
   @media (min-width: 500px) {
    grid-column: 1/ span 2;
   } 
 }
-.article-grid section:nth-child(1) h1{ /*Styles for the first article*/
+.article-grid section:nth-child(1) h1{
   @media (min-width: 500px) {
     font-size:2.9rem;
   } 
 }
-
-
-
 .article-grid section:nth-child(1) p {
   display:block;
 }
-
+.article-grid section:nth-child(1) hr {
+  display:block;
+}
+/*Style Second Article*/
+.article-grid section:nth-child(1) h1{
+  @media (min-width: 500px) {
+    font-size:1.9rem;
+  } 
+}
 .article-grid section:nth-child(2) p {
   display:block;
   @media (min-width: 500px) {
     font-size:1rem;
   } 
 }
-.article-grid section:nth-child(1) hr {
-  display:block;
-}
-
 .article-grid section:nth-child(2) hr {
   display:block;
 }
@@ -817,7 +814,7 @@ blockquote {
   background-position: center center;
 }
 .card h1 {
-  font-size:1.6rem;
+  font-size:1.5rem;
   margin: 0 0 2rem 0;
 }
 .card p { 
