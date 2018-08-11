@@ -3,7 +3,7 @@ $brand-green: #67a43e;
 $brand-black: #272727;
 $background-white: #fafafa;
 $divider-gray: #e0e0e0;
-
+$text-black: #393939;
 
 
 
@@ -85,7 +85,7 @@ p {
   margin-bottom: 1rem;
   margin-top: 0;
   @media (min-width: 30rem) {
-    color: #393939;
+    color: $text-black;
     font-size: 1.1rem;
     font-weight: 300;
     line-height: 1.6;
