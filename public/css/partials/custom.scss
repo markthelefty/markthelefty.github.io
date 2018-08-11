@@ -257,24 +257,20 @@ tbody tr:nth-child(odd) td, tbody tr:nth-child(odd) th {
   padding-left: 15px;
   margin-right: auto;
   margin-left: auto;
-@include mq('phone') {
-  max-width:480px;
+    @include mq('phone') {
+      max-width:480px;
     }
-
-@include mq('tablet') {
-  max-width:700px;
+    @include mq('tablet') {
+      max-width:700px;
     }
-
     @include mq('desktop-sm') {
-  max-width:931px;
+      max-width:931px;
     }
-
     @include mq('desktop') {
-  max-width:1216px;
+      max-width:1216px;
     }
-
     @include mq('desktop-lg') {
-  max-width:1605px;
+      max-width:1605px;
     }
 }
 .wrap {
