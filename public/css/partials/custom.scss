@@ -29,7 +29,44 @@ $breakpoints: (
 }
 
 
+.screen-test {
+background-color: black;
 
+@include mq('phone') {
+  background-color: red;
+    }
+
+@include mq('phone-wide') {
+  background-color: green;
+    }
+
+    @include mq('phablet') {
+  background-color: blue;
+    }
+
+    @include mq('tablet-small') {
+  background-color: purple;
+    }
+
+    @include mq('tablet') {
+  background-color: yellow;
+    }
+
+    @include mq('tablet-wide') {
+  background-color: pink;
+    }
+
+    @include mq('desktop') {
+  background-color: orange;
+    }
+
+    @include mq('desktop-wide') {
+  background-color: brown;
+    }
+
+
+
+}
 
 /* Font Weight Guide */
 /*
