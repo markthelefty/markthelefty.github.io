@@ -7,15 +7,12 @@
 
     {% include sidebar.html %}
 
-
-
-
-{% if page.url == "/" %}
-<div class="rapper">
-{% else %}
-<div class="wrap">
-{% endif %}
-
+    <!--if page current page is home-->
+      {% if page.url == "/" %}
+        <div class="wrap home">
+      {% else %}
+        <div class="wrap">
+      {% endif %}
 
 
       {% include masthead.html %}
