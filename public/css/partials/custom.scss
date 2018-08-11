@@ -200,23 +200,35 @@ tbody tr:nth-child(odd) td, tbody tr:nth-child(odd) th {
 
 /* ==== Container and Wrap ==== */
 .container {
-  margin: 0 auto;
-  padding: 0 1rem;
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
 
-
-@media only screen and (min-width: 48em) {
-    width: 49rem;
+@media (min-width: 576px) {
+  .container {
+    max-width: 540px;
   }
+}
 
-@media only screen and (min-width: 64em) {
-    width: 65rem;
+@media (min-width: 768px) {
+  .container {
+    max-width: 720px;
   }
+}
 
-@media only screen and (min-width: 75em) {
-
-    width: 76rem;
+@media (min-width: 992px) {
+  .container {
+    max-width: 960px;
   }
+}
 
+@media (min-width: 1200px) {
+  .container {
+    max-width: 1140px;
+  }
 }
 
 
