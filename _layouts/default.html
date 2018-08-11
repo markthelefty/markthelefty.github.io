@@ -3,18 +3,18 @@
 
   {% include head.html %}
 
-  <body>
+  <!--if page current page is home-->
+    {% if page.url == "/" %}
+      <body class="pg-home">
+    {% else %}
+      <body class="pg-other">
+    {% endif %}
+
 
     {% include sidebar.html %}
 
-    <!--if page current page is home-->
-      {% if page.url == "/" %}
-        <div class="wrap pg-home">
-      {% else %}
-        <div class="wrap pg-other">
-      {% endif %}
 
-
+      <div class="wrap">
       {% include masthead.html %}
 
       <div class="container content">
