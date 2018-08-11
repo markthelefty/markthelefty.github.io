@@ -7,14 +7,11 @@ $text-black: #1f1f1f;
 
 /* ==== Media Queries ==== */
 $breakpoints: (
-    "phone":        400px,
-    "phone-wide":   480px,
-    "phablet":      560px,
-    "tablet-small": 640px,
-    "tablet":       768px,
-    "tablet-wide":  1024px,
-    "desktop":      1248px,
-    "desktop-wide": 1440px
+    "phone":        480px,
+    "tablet":       736px,
+    "desktop-sm":   980px,
+    "desktop":      1280px,
+    "desktop-lg":   1690px
 );
 @mixin mq($width, $type: min) {
     @if map_has_key($breakpoints, $width) {
@@ -36,33 +33,24 @@ background-color: black;
   background-color: red;
     }
 
-@include mq('phone-wide') {
+@include mq('tablet') {
   background-color: green;
     }
 
-    @include mq('phablet') {
+    @include mq('desktop-sm') {
   background-color: blue;
     }
 
-    @include mq('tablet-small') {
+    @include mq('desktop') {
   background-color: purple;
     }
 
-    @include mq('tablet') {
+    @include mq('desktop-lg') {
   background-color: yellow;
     }
 
-    @include mq('tablet-wide') {
-  background-color: pink;
-    }
 
-    @include mq('desktop') {
-  background-color: orange;
-    }
 
-    @include mq('desktop-wide') {
-  background-color: brown;
-    }
 
 
 
