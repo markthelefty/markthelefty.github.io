@@ -859,7 +859,9 @@ blockquote {
   } 
 }
 .article-grid section:nth-child(2) p {
-  display:block;
+  @include mq('desktop-sm') {
+    display:block;
+  }
 }
 .article-grid section:nth-child(2) hr {
   display:block;
