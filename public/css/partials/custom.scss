@@ -258,13 +258,13 @@ tbody tr:nth-child(odd) td, tbody tr:nth-child(odd) th {
   margin-right: auto;
   margin-left: auto;
     @include mq('phone') {
-      max-width:480px;
+      max-width:600px;
     }
     @include mq('tablet') {
-      max-width:700px;
+      max-width:830px;
     }
     @include mq('desktop-sm') {
-      max-width:931px;
+      max-width:1120px;
     }
     @include mq('desktop') {
       max-width:1216px;
