@@ -825,3 +825,18 @@ blockquote {
   display:none;
   margin: .75rem 0;
 }
+
+
+
+
+.post-2-col {
+  display: flex;
+}
+
+.uno {
+flex: 50%;
+}
+
+.dos {
+flex: 50%;
+}

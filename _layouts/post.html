@@ -2,7 +2,12 @@
 layout: default
 ---
 
-<div class="post">
+<article class="post-2-col">
+
+<div class="uno">
+
+
+<section class="post">
   <h1 class="post-title">{{ page.title }}</h1>
   <ul class="post-meta">
     <li class="post-date">{{ page.date | date: '%B %d, %Y' }}</li>
@@ -10,9 +15,9 @@ layout: default
   </ul>
   <img class="cld-responsive" src="{{ page.postimage }}">
   {{ content }}
-</div>
+</section>
 
-<!--<div class="about-author">
+<!--<section class="about-author">
   <div class="author-image">
     <img class="cld-responsive" src="{{ site.author.image }}" alt="{{ site.author.name }}">
   </div>
@@ -20,9 +25,14 @@ layout: default
         <h3>About {{ site.author.name }}</h3>
         <p>{{ site.author.bio }}</p>
   </div>
-</div>-->
+</section>-->
 
-<div class="related">
+</div>
+
+
+<div class="dos">
+
+<aside class="related">
   <h2>Read Next:</h2>
   <ul class="related-posts">
     {% for post in site.related_posts limit:3 %}
@@ -35,4 +45,11 @@ layout: default
       </li>
     {% endfor %}
   </ul>
+</aside>
+
+
 </div>
+
+
+
+</article>
