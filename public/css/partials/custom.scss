@@ -258,7 +258,7 @@ tbody tr:nth-child(odd) td, tbody tr:nth-child(odd) th {
   margin-right: auto;
   margin-left: auto;
     @include mq('phone') {
-      max-width:600px;
+      max-width:722px;
     }
     @include mq('tablet') {
       max-width:625px;
