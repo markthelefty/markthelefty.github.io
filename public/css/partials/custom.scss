@@ -9,26 +9,34 @@ $text-black: #393939;
 
 /* ==== Poole and Lanyon ==== */
 * {
-  -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
 }
-body {
+html, body {
   -webkit-overflow-scrolling: touch;
-  height: 100%; /*Sticky Footer*/
+  height: 100%; /*sticky footer*/
+  overflow-x: hidden; /*sticky footer*/
   margin: 0;
-  overflow-x: hidden; /*Sticky Footer*/
   padding: 0;
+}
+html {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   font-size: 20px;
   line-height: 1.5;
-  -ms-text-size-adjust: 100%;
-  -webkit-text-size-adjust: 100%;
-  background-color: $background-white;
-  @media (min-width: 30em) {
+}
+@media (min-width: 30em) {
+  html {
     font-family: "source-sans-pro", "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   }
 }
+body {
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  background: #fafafa;
+  color: #515151;
+}
+
+
 a {
   color: #268bd2;
   text-decoration: none;
