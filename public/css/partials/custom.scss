@@ -6,10 +6,11 @@ $divider-gray: #e0e0e0;
 $text-black: #1f1f1f;
 
 
-/* Font Weight */
-/*body text== "source sans pro"
+/* Font Weight Guide */
+/*
+body text== "source sans pro"
 regular: 400
-semi bold: 600
+semi-bold: 600
 
 
 
@@ -99,7 +100,6 @@ p {
   }
 }
 strong {
-  /*color: #303030;*/
   @media (min-width: 30rem) {
     font-weight: 600;
   }
@@ -111,11 +111,11 @@ ul, ol, dl {
   margin-bottom: 1rem;
   margin-top: 0;
   @media (min-width: 30rem) {
-    font-weight: 300;
+    font-weight: 400;
   }
 }
 dt {
-  font-weight: bold;
+  font-weight: 600;
 }
 dd {
   margin-bottom: .5rem;
@@ -331,12 +331,10 @@ tbody tr:nth-child(odd) td, tbody tr:nth-child(odd) th {
 /* ==== Pagination ==== */
 .pagination {
   color: #ccc;
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
   margin-left: -1rem;
   margin-right: -1rem;
-  overflow: hidden;
+  overflow: hidden; /* clearfix */
   text-align: center;
-  /* clearfix */
 }
 .pagination-item {
   border: 1px solid #eee;
