@@ -834,9 +834,10 @@ blockquote {
 }
 
 .content-primary {
-flex: 75%;
+  flex: 75%;
 }
 
 .content-secondary {
-flex: 25%;
+  flex: 25%;
+  margin: 0 0 0 2rem;
 }
