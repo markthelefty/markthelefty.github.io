@@ -29,14 +29,6 @@ body {
     font-family: "source-sans-pro", "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   }
 }
-
-
-
-html {
-}
-body {
-}
-
 a {
   color: #268bd2;
   text-decoration: none;
@@ -779,13 +771,13 @@ section:nth-child(2) p {
   box-shadow: 0 2px 5px rgba(0,0,0,0.1);
   display: flex;
   flex-direction: column;
-  text-decoration: none;
   position: relative;
   top: 0;
   transition: all .1s ease-in;
   border-top: 4px solid $brand-green;
 }
 .card:hover {
+  text-decoration: none;
   top: -2px;
   box-shadow: 0 4px 5px rgba(0,0,0,0.2);
 }
