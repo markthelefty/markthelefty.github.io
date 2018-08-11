@@ -50,10 +50,6 @@ background-color: black;
     }
 
 
-
-
-
-
 }
 
 /* Font Weight Guide */
@@ -261,18 +257,25 @@ tbody tr:nth-child(odd) td, tbody tr:nth-child(odd) th {
   padding-left: 15px;
   margin-right: auto;
   margin-left: auto;
-    @media (min-width: 576px) {
-      max-width: 540px;
+@include mq('phone') {
+  max-width:480px;
     }
-    @media (min-width: 768px) {
-      max-width: 720px;
+
+@include mq('tablet') {
+  max-width:700px;
     }
-    @media (min-width: 992px) {
-      max-width: 960px;
+
+    @include mq('desktop-sm') {
+  max-width:931px;
     }
-    @media (min-width: 1200px) {
-      max-width: 1140px;
-  }
+
+    @include mq('desktop') {
+  max-width:1216px;
+    }
+
+    @include mq('desktop-lg') {
+  max-width:1605px;
+    }
 }
 .wrap {
   min-height: 100%; /*Sticky Footer*/
