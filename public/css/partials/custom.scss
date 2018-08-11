@@ -284,17 +284,17 @@ tbody tr:nth-child(odd) td, tbody tr:nth-child(odd) th {
 }
 /*Multi Col Layout*/
 .layout-2-col {
-  @include mq('phone') {
+  @include mq('desktop-sm') {
     display: flex;
   }
 }
 .content-primary {
-  @include mq('phone') {
+  @include mq('desktop-sm') {
     flex: 75%;
   }
 }
 .content-secondary {
-  @include mq('phone') {
+  @include mq('desktop-sm') {
     flex: 25%;
     margin: 0 0 0 2rem;
   }
