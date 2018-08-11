@@ -116,14 +116,14 @@ h1 {
 h2 {
   font-size: 1.2rem;
   margin-top: 1rem;
-  @media (min-width: 30rem) {
+  @include mq('phone') {
     font-size: 1.6rem;
   }
 }
 h3 {
   font-size: 1.1rem;
   margin-top: 1.5rem;
-  @media (min-width: 30rem) {
+  @include mq('phone') {
     font-size: 1.3rem;
   }
 }
@@ -137,7 +137,7 @@ h4, h5, h6 {
 p {
   margin-bottom: 1rem;
   margin-top: 0;
-  @media (min-width: 30rem) {
+  @include mq('phone') {
     color: $text-black;
     font-size: 1rem;
     font-weight: 300;
@@ -146,7 +146,7 @@ p {
   }
 }
 strong {
-  @media (min-width: 30rem) {
+  @include mq('phone') {
     font-weight: 600;
   }
 }
@@ -156,7 +156,7 @@ strong {
 ul, ol, dl {
   margin-bottom: 1rem;
   margin-top: 0;
-  @media (min-width: 30rem) {
+  @include mq('phone') {
     font-weight: 400;
   }
 }
@@ -218,7 +218,7 @@ pre code {
 blockquote p:last-child {
   margin-bottom: 0;
 }
-@media (min-width: 30rem) {
+@include mq('phone') {
   blockquote {
     padding-left: 1.25rem;
     padding-right: 5rem;
@@ -284,17 +284,17 @@ tbody tr:nth-child(odd) td, tbody tr:nth-child(odd) th {
 }
 /*Multi Col Layout*/
 .layout-2-col {
-  @media (min-width: 30rem) {
+  @include mq('phone') {
     display: flex;
   }
 }
 .content-primary {
-  @media (min-width: 30rem) {
+  @include mq('phone') {
     flex: 75%;
   }
 }
 .content-secondary {
-  @media (min-width: 30rem) {
+  @include mq('phone') {
     flex: 25%;
     margin: 0 0 0 2rem;
   }
@@ -321,7 +321,7 @@ tbody tr:nth-child(odd) td, tbody tr:nth-child(odd) th {
   font-family: "myriad-pro", "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   font-size: 1.5rem;
   margin-top: 0;
-  @media (min-width: 30rem) {
+  @include mq('phone') {
     color: #000;
     font-size: 2.3rem;
   }
@@ -331,7 +331,7 @@ tbody tr:nth-child(odd) td, tbody tr:nth-child(odd) th {
   font-size: .7rem;
   margin: -.5rem 0 1rem 0;
   padding: 0;
-  @media (min-width: 30rem) {
+  @include mq('phone') {
     font-size: .9rem;
   }
 }
@@ -350,7 +350,7 @@ tbody tr:nth-child(odd) td, tbody tr:nth-child(odd) th {
   position: relative;
   top: .2rem;
   width: .7rem;
-  @media (min-width: 30rem) {
+  @include mq('phone') {
     top: .3rem;
   }
 }
@@ -398,7 +398,7 @@ a.pagination-item:hover {
   background-color: #f5f5f5;
   /* Only provide a hover state for linked pagination items */
 }
-@media (min-width: 30rem) {
+@include mq('phone') {
   .pagination {
     margin: 3rem 0;
   }
@@ -432,7 +432,7 @@ a.pagination-item:hover {
   visibility: hidden;
   width: 14rem;
 }
-@media (min-width: 30rem) {
+@include mq('phone') {
   .sidebar {
     font-size: .75rem;
   }
@@ -516,7 +516,7 @@ a.pagination-item:hover {
 .sidebar-toggle:active, #sidebar-checkbox:checked ~ .wrap .sidebar-toggle {
   color: #9a9a9a;
 }
-@media (min-width: 30.1rem) {
+@include mq('phone') {
   .sidebar-toggle {
     width: 2.25rem;
   }
@@ -560,7 +560,7 @@ a.pagination-item:hover {
 .masthead-title img {
   margin: 0 auto;
   opacity: 1.0;
-  @media (min-width: 45em) {
+  @include mq('phone') {
     margin-left:0;
   }
 }
@@ -663,38 +663,38 @@ a.social-github {
 /* ==== Utility Classes ==== */
 .width-25 {
   max-width: 100%;
-  @media (min-width: 30rem) {
+  @include mq('phone') {
     max-width: 25%;
   }
 }
 .width-50 {
   max-width: 100%;
-  @media (min-width: 30rem) {
+  @include mq('phone') {
     max-width: 50%;
   }
 }
 .width-75 {
   max-width: 100%;
-  @media (min-width: 30rem) {
+  @include mq('phone') {
     max-width: 75%;
   }
 }
 .width-100 {
   max-width: 100%;
-  @media (min-width: 30rem) {
+  @include mq('phone') {
     max-width: 100%;
   }
 }
 .float-left {
   float: none;
-  @media (min-width: 30rem) {
+  @include mq('phone') {
     float: left;
     margin: 0.5rem 1.2rem 0 0;
   }
 }
 .float-right {
   float: none;
-  @media (min-width: 30rem) {
+  @include mq('phone') {
     float: right;
     margin: 0.5rem 0 0 1.2rem;
   }
@@ -756,28 +756,28 @@ blockquote {
   border-top: 1px solid $divider-gray;
   overflow: hidden; /*clear fix*/
   padding-top: 1rem;
-  @media (min-width: 30rem) {
+  @include mq('phone') {
     display: table;
   }
 }
 .author-image {
   margin: 0 auto;
   width: 50%;
-  @media (min-width: 30rem) {
+  @include mq('phone') {
     display: table-cell;
     vertical-align: middle;
     width: 25%;
   }
 }
 .author-bio {
-  @media (min-width: 30rem) {
+  @include mq('phone') {
     display: table-cell;
     float: left;
     padding-left: 2em;
   }
 }
 .author-bio p {
-  @media (min-width: 30rem) {
+  @include mq('phone') {
     font-size: .9rem;
     line-height: 1.5rem;
   }
