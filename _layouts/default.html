@@ -7,7 +7,25 @@
 
     {% include sidebar.html %}
 
-    <div class="wrap">
+
+
+
+    {% if page.url == "/index.html" %}
+
+<div class="wrap home">
+    {% else %}
+
+
+<div class="wrap">
+    {% endfor %}
+{% endif %}
+
+
+
+
+
+
+
       {% include masthead.html %}
 
       <div class="container content">
