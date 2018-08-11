@@ -560,8 +560,8 @@ a.pagination-item:hover {
 .masthead-title img {
   margin: 0 auto;
   opacity: 1.0;
-  @include mq('phone') {
-    margin-left:0;
+  @include mq('tablet') {
+    margin:0;
   }
 }
 .masthead-title img:hover {
