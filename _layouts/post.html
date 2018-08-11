@@ -3,53 +3,42 @@ layout: default
 ---
 
 <article class="layout-2-col">
+  <div class="content-primary">
+    <section class="post">
+      <h1 class="post-title">{{ page.title }}</h1>
+        <ul class="post-meta">
+          <li class="post-date">{{ page.date | date: '%B %d, %Y' }}</li>
+          <li class="post-readtime">{{ page.readtime }} min read</li>
+        </ul>
+      <img class="cld-responsive" src="{{ page.postimage }}">
+      {{ content }}
+    </section>
 
-<div class="content-primary">
-
-
-<section class="post">
-  <h1 class="post-title">{{ page.title }}</h1>
-  <ul class="post-meta">
-    <li class="post-date">{{ page.date | date: '%B %d, %Y' }}</li>
-    <li class="post-readtime">{{ page.readtime }} min read</li>
-  </ul>
-  <img class="cld-responsive" src="{{ page.postimage }}">
-  {{ content }}
-</section>
-
-<!--<section class="about-author">
-  <div class="author-image">
-    <img class="cld-responsive" src="{{ site.author.image }}" alt="{{ site.author.name }}">
-  </div>
-  <div class="author-bio">
+    <section class="about-author">
+      <div class="author-image">
+        <img class="cld-responsive" src="{{ site.author.image }}" alt="{{ site.author.name }}">
+      </div>
+      <div class="author-bio">
         <h3>About {{ site.author.name }}</h3>
         <p>{{ site.author.bio }}</p>
-  </div>
-</section>-->
+      </div>
+    </section>
+  </div><!--/content-primary-->
 
-</div>
-
-
-<div class="content-secondary">
-
-<aside class="related">
-  <h2>Read Next:</h2>
-  <ul class="related-posts">
-    {% for post in site.related_posts limit:3 %}
-      <li>
-        <h3>
-          <a href="{{ post.url }}">
-            {{ post.title }}
-          </a>
-        </h3>
-      </li>
-    {% endfor %}
-  </ul>
-</aside>
-
-
-</div>
-
-
-
+  <div class="content-secondary">
+    <aside class="related">
+      <h2>Read Next:</h2>
+        <ul class="related-posts">
+          {% for post in site.related_posts limit:3 %}
+          <li>
+            <h3>
+              <a href="{{ post.url }}">
+                {{ post.title }}
+              </a>
+            </h3>
+          </li>
+          {% endfor %}
+        </ul>
+    </aside>
+  </div><!--/content-secondary-->
 </article>
