@@ -539,7 +539,7 @@ a.pagination-item:hover {
   opacity: 0.7;
 }
 /*Screen Test For RWD Styling*/
-.masthead {
+/*.masthead {
   background: $brand-black;
   @include mq('phone') {
     background-color: red;
@@ -556,7 +556,7 @@ a.pagination-item:hover {
   @include mq('desktop-lg') {
     background-color: yellow;
   }
-}
+}*/
 /* ==== Footer ==== */
 footer {
   bottom: 0; /*Sticky Footer*/
