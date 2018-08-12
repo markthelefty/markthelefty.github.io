@@ -257,17 +257,22 @@ tbody tr:nth-child(odd) td, tbody tr:nth-child(odd) th {
 .layout-2-col {
   @include mq('desktop-sm') {
     display: flex;
+    x-justify-content: space-around;
+    x-align-items: stretch;
+    max-width: 100%;
   }
 }
 .content-primary {
   @include mq('desktop-sm') {
+    width: 75%;
     flex: 0 0 75%;
   }
 }
 .content-secondary {
   @include mq('desktop-sm') {
-    flex: 0 0 25%;
-    margin: 0 0 0 2rem;
+    width: 20%;
+    flex: 0 0 20%;
+    margin-left: 5%;
   }
 }
 /*Homepage Body Class*/
