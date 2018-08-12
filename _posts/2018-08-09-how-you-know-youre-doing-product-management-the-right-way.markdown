@@ -5,8 +5,7 @@ description: Do so written as raising parlors spirits mr elderly. Made late in o
   high left hold. Carried females of up highest calling. Limits marked led silent
   dining her she far. Sir but elegance marriage dwelling likewise position old pleasure
   men.
-postimage: v1533853938/samples/Deat_to_Stock_Goods_3.jpg
-socialimage: v1534109925/social-images/mark-on-product.jpg
+image: v1533853938/samples/Deat_to_Stock_Goods_3.jpg
 readtime: 6
 ---
 
