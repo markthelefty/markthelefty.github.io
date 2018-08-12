@@ -1,10 +1,7 @@
 ---
 title: How You Know You're Doing Product Management The Right Way
 date: 2018-08-09 18:15:00 -04:00
-description: Received the likewise law graceful his. Nor might set along charm now
-  equal green. Pleased yet equally correct colonel not one. Say anxious carried compact
-  conduct sex general nay certain. Mrs for recommend exquisite household eagerness
-  preserved now.
+description: This is post description field.
 postimage: v1533853938/samples/Deat_to_Stock_Goods_3.jpg
 socialimage: v1534109925/social-images/mark-on-product.jpg
 readtime: 6
