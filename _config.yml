@@ -26,9 +26,7 @@ markdown: kramdown
 rouge: true
 permalink: "/:title"
 tagline: Product Management In The Real World
-description: This is the personal blog of Mark Mitchell. The focus most of the time
-  will be my views and experiences leading a Product Management team. Some of the
-  time, it can get a little random.
+description: Product Management In The Real World
 url: https://markonproduct.com
 author:
   name: Mark Mitchell

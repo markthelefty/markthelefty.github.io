@@ -30,16 +30,6 @@
 		"oAP": "\/_config.yml",
 		"oF": 0
 		},
-	"\/_includes\/css\/style.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/_includes\/css\/style-min.css",
-		"oF": 0,
-		"oS": 3
-		},
 	"\/_includes\/footer.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -89,65 +79,81 @@
 		"oAP": "\/_layouts\/post.html",
 		"oF": 0
 		},
-	"\/_posts\/2013-12-31-whats-jekyll.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/_posts\/2013-12-31-whats-jekyll.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
-	"\/_posts\/2014-01-01-example-content.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/_posts\/2014-01-01-example-content.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
-	"\/_posts\/2014-01-02-introducing-lanyon.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/_posts\/2014-01-02-introducing-lanyon.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
 	"\/_posts\/2018-07-30-pattern-library.markdown": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_posts\/2018-07-30-pattern-library.markdown",
+		"oF": 0
+		},
+	"\/_posts\/2018-08-09-15-things-nobody-told-you-about-product-management.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_posts\/2018-08-09-15-things-nobody-told-you-about-product-management.markdown",
+		"oF": 0
+		},
+	"\/_posts\/2018-08-09-5-common-myths-about-product-management.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_posts\/2018-08-09-5-common-myths-about-product-management.markdown",
+		"oF": 0
+		},
+	"\/_posts\/2018-08-09-5-explanation-on-why-product-management-is-important.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_posts\/2018-08-09-5-explanation-on-why-product-management-is-important.markdown",
+		"oF": 0
+		},
+	"\/_posts\/2018-08-09-all-you-need-to-know-about-product-management.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_posts\/2018-08-09-all-you-need-to-know-about-product-management.markdown",
+		"oF": 0
+		},
+	"\/_posts\/2018-08-09-enhance-your-product-management-skills-during-your-lunch-break.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_posts\/2018-08-09-enhance-your-product-management-skills-during-your-lunch-break.markdown",
+		"oF": 0
+		},
+	"\/_posts\/2018-08-09-everything-you-need-to-know-about-product-management.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_posts\/2018-08-09-everything-you-need-to-know-about-product-management.markdown",
+		"oF": 0
+		},
+	"\/_posts\/2018-08-09-five-new-thoughts-about-product-management-that-will-turn-your-world-upside-down.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_posts\/2018-08-09-five-new-thoughts-about-product-management-that-will-turn-your-world-upside-down.markdown",
+		"oF": 0
+		},
+	"\/_posts\/2018-08-09-how-you-know-youre-doing-product-management-the-right-way.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_posts\/2018-08-09-how-you-know-youre-doing-product-management-the-right-way.markdown",
+		"oF": 0
+		},
+	"\/_posts\/2018-08-09-seven-little-tricks-to-achieve-the-best-results-in-product-management.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_posts\/2018-08-09-seven-little-tricks-to-achieve-the-best-results-in-product-management.markdown",
+		"oF": 0
+		},
+	"\/_posts\/2018-08-09-what-you-know-about-product-management-and-what-you-dont.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_posts\/2018-08-09-what-you-know-about-product-management-and-what-you-dont.markdown",
 		"oF": 0
 		},
 	"\/about-mark-mitchell.md": {

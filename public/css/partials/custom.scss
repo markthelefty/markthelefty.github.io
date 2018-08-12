@@ -30,6 +30,11 @@ $breakpoints: (
 body text== "source sans pro"
 regular: 400
 semi-bold: 600
+-----------
+headlines== "myriad-pro"
+weight: 700
+
+
 
 /* ==== Poole and Lanyon ==== */
 * {
@@ -257,17 +262,21 @@ tbody tr:nth-child(odd) td, tbody tr:nth-child(odd) th {
 .layout-2-col {
   @include mq('desktop-sm') {
     display: flex;
+    x-justify-content: space-around;
+    x-align-items: stretch;
   }
 }
 .content-primary {
   @include mq('desktop-sm') {
-    flex: 75%;
+    width: 75%;
+    flex: 0 0 75%;
   }
 }
 .content-secondary {
   @include mq('desktop-sm') {
-    flex: 25%;
-    margin: 0 0 0 2rem;
+    width: 20%;
+    flex: 0 0 20%;
+    margin-left: 5%;
   }
 }
 /*Homepage Body Class*/
@@ -294,19 +303,21 @@ tbody tr:nth-child(odd) td, tbody tr:nth-child(odd) th {
   margin-top: 0;
   @include mq('phone') {
     color: #000;
-    font-size: 2.3rem;
+    font-size: 2.8rem;
+    margin: 0 0 .5rem 0;
+    line-height:1.05;
   }
 }
 .post-meta {
   color: #999;
   font-size: .7rem;
-  margin: -.5rem 0 1rem 0;
+  margin: 0 0 1rem 0;
   padding: 0;
   @include mq('phone') {
     font-size: .9rem;
   }
 }
-.post-meta li {
+.post-meta span {
   display: inline-block;
   margin: 0 1rem 0 0;
 }
@@ -325,14 +336,33 @@ tbody tr:nth-child(odd) td, tbody tr:nth-child(odd) th {
     top: .3rem;
   }
 }
-.related {
-  padding-bottom: 2rem;
-  padding-top: 2rem;
+.post-image {
+  margin: 0 0 3rem 0;
+}
+
+/* ==== Related Post Cards ==== */
+.related .card h4 {
+  font-size:.9rem;
+  line-height:1.25;
+  padding:.75rem;
+  color:#757575;
 }
 .related-posts {
   list-style: none;
   padding-left: 0;
 }
+.related-posts li {
+  margin-bottom:2rem;
+}
+
+.related-posts .thumb {
+  opacity: 0.5;
+}
+/*.related {
+  padding-bottom: 2rem;
+  padding-top: 2rem;
+}
+
 .related-posts h3 {
   margin-top: 0;
 }
@@ -345,7 +375,7 @@ tbody tr:nth-child(odd) td, tbody tr:nth-child(odd) th {
 }
 .related-posts li a:hover small {
   color: inherit;
-}
+}*/
 
 
 /* ==== Pagination ==== */
@@ -890,6 +920,10 @@ blockquote {
 .card p { 
   display: none;
   flex: 1; /* make p grow to fill available space*/
+  color:#000;
+  @include mq('phone') {
+    color: $text-black;
+  }
 }
 .card hr {
   display:none;

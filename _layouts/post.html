@@ -6,11 +6,11 @@ layout: default
   <div class="content-primary">
     <section class="post">
       <h1 class="post-title">{{ page.title }}</h1>
-        <ul class="post-meta">
-          <li class="post-date">{{ page.date | date: '%B %d, %Y' }}</li>
-          <li class="post-readtime">{{ page.readtime }} min read</li>
-        </ul>
-      <img class="cld-responsive" alt="Article Image" src="https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/c_scale,q_auto:good,w_825/{{ page.postimage }}">
+        <div class="post-meta">
+          <span class="post-date">{{ page.date | date: '%B %d, %Y' }}</span>
+          <span class="post-readtime">{{ page.readtime }} min read</span>
+        </div>
+      <img class="cld-responsive post-image" alt="Article Image" src="https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/c_scale,q_auto:good,w_825/{{ page.postimage }}">
       {{ content }}
     </section>
 
@@ -25,17 +25,18 @@ layout: default
     </section>
   </div><!--/content-primary-->
 
+
+
   <div class="content-secondary">
     <aside class="related">
       <h2>Read Next:</h2>
         <ul class="related-posts">
-          {% for post in site.related_posts limit:3 %}
+          {% for post in site.related_posts limit:4 %}
           <li>
-            <h3>
-              <a href="{{ post.url }}">
-                {{ post.title }}
-              </a>
-            </h3>
+            <a href="{{ post.url }}" class="card">
+              <div class="thumb cld-responsive" style="background-image: url(https://res.cloudinary.com/dbrkuvff5/image/upload/c_scale,q_auto:eco,w_600/{{ post.postimage }});"></div>
+              <h4 class="post-title">{{ post.title }}</h4>
+            </a>
           </li>
           {% endfor %}
         </ul>
