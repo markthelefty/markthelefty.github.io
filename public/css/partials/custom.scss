@@ -893,6 +893,10 @@ blockquote {
 .card p { 
   display: none;
   flex: 1; /* make p grow to fill available space*/
+  color:#000;
+  @include mq('phone') {
+    color: $text-black;
+  }
 }
 .card hr {
   display:none;
