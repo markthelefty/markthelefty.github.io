@@ -14,7 +14,7 @@ defaults:
     type: posts
   values:
     description: 
-    image: 
+    image: https://res.cloudinary.com/dbrkuvff5/image/upload/
     readtime: 
 - scope:
     path: ''
