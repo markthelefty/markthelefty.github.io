@@ -259,7 +259,6 @@ tbody tr:nth-child(odd) td, tbody tr:nth-child(odd) th {
     display: flex;
     x-justify-content: space-around;
     x-align-items: stretch;
-    /*max-width: 100%;*/
   }
 }
 .content-primary {
@@ -337,7 +336,9 @@ tbody tr:nth-child(odd) td, tbody tr:nth-child(odd) th {
 }
 
 .related .card h4 {
- color:red;
+  font-size:.9rem;
+  line-height:1.25;
+
 }
 
 .related-posts {
@@ -345,6 +346,9 @@ tbody tr:nth-child(odd) td, tbody tr:nth-child(odd) th {
   padding-left: 0;
 }
 
+.related-posts li {
+  margin-bottom:2rem;
+}
 /*.related {
   padding-bottom: 2rem;
   padding-top: 2rem;
