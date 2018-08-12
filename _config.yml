@@ -14,8 +14,7 @@ defaults:
     type: posts
   values:
     description: 
-    postimage: 
-    socialimage: 
+    image: 
     readtime: 
 - scope:
     path: ''
@@ -38,12 +37,12 @@ author:
     them solve the challenges they come across while delivering some truly great products.
     Like many Product Managers, I traveled an unusual path to get here. <a href="/about-mark-mitchell">Here’s
     the full scoop</a>.
-  image: v1533636293/post-images/mark-mitchell-bio-photo.jpg
+  bioimage: v1533636293/post-images/mark-mitchell-bio-photo.jpg
 paginate: 11
 version: 2.01
 twitter:
-  username: benbalter
-  card: summary
+  username: markmitchell
+  card: summary_large_image
 github:
   repo: https://github.com/markthelefty/markthelefty.github.io
 plugins:
