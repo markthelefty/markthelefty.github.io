@@ -335,17 +335,16 @@ tbody tr:nth-child(odd) td, tbody tr:nth-child(odd) th {
   margin: 0 0 3rem 0;
 }
 
+/* ==== Related Post Cards ==== */
 .related .card h4 {
   font-size:.9rem;
   line-height:1.25;
-
+  padding:.75rem;
 }
-
 .related-posts {
   list-style: none;
   padding-left: 0;
 }
-
 .related-posts li {
   margin-bottom:2rem;
 }
