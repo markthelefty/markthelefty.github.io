@@ -295,14 +295,14 @@ tbody tr:nth-child(odd) td, tbody tr:nth-child(odd) th {
   @include mq('phone') {
     color: #000;
     font-size: 2.8rem;
-    margin: 0 0 1rem 0;
+    margin: 0 0 .5rem 0;
     line-height:1.05;
   }
 }
 .post-meta {
   color: #999;
   font-size: .7rem;
-  /*margin: -.5rem 0 1rem 0;*/
+  margin: 0 0 1rem 0;
   padding: 0;
   @include mq('phone') {
     font-size: .9rem;
@@ -310,7 +310,7 @@ tbody tr:nth-child(odd) td, tbody tr:nth-child(odd) th {
 }
 .post-meta span {
   display: inline-block;
-  /*margin: 0 1rem 0 0;*/
+  margin: 0 1rem 0 0;
 }
 .post-readtime:before {
   background: url("https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/v1533724681/assets/icon-readtime.svg") no-repeat;
