@@ -266,7 +266,7 @@ tbody tr:nth-child(odd) td, tbody tr:nth-child(odd) th {
 }
 .content-secondary {
   @include mq('desktop-sm') {
-    flex: 25%;
+    flex: 15%;
     margin: 0 0 0 2rem;
   }
 }
