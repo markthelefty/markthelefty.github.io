@@ -335,15 +335,16 @@ tbody tr:nth-child(odd) td, tbody tr:nth-child(odd) th {
 color:red;
 }
 
+.related-posts {
+  list-style: none;
+  padding-left: 0;
+}
 
 /*.related {
   padding-bottom: 2rem;
   padding-top: 2rem;
 }
-.related-posts {
-  list-style: none;
-  padding-left: 0;
-}
+
 .related-posts h3 {
   margin-top: 0;
 }
