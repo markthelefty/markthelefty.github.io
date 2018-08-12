@@ -41,6 +41,9 @@ author:
   image: v1533636293/post-images/mark-mitchell-bio-photo.jpg
 paginate: 11
 version: 2.01
+twitter:
+  username: benbalter
+  card: summary
 github:
   repo: https://github.com/markthelefty/markthelefty.github.io
 plugins:
