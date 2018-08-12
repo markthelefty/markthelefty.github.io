@@ -14,7 +14,7 @@ defaults:
     type: posts
   values:
     description: 
-    image: https://res.cloudinary.com/dbrkuvff5/image/upload/v1534109925/social-images/mark-on-product.jpg
+    image: https://res.cloudinary.com/dbrkuvff5/image/upload/
     readtime: 
 - scope:
     path: ''
