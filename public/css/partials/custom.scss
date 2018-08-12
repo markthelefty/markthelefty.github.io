@@ -3,9 +3,33 @@ $brand-green: #67a43e;
 $brand-black: #272727;
 $background-white: #fafafa;
 $divider-gray: #e0e0e0;
-$text-black: #393939;
+$text-black: #1f1f1f;
 
+/* ==== Media Queries ==== */
+$breakpoints: (
+    "phone":        480px,
+    "tablet":       736px,
+    "desktop-sm":   980px,
+    "desktop":      1280px,
+    "desktop-lg":   1690px
+);
+@mixin mq($width, $type: min) {
+    @if map_has_key($breakpoints, $width) {
+        $width: map_get($breakpoints, $width);
+        @if $type == max {
+            $width: $width - 1px;
+        }
+        @media only screen and (#{$type}-width: $width) {
+            @content;
+        }
+    }
+}
 
+/* Font Weight Guide */
+/*
+body text== "source sans pro"
+regular: 400
+semi-bold: 600
 
 /* ==== Poole and Lanyon ==== */
 * {
@@ -20,23 +44,21 @@ html, body {
   padding: 0;
 }
 html {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
   font-size: 20px;
   line-height: 1.5;
+  color:000;
 }
 @media (min-width: 30em) {
   html {
-    font-family: "source-sans-pro", "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-family: "source-sans-pro", "Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+    font-weight: 400;
   }
 }
 body {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
-  background: #fafafa;
-  color: #515151;
 }
-
-
 a {
   color: #268bd2;
   text-decoration: none;
@@ -44,7 +66,6 @@ a {
 a:hover, a:focus {
   text-decoration: underline;
 }
-
 
 /* ==== Headings ==== */
 h1 {
@@ -66,14 +87,14 @@ h1 {
 h2 {
   font-size: 1.2rem;
   margin-top: 1rem;
-  @media (min-width: 30rem) {
+  @include mq('phone') {
     font-size: 1.6rem;
   }
 }
 h3 {
   font-size: 1.1rem;
   margin-top: 1.5rem;
-  @media (min-width: 30rem) {
+  @include mq('phone') {
     font-size: 1.3rem;
   }
 }
@@ -85,20 +106,18 @@ h4, h5, h6 {
 
 /* ==== Body Text ==== */
 p {
-  color:#000000;
   margin-bottom: 1rem;
   margin-top: 0;
-  @media (min-width: 30rem) {
+  @include mq('phone') {
     color: $text-black;
-    font-size: 1.1rem;
+    font-size: 1rem;
     font-weight: 300;
     line-height: 1.6;
     margin-bottom: 1.8rem;
   }
 }
 strong {
-  color: #303030;
-  @media (min-width: 30rem) {
+  @include mq('phone') {
     font-weight: 600;
   }
 }
@@ -108,12 +127,12 @@ strong {
 ul, ol, dl {
   margin-bottom: 1rem;
   margin-top: 0;
-  @media (min-width: 30rem) {
-    font-weight: 300;
+  @include mq('phone') {
+    font-weight: 400;
   }
 }
 dt {
-  font-weight: bold;
+  font-weight: 600;
 }
 dd {
   margin-bottom: .5rem;
@@ -170,7 +189,7 @@ pre code {
 blockquote p:last-child {
   margin-bottom: 0;
 }
-@media (min-width: 30rem) {
+@include mq('phone') {
   blockquote {
     padding-left: 1.25rem;
     padding-right: 5rem;
@@ -204,14 +223,26 @@ tbody tr:nth-child(odd) td, tbody tr:nth-child(odd) th {
 
 /* ==== Container and Wrap ==== */
 .container {
-  max-width: 96%;
-  margin: 0 auto;
-  padding: 0 1rem;
-}
-@media (min-width: 30rem) {
-  .container {
-    max-width: 75%;
-  }
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+    @include mq('phone') {
+      max-width:722px;
+    }
+    @include mq('tablet') {
+      max-width:625px;
+    }
+    @include mq('desktop-sm') {
+      max-width:1024px;
+    }
+    @include mq('desktop') {
+      max-width:1156px;
+    }
+    @include mq('desktop-lg') {
+      max-width:1605px;
+    }
 }
 .wrap {
   min-height: 100%; /*Sticky Footer*/
@@ -221,6 +252,30 @@ tbody tr:nth-child(odd) td, tbody tr:nth-child(odd) th {
 }
 .content {
   padding-bottom: 160px; /*Sticky Footer*/
+}
+/*Multi Col Layout*/
+.layout-2-col {
+  @include mq('desktop-sm') {
+    display: flex;
+  }
+}
+.content-primary {
+  @include mq('desktop-sm') {
+    flex: 75%;
+  }
+}
+.content-secondary {
+  @include mq('desktop-sm') {
+    flex: 25%;
+    margin: 0 0 0 2rem;
+  }
+}
+/*Homepage Body Class*/
+.pg-home {
+  background-color: #fafafa;
+}
+.pg-other {
+  background-color: #fff;
 }
 
 /* ==== Posts and Pages ==== */
@@ -237,7 +292,7 @@ tbody tr:nth-child(odd) td, tbody tr:nth-child(odd) th {
   font-family: "myriad-pro", "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   font-size: 1.5rem;
   margin-top: 0;
-  @media (min-width: 30rem) {
+  @include mq('phone') {
     color: #000;
     font-size: 2.3rem;
   }
@@ -247,7 +302,7 @@ tbody tr:nth-child(odd) td, tbody tr:nth-child(odd) th {
   font-size: .7rem;
   margin: -.5rem 0 1rem 0;
   padding: 0;
-  @media (min-width: 30rem) {
+  @include mq('phone') {
     font-size: .9rem;
   }
 }
@@ -266,7 +321,7 @@ tbody tr:nth-child(odd) td, tbody tr:nth-child(odd) th {
   position: relative;
   top: .2rem;
   width: .7rem;
-  @media (min-width: 30rem) {
+  @include mq('phone') {
     top: .3rem;
   }
 }
@@ -296,12 +351,10 @@ tbody tr:nth-child(odd) td, tbody tr:nth-child(odd) th {
 /* ==== Pagination ==== */
 .pagination {
   color: #ccc;
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
   margin-left: -1rem;
   margin-right: -1rem;
-  overflow: hidden;
+  overflow: hidden; /* clearfix */
   text-align: center;
-  /* clearfix */
 }
 .pagination-item {
   border: 1px solid #eee;
@@ -316,7 +369,7 @@ a.pagination-item:hover {
   background-color: #f5f5f5;
   /* Only provide a hover state for linked pagination items */
 }
-@media (min-width: 30rem) {
+@include mq('phone') {
   .pagination {
     margin: 3rem 0;
   }
@@ -350,7 +403,7 @@ a.pagination-item:hover {
   visibility: hidden;
   width: 14rem;
 }
-@media (min-width: 30rem) {
+@include mq('phone') {
   .sidebar {
     font-size: .75rem;
   }
@@ -434,7 +487,7 @@ a.pagination-item:hover {
 .sidebar-toggle:active, #sidebar-checkbox:checked ~ .wrap .sidebar-toggle {
   color: #9a9a9a;
 }
-@media (min-width: 30.1rem) {
+@include mq('phone') {
   .sidebar-toggle {
     width: 2.25rem;
   }
@@ -478,16 +531,34 @@ a.pagination-item:hover {
 .masthead-title img {
   margin: 0 auto;
   opacity: 1.0;
-  @media (min-width: 45em) {
-    margin-left:0;
+  @include mq('tablet') {
+    margin:0;
   }
 }
 .masthead-title img:hover {
   opacity: 0.7;
 }
-
+/*Screen Test For RWD Styling*/
+/*.masthead {
+  background: $brand-black;
+  @include mq('phone') {
+    background-color: red;
+  }
+  @include mq('tablet') {
+    background-color: green;
+  }
+  @include mq('desktop-sm') {
+    background-color: blue;
+  }
+  @include mq('desktop') {
+    background-color: purple;
+  }
+  @include mq('desktop-lg') {
+    background-color: yellow;
+  }
+}*/
 /* ==== Footer ==== */
-.footer {
+footer {
   bottom: 0; /*Sticky Footer*/
   height: 160px; /*Sticky Footer*/
   left: 0; /*Sticky Footer*/
@@ -581,38 +652,38 @@ a.social-github {
 /* ==== Utility Classes ==== */
 .width-25 {
   max-width: 100%;
-  @media (min-width: 30rem) {
+  @include mq('phone') {
     max-width: 25%;
   }
 }
 .width-50 {
   max-width: 100%;
-  @media (min-width: 30rem) {
+  @include mq('phone') {
     max-width: 50%;
   }
 }
 .width-75 {
   max-width: 100%;
-  @media (min-width: 30rem) {
+  @include mq('phone') {
     max-width: 75%;
   }
 }
 .width-100 {
   max-width: 100%;
-  @media (min-width: 30rem) {
+  @include mq('phone') {
     max-width: 100%;
   }
 }
 .float-left {
   float: none;
-  @media (min-width: 30rem) {
+  @include mq('phone') {
     float: left;
     margin: 0.5rem 1.2rem 0 0;
   }
 }
 .float-right {
   float: none;
-  @media (min-width: 30rem) {
+  @include mq('phone') {
     float: right;
     margin: 0.5rem 0 0 1.2rem;
   }
@@ -674,28 +745,28 @@ blockquote {
   border-top: 1px solid $divider-gray;
   overflow: hidden; /*clear fix*/
   padding-top: 1rem;
-  @media (min-width: 30rem) {
+  @include mq('phone') {
     display: table;
   }
 }
 .author-image {
   margin: 0 auto;
   width: 50%;
-  @media (min-width: 30rem) {
+  @include mq('phone') {
     display: table-cell;
     vertical-align: middle;
     width: 25%;
   }
 }
 .author-bio {
-  @media (min-width: 30rem) {
+  @include mq('phone') {
     display: table-cell;
     float: left;
     padding-left: 2em;
   }
 }
 .author-bio p {
-  @media (min-width: 30rem) {
+  @include mq('phone') {
     font-size: .9rem;
     line-height: 1.5rem;
   }
@@ -746,22 +817,22 @@ blockquote {
   grid-template-columns: 1fr;
   grid-template-rows: auto;
   grid-gap: 2rem; 
-  @media (min-width: 500px) {
+  @include mq('tablet') {
     grid-template-columns: 1fr 1fr;
   }
-   @media (min-width: 1250px) {
+  @include mq('desktop-sm') {
     grid-template-columns: 1fr 1fr 1fr;
   } 
 }
 /*Style First Article*/
 .article-grid section:nth-child(1) {
-  @media (min-width: 500px) {
+  @include mq('tablet') {
    grid-column: 1/ span 2;
   } 
 }
 .article-grid section:nth-child(1) h1{
-  @media (min-width: 500px) {
-    font-size:2.9rem;
+  @include mq('tablet') {
+    font-size:2.3rem;
   } 
 }
 .article-grid section:nth-child(1) p {
@@ -772,15 +843,14 @@ blockquote {
 }
 /*Style Second Article*/
 .article-grid section:nth-child(2) h1{
-  @media (min-width: 500px) {
-    font-size:1.9rem;
+  @include mq('tablet') {
+    font-size:1.8rem;
   } 
 }
 .article-grid section:nth-child(2) p {
-  display:block;
-  @media (min-width: 500px) {
-    font-size:1rem;
-  } 
+  @include mq('desktop-sm') {
+    display:block;
+  }
 }
 .article-grid section:nth-child(2) hr {
   display:block;
@@ -820,9 +890,13 @@ blockquote {
 .card p { 
   display: none;
   flex: 1; /* make p grow to fill available space*/
-  font-size: 0.9rem;
 }
 .card hr {
   display:none;
   margin: .75rem 0;
 }
+
+
+
+
+
