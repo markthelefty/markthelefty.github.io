@@ -25,40 +25,11 @@ $breakpoints: (
     }
 }
 
-
-.screen-test {
-background-color: black;
-
-@include mq('phone') {
-  background-color: red;
-    }
-
-@include mq('tablet') {
-  background-color: green;
-    }
-
-    @include mq('desktop-sm') {
-  background-color: blue;
-    }
-
-    @include mq('desktop') {
-  background-color: purple;
-    }
-
-    @include mq('desktop-lg') {
-  background-color: yellow;
-    }
-
-
-}
-
 /* Font Weight Guide */
 /*
 body text== "source sans pro"
 regular: 400
 semi-bold: 600
-
-
 
 /* ==== Poole and Lanyon ==== */
 * {
@@ -567,7 +538,25 @@ a.pagination-item:hover {
 .masthead-title img:hover {
   opacity: 0.7;
 }
-
+/*Screen Test Div For RWD Styling*/
+.masthead {
+background-color: black;
+  @include mq('phone') {
+    background-color: red;
+  }
+  @include mq('tablet') {
+    background-color: green;
+  }
+  @include mq('desktop-sm') {
+    background-color: blue;
+  }
+  @include mq('desktop') {
+    background-color: purple;
+  }
+  @include mq('desktop-lg') {
+    background-color: yellow;
+  }
+}
 /* ==== Footer ==== */
 footer {
   bottom: 0; /*Sticky Footer*/
@@ -906,6 +895,7 @@ blockquote {
   display:none;
   margin: .75rem 0;
 }
+
 
 
 
