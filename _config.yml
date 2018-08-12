@@ -40,7 +40,7 @@ author:
     the full scoop</a>.
   image: https://res.cloudinary.com/dbrkuvff5/image/upload/v1533636293/post-images/mark-mitchell-bio-photo.gif
 paginate: 11
-version: 2
+version: 2.01
 github:
   repo: https://github.com/markthelefty/markthelefty.github.io
 plugins:
