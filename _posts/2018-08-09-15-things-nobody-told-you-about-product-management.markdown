@@ -5,7 +5,7 @@ description: Believing neglected so so allowance existence departure in. In desi
   active temper be uneasy. Thirty for remove plenty regard you summer though. He preference
   connection astonished on of ye. Partiality on or continuing in particular principles
   as. Do believing oh disposing.
-postimage: v1533853938/samples/Deat_to_Stock_Goods_1.jpg
+image: v1533853938/samples/Deat_to_Stock_Goods_1.jpg
 readtime: 3
 ---
 
