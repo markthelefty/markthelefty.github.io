@@ -30,52 +30,16 @@ layout: default
   <div class="content-secondary">
     <aside class="related">
       <h2>Read Next:</h2>
-
-        <ul class="related-posts">
-          {% for post in site.related_posts limit:6 %}
-
-
-          <li>
-          <a href="{{ post.url }}" class="card">
-          <div class="thumb cld-responsive" style="background-image: url(https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/c_scale,q_auto:good,w_750/{{ post.postimage }});"></div>
-            <h4 class="post-title">{{ post.title }}</h4>
-        </a>
-      </li>
-
-
-
-
-
-          {% endfor %}
-
-
-
-
-
-        </ul>
-    </aside>
-  </div><!--/content-secondary-->
-</article>
-
-
-
-
-
-
-  <!--<div class="content-secondary">
-    <aside class="related">
-      <h2>Read Next:</h2>
         <ul class="related-posts">
           {% for post in site.related_posts limit:6 %}
           <li>
-            <h3>
-              <a href="{{ post.url }}">
-                {{ post.title }}
-              </a>
-            </h3>
+            <a href="{{ post.url }}" class="card">
+              <div class="thumb cld-responsive" style="background-image: url(https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/c_scale,q_auto:good,w_750/{{ post.postimage }});"></div>
+              <h4 class="post-title">{{ post.title }}</h4>
+            </a>
           </li>
           {% endfor %}
         </ul>
     </aside>
-  </div>
-</article>-->
+  </div><!--/content-secondary-->
+</article>
