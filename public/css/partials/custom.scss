@@ -538,9 +538,9 @@ a.pagination-item:hover {
 .masthead-title img:hover {
   opacity: 0.7;
 }
-/*Screen Test Div For RWD Styling*/
+/*Screen Test For RWD Styling*/
 .masthead {
-background-color: black;
+  background: $brand-black;
   @include mq('phone') {
     background-color: red;
   }
