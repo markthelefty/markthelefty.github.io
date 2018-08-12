@@ -348,6 +348,10 @@ tbody tr:nth-child(odd) td, tbody tr:nth-child(odd) th {
 .related-posts li {
   margin-bottom:2rem;
 }
+
+.related-posts .thumb {
+  opacity: 0.5;
+}
 /*.related {
   padding-bottom: 2rem;
   padding-top: 2rem;
