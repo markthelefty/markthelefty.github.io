@@ -10,13 +10,13 @@ layout: default
           <li class="post-date">{{ page.date | date: '%B %d, %Y' }}</li>
           <li class="post-readtime">{{ page.readtime }} min read</li>
         </ul>
-      <img class="cld-responsive" src="https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/c_scale,q_auto:good,w_825/{{ page.postimage }}">
+      <img class="cld-responsive" alt="Article Image" src="https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/c_scale,q_auto:good,w_825/{{ page.postimage }}">
       {{ content }}
     </section>
 
     <section class="about-author">
       <div class="author-image">
-        <img class="cld-responsive" src="{{ site.author.image }}" alt="{{ site.author.name }}">
+        <img class="cld-responsive" alt="{{ site.author.name }}" src="https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/c_scale,q_auto:good,w_225/{{ site.author.image }}">
       </div>
       <div class="author-bio">
         <h3>About {{ site.author.name }}</h3>
