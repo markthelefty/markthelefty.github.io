@@ -26,7 +26,7 @@ markdown: kramdown
 rouge: true
 permalink: "/:title"
 tagline: Product Management In The Real World
-description: Product Management In The Real World
+description: This is homepage description field.
 url: https://markonproduct.com
 author:
   name: Mark Mitchell
