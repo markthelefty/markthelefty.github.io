@@ -11,6 +11,7 @@
         <meta property="og:title" content="{{site.title}}" />
         <meta property="og:locale" content="en_US" />
         <meta name="description" content="{{site.description}}" />
+        <meta property="og:description" content="{{site.description}}" />
 
     {% elsif page.is_page %}
         <!-- All other pages -->
@@ -18,6 +19,7 @@
         <meta property="og:title" content="{{ page.title }}" />
         <meta property="og:locale" content="en_US" />
         <meta name="description" content="{{page.description}}" />
+        <meta property="og:description" content="{{page.description}}" />
 
     {% else %}
         <!-- Posts -->
@@ -25,14 +27,13 @@
         <meta property="og:title" content="{{ page.title }}" />
         <meta property="og:locale" content="en_US" />
         <meta name="description" content="{{page.description}}" />
+        <meta property="og:description" content="{{page.description}}" />
     {% endif %}
 
 
 
     <!-- Begin Jekyll SEO tag v2.3.0 -->
 
-
-<meta property="og:description" content="We have had some requests recently for a blog post about SEO on Siteleaf, and we are here to deliver." />
 <link rel="canonical" href="http://www.siteleaf.com/blog/seo-with-jekyll-siteleaf/" />
 <meta property="og:url" content="http://www.siteleaf.com/blog/seo-with-jekyll-siteleaf/" />
 <meta property="og:site_name" content="Siteleaf" />
