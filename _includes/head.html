@@ -4,29 +4,54 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <!-- Addtional meta tags -->
-    <title>SEO with Jekyll and Siteleaf - Siteleaf</title>
-
-    <!-- Begin Jekyll SEO tag v2.3.0 -->
-<meta property="og:title" content="SEO with Jekyll and Siteleaf" />
-
-
-<meta property="og:locale" content="en_US" />
-<meta name="description" content="We have had some requests recently for a blog post about SEO on Siteleaf, and we are here to deliver." />
-<meta property="og:description" content="We have had some requests recently for a blog post about SEO on Siteleaf, and we are here to deliver." />
-<link rel="canonical" href="http://www.siteleaf.com/blog/seo-with-jekyll-siteleaf/" />
-<meta property="og:url" content="http://www.siteleaf.com/blog/seo-with-jekyll-siteleaf/" />
-<meta property="og:site_name" content="Siteleaf" />
-<meta property="og:image" content="http://www.siteleaf.com/uploads/siteLeaf_seo_blogCover_020818-04.jpg" />
-<meta property="og:type" content="article" />
-<meta property="article:published_time" content="2018-02-13T16:54:00-05:00" />
-<meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:site" content="@siteleaf" />
+    {% if page.url == "/" %}
+        <!-- Homepage -->
+        <title>{{site.title}}</title>
+        <meta property="og:title" content="{{site.title}}" />
+        <meta property="og:locale" content="en_US" />
+        <meta name="description" content="{{site.description}}" />
+        <meta property="og:description" content="{{site.description}}" />
+        <link rel="canonical" href="{{site.url}}" />
+        <meta property="og:url" content="{{site.url}}" />
+        <meta property="og:site_name" content="{{site.title}}" />
+        <meta property="og:image" content="https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/c_scale,q_auto:best,w_552/{{ page.image }}" />
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:site" content="@{{ site.author.twitter }}" />
+        <script type="application/ld+json">{"name":"{{site.title}}","description":"{{site.description}}","author":null,"@type":"WebSite","url":"{{site.url}}","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/v1533676576/assets/logo.svg"}},"image":"https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/v1533676576/assets/logo.svg","headline":"{{site.description}}","dateModified":null,"datePublished":null,"sameAs":null,"mainEntityOfPage":null,"@context":"http://schema.org"}</script>
 
 
+    {% elsif page.is_page %}
+        <!-- All other pages -->
+        <title>{{site.title}} | {{ page.title }}</title>
+        <meta property="og:title" content="{{ page.title }}" />
+        <meta property="og:locale" content="en_US" />
+        <meta name="description" content="{{page.description}}" />
+        <meta property="og:description" content="{{page.description}}" />
+        <link rel="canonical" href="{{site.url}}{{page.url}}" />
+        <meta property="og:url" content="{{site.url}}{{page.url}}" />
+        <meta property="og:site_name" content="{{site.title}}" />
+        <meta property="og:image" content="https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/c_scale,q_auto:best,w_552/{{ page.image }}" />
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:site" content="@{{ site.author.twitter }}" />
+        <script type="application/ld+json">{"name":"{{site.title}}","description":"{{page.description}}","author":null,"@type":"WebSite","url":"{{site.url}}{{page.url}}","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/v1533676576/assets/logo.svg"}},"image":"https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/v1533676576/assets/logo.svg","headline":"{{site.description}}","dateModified":null,"datePublished":null,"sameAs":null,"mainEntityOfPage":null,"@context":"http://schema.org"}</script>
 
-<script type="application/ld+json">
-{"name":null,"description":"We have had some requests recently for a blog post about SEO on Siteleaf, and we are here to deliver.","author":null,"@type":"BlogPosting","url":"http://www.siteleaf.com/blog/seo-with-jekyll-siteleaf/","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://www.siteleaf.com/assets/logo.svg"}},"image":"http://www.siteleaf.com/uploads/siteLeaf_seo_blogCover_020818-04.jpg","headline":"SEO with Jekyll and Siteleaf","dateModified":"2018-02-13T16:54:00-05:00","datePublished":"2018-02-13T16:54:00-05:00","sameAs":null,"mainEntityOfPage":{"@type":"WebPage","@id":"http://www.siteleaf.com/blog/seo-with-jekyll-siteleaf/"},"@context":"http://schema.org"}</script>
-<!-- End Jekyll SEO tag -->
+    {% else %}
+        <!-- Posts -->
+        <title>{{ page.title }} | {{site.title}}</title>
+        <meta property="og:title" content="{{ page.title }}" />
+        <meta property="og:locale" content="en_US" />
+        <meta name="description" content="{{page.description}}" />
+        <meta property="og:description" content="{{page.description}}" />
+        <link rel="canonical" href="{{site.url}}{{page.url}}" />
+        <meta property="og:url" content="{{site.url}}{{page.url}}" />
+        <meta property="og:site_name" content="{{site.title}}" />
+        <meta property="og:image" content="https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/c_scale,q_auto:best,w_552/{{ page.image }}" />
+        <meta property="og:type" content="article" />
+        <meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}" />
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:site" content="@{{ site.author.twitter }}" />
+        <script type="application/ld+json">{"name":null,"description":"{{page.description}}","author":null,"@type":"BlogPosting","url":"{{site.url}}{{page.url}}","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/v1533676576/assets/logo.svg"}},"image":"https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/c_scale,q_auto:best,w_552/{{ page.image }}","headline":"{{ page.title }}","dateModified":"{{ page.date | date_to_xmlschema }}","datePublished":"{{ page.date | date_to_xmlschema }}","sameAs":null,"mainEntityOfPage":{"@type":"WebPage","@id":"{{site.url}}{{page.url}}"},"@context":"http://schema.org"}</script>
+    {% endif %}
 
 
     <!-- Inlined Stylesheet -->

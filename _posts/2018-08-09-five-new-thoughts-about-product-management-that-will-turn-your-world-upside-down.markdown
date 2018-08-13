@@ -8,7 +8,7 @@ description: 'Although moreover mistaken kindness me feelings do be marianne. So
   unsatiable particular inquietude did nor sir. Get his declared appetite distance
   his together now families. Friends am himself at on norland it viewing. Suspected
   elsewhere you belonging continued commanded she. '
-postimage: v1533853938/samples/Death_to_Stock_Chasing_Sunrise_5_Ivan_Calderon.jpg
+image: v1533853938/samples/Death_to_Stock_Chasing_Sunrise_5_Ivan_Calderon.jpg
 readtime: 7
 ---
 
