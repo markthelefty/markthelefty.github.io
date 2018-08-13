@@ -16,12 +16,14 @@ defaults:
     description: 
     image: 
     readtime: 
+    is_post: true 
 - scope:
     path: ''
     type: pages
   values:
     description: 
     image: 
+    is_page: true 
 markdown: kramdown
 rouge: true
 permalink: "/:title"
@@ -41,7 +43,7 @@ author:
     the full scoop</a>.
   image: v1533636293/post-images/mark-mitchell-bio-photo.jpg
 paginate: 11
-version: 2.07
+version: 2.09
 github:
   repo: https://github.com/markthelefty/markthelefty.github.io
 plugins:
