@@ -14,13 +14,14 @@ defaults:
     type: posts
   values:
     description: 
-    image: https://res.cloudinary.com/dbrkuvff5/image/upload/
+    image: 
     readtime: 
 - scope:
     path: ''
     type: pages
   values:
     description: 
+    image: 
 markdown: kramdown
 rouge: true
 permalink: "/:title"
@@ -33,10 +34,12 @@ author:
   name: Mark Mitchell
   twitter: markmitchell
   url: https://twitter.com/markmitchell
-  bio: Hi! I’m Mark Mitchell. I’m VP of Product at a large financial services company. I lead an awesome team of 13 Product Managers. Most of my days are spent helping them solve the challenges they come across while delivering some truly great products. Like many Product Managers, I traveled an unusual path to get here. <a href="/about-mark-mitchell">Here’s the full scoop</a>.
-  image: v1533636293/post-images/mark-mitchell-bio-photo.jpg
+  bio: 'Hi! I’m Mark Mitchell. I’m VP of Product at a large financial services company. 
+  I lead an awesome team of 13 Product Managers. Most of my days are spent helping them
+  solve the challenges they come across while delivering some truly great products. Like 
+  many Product Managers, I traveled an unusual path to get here. <a href="/about-mark-mitchell">Here’s the full scoop</a>.'
 paginate: 11
-version: 2.05
+version: 2.07
 github:
   repo: https://github.com/markthelefty/markthelefty.github.io
 plugins:
