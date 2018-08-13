@@ -12,7 +12,7 @@
         <meta property="og:locale" content="en_US" />
         <meta name="description" content="{{site.description}}" />
         <meta property="og:description" content="{{site.description}}" />
-        <link rel="canonical" href="{{page.url}}" />
+        <link rel="canonical" href="{{url}}" />
 
     {% elsif page.is_page %}
         <!-- All other pages -->
@@ -21,7 +21,7 @@
         <meta property="og:locale" content="en_US" />
         <meta name="description" content="{{page.description}}" />
         <meta property="og:description" content="{{page.description}}" />
-        <link rel="canonical" href="{{page.url}}" />
+        <link rel="canonical" href="{{url}}" />
 
     {% else %}
         <!-- Posts -->
@@ -30,7 +30,7 @@
         <meta property="og:locale" content="en_US" />
         <meta name="description" content="{{page.description}}" />
         <meta property="og:description" content="{{page.description}}" />
-        <link rel="canonical" href="{{page.url}}" />
+        <link rel="canonical" href="{{url}}" />
     {% endif %}
 
 
