@@ -17,6 +17,7 @@
         <meta property="og:image" content="https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/c_scale,q_auto:best,w_552/{{ page.image }}" />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:site" content="@{{ site.author.twitter }}" />
+        <meta name="author" content="{{ site.author.name }}">
         <script type="application/ld+json">{"name":"{{site.title}}","description":"{{site.description}}","author":null,"@type":"WebSite","url":"{{site.url}}","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/v1533676576/assets/logo.svg"}},"image":"https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/v1533676576/assets/logo.svg","headline":"{{site.description}}","dateModified":null,"datePublished":null,"sameAs":null,"mainEntityOfPage":null,"@context":"http://schema.org"}</script>
 
 
@@ -33,6 +34,7 @@
         <meta property="og:image" content="https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/c_scale,q_auto:best,w_552/{{ page.image }}" />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:site" content="@{{ site.author.twitter }}" />
+        <meta name="author" content="{{ site.author.name }}">
         <script type="application/ld+json">{"name":"{{site.title}}","description":"{{page.description}}","author":null,"@type":"WebSite","url":"{{site.url}}{{page.url}}","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/v1533676576/assets/logo.svg"}},"image":"https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/v1533676576/assets/logo.svg","headline":"{{site.description}}","dateModified":null,"datePublished":null,"sameAs":null,"mainEntityOfPage":null,"@context":"http://schema.org"}</script>
 
     {% else %}
@@ -50,6 +52,7 @@
         <meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}" />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:site" content="@{{ site.author.twitter }}" />
+        <meta name="author" content="{{ site.author.name }}">
         <script type="application/ld+json">{"name":null,"description":"{{page.description}}","author":null,"@type":"BlogPosting","url":"{{site.url}}{{page.url}}","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/v1533676576/assets/logo.svg"}},"image":"https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/c_scale,q_auto:best,w_552/{{ page.image }}","headline":"{{ page.title }}","dateModified":"{{ page.date | date_to_xmlschema }}","datePublished":"{{ page.date | date_to_xmlschema }}","sameAs":null,"mainEntityOfPage":{"@type":"WebPage","@id":"{{site.url}}{{page.url}}"},"@context":"http://schema.org"}</script>
     {% endif %}
 
