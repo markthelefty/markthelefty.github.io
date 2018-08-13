@@ -17,7 +17,7 @@
         <meta property="og:site_name" content="{{site.title}}" />
         <meta property="og:image" content="https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/c_scale,q_auto:best,w_552/{{ page.image }}" />
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:site" content="{{ site.author.twitter }}" />
+        <meta name="twitter:site" content="@{{ site.author.twitter }}" />
 
     {% elsif page.is_page %}
         <!-- All other pages -->
@@ -30,6 +30,8 @@
         <meta property="og:url" content="{{site.url}}{{page.url}}" />
         <meta property="og:site_name" content="{{site.title}}" />
         <meta property="og:image" content="https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/c_scale,q_auto:best,w_552/{{ page.image }}" />
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:site" content="@{{ site.author.twitter }}" />
 
     {% else %}
         <!-- Posts -->
@@ -44,14 +46,9 @@
         <meta property="og:image" content="https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/c_scale,q_auto:best,w_552/{{ page.image }}" />
         <meta property="og:type" content="article" />
         <meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}" />
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:site" content="@{{ site.author.twitter }}" />
     {% endif %}
-
-
-
-    <!-- Begin Jekyll SEO tag v2.3.0 -->
-<meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:site" content="@siteleaf" />
-
 
 
 <script type="application/ld+json">
