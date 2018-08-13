@@ -4,10 +4,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <!-- Addtional meta tags -->
-    {% if page.is_post %}
-      <title>Hi Post</title>
+
+    {% if page.url == "/" %}
+        <title>Home</title>
+    {% elsif page.is_page %}
+        <title>Other Page</title>
     {% else %}
-      <title>{{site.title}} | {{ page.title }}</title>
+        <title>Post</title>
     {% endif %}
 
 
