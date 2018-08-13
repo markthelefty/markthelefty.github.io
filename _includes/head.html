@@ -12,6 +12,7 @@
         <meta property="og:locale" content="en_US" />
         <meta name="description" content="{{site.description}}" />
         <meta property="og:description" content="{{site.description}}" />
+        <link rel="canonical" href="{{node.url}}" />
 
     {% elsif page.is_page %}
         <!-- All other pages -->
@@ -20,6 +21,7 @@
         <meta property="og:locale" content="en_US" />
         <meta name="description" content="{{page.description}}" />
         <meta property="og:description" content="{{page.description}}" />
+        <link rel="canonical" href="{{node.url}}" />
 
     {% else %}
         <!-- Posts -->
@@ -28,13 +30,14 @@
         <meta property="og:locale" content="en_US" />
         <meta name="description" content="{{page.description}}" />
         <meta property="og:description" content="{{page.description}}" />
+        <link rel="canonical" href="{{node.url}}" />
     {% endif %}
 
 
 
     <!-- Begin Jekyll SEO tag v2.3.0 -->
 
-<link rel="canonical" href="http://www.siteleaf.com/blog/seo-with-jekyll-siteleaf/" />
+
 <meta property="og:url" content="http://www.siteleaf.com/blog/seo-with-jekyll-siteleaf/" />
 <meta property="og:site_name" content="Siteleaf" />
 <meta property="og:image" content="http://www.siteleaf.com/uploads/siteLeaf_seo_blogCover_020818-04.jpg" />
