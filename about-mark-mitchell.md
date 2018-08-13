@@ -1,8 +1,10 @@
 ---
 title: About Me
 date: 2018-07-14 14:18:00 -04:00
-description: This is a PAGE description. New!!
-image: https://res.cloudinary.com/dbrkuvff5/image/upload/v1532890567/social-images/linkedin-post-img-test.jpg
+description: 'About page description field: Do so written as raising parlors spirits
+  mr elderly. Made late in of high left hold. Carried females of up highest calling.
+  Limits marked led silent dining her she far.'
+image: social-images/linkedin-post-img-test.jpg
 layout: page
 ---
 
