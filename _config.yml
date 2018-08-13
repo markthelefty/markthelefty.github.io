@@ -16,14 +16,14 @@ defaults:
     description: 
     image: 
     readtime: 
-    is_post: true 
+    is_post: true
 - scope:
     path: ''
     type: pages
   values:
     description: 
     image: 
-    is_page: true 
+    is_page: true
 markdown: kramdown
 rouge: true
 permalink: "/:title"
