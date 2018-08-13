@@ -6,11 +6,11 @@
     <!-- Addtional meta tags -->
 
     {% if page.url == "/" %}
-        <title>Home</title>
+        <title>{{site.title}}</title>
     {% elsif page.is_page %}
-        <title>Other Page</title>
+        <title>{{site.title}} | {{ page.title }}</title>
     {% else %}
-        <title>Post</title>
+        <title>{{ post.title }} | {{site.title}}</title>
     {% endif %}
 
 
