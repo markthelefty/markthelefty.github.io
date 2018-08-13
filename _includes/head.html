@@ -6,17 +6,25 @@
     <!-- Addtional meta tags -->
 
     {% if page.url == "/" %}
+        <!-- Homepage -->
         <title>{{site.title}}</title>
+        <meta property="og:title" content="{{site.title}}" />
+
     {% elsif page.is_page %}
+        <!-- All other pages -->
         <title>{{site.title}} | {{ page.title }}</title>
+        <meta property="og:title" content="{{ page.title }}" />
+
     {% else %}
+        <!-- Posts -->
         <title>{{ page.title }} | {{site.title}}</title>
+        <meta property="og:title" content="{{ page.title }}" />
     {% endif %}
 
 
 
     <!-- Begin Jekyll SEO tag v2.3.0 -->
-<meta property="og:title" content="SEO with Jekyll and Siteleaf" />
+
 
 
 <meta property="og:locale" content="en_US" />
