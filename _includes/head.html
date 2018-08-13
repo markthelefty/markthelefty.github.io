@@ -4,7 +4,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <!-- Addtional meta tags -->
-
     {% if page.url == "/" %}
         <!-- Homepage -->
         <title>{{site.title}}</title>
@@ -53,10 +52,6 @@
         <meta name="twitter:site" content="@{{ site.author.twitter }}" />
         <script type="application/ld+json">{"name":null,"description":"{{page.description}}","author":null,"@type":"BlogPosting","url":"{{site.url}}{{page.url}}","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/v1533676576/assets/logo.svg"}},"image":"https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/c_scale,q_auto:best,w_552/{{ page.image }}","headline":"{{ page.title }}","dateModified":"{{ page.date | date_to_xmlschema }}","datePublished":"{{ page.date | date_to_xmlschema }}","sameAs":null,"mainEntityOfPage":{"@type":"WebPage","@id":"{{site.url}}{{page.url}}"},"@context":"http://schema.org"}</script>
     {% endif %}
-
-
-
-
 
 
     <!-- Inlined Stylesheet -->
