@@ -6,7 +6,7 @@ description: 'Advanced extended doubtful he he blessing together. Introduced far
   By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention
   entered an through company as. Up arrived no painful between. It declared is prospect
   an insisted pleasure. '
-postimage: v1533853937/samples/Death_to_Stock_Fall_Dinner_2.jpg
+image: v1533853937/samples/Death_to_Stock_Fall_Dinner_2.jpg
 readtime: 7
 ---
 
