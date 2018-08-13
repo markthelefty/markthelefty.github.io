@@ -38,9 +38,9 @@ author:
   them solve the challenges they come across while delivering some truly great products.
   Like many Product Managers, I traveled an unusual path to get here. <a href="/about-mark-mitchell">Here’s
   the full scoop</a>.
-  bioimage: v1533636293/post-images/mark-mitchell-bio-photo.jpg
+  image: v1533636293/post-images/mark-mitchell-bio-photo.jpg
 paginate: 11
-version: 2.03
+version: 2.04
 github:
   repo: https://github.com/markthelefty/markthelefty.github.io
 plugins:
