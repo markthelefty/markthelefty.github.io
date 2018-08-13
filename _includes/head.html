@@ -4,12 +4,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <!-- Addtional meta tags -->
-    <title>SEO with Jekyll and Siteleaf - Siteleaf</title>
-
     {% if page.is_post %}
-      <title>hi im post</title>
+      <title>Hi Post</title>
     {% else %}
-      <title>hi im page</title>
+      <title>{{site.title}} | {{ node.title }}</title>
     {% endif %}
 
 
