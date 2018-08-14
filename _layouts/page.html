@@ -20,25 +20,11 @@ layout: default
           <li>
             <a href="{{ post.url }}" class="card">
               <div class="thumb cld-responsive" style="background-image: url(https://res.cloudinary.com/dbrkuvff5/image/upload/c_scale,q_auto:eco,w_600/{{ post.image }});"></div>
-              <h4 class="post-title">{{ post.title }}</h4>
+              <h4 class="post-title">{{ page.title }}</h4>
             </a>
           </li>
           {% endfor %}
         </ul>
-
-
-        <ul>
-  {% for post in site.posts %}
-    {% if post.url != page.url %}	
-      {% for tag in page.tags %} 
-        {% if post.tags contains tag %}
-          <li><a href="{{ post.url }}">{{ post.title }}</a><br /></li>
-          {% break %}
-        {% endif %}
-      {% endif %}
-    {% endfor %}
-  {% endfor %}
-</ul>
     </aside>
   </div><!--/content-secondary-->
 </div>
