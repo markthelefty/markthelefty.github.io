@@ -32,7 +32,7 @@ Work was getting harder and harder to land, so it was time for me to look for so
 
 So - I bought a liquor store, I know it seems weird. But after a few years watching the music business die, I wanted something I controlled, something I owned. So with a bank loan and some help form my parents I bought a small liquor store in North Jersey. It was so exciting, most people thought I was nuts, the others were excited by my enthusiasm and energy about it. My single goal was to grow the business in every way I could. I did all kinds of “growth hacks” from a full re-brand to offering a new delivery service.
 
-[![American Classic Liquors Fairview New Jersey](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/c_scale,q_auto:good,w_845/v1531699738/page-images/liquor-store-final.jpg){: .cld-responsive .width-3 .float-left}]
+[![American Classic Liquors Fairview New Jersey](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/c_scale,q_auto:good,w_845/v1531699738/page-images/liquor-store-final.jpg){: .cld-responsive .width-3 .float-left}
 
 But the thing that I was most proud of - was building a website for the store. This was still the early days of the web and selling wine online in New Jersey had recently become completely legal. The idea of a wine website wasn’t completely new. There was a store in the town where we lived at the time called the Wine Library, I noticed the insane business they were doing there. This store was run by a father and son, the son turned out to be Gary Vaynerchuk. It was rumored that they were doing $50 million a year on the web alone. I’m still not sure if that number is accurate but I suspect it’s probably close. I thought if I did 10% of that I was set.
 
