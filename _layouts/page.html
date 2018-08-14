@@ -2,7 +2,29 @@
 layout: default
 ---
 
-<div class="page">
-  <h1 class="page-title">{{ page.title }}</h1>
-  {{ content }}
+<div class="layout-2-col">
+  <div class="content-primary">
+    <section class="page">
+      <h1 class="page-title">{{ page.title }}</h1>
+      {{ content }}
+    </section>
+  </div><!--/content-primary-->
+
+
+
+  <div class="content-secondary">
+    <aside class="related">
+      <h2>Read Next:</h2>
+        <ul class="related-posts">
+          {% for post in site.related_posts limit:4 %}
+          <li>
+            <a href="{{ post.url }}" class="card">
+              <div class="thumb cld-responsive" style="background-image: url(https://res.cloudinary.com/dbrkuvff5/image/upload/c_scale,q_auto:eco,w_600/{{ post.image }});"></div>
+              <h4 class="post-title">{{ post.title }}</h4>
+            </a>
+          </li>
+          {% endfor %}
+        </ul>
+    </aside>
+  </div><!--/content-secondary-->
 </div>
