@@ -23,6 +23,7 @@ defaults:
   values:
     description: 
     image: 
+    related: true
     is_page: true
 markdown: kramdown
 rouge: true
