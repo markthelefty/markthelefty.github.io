@@ -44,7 +44,7 @@ The store was great, but after working 6-7 days a week for a few years I decided
 
 After selling the store and having our first child, I was ready for some normal hours and weekends. I never really viewed myself as a sales guy. But I was good at forming relationships, following through and was always self driven. So I interviewed for a position at one of the distributions that sold Wine and Liquor to my store. Fedway Associates was one of the largest Wine and Liquor distributors in New Jersey at the time. I interviewed with one of the Division Sales Managers on a Friday morning and he offered me a job on the spot. I was excited. I never really planned it but at the time it felt right and was sort of the right thing at the time.
 
-<img src="https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/v1531701629/page-images/fedway-associates-logo.png" alt="Fedway Associates Logo Logo" class="cld-responsive">
+[![Fedway Associates Logo](https://res.cloudinary.com/dbrkuvff5/image/upload/v1534242413/page-images/fedway-associates-logo.jpg){: .cld-responsive}](https://www.fedway.com/ "Fedway Associates")
 
 The best part was as I drove all over the state from store to store all day I could listen to podcasts and listen to videos playing on my laptop from the passenger seat. This proved to be huge, because I couldn’t get my mind off the web, off coding and web design or SEO, or anything web really. I loved it. I eat, drank and slept it. It felt like my teenage years with the music all over again. I was studying every podcast and blog I could get my hands on. I was unintentionally becoming an expert.
 
