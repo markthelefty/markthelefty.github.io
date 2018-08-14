@@ -30,6 +30,16 @@
 		"oAP": "\/_config.yml",
 		"oF": 0
 		},
+	"\/_includes\/css\/style.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/_includes\/css\/style-min.css",
+		"oF": 0,
+		"oS": 3
+		},
 	"\/_includes\/footer.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -212,13 +222,6 @@
 		"pME": 1,
 		"rFN": 0,
 		"uCM": 0
-		},
-	"\/Gemfile": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/Gemfile",
-		"oF": 0
 		},
 	"\/index.html": {
 		"cB": 0,
