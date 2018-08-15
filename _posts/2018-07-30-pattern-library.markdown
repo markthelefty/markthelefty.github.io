@@ -316,13 +316,14 @@ Cloudinary will serve the smallest filetype and size automatically as long as th
 ![Alt Text](img/url){: .width-8}
 ```
 
-
-
 ### 25% Width (Float Left)
-![Image 25% Wide](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/v1533119534/post-images/post-image-sample-25.png){: .cld-responsive .width-25 .float-left}
+![Image 25% Wide](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/c_scale,q_auto:good,w_845/v1534292126/post-images/sample-post-image.jpg){: .width-2 .float-left}
+```markdown
+![Alt Text](img/url){: .width-2 .float-left}
+```
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin aliquet sed magna et sodales. Vestibulum vehicula dolor sit amet luctus viverra. Praesent facilisis dictum sapien, et elementum lorem imperdiet pulvinar. Nulla lacinia, arcu eget venenatis dapibus, neque tellus vestibulum elit, tempor condimentum turpis elit a justo.
 ```markdown
-![Alt Text](img/url){: .cld-responsive .width-25 .float-left}
+![Alt Text](img/url){: .width-2 .float-left}
 ```
 
 ### 25% Width (Float Right)
