@@ -264,13 +264,13 @@ tbody tr:nth-child(odd) td, tbody tr:nth-child(odd) th {
     width:80%
   }
 }
-.layout-1-col.content-primary {
+.layout-1-col .content-primary {
   @include mq('phone') {
     width: 80%;
     margin:0 auto
   }
 }
-.layout-1-col.content-secondary {
+.layout-1-col .content-secondary {
   @include mq('phone') {
     width: 80%;
     margin:0 auto
@@ -284,13 +284,13 @@ tbody tr:nth-child(odd) td, tbody tr:nth-child(odd) th {
     x-align-items: stretch;
   }
 }
-.layout-2-col.content-primary {
+.layout-2-col .content-primary {
   @include mq('desktop-sm') {
     width: 75%;
     flex: 0 0 75%;
   }
 }
-.layout-2-col.content-secondary {
+.layout-2-col .content-secondary {
   @include mq('desktop-sm') {
     width: 20%;
     flex: 0 0 20%;
