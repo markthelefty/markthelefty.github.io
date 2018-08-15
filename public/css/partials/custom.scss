@@ -258,7 +258,12 @@ tbody tr:nth-child(odd) td, tbody tr:nth-child(odd) th {
 .content {
   padding-bottom: 160px; /*Sticky Footer*/
 }
-/*Multi Col Layout*/
+/*Layout*/
+.layout-1-col {
+  @include mq('phone') {
+    width:80%
+  }
+}
 .layout-2-col {
   @include mq('desktop-sm') {
     display: flex;
