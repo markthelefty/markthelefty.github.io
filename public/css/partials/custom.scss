@@ -348,22 +348,26 @@ tbody tr:nth-child(odd) td, tbody tr:nth-child(odd) th {
 .related-posts {
   display: grid;
   grid-template-columns: 1fr;
+  grid-gap: 1rem;
   list-style: none;
   padding-left: 0;
   @include mq('phone') {
     grid-template-columns: 1fr 1fr 1fr 1fr;
-    grid-gap: 1rem; 
+  }
+  @include mq('tablet') {
+    grid-template-columns: 1fr 1fr;
   }
 }
 .related-posts .card{
   display: flex;
   flex-direction: column;
+  margin-bottom: 1rem;
 }
 .related .card h4 {
-  font-size:.9rem;
-  line-height:1.25;
-  padding:.75rem;
-  flex:1;
+  font-size: .9rem;
+  line-height: 1.25;
+  padding: .75rem;
+  flex: 1;
 }
 
 /* ==== Pagination ==== */
