@@ -266,8 +266,6 @@ The width is set by adding a class that divides the total column width by 8. `.w
 
 All image filetypes are acceptable, but care should be taken to ensure the appropriate types are being used. `.jpg` should be used for photos and `.png` should be used for design assets (*like logos*). 
 
-Cloudinary will serve the smallest filetype and size automatically as long as the `.cld-responsive` class is added.
-
 ### 12.5% Width
 ![Image 12.5% Wide](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/c_scale,q_auto:good,w_845/v1534292126/post-images/sample-post-image.jpg){: .width-1}
 ```markdown
