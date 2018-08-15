@@ -351,25 +351,25 @@ tbody tr:nth-child(odd) td, tbody tr:nth-child(odd) th {
 }
 
 /* ==== Related Post Cards ==== */
-.related .card h4 {
-  font-size:.9rem;
-  line-height:1.25;
-  padding:.75rem;
-  color:#757575;
-}
+
 .related-posts {
   display: flex;
   flex-direction: row;
   list-style: none;
   padding-left: 0;
 }
-.related-posts li {
+.related-posts .card{
   /*margin-bottom:2rem;*/
   width: 25%;  
   margin: auto;
-  flex: 1;
 }
-
+.related .card h4 {
+  font-size:.9rem;
+  line-height:1.25;
+  padding:.75rem;
+  color:#757575;
+  flex:1;
+}
 .related-posts .thumb {
   opacity: 0.5;
 }
