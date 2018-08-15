@@ -794,6 +794,7 @@ blockquote {
 .about-author {
   overflow: hidden; /*clear fix*/
   padding-top: 1rem;
+  margin-bottom:3rem;
   @include mq('phone') {
     display: table;
   }
@@ -811,7 +812,7 @@ blockquote {
   @include mq('phone') {
     display: table-cell;
     float: left;
-    padding-left: 2em;
+    padding-left: 2rem;
   }
 }
 .author-bio p {
