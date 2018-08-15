@@ -345,6 +345,9 @@ tbody tr:nth-child(odd) td, tbody tr:nth-child(odd) th {
 }
 
 /* ==== Related Post Cards ==== */
+.related {
+  margin-bottom:6rem;
+}
 .related-posts {
   display: grid;
   grid-template-columns: 1fr;
