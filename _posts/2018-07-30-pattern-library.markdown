@@ -357,14 +357,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin aliquet sed magna
 ```
 The `w_845` parameter determines the image width. It can be set to any width, in general it should be set to match the width class.
 
-The `q_auto:good` parameter determines the image quality the available options are:
+The `q_auto:good` parameter determines the image quality the available options are: `q_auto:best` , `:good`, `:eco`, or `:low`.
 
-| Company | Contact | Country |
-| --- | --- | --- |
-| Alfreds Futterkiste | Maria Anders | Germany |
-| Centro Moctezuma | Francisco Chang | Mexico |
-| Ernst Handel | Roland Mendel | Austria |
-| Island Trading | Helen Bennett | UK |
+
 
 <br/>
 
