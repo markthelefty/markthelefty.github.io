@@ -260,71 +260,94 @@ Links will [look like this](http://example.com), nice and simple.
 
 ## Image Sizing and Formatting
 {: .divider}
-Images can be sized using [this Sketch template](https://res.cloudinary.com/dbrkuvff5/raw/upload/v1533594760/post-files/post-image-template.sketch). There's no secret to the sizing, but it will ensure consistency. There's four sizes, you should consider the final display size as a percentage of the full-body width i.e., 25% of the content container. 
+Images can be sized using [this Sketch template](https://res.cloudinary.com/dbrkuvff5/raw/upload/v1533594760/post-files/post-image-template.sketch). There's no secret to the sizing, but using this template will ensure consistency across posts and social media cards.
 
-The width is set by adding a class `.width-25`, `.width-50`, `.width-75` or `.width-100`. Images are 100% wide by default so adding a width class isn't necessary. On small (*mobile sized*) screens all images are 100% wide by default.
+The width is set by adding a class that divides the total column width by 8. `.width-1`, `.width-2`, `.width-3`, `.width-4`, `.width-5`, `.width-6`, `.width-7`, `.width-8`. Images are 100% wide by default so adding a width class isn't necessary. On small (*mobile sized*) screens all images are 100% wide by default.
 
 All image filetypes are acceptable, but care should be taken to ensure the appropriate types are being used. `.jpg` should be used for photos and `.png` should be used for design assets (*like logos*). 
 
 Cloudinary will serve the smallest filetype and size automatically as long as the `.cld-responsive` class is added.
 
-### 25% Width
-![Image 25% Wide](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/v1533119534/post-images/post-image-sample-25.png){: .cld-responsive .width-25}
+### 12.5% Width
+![Image 12.5% Wide](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/c_scale,q_auto:good,w_845/v1534292126/post-images/sample-post-image.jpg){: .width-1}
 ```markdown
-![Alt Text](img/url){: .cld-responsive .width-25}
+![Alt Text](img/url){: .width-1}
+```
+
+### 25% Width
+![Image 25% Wide](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/c_scale,q_auto:good,w_845/v1534292126/post-images/sample-post-image.jpg){: .width-2}
+```markdown
+![Alt Text](img/url){: .width-2}
+```
+
+### 37.5% Width
+![Image 37.5% Wide](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/c_scale,q_auto:good,w_845/v1534292126/post-images/sample-post-image.jpg){: .width-3}
+```markdown
+![Alt Text](img/url){: .width-3}
 ```
 
 ### 50% Width
-![Image 50% Wide](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/v1533119534/post-images/post-image-sample-50.png){: .cld-responsive .width-50}
+![Image 50% Wide](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/c_scale,q_auto:good,w_845/v1534292126/post-images/sample-post-image.jpg){: .width-4}
 ```markdown
-![Alt Text](img/url){: .cld-responsive .width-50}
+![Alt Text](img/url){: .width-4}
+```
+
+### 62.5% Width
+![Image 62.5% Wide](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/c_scale,q_auto:good,w_845/v1534292126/post-images/sample-post-image.jpg){: .width-5}
+```markdown
+![Alt Text](img/url){: .width-5}
 ```
 
 ### 75% Width
-![Image 75% Wide](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/v1533119534/post-images/post-image-sample-75.png){: .cld-responsive .width-75}
+![Image 75% Wide](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/c_scale,q_auto:good,w_845/v1534292126/post-images/sample-post-image.jpg){: .width-6}
 ```markdown
-![Alt Text](img/url){: .cld-responsive .width-75}
+![Alt Text](img/url){: .width-6}
+```
+
+### 87.5% Width
+![Image 87.5% Wide](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/c_scale,q_auto:good,w_845/v1534292126/post-images/sample-post-image.jpg){: .width-7}
+```markdown
+![Alt Text](img/url){: .width-7}
 ```
 
 ### 100% Width
-![Image 100% Wide](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/v1533119534/post-images/post-image-sample-100.png){: .cld-responsive .width-100}
+![Image 100% Wide](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/c_scale,q_auto:good,w_845/v1534292126/post-images/sample-post-image.jpg){: .width-8}
 ```markdown
-![Alt Text](img/url){: .cld-responsive .width-100}
-Note: 100% width is default so adding this class won't be needed in most cases.
+![Alt Text](img/url){: .width-8}
 ```
 
 ### 25% Width (Float Left)
-![Image 25% Wide](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/v1533119534/post-images/post-image-sample-25.png){: .cld-responsive .width-25 .float-left}
+![Image 25% Wide](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/c_scale,q_auto:good,w_845/v1534292126/post-images/sample-post-image.jpg){: .width-2 .float-left}
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin aliquet sed magna et sodales. Vestibulum vehicula dolor sit amet luctus viverra. Praesent facilisis dictum sapien, et elementum lorem imperdiet pulvinar. Nulla lacinia, arcu eget venenatis dapibus, neque tellus vestibulum elit, tempor condimentum turpis elit a justo.
 ```markdown
-![Alt Text](img/url){: .cld-responsive .width-25 .float-left}
+![Alt Text](img/url){: .width-2 .float-left}
 ```
 
 ### 25% Width (Float Right)
-![Image 25% Wide](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/v1533119534/post-images/post-image-sample-25.png){: .cld-responsive .width-25 .float-right}
+![Image 25% Wide](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/c_scale,q_auto:good,w_845/v1534292126/post-images/sample-post-image.jpg){: .width-2 .float-right}
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin aliquet sed magna et sodales. Vestibulum vehicula dolor sit amet luctus viverra. Praesent facilisis dictum sapien, et elementum lorem imperdiet pulvinar. Nulla lacinia, arcu eget venenatis dapibus, neque tellus vestibulum elit, tempor condimentum turpis elit a justo.
 ```markdown
-![Alt Text](img/url){: .cld-responsive .width-25 .float-right}
+![Alt Text](img/url){: .width-2 .float-right}
 ```
 
 ### 50% Width (Float Left)
-![Image 50% Wide](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/v1533119534/post-images/post-image-sample-50.png){: .cld-responsive .width-50 .float-left}
+![Image 50% Wide](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/c_scale,q_auto:good,w_845/v1534292126/post-images/sample-post-image.jpg){: .width-4 .float-left}
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin aliquet sed magna et sodales. Vestibulum vehicula dolor sit amet luctus viverra. Praesent facilisis dictum sapien, et elementum lorem imperdiet pulvinar. Nulla lacinia, arcu eget venenatis dapibus, neque tellus vestibulum elit, tempor condimentum turpis elit a justo.
 ```markdown
-![Alt Text](img/url){: .cld-responsive .width-50 .float-left}
+![Alt Text](img/url){: .width-4 .float-left}
 ```
 
 ### 75% Width (Float Left)
-![Image 75% Wide](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/v1533119534/post-images/post-image-sample-75.png){: .cld-responsive .width-75 .float-left}
+![Image 75% Wide](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/c_scale,q_auto:good,w_845/v1534292126/post-images/sample-post-image.jpg){: .width-6 .float-left}
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin aliquet sed magna et sodales. Vestibulum vehicula dolor sit amet luctus viverra. Praesent facilisis dictum sapien, et elementum lorem imperdiet pulvinar. Nulla lacinia, arcu eget venenatis dapibus, neque tellus vestibulum elit, tempor condimentum turpis elit a justo.
 ```markdown
-![Alt Text](img/url){: .cld-responsive .width-75 .float-left}
+![Alt Text](img/url){: .width-6 .float-left}
 ```
 
 ### Linked Image
-[![Linked Image](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/v1533119534/post-images/post-image-sample-100.png){: .cld-responsive}](http://www.example.com/ "Example Title")
+[![Linked Image](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/c_scale,q_auto:good,w_845/v1534292126/post-images/sample-post-image.jpg)](http://www.example.com/ "Example Title")
 ```markdown
-[![Linked Image](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/v1533119534/post-images/post-image-sample-100.png){: .cld-responsive}](http://www.example.com/ "Example Title")
+[![Linked Image](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/c_scale,q_auto:good,w_845/v1534292126/post-images/sample-post-image.jpg)](http://www.example.com/ "Example Title")
 ```
 
 ### Cloudinary URLs
