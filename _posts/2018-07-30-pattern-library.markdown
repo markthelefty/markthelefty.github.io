@@ -41,27 +41,27 @@ font-family: Myriad Pro
 ## Subpage Title (h2)
 ```markdown
 ## Subpage Title (h2)
-font-family: PT Sans
+font-family: Source Sans Pro
 ```
 ### Section Header (h3)
 ```markdown
 ### Section Header (h3)
-font-family: PT Sans
+font-family: Source Sans Pro
 ```
 #### Subsection Header (h4)
 ```markdown
 #### Subsection Header (h4)
-font-family: PT Sans
+font-family: Source Sans Pro
 ```
 <br/>
 ### Paragraph
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin aliquet sed magna et sodales. Vestibulum vehicula dolor sit amet luctus viverra. Praesent facilisis dictum sapien, et elementum lorem imperdiet pulvinar. Nulla lacinia, arcu eget venenatis dapibus, neque tellus vestibulum elit, tempor condimentum turpis elit a justo.
 ```css
 {font-family: "source-sans-pro";
-color: #393939;
-font-size: 22px;
+color: #1f1f1f;
+font-size: 20px;
 font-weight: 300;
-line-height: 35.2px;}
+line-height: 32px;}
 ```
 
 ### Paragraph Lead Text
@@ -351,10 +351,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin aliquet sed magna
 ```
 
 ### Cloudinary URLs
-[Cloudinary](https://cloudinary.com/) is used for all image and asset hosting. Use the code below to automatically build the URLs and add the `.cld-responsive` class.
+[Cloudinary](https://cloudinary.com/) is used for all image and asset hosting. Use the code below to automatically build the URLs and add the correct parameters for the image size and quality.
 ```markdown
-![Alt Text](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/[file_number]/[folder_name]/[file_name]){: .cld-responsive}
+![Alt Text](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto/c_scale,q_auto:good,w_845/[file_number]/[folder_name]/[file_name])
 ```
+The `w_845` parameter determines the image width. It can be set to any width, in general it should be set to match the width class.
+
+The `q_auto:good` parameter determines the image quality the available options are: `q_auto:best` , `:good`, `:eco`, or `:low`.
 <br/>
 
 ## Horizontal Rules and Dividers
