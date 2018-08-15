@@ -355,7 +355,7 @@ tbody tr:nth-child(odd) td, tbody tr:nth-child(odd) th {
 .related-posts {
   display: grid;
   grid-template-columns: 1fr;
-  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
   list-style: none;
   padding-left: 0;
 }
