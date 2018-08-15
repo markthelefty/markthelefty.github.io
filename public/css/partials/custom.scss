@@ -367,7 +367,7 @@ tbody tr:nth-child(odd) td, tbody tr:nth-child(odd) th {
   /*margin-bottom:2rem;*/
   width: 25%;  
   margin: auto;
-  align-items: stretch;
+  flex: 1;
 }
 
 .related-posts .thumb {
