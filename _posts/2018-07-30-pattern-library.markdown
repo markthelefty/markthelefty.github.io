@@ -260,18 +260,18 @@ Links will [look like this](http://example.com), nice and simple.
 
 ## Image Sizing and Formatting
 {: .divider}
-Images can be sized using [this Sketch template](https://res.cloudinary.com/dbrkuvff5/raw/upload/v1533594760/post-files/post-image-template.sketch). There's no secret to the sizing, but it will ensure consistency. There's four sizes, you should consider the final display size as a percentage of the full-body width i.e., 25% of the content container. 
+Images can be sized using [this Sketch template](https://res.cloudinary.com/dbrkuvff5/raw/upload/v1533594760/post-files/post-image-template.sketch). There's no secret to the sizing, but using this template will ensure consistency across posts and social media cards.
 
-The width is set by adding a class `.width-25`, `.width-50`, `.width-75` or `.width-100`. Images are 100% wide by default so adding a width class isn't necessary. On small (*mobile sized*) screens all images are 100% wide by default.
+The width is set by adding a class that divides the total column width by 8. `.width-1`, `.width-2`, `.width-3`, `.width-4`, `.width-5`, `.width-6`, `.width-7`, `.width-8`. Images are 100% wide by default so adding a width class isn't necessary. On small (*mobile sized*) screens all images are 100% wide by default.
 
 All image filetypes are acceptable, but care should be taken to ensure the appropriate types are being used. `.jpg` should be used for photos and `.png` should be used for design assets (*like logos*). 
 
 Cloudinary will serve the smallest filetype and size automatically as long as the `.cld-responsive` class is added.
 
-### 25% Width
-![Image 25% Wide](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/v1533119534/post-images/post-image-sample-25.png){: .cld-responsive .width-25}
+### 12.5% Width
+![Image 25% Wide](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/c_scale,q_auto:good,w_845/v1534292126/post-images/sample-post-image.jpg){: .width-1}
 ```markdown
-![Alt Text](img/url){: .cld-responsive .width-25}
+![Alt Text](img/url){: .width-1}
 ```
 
 ### 50% Width
