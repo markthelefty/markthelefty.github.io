@@ -365,8 +365,9 @@ tbody tr:nth-child(odd) td, tbody tr:nth-child(odd) th {
 }
 .related-posts li {
   /*margin-bottom:2rem;*/
-  width: 100px;  /* Or whatever */
-  margin: auto;  /* Magic! */
+  width: 25%;  
+  margin: auto;
+  align-items: stretch;
 }
 
 .related-posts .thumb {
