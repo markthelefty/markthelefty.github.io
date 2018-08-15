@@ -368,7 +368,7 @@ The first is to add class `.divider`. This should be used to add a divider to an
 {: .divider}
 
 ### Image With a Divider
-![Image 100% Wide](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/v1533119534/post-images/post-image-sample-100.png){: .cld-responsive .width-100 .divider}
+![Image 100% Wide](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/c_scale,q_auto:good,w_845/v1534292126/post-images/sample-post-image.jpg){: .width-100 .divider}
 
 ```markdown
 ### h3 With a Divider
