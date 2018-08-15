@@ -318,39 +318,36 @@ Cloudinary will serve the smallest filetype and size automatically as long as th
 
 ### 25% Width (Float Left)
 ![Image 25% Wide](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/c_scale,q_auto:good,w_845/v1534292126/post-images/sample-post-image.jpg){: .width-2 .float-left}
-```markdown
-![Alt Text](img/url){: .width-2 .float-left}
-```
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin aliquet sed magna et sodales. Vestibulum vehicula dolor sit amet luctus viverra. Praesent facilisis dictum sapien, et elementum lorem imperdiet pulvinar. Nulla lacinia, arcu eget venenatis dapibus, neque tellus vestibulum elit, tempor condimentum turpis elit a justo.
 ```markdown
 ![Alt Text](img/url){: .width-2 .float-left}
 ```
 
 ### 25% Width (Float Right)
-![Image 25% Wide](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/v1533119534/post-images/post-image-sample-25.png){: .cld-responsive .width-25 .float-right}
+![Image 25% Wide](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/c_scale,q_auto:good,w_845/v1534292126/post-images/sample-post-image.jpg){: .width-2 .float-right}
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin aliquet sed magna et sodales. Vestibulum vehicula dolor sit amet luctus viverra. Praesent facilisis dictum sapien, et elementum lorem imperdiet pulvinar. Nulla lacinia, arcu eget venenatis dapibus, neque tellus vestibulum elit, tempor condimentum turpis elit a justo.
 ```markdown
-![Alt Text](img/url){: .cld-responsive .width-25 .float-right}
+![Alt Text](img/url){: .width-2 .float-right}
 ```
 
 ### 50% Width (Float Left)
-![Image 50% Wide](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/v1533119534/post-images/post-image-sample-50.png){: .cld-responsive .width-50 .float-left}
+![Image 50% Wide](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/c_scale,q_auto:good,w_845/v1534292126/post-images/sample-post-image.jpg){: .width-4 .float-left}
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin aliquet sed magna et sodales. Vestibulum vehicula dolor sit amet luctus viverra. Praesent facilisis dictum sapien, et elementum lorem imperdiet pulvinar. Nulla lacinia, arcu eget venenatis dapibus, neque tellus vestibulum elit, tempor condimentum turpis elit a justo.
 ```markdown
-![Alt Text](img/url){: .cld-responsive .width-50 .float-left}
+![Alt Text](img/url){: .width-4 .float-left}
 ```
 
 ### 75% Width (Float Left)
-![Image 75% Wide](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/v1533119534/post-images/post-image-sample-75.png){: .cld-responsive .width-75 .float-left}
+![Image 75% Wide](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/c_scale,q_auto:good,w_845/v1534292126/post-images/sample-post-image.jpg){: .width-6 .float-left}
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin aliquet sed magna et sodales. Vestibulum vehicula dolor sit amet luctus viverra. Praesent facilisis dictum sapien, et elementum lorem imperdiet pulvinar. Nulla lacinia, arcu eget venenatis dapibus, neque tellus vestibulum elit, tempor condimentum turpis elit a justo.
 ```markdown
-![Alt Text](img/url){: .cld-responsive .width-75 .float-left}
+![Alt Text](img/url){: .width-6 .float-left}
 ```
 
 ### Linked Image
-[![Linked Image](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/v1533119534/post-images/post-image-sample-100.png){: .cld-responsive}](http://www.example.com/ "Example Title")
+[![Linked Image](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/c_scale,q_auto:good,w_845/v1534292126/post-images/sample-post-image.jpg)](http://www.example.com/ "Example Title")
 ```markdown
-[![Linked Image](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/v1533119534/post-images/post-image-sample-100.png){: .cld-responsive}](http://www.example.com/ "Example Title")
+[![Linked Image](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/c_scale,q_auto:good,w_845/v1534292126/post-images/sample-post-image.jpg)](http://www.example.com/ "Example Title")
 ```
 
 ### Cloudinary URLs
