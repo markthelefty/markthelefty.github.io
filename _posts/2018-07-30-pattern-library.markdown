@@ -280,19 +280,41 @@ Cloudinary will serve the smallest filetype and size automatically as long as th
 ![Alt Text](img/url){: .width-2}
 ```
 
-### 50% Width
-![Image 50% Wide](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/c_scale,q_auto:good,w_845/v1534292126/post-images/sample-post-image.jpg){: .width-4}
-```markdown
-![Alt Text](img/url){: .width-4}
-```
-
 ### 37.5% Width
 ![Image 37.5% Wide](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/c_scale,q_auto:good,w_845/v1534292126/post-images/sample-post-image.jpg){: .width-3}
 ```markdown
 ![Alt Text](img/url){: .width-3}
 ```
 
+### 50% Width
+![Image 50% Wide](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/c_scale,q_auto:good,w_845/v1534292126/post-images/sample-post-image.jpg){: .width-4}
+```markdown
+![Alt Text](img/url){: .width-4}
+```
 
+### 62.5% Width
+![Image 62.5% Wide](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/c_scale,q_auto:good,w_845/v1534292126/post-images/sample-post-image.jpg){: .width-5}
+```markdown
+![Alt Text](img/url){: .width-5}
+```
+
+### 75% Width
+![Image 75% Wide](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/c_scale,q_auto:good,w_845/v1534292126/post-images/sample-post-image.jpg){: .width-6}
+```markdown
+![Alt Text](img/url){: .width-6}
+```
+
+### 87.5% Width
+![Image 87.5% Wide](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/c_scale,q_auto:good,w_845/v1534292126/post-images/sample-post-image.jpg){: .width-7}
+```markdown
+![Alt Text](img/url){: .width-7}
+```
+
+### 100% Width
+![Image 100% Wide](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/c_scale,q_auto:good,w_845/v1534292126/post-images/sample-post-image.jpg){: .width-8}
+```markdown
+![Alt Text](img/url){: .width-8}
+```
 
 
 
