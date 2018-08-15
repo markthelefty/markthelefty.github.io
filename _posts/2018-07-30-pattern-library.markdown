@@ -260,7 +260,7 @@ Links will [look like this](http://example.com), nice and simple.
 
 ## Image Sizing and Formatting
 {: .divider}
-Images can be sized using [this Sketch template](https://res.cloudinary.com/dbrkuvff5/raw/upload/v1533594760/post-files/post-image-template.sketch). There's no secret to the sizing, but using this template will ensure consistency across posts and social media cards.
+Images can be sized using [this Sketch template](https://res.cloudinary.com/dbrkuvff5/raw/upload/v1534295448/post-files/post-image-template.sketch). There's no secret to the sizing, but using this template will ensure consistency across posts and social media cards.
 
 The width is set by adding a class that divides the total column width by 8. `.width-1`, `.width-2`, `.width-3`, `.width-4`, `.width-5`, `.width-6`, `.width-7`, `.width-8`. Images are 100% wide by default so adding a width class isn't necessary. On small (*mobile sized*) screens all images are 100% wide by default.
 
