@@ -41,27 +41,27 @@ font-family: Myriad Pro
 ## Subpage Title (h2)
 ```markdown
 ## Subpage Title (h2)
-font-family: PT Sans
+font-family: Source Sans Pro
 ```
 ### Section Header (h3)
 ```markdown
 ### Section Header (h3)
-font-family: PT Sans
+font-family: Source Sans Pro
 ```
 #### Subsection Header (h4)
 ```markdown
 #### Subsection Header (h4)
-font-family: PT Sans
+font-family: Source Sans Pro
 ```
 <br/>
 ### Paragraph
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin aliquet sed magna et sodales. Vestibulum vehicula dolor sit amet luctus viverra. Praesent facilisis dictum sapien, et elementum lorem imperdiet pulvinar. Nulla lacinia, arcu eget venenatis dapibus, neque tellus vestibulum elit, tempor condimentum turpis elit a justo.
 ```css
 {font-family: "source-sans-pro";
-color: #393939;
-font-size: 22px;
+color: #1f1f1f;
+font-size: 20px;
 font-weight: 300;
-line-height: 35.2px;}
+line-height: 32px;}
 ```
 
 ### Paragraph Lead Text
