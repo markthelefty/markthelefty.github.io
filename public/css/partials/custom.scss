@@ -259,11 +259,6 @@ tbody tr:nth-child(odd) td, tbody tr:nth-child(odd) th {
   padding-bottom: 160px; /*Sticky Footer*/
 }
 /* 1 Col Layout*/
-.layout-1-col {
-  @include mq('phone') {
-    width:80%
-  }
-}
 .layout-1-col .content-primary {
   @include mq('phone') {
     width: 80%;
