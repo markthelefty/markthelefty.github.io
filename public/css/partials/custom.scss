@@ -356,6 +356,7 @@ tbody tr:nth-child(odd) td, tbody tr:nth-child(odd) th {
   display: grid;
   grid-template-columns: 1fr;
   grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-gap: 2rem; 
   list-style: none;
   padding-left: 0;
 }
