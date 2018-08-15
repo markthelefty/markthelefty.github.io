@@ -353,7 +353,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin aliquet sed magna
 ### Cloudinary URLs
 [Cloudinary](https://cloudinary.com/) is used for all image and asset hosting. Use the code below to automatically build the URLs and add the correct parameters for the image size and quality.
 ```markdown
-![Alt Text](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto/c_scale,q_auto:good,w_845/[file_number]/[folder_name]/[file_name]){: .cld-responsive}
+![Alt Text](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto/c_scale,q_auto:good,w_845/[file_number]/[folder_name]/[file_name])
 ```
 The `w_845` parameter determines the image width. It can be set to any width, in general it should be set to match the width class.
 
