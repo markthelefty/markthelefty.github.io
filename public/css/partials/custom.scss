@@ -357,6 +357,9 @@ tbody tr:nth-child(odd) td, tbody tr:nth-child(odd) th {
   @include mq('tablet') {
     grid-template-columns: 1fr 1fr;
   }
+  @include mq('desktop-sm') {
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+  }
 }
 .related-posts .card{
   display: flex;
