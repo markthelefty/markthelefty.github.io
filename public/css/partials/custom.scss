@@ -258,12 +258,25 @@ tbody tr:nth-child(odd) td, tbody tr:nth-child(odd) th {
 .content {
   padding-bottom: 160px; /*Sticky Footer*/
 }
-/*Layout*/
+/* 1 Col Layout*/
 .layout-1-col {
   @include mq('phone') {
     width:80%
   }
 }
+.layout-1-col.content-primary {
+  @include mq('phone') {
+    width: 80%;
+    margin:0 auto
+  }
+}
+.layout-1-col.content-secondary {
+  @include mq('phone') {
+    width: 80%;
+    margin:0 auto
+  }
+}
+/* 2 Col Layout*/
 .layout-2-col {
   @include mq('desktop-sm') {
     display: flex;
@@ -271,13 +284,13 @@ tbody tr:nth-child(odd) td, tbody tr:nth-child(odd) th {
     x-align-items: stretch;
   }
 }
-.content-primary {
+.layout-2-col.content-primary {
   @include mq('desktop-sm') {
     width: 75%;
     flex: 0 0 75%;
   }
 }
-.content-secondary {
+.layout-2-col.content-secondary {
   @include mq('desktop-sm') {
     width: 20%;
     flex: 0 0 20%;
