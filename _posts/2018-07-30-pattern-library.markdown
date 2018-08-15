@@ -5,7 +5,7 @@ description: Every publication, application and organization can benefit from ha
   consistent branding and design patterns. It takes some time and effort to build
   a complete pattern library, but the effort is worth it. This is the Mark On Product
   pattern library - hopefully it's useful.
-image: v1533634577/social-images/pattern-library-social-image.jpg
+image: v1534295795/post-images/pattern-library-post-image.jpg
 readtime: 9
 ---
 
@@ -18,7 +18,7 @@ Mark On Product is built using [Jekyll](https://jekyllrb.com/), the theme is bui
 {: .divider}
 There are several core "brand" colors, two primary colors and one secondary color.
 
-![Style Guide Brand Colors](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/v1533289307/post-images/colors.png){: .cld-responsive}
+![Style Guide Brand Colors](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/v1533289307/post-images/colors.png)
 
 ```css
 .brand-green {color: #67a43e}
@@ -29,7 +29,7 @@ There are several core "brand" colors, two primary colors and one secondary colo
 
 ## Typography
 {: .divider}
-The fonts choices are intentionally limited and each has a specific purpose. Post Titles `h1` are set in Myriad Pro. Post Subpage Titles `h2`, Section Headers `h3`, and Subsection Headers `h4` are all set in PT Sans.
+The fonts choices are intentionally limited and each has a specific purpose. Post Titles `h1` are set in Myriad Pro. Post Subpage Titles `h2`, Section Headers `h3`, and Subsection Headers `h4` are all set in Source Sans Pro.
 
 ### Headings
 # Post Titles (h1)
@@ -260,13 +260,11 @@ Links will [look like this](http://example.com), nice and simple.
 
 ## Image Sizing and Formatting
 {: .divider}
-Images can be sized using [this Sketch template](https://res.cloudinary.com/dbrkuvff5/raw/upload/v1533594760/post-files/post-image-template.sketch). There's no secret to the sizing, but using this template will ensure consistency across posts and social media cards.
+Images can be sized using [this Sketch template](https://res.cloudinary.com/dbrkuvff5/raw/upload/v1534295448/post-files/post-image-template.sketch). There's no secret to the sizing, but using this template will ensure consistency across posts and social media cards.
 
 The width is set by adding a class that divides the total column width by 8. `.width-1`, `.width-2`, `.width-3`, `.width-4`, `.width-5`, `.width-6`, `.width-7`, `.width-8`. Images are 100% wide by default so adding a width class isn't necessary. On small (*mobile sized*) screens all images are 100% wide by default.
 
 All image filetypes are acceptable, but care should be taken to ensure the appropriate types are being used. `.jpg` should be used for photos and `.png` should be used for design assets (*like logos*). 
-
-Cloudinary will serve the smallest filetype and size automatically as long as the `.cld-responsive` class is added.
 
 ### 12.5% Width
 ![Image 12.5% Wide](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/c_scale,q_auto:good,w_845/v1534292126/post-images/sample-post-image.jpg){: .width-1}
@@ -370,7 +368,7 @@ The first is to add class `.divider`. This should be used to add a divider to an
 {: .divider}
 
 ### Image With a Divider
-![Image 100% Wide](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/v1533119534/post-images/post-image-sample-100.png){: .cld-responsive .width-100 .divider}
+![Image 100% Wide](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/c_scale,q_auto:good,w_845/v1534292126/post-images/sample-post-image.jpg){: .width-100 .divider}
 
 ```markdown
 ### h3 With a Divider
