@@ -351,12 +351,11 @@ tbody tr:nth-child(odd) td, tbody tr:nth-child(odd) th {
 }
 
 /* ==== Related Post Cards ==== */
-
 .related-posts {
   display: grid;
   grid-template-columns: 1fr;
   grid-template-columns: 1fr 1fr 1fr 1fr;
-  grid-gap: 2rem; 
+  grid-gap: 1rem; 
   list-style: none;
   padding-left: 0;
 }
@@ -368,31 +367,8 @@ tbody tr:nth-child(odd) td, tbody tr:nth-child(odd) th {
   font-size:.9rem;
   line-height:1.25;
   padding:.75rem;
-  color:#757575;
   flex:1;
 }
-.related-posts .thumb {
-  opacity: 0.5;
-}
-/*.related {
-  padding-bottom: 2rem;
-  padding-top: 2rem;
-}
-
-.related-posts h3 {
-  margin-top: 0;
-}
-.related-posts li small {
-  color: #999;
-  font-size: 75%;
-}
-.related-posts li a:hover {
-  color: #268bd2;
-}
-.related-posts li a:hover small {
-  color: inherit;
-}*/
-
 
 /* ==== Pagination ==== */
 .pagination {
