@@ -261,13 +261,13 @@ tbody tr:nth-child(odd) td, tbody tr:nth-child(odd) th {
 /* 1 Col Layout*/
 .layout-1-col .content-primary {
   @include mq('phone') {
-    width: 80%;
+    width: 77%;
     margin:0 auto
   }
 }
 .layout-1-col .content-secondary {
   @include mq('phone') {
-    width: 80%;
+    width: 77%;
     margin:0 auto
   }
 }
