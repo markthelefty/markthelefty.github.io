@@ -358,11 +358,15 @@ tbody tr:nth-child(odd) td, tbody tr:nth-child(odd) th {
   color:#757575;
 }
 .related-posts {
+  display: flex;
+  flex-direction: row;
   list-style: none;
   padding-left: 0;
 }
 .related-posts li {
-  margin-bottom:2rem;
+  /*margin-bottom:2rem;*/
+  width: 100px;  /* Or whatever */
+  margin: auto;  /* Magic! */
 }
 
 .related-posts .thumb {
