@@ -18,7 +18,7 @@ Mark On Product is built using [Jekyll](https://jekyllrb.com/), the theme is bui
 {: .divider}
 There are several core "brand" colors, two primary colors and one secondary color.
 
-![Style Guide Brand Colors](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/v1533289307/post-images/colors.png){: .cld-responsive}
+![Style Guide Brand Colors](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/v1533289307/post-images/colors.png)
 
 ```css
 .brand-green {color: #67a43e}
@@ -29,7 +29,7 @@ There are several core "brand" colors, two primary colors and one secondary colo
 
 ## Typography
 {: .divider}
-The fonts choices are intentionally limited and each has a specific purpose. Post Titles `h1` are set in Myriad Pro. Post Subpage Titles `h2`, Section Headers `h3`, and Subsection Headers `h4` are all set in PT Sans.
+The fonts choices are intentionally limited and each has a specific purpose. Post Titles `h1` are set in Myriad Pro. Post Subpage Titles `h2`, Section Headers `h3`, and Subsection Headers `h4` are all set in Source Sans Pro.
 
 ### Headings
 # Post Titles (h1)
