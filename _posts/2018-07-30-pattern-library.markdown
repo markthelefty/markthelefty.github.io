@@ -274,24 +274,8 @@ Cloudinary will serve the smallest filetype and size automatically as long as th
 ![Alt Text](img/url){: .width-1}
 ```
 
-### 50% Width
-![Image 50% Wide](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/v1533119534/post-images/post-image-sample-50.png){: .cld-responsive .width-50}
-```markdown
-![Alt Text](img/url){: .cld-responsive .width-50}
-```
 
-### 75% Width
-![Image 75% Wide](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/v1533119534/post-images/post-image-sample-75.png){: .cld-responsive .width-75}
-```markdown
-![Alt Text](img/url){: .cld-responsive .width-75}
-```
 
-### 100% Width
-![Image 100% Wide](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/v1533119534/post-images/post-image-sample-100.png){: .cld-responsive .width-100}
-```markdown
-![Alt Text](img/url){: .cld-responsive .width-100}
-Note: 100% width is default so adding this class won't be needed in most cases.
-```
 
 ### 25% Width (Float Left)
 ![Image 25% Wide](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/v1533119534/post-images/post-image-sample-25.png){: .cld-responsive .width-25 .float-left}
