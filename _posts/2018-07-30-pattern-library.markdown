@@ -5,7 +5,7 @@ description: Every publication, application and organization can benefit from ha
   consistent branding and design patterns. It takes some time and effort to build
   a complete pattern library, but the effort is worth it. This is the Mark On Product
   pattern library - hopefully it's useful.
-image: v1533634577/social-images/pattern-library-social-image.jpg
+image: v1534295795/post-images/pattern-library-post-image.jpg
 readtime: 9
 ---
 
