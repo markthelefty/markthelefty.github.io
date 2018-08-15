@@ -352,7 +352,7 @@ tbody tr:nth-child(odd) td, tbody tr:nth-child(odd) th {
   list-style: none;
   padding-left: 0;
   @include mq('phone') {
-    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-columns: 1fr;
   }
   @include mq('tablet') {
     grid-template-columns: 1fr 1fr;
