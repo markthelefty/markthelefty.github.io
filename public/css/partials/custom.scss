@@ -355,6 +355,8 @@ tbody tr:nth-child(odd) td, tbody tr:nth-child(odd) th {
 .related-posts {
   display: flex;
   flex-direction: row;
+  grid-template-columns: 1fr;
+  grid-template-columns: 1fr 1fr 1fr;
   list-style: none;
   padding-left: 0;
 }
