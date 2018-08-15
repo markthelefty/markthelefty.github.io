@@ -269,10 +269,29 @@ All image filetypes are acceptable, but care should be taken to ensure the appro
 Cloudinary will serve the smallest filetype and size automatically as long as the `.cld-responsive` class is added.
 
 ### 12.5% Width
-![Image 25% Wide](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/c_scale,q_auto:good,w_845/v1534292126/post-images/sample-post-image.jpg){: .width-1}
+![Image 12.5% Wide](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/c_scale,q_auto:good,w_845/v1534292126/post-images/sample-post-image.jpg){: .width-1}
 ```markdown
 ![Alt Text](img/url){: .width-1}
 ```
+
+### 25% Width
+![Image 25% Wide](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/c_scale,q_auto:good,w_845/v1534292126/post-images/sample-post-image.jpg){: .width-2}
+```markdown
+![Alt Text](img/url){: .width-2}
+```
+
+### 50% Width
+![Image 50% Wide](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/c_scale,q_auto:good,w_845/v1534292126/post-images/sample-post-image.jpg){: .width-4}
+```markdown
+![Alt Text](img/url){: .width-4}
+```
+
+### 37.5% Width
+![Image 37.5% Wide](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/c_scale,q_auto:good,w_845/v1534292126/post-images/sample-post-image.jpg){: .width-3}
+```markdown
+![Alt Text](img/url){: .width-3}
+```
+
 
 
 
