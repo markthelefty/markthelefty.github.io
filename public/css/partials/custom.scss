@@ -774,8 +774,8 @@ blockquote {
   border-left-style: solid;
   border-left-width: 0.2em;
   font-style: italic;
-  margin-bottom: 3rem;
-  padding: 1rem;
+  /*margin-bottom: 3rem;*/
+  /*padding: 1rem;*/
     @include mq('phone') {
       padding-left: 1.25rem;
       padding-right: 5rem; 
