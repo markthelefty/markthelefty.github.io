@@ -8,9 +8,9 @@ image: v1534161359/post-images/mark-on-product.jpg
 layout: page
 ---
 
-<p class="message">
+
 Apologies in advance for the length of this, but if we’re going to do it, we need the full story. In short I never planned to get into Product Management or Software design, but most people don’t end up where they started right? Here’s how it happened for me.
-</p>
+
 
 ## The Music Business (1995)
 
