@@ -191,15 +191,6 @@ pre code {
 .highlight pre {
   margin-bottom: 0;
 }
-blockquote p:last-child {
-  margin-bottom: 0;
-}
-blockquote {
-  @include mq('phone') {
-  padding-left: 1.25rem;
-  padding-right: 5rem; 
-  }
-}
 img {
   display: block;
   height: auto;
@@ -774,6 +765,10 @@ hr {
 }
 
 /* ==== Messages ==== */
+
+
+
+
 blockquote {
   border-left-color: #D3D8E0;
   border-left-style: solid;
@@ -781,7 +776,15 @@ blockquote {
   font-style: italic;
   margin-bottom: 3rem;
   padding: 1rem;
+    @include mq('phone') {
+      padding-left: 1.25rem;
+      padding-right: 5rem; 
+    }
 }
+blockquote p:last-child {
+  margin-bottom: 0;
+}
+
 .message {
   background-color: #f1f1f1;
   border-left-color: #D3D8E0;
