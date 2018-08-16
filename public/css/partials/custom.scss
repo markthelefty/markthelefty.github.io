@@ -298,6 +298,13 @@ tbody tr:nth-child(odd) td, tbody tr:nth-child(odd) th {
 .page, .post {
   margin-bottom: 4rem;
 }
+.page, .post img {
+  margin:0 auto;
+  padding-bottom:.7rem;
+  @include mq('phone') {
+    margin:0;
+  }
+}
 .page-title, .post-title, .post-title a {
   color: #303030;
 }
