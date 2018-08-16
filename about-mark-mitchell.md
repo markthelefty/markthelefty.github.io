@@ -37,7 +37,7 @@ Work was getting harder and harder to land, so it was time for me to look for so
 
 So - I bought a liquor store, I know it seems weird. But after a few years watching the music business die, I wanted something I controlled, something I owned. So with a bank loan and some help form my parents I bought a small liquor store in North Jersey. It was so exciting, most people thought I was nuts, the others were excited by my enthusiasm and energy about it. My single goal was to grow the business in every way I could. I did all kinds of “growth hacks” from a full re-brand to offering a new delivery service.
 
-![American Classic Liquors Fairview New Jersey](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/c_scale,q_auto:good,w_845/v1531699738/page-images/liquor-store-final.jpg)
+![American Classic Liquors Fairview New Jersey](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto/c_scale,q_auto:good,w_845/v1531699738/page-images/liquor-store-final.jpg)
 
 But the thing that I was most proud of - was building a website for the store. This was still the early days of the web and selling wine online in New Jersey had recently become completely legal. The idea of a wine website wasn’t completely new. There was a store in the town where we lived at the time called the Wine Library, I noticed the insane business they were doing there. This store was run by a father and son, the son turned out to be Gary Vaynerchuk. It was rumored that they were doing $50 million a year on the web alone. I’m still not sure if that number is accurate but I suspect it’s probably close. I thought if I did 10% of that I was set.
 
@@ -49,7 +49,7 @@ The store was great, but after working 6-7 days a week for a few years I decided
 
 After selling the store and having our first child, I was ready for some normal hours and weekends. I never really viewed myself as a sales guy. But I was good at forming relationships, following through and was always self driven. So I interviewed for a position at one of the distributions that sold Wine and Liquor to my store. Fedway Associates was one of the largest Wine and Liquor distributors in New Jersey at the time. I interviewed with one of the Division Sales Managers on a Friday morning and he offered me a job on the spot. I was excited. I never really planned it but at the time it felt right and was sort of the right thing at the time.
 
-[![Fedway Associates Logo](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/c_scale,q_auto:good,w_845/v1534242413/page-images/fedway-associates-logo.jpg){: .width-3 .float-left}](https://www.fedway.com/ "Fedway Associates")
+[![Fedway Associates Logo](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto/c_scale,q_auto:good,w_845/v1534242413/page-images/fedway-associates-logo.jpg){: .width-3 .float-left}](https://www.fedway.com/ "Fedway Associates")
 
 The best part was as I drove all over the state from store to store all day I could listen to podcasts and listen to videos playing on my laptop from the passenger seat. This proved to be huge, because I couldn’t get my mind off the web, off coding and web design or SEO, or anything web really. I loved it. I eat, drank and slept it. It felt like my teenage years with the music all over again. I was studying every podcast and blog I could get my hands on. I was unintentionally becoming an expert.
 
@@ -59,7 +59,7 @@ I started to think “these skills feel like they could be valuable”.
 
 So that was it, I decided I wanted to build websites. I tried my hand at a few things around the web and ultimately decided I wanted to build websites for businesses and help them get customers. I was still selling Wine and Liquor as my day job, but I spent nights and weekends building the websites. I literally went door-to-door in my town to get the first few clients. Before I knew it I had a small business on my hands. I wasn’t getting rich, but I was getting pretty good at building and selling them.
 
-[![BCS Interactive](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/c_scale,q_auto:good,w_845/v1534242058/page-images/bcs-interactive-logo.jpg){: .width-3 .float-left}](https://www.bcsinteractive.com/ "BCS Interactive")
+[![BCS Interactive](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto/c_scale,q_auto:good,w_845/v1534242058/page-images/bcs-interactive-logo.jpg){: .width-3 .float-left}](https://www.bcsinteractive.com/ "BCS Interactive")
 
 Eventually a mutual friend connected me to a guy who had a similar sized business looking to grow. I was looking for a path to build websites full-time, partnering made sense for both of us. So I took the plunge, partnered with Lou Kotsinins and co-founded BCS Interactive. BCS was great, we build websites and apps for mostly small businesses and non-profits. Lou is still going strong with it today. But after a few years I was getting a little burnt on it and needed all of the trimmings that come along with a real corporate job. So we amicably parted ways and I started job hunting.
 
