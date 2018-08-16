@@ -777,8 +777,9 @@ blockquote {
   margin: 0.5rem 0.8rem 1.5rem 0.8rem;
   padding-left: 0.6rem;
     @include mq('phone') {
-      padding:1rem 5rem 1rem 1.25rem;
-      margin-bottom:3rem;
+      padding: 1rem 5rem 1rem 1.25rem;
+      margin-bottom: 3rem;
+      margin: 3rem 2rem 3rem 2rem;
     }
 }
 blockquote p:last-child {
