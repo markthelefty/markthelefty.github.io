@@ -772,8 +772,9 @@ hr {
 blockquote {
   border-left-color: #D3D8E0;
   border-left-style: solid;
-  border-left-width: 0.2em;
+  border-left-width: 0.2rem;
   font-style: italic;
+  margin: 0.5rem 0.8rem;
   /*margin-bottom: 3rem;*/
   /*padding: 1rem;*/
     @include mq('phone') {
