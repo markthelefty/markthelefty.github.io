@@ -8,7 +8,7 @@ image: v1534161359/post-images/mark-on-product.jpg
 layout: page
 ---
 
-![Mark Mitchell Photo](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto/c_scale,q_auto:good,w_845/v1534035103/post-images/mark-mitchell-bio-photo.jpg){: .width-4 .float-left}
+![Mark Mitchell Photo](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto/c_scale,q_auto:good,w_845/v1534035103/post-images/mark-mitchell-bio-photo.jpg){: .width-2 .float-left}
 
 Apologies in advance for the length of this, but if we’re going to do it, we need the full story. In short I never planned to get into Product Management or Software design, but most people don’t end up where they started right? Here’s how it happened for me.
 
