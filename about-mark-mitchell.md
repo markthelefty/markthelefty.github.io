@@ -8,6 +8,7 @@ image: v1534161359/post-images/mark-on-product.jpg
 layout: page
 ---
 
+<br>
 ![Mark Mitchell Photo](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto/c_scale,q_auto:good,w_845/v1534035103/post-images/mark-mitchell-bio-photo.jpg){: .width-2 .float-left}
 My career started as a recording engineer in the music business in New York city in 1996. Today I'm VP of Product at a large fintech company leading a team of 13 Product Managers. I live in Atlanta with my wonderful wife and our three children.
 
