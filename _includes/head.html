@@ -23,7 +23,7 @@
 
     {% elsif page.is_page %}
         <!-- All other pages -->
-        <title>{{site.title}} | {{ page.title }}</title>
+        <title>{{site.title}} - {{ page.title }}</title>
         <meta property="og:title" content="{{ page.title }}" />
         <meta property="og:locale" content="en_US" />
         <meta name="description" content="{{page.description}}" />
@@ -39,7 +39,7 @@
 
     {% else %}
         <!-- Posts -->
-        <title>{{ page.title }} | {{site.title}}</title>
+        <title>{{ page.title }} - {{site.title}}</title>
         <meta property="og:title" content="{{ page.title }}" />
         <meta property="og:locale" content="en_US" />
         <meta name="description" content="{{page.description}}" />
