@@ -194,10 +194,10 @@ pre code {
 blockquote p:last-child {
   margin-bottom: 0;
 }
-@include mq('phone') {
-  blockquote {
-    padding-left: 1.25rem;
-    padding-right: 5rem;
+blockquote {
+  @include mq('phone') {
+  padding-left: 1.25rem;
+  padding-right: 5rem; 
   }
 }
 img {
@@ -746,7 +746,6 @@ a.social-github {
     margin: 0.5rem 0 0 1.2rem;
   }
 }
-
 img.float-left {
   @include mq('phone') {
     margin: 0.5rem 1.2rem 0 0;
@@ -757,7 +756,6 @@ img.float-right {
     margin: 0.5rem 0 0 1.2rem;
   }
 }
-
 .lead {
   font-size: 1.25rem;
   font-weight: 600;
