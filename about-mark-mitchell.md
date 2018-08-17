@@ -10,7 +10,7 @@ layout: page
 
 <br>
 ![Mark Mitchell Photo](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto/c_scale,q_auto:best,w_220/v1534035103/post-images/mark-mitchell-bio-photo.jpg){: .width-2 .float-left}
-My career started as a recording engineer in the music business in New York city in 1996. Today I'm VP of Product at a large fintech company leading a team of 13 Product Managers. I live in Atlanta with my wonderful wife and our three children.
+My career started in 1996 as a recording engineer in the music business in New York city. Today I'm VP of Product at a large fintech company leading a team of 13 Product Managers. I live in Atlanta with my wonderful wife and our three children.
 
 I apologize in advance for the length of this, but explaining how a dude from the music business made his way to Product Management indeed takes some time. In short, I never planned to get into Product Management or software design, but most people don’t end up where they started right? Here’s how it happened for me.
 
