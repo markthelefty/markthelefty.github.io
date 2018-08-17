@@ -41,7 +41,7 @@ So - I bought a liquor store, I know it seems weird. But after a few years watch
 
 Of everything I did to grow the business, building a website for the store was the thing I was most proud of.  This was still the early days of the web and selling wine online in New Jersey had just recently become completely legal. The idea of a wine website wasn’t completely new. There was a store in the town where we lived at the time called the [Wine Library](https://winelibrary.com/), I noticed the insane business they were doing there. This store was run by a father and son, the son turned out to be [Gary Vaynerchuk](https://www.garyvaynerchuk.com/). 
 
->It was rumored that the Wine Library was doing $50-$60 million a year in sales on the web alone. I’m still not sure if that number is accurate but I suspect it’s probably close. I thought if I did just 10% of that I was set.
+>It was rumored that the Wine Library was doing $50-$60 million per year in sales on the web alone. I’m still not sure if that number is accurate but I suspect it’s probably close. I thought if I did just 10% of that I was set.
 
 A website was the obvious next thing for me to tackle to continue to grow the business. Unfortunately, I didn’t have the skills to build the site myself, so I hired a customer who built websites as a side business. I paid him a good amount of money and ended up with the typical “50% of a website”. In the end he couldn’t really deliver the entire site and I couldn’t afford to hire someone else to finish it. I had no choice but to roll up my sleeves, dig in and learn to design and code. I also learned a lot about digital marketing too. I got that site finished and it went LIVE!
 
