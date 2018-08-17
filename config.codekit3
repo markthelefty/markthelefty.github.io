@@ -322,13 +322,6 @@
 		"oS": 3,
 		"uL": 1
 		},
-	"\/public\/favicon.ico": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/public\/favicon.ico",
-		"oF": 0
-		},
 	"\/public\/js\/cloudinary-core-shrinkwrap-min.js": {
 		"ft": 64,
 		"ma": 0,
