@@ -35,7 +35,7 @@ Work was getting increasingly harder to land, it started to feel like it was tim
 
 ## The Liquor Store (2002)
 
-So - I bought a liquor store, I know it seems weird. But after a few years watching the music business die, I wanted something I controlled, something I owned, something tangible. With a bank loan and some help from my parents, I bought a small liquor store in North Jersey. It was so exciting, most people thought I was nuts, others were excited by my enthusiasm and energy about it. My single goal was to grow the business in every way I could. I did all kinds of “growth hacks” from a full rebrand to offering a home delivery service.
+So - I bought a liquor store, I know it seems weird. But after watching the music business die, I wanted something I controlled, something I owned, something tangible. With a bank loan and some help from my parents, I bought a small liquor store in North Jersey. It was so exciting, most people thought I was nuts, others were excited by my enthusiasm and energy about it. My single goal was to grow the business in every way I could. I did all kinds of “growth hacks” from a full rebrand to offering a home delivery service.
 
 ![American Classic Liquors Fairview New Jersey](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto/c_scale,q_auto:good,w_845/v1531699738/page-images/liquor-store-final.jpg)
 
