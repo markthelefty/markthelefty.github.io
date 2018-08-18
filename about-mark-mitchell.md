@@ -45,7 +45,7 @@ Looking back, of everything I did to grow the business, building a website was t
 
 A website was the obvious next thing for me to tackle to continue to grow the business. Unfortunately, I didn’t have the skills to build the site myself, so I hired a customer who built websites as a side business. I paid him a good amount of money and ended up with the typical “50% of a website”. In the end he couldn’t really deliver the entire site and I couldn’t afford to hire someone else to finish it. I had no choice but to roll up my sleeves, dig in and learn to design and code. I also learned a lot about digital marketing too. I got that site finished and it went LIVE!
 
-The store was great, but after working 6-7 days a week for a few years I decided retail wasn’t really for me. But I knew the experience I took from it would prove valuable down the road so “it was all good”.
+The store was great, but after working 6-7 days a week for a few years I decided retail wasn’t really for me. I did feel though like the experience I took from it would prove valuable down the road so “it was all good”.
 
 ## Wine/Liquor Salesman (2005)
 
