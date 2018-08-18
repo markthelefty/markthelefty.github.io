@@ -77,4 +77,4 @@ I had the opportunity to work on fun marketing projects, [Super Bowl](https://yo
 
 Today, I live in Atlanta, Georgia. I’m VP, Product Management at a large fintech company. Our platform is used by many of the largest companies in the world to manage their equity compensation benefit programs. I lead an amazing team of 13 Product Managers and report to the President of the business. I manage the roadmap, enhancement prioritization, and overall product strategy and direction while also playing an active role in other areas including Sales, Relationship Management and Customer Service.
 
-Thanks for stopping by, I’d like to hear from you. Feel free to [send me a note](https://markonproduct.com/contact).
+Thanks for stopping by, I’d like to hear from you. Feel free to [send me a note](https://markonproduct.com/contact), or let's connect on [Twitter](https://twitter.com/MarkMitchell) or [LinkedIn](https://www.linkedin.com/in/markreidmitchell/).
