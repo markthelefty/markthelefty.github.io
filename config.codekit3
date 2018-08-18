@@ -191,27 +191,6 @@
 		"oAP": "\/archive.markdown",
 		"oF": 0
 		},
-	"\/atom-feedly.xml": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/atom-feedly.xml",
-		"oF": 0
-		},
-	"\/atom-new.xml": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/atom-new.xml",
-		"oF": 0
-		},
-	"\/atom.xml": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/atom.xml",
-		"oF": 0
-		},
 	"\/CNAME": {
 		"cB": 0,
 		"ft": 8192,
@@ -236,6 +215,13 @@
 		"pME": 1,
 		"rFN": 0,
 		"uCM": 0
+		},
+	"\/feed.xml": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/feed.xml",
+		"oF": 0
 		},
 	"\/google59c03b44e95bee7c.html": {
 		"cB": 0,
