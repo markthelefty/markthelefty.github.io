@@ -31,7 +31,7 @@ I got to know Bob over the next few years and we ended up working on a number of
 
 So what happened? Well, within a 10-year span the music business’s distribution model became completely disrupted. There was no plan or strategy for life after selling physical media. They never saw digital coming - at all. Digitally copying CDs was the first struggle, then Napster, and piracy were next. Album sales plummeted, artists struggled to sell CDs and eventually most of the studios ended up closing.
 
-Work was getting increasingly harder to land, it started to feel like it was time to look for something new. I quickly found a pretty neat gig doing sound at Saturday Night Live. It was fun for a few months, but after two seasons I decided it wasn’t for me. If I couldn’t make records, my time as a recording engineer was likely over. It was tough, but I decided after six years, it was time for the next thing.
+Work was getting increasingly harder to land, it started to feel like it was time to look for something new. I quickly found a new gig doing sound at Saturday Night Live. It was fun for a few months, but after two seasons I decided it wasn’t for me. If I couldn’t make records, my time as a recording engineer was likely over. It was tough, but I decided after six years, it was time for the next thing.
 
 ## The Liquor Store (2002)
 
