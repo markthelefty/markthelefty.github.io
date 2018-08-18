@@ -36,11 +36,10 @@ author:
   name: Mark Mitchell
   twitter: markmitchell
   url: https://twitter.com/markmitchell
-  bio: Hi! I started as a recording engineer in the music business in New York city
-    in 1996. Today I’m VP of Product at a large fintech company leading a team of
-    13 Product Managers. I live in Atlanta with my wonderful wife and our three children.
-    Like many Product Managers, I traveled an unusual path to get here. <a href="/about-mark-mitchell">Here’s
-    the full scoop</a>.
+  bio: |-
+    Hi! My career started in 1996 as a recording engineer in the music business in New York City. Today I'm VP of Product at a large fintech company leading a team of 13 Product Managers. I live in Atlanta with my wonderful wife and our three children. Like many Product Managers, I traveled an unusual path to get here. Here’s the full scoop.
+
+    I’d like to hear from you. Feel free to [send me a note](https://markonproduct.com/contact), or let's connect on [Twitter](https://twitter.com/MarkMitchell) or [LinkedIn](https://www.linkedin.com/in/markreidmitchell/).
   image: v1533636293/post-images/mark-mitchell-bio-photo.jpg
 paginate: 11
 version: 2.1.4
