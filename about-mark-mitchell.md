@@ -63,7 +63,7 @@ So that was it, I decided I wanted to build websites. I tried my hand at a few t
 
 [![BCS Interactive](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto/c_scale,q_auto:good,w_845/v1534242058/page-images/bcs-interactive-logo.jpg){: .width-3 .float-left}](https://www.bcsinteractive.com/ "BCS Interactive")
 
-I was looking for a path to build websites full-time, so a mutual friend introduced me to someone else who was also looking for something similar. I took the plunge, and partnered with Lou Kotsinins and co-founded [BCS Interactive](https://www.bcsinteractive.com/). It was great, we built websites and apps for small to mid-sized businesses and non-profits. Lou is still going strong with it today, but after a few years I was getting a little burnt on it and needed all of the trimmings that come along with a real corporate job. So we amicably parted ways and I started job hunting.
+Before long I was looking for a path to build websites full-time, a mutual friend introduced me to someone else who was also looking for something similar. I took the plunge, and partnered with Lou Kotsinins and co-founded [BCS Interactive](https://www.bcsinteractive.com/). It was great, we built websites and apps for small to mid-sized businesses and non-profits. Lou is still going strong with it today, but after a few years I was getting a little burnt on it and needed all of the trimmings that come along with a real corporate job. So we amicably parted ways and I started job hunting.
 
 ## Product Manager (2012)
 
