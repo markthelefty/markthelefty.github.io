@@ -16,7 +16,7 @@ https://res.cloudinary.com/dbrkuvff5/image/upload/v1534497637/assets/favicon-32x
 <published>{{ post.date | date_to_xmlschema }}</published>
 <updated>{{ post.date | date_to_xmlschema }}</updated>
 <title>{{ post.title }}</title>
-<content type="html"><img alt="Article Image" src="https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto/c_scale,q_auto:best,w_845/{{ page.image }}">{{ post.content | xml_escape }}</content>
+<content type="html"><img alt="Article Image" src="https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto/c_scale,q_auto:best,w_845/{{ page.image }}"/>{{ post.content | xml_escape }}</content>
 <link rel="alternate" type="text/html" href="{{ site.url }}{{ post.url }}"/>
 <id>{{ site.url }}{{ post.id }}</id>
 <author>
