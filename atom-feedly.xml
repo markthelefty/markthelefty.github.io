@@ -1,0 +1,72 @@
+---
+layout: nil
+---
+
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+<title>{{ site.title }}</title>
+<icon>
+https://res.cloudinary.com/dbrkuvff5/image/upload/v1534497637/assets/favicon-32x32.png
+</icon>
+<updated>{{ site.time | date_to_xmlschema }}</updated>
+<id>{{ site.url }}/atom.xml</id>
+<link type="text/html" href="{{ site.url }}" rel="alternate"/>
+
+{% for post in site.posts limit:10%}
+<entry>
+<published>{{ post.date | date_to_xmlschema }}</published>
+<updated>{{ post.date | date_to_xmlschema }}</updated>
+<title>{{ post.title }}</title>
+<content type="html"><img alt="Article Image" src="https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto/c_scale,q_auto:best,w_845/{{ page.image }}">{{ post.content | xml_escape }}</content>
+<link rel="alternate" type="text/html" href="{{ site.url }}{{ post.url }}"/>
+<id>{{ site.url }}{{ post.id }}</id>
+<author>
+<name>{{ site.author.name }}</name>
+</author>
+</entry>
+{% endfor %}
+
+
+</feed>
+
+
+
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+<title>{{ site.title }}</title>
+<webfeeds:analytics id="UA-600295-11" engine="GoogleAnalytics"/>
+<atom:link href="https://blog.feedly.com/feed/?cat=-6%2C-360" rel="self" type="application/rss+xml"/>
+<link>https://blog.feedly.com</link>
+<description/>
+<lastBuildDate>Fri, 17 Aug 2018 16:31:01 +0000</lastBuildDate>
+<language>en-US</language>
+<sy:updatePeriod>hourly</sy:updatePeriod>
+<sy:updateFrequency>1</sy:updateFrequency>
+<generator>webfeed/10a-feedlybeta</generator>
+
+
+
+
+
+
+<item>
+<title>Bug Hunt Week</title>
+<link>https://blog.feedly.com/bug-hunt-week/</link>
+<comments>https://blog.feedly.com/bug-hunt-week/#respond</comments>
+<pubDate>Fri, 17 Aug 2018 16:31:01 +0000</pubDate>
+<dc:creator>Edwin K</dc:creator>
+<category>...</category>
+<category>...</category>
+<guid isPermaLink="false">https://blog.feedly.com/?p=10767</guid>
+<description>...</description>
+<content:encoded>
+<![CDATA[...]]>
+</content:encoded>
+<wfw:commentRss>https://blog.feedly.com/bug-hunt-week/feed/</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure href="https://blog.feedly.com/wp-content/uploads/2018/08/Screenshot-2018-08-16-17.20.57.png" width="902" height="762" featured="true" type="image/png"/>
+</item>
+
+
+
+</channel>
+</rss>

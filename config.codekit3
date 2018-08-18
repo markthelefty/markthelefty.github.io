@@ -191,6 +191,13 @@
 		"oAP": "\/archive.markdown",
 		"oF": 0
 		},
+	"\/atom-feedly.xml": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/atom-feedly.xml",
+		"oF": 0
+		},
 	"\/atom-new.xml": {
 		"cB": 0,
 		"ft": 8192,
