@@ -784,7 +784,6 @@ blockquote {
 blockquote p {
     @include mq('phone') {
       color:#7b7b7b;
-      font-size:1.1rem;
     }
 }
 blockquote p:last-child {
