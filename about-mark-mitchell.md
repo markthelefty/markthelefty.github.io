@@ -12,12 +12,12 @@ layout: page
 ![Mark Mitchell Photo](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto/c_scale,q_auto:best,w_220/v1534035103/post-images/mark-mitchell-bio-photo.jpg){: .width-2 .float-left}
 My career started in 1996 as a recording engineer in the music business in New York City. Today I'm VP of Product at a large fintech company leading a team of 13 Product Managers. I live in Atlanta with my wonderful wife and our three children.
 
-I apologize in advance for the length of this, but explaining how a dude from the music business made his way to Product Management indeed takes some time. In short, I never planned to get into Product Management or software design, but most people don’t end up where they started right? Here’s how it happened for me.
+I apologize in advance for the length of this, but explaining how a dude from the music business made his way to Product Management apparently takes some time. In short, I never planned to get into Product Management or software design, but most people don’t end up where they started right? Here’s how it happened for me.
 
 
 ## The Music Business (1996)
 
-Like most kids growing up I was a huge music fan. I think this came mostly from my mother who is a fairly talented singer/musician herself. I spent hours listening to music, I loved tearing open a new cassette, CD, or LP and reading the credits and liner notes as I listened. In time I became fascinated with how records were made and the people who made them. Growing up in the late 80's and early 90's, I was (*and still am*) a huge fan of Hip-Hop, for whatever reason it's always resonated with me. Few people on the planet can beat me at 90’s Hip-Hop trivia, you’ll see why in a minute. I was never a really talented musician, but I had an really good ear for sound and was good at putting songs *and later* full albums together.
+Like most kids growing up I was a huge music fan. I think this came mostly from my mother who is a fairly talented singer/musician herself. I spent hours listening to music, I loved tearing open a new cassette, CD, or LP and reading the credits and liner notes as I listened. In time I became fascinated with how records were made and the people who made them. Growing up in the late 80's and early 90's, I was (*and still am*) a huge fan of Hip-Hop, for whatever reason it's always resonated with me. Few people on the planet can beat me at 90’s Hip-Hop trivia, you’ll see why in a minute. I never was a particularly talented musician, but I had an really good ear for sound and was good at putting songs *and later* full albums together.
 
 [![Sorcerer Sound Recording Studios New York City](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto/c_scale,q_auto:good,w_845/v1531684667/page-images/Mark%20Mitchell%20at%20Sorcerer%20Sound%20Recording%20Studios.jpg)](http://www.sorcerersound.com/ "Sorcerer Sound Recording Studios")
 

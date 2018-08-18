@@ -773,7 +773,7 @@ blockquote {
   border-left-color: #D3D8E0;
   border-left-style: solid;
   border-left-width: .2rem;
-  font-style: italic;
+  font-family: georgia,times,times new roman,serif; 
   margin: 0.5rem .8rem 1.5rem .8rem;
   padding: 0 0 0 .6rem;
     @include mq('phone') {
@@ -784,7 +784,6 @@ blockquote {
 blockquote p {
     @include mq('phone') {
       color:#7b7b7b;
-      font-size:1.1rem;
     }
 }
 blockquote p:last-child {
