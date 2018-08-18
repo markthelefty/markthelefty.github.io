@@ -6,7 +6,7 @@ layout: nil
 <title>{{ site.title }}</title>
 <icon>https://res.cloudinary.com/dbrkuvff5/image/upload/v1534497637/assets/favicon-32x32.png</icon>
 <updated>{{ site.time | date_to_xmlschema }}</updated>
-<id>{{ site.url }}/atom.xml</id>
+<id>{{ site.url }}/feed.xml</id>
 <link type="text/html" href="{{ site.url }}" rel="alternate"/>
 
 {% for post in site.posts limit:10%}
