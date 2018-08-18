@@ -65,7 +65,7 @@ So that was it, I decided I wanted to build websites. I tried my hand at a few t
 
 Before long I was looking for a path to build websites full-time, a mutual friend introduced me to someone else who was also looking for something similar. I took the plunge, and partnered with Lou Kotsinins and co-founded [BCS Interactive](https://www.bcsinteractive.com/). It was great, we built websites and apps for small to mid-sized businesses and non-profits. Lou is still going strong with it today, but after a few years I was getting a little burnt on it and needed all of the trimmings that come along with a real corporate job. So we amicably parted ways and I started job hunting.
 
-## UI Designer Turned Product Manager (2012)
+## UI Designer Turns Product Manager (2012)
 
 Luckily the job market was pretty strong. As I thought about what my core skills were, I decided design (*specifically app and UI design*) were it. I interviewed at lots of companies large and small, mostly in NYC. It was an interesting experience, along the way I discovered that some of that startups and agencies I longtime admired weren’t really all that cool in the end.
 
