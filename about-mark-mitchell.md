@@ -39,7 +39,7 @@ So - I bought a liquor store, I know it seems weird. But after a few years watch
 
 ![American Classic Liquors Fairview New Jersey](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto/c_scale,q_auto:good,w_845/v1531699738/page-images/liquor-store-final.jpg)
 
-Of everything I did to grow the business, building a website for the store was the thing I was most proud of.  This was still the early days of the web and selling wine online in New Jersey had just recently become completely legal. The idea of a wine website wasn’t completely new. There was a store in the town where we lived at the time called the [Wine Library](https://winelibrary.com/), I noticed the insane business they were doing there. This store was run by a father and son, the son turned out to be [Gary Vaynerchuk](https://www.garyvaynerchuk.com/). 
+Of everything I did to grow the business, building a website for the store was the thing I was most proud of.  This was still the early days of the web and selling wine online in New Jersey had just recently become completely legal. While it was a very new sales channel, the idea of a wine website wasn’t completely new. I was aware of a store in the town where we lived called the [Wine Library](https://winelibrary.com/), had a popular website. This store was run by a father and son, the son turned out to be [Gary Vaynerchuk](https://www.garyvaynerchuk.com/). 
 
 >It was rumored that the Wine Library was doing $50-$60 million per year in sales on the web alone. I’m still not sure if that number is accurate but I suspect it’s probably close. I thought if I did just 10% of that I was set.
 
