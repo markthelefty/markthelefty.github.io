@@ -1,6 +1,7 @@
 ---
 title: It Was Time For Me To Write
 date: 2018-08-19 17:15:00 -04:00
+image: page-images/it-was-time-to-write-post-image.jpg
 readtime: 4
 ---
 
