@@ -21,7 +21,9 @@ layout: nil
    <updated>{{ post.date | date_to_xmlschema }}</updated>
    <id>{{ site.url }}{{ post.id }}</id>
    <content type="html">
-   <img alt="" src="https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto/c_scale,q_auto:good,w_845/{{ post.image }}" />
+   <image>
+   <url>https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto/c_scale,q_auto:good,w_845/{{ post.image }}</url>
+   </image>
    {{ post.content | xml_escape }}
    </content>
  </entry>
