@@ -6,7 +6,7 @@ readtime: 4
 ---
 
 ## It Started At A Dinner
-A few months ago a friend asked if I’d have dinner with him so he could “**pick my brain**” on a few things. I had a feeling he wanted to chat about career related stuff, but I wasn’t exactly sure. Either way, I agreed and we met for a beer. He runs a Product Management team similar to mine, but in a different industry. The discussion ran the gamut from how he runs his team, to where he is in his career, and more. I always enjoy these kinds of conversations, I always get a lot out of them and I find the opportunity to discover how other Product teams function to be fascinating. 
+A few months ago a friend asked if I’d have dinner with him so he could “*pick my brain*” on a few things. I had a feeling he wanted to chat about career related stuff, but I wasn’t exactly sure. Either way, I agreed and we met for a beer. He runs a Product Management team similar to mine, but in a different industry. The discussion ran the gamut from how he runs his team, to where he is in his career, and more. I always enjoy these kinds of conversations, I always get a lot out of them and I find the opportunity to discover how other Product teams function to be fascinating. 
 
 >Towards the end of the dinner he asked me something that for the first time in many years I didn’t have an immediate answer to: “So Mark what’s next for you - professionally?”. 
 
