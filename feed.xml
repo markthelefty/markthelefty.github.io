@@ -21,6 +21,7 @@ layout: nil
    <updated>{{ post.date | date_to_xmlschema }}</updated>
    <id>{{ site.url }}{{ post.id }}</id>
    <content type="html">
+   	<img alt="" src="https://cdn.vox-cdn.com/thumbor/MdHtfn_VcnNiJ0_DABMuWcqN9Sc=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/60926993/jbareham_171013_2050_0214.0.jpg" />
    {{ post.content | xml_escape }}
    </content>
  </entry>
