@@ -1,5 +1,7 @@
 ---
 title: Contact
+description: Hey there! Have a question or comment? I’d love to hear from you. Send
+  me a message and I’ll respond as soon as possible.
 image: v1534161359/post-images/mark-on-product.jpg
 layout: page
 ---

@@ -1,9 +1,10 @@
 ---
 title: About Me
 date: 2018-07-14 14:18:00 -04:00
-description: 'About page description field: Do so written as raising parlors spirits
-  mr elderly. Made late in of high left hold. Carried females of up highest calling.
-  Limits marked led silent dining her she far.'
+description: I started in the music business in New York City. Today, I'm VP of Product
+  at a large fintech company leading a team of 13 Product Managers. I live in Atlanta
+  with my wonderful wife and our three children. Like many Product Managers, I too
+  traveled an unusual path to get here.
 image: v1534161359/post-images/mark-on-product.jpg
 layout: page
 ---
