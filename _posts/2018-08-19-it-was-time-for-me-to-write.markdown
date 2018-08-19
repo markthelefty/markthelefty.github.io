@@ -1,6 +1,7 @@
 ---
 title: It Was Time For Me To Write
 date: 2018-08-19 17:15:00 -04:00
+readtime: 4
 ---
 
 A few months ago a friend asked if I’d have dinner with him so he could “/pick my brain/” on a few things. I had a feeling he wanted to chat about career related stuff, but I wasn’t exactly sure. Either way, I agreed and we met for a beer. He runs a Product Management team similar to mine, but in a different industry. The discussion ran the gamut from how he runs his team, to where he is in his career, and more. I always enjoy these kinds of conversations, I always get a lot out of them and I find the opportunity to discover how other Product teams function to be fascinating. 
