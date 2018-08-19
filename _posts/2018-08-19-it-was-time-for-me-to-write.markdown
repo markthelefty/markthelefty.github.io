@@ -5,6 +5,7 @@ image: v1534715325/page-images/it-was-time-to-write-post-image.jpg
 readtime: 4
 ---
 
+## It Started At A Dinner
 A few months ago a friend asked if I’d have dinner with him so he could “**pick my brain**” on a few things. I had a feeling he wanted to chat about career related stuff, but I wasn’t exactly sure. Either way, I agreed and we met for a beer. He runs a Product Management team similar to mine, but in a different industry. The discussion ran the gamut from how he runs his team, to where he is in his career, and more. I always enjoy these kinds of conversations, I always get a lot out of them and I find the opportunity to discover how other Product teams function to be fascinating. 
 
 >Towards the end of the dinner he asked me something that for the first time in many years I didn’t have an immediate answer to: “So Mark what’s next for you - professionally?”. 
@@ -23,7 +24,7 @@ Selfish I know, but you have to consider that the web isn’t really in the best
 ## It’s A Coaching Thing Too I Guess
 So there was a little distrust and selfishness in the platform decisions but the overall objective felt like a really good thing. However, there was another thing I had to really think about too. And that was “am I really ready for this?” I mean - do I really have something to say? Do I have a voice? Can I actually help people? I decided the answer to all of that was yes. I knew it was, because I do exactly that everyday all day at work.
 
-I like to think of my team as an actual Football team and I’m the head coach. This probably explains why I like HBO’s “Hard Knocks” so much. I usually feel when I’m helping one of my PM’s on an issue or giving them feedback, or strategizing with them on a feature - I’m coaching. This space will be another outlet for me to do that. On a side note I truly enjoy coaching, ironically I’ve only actually coached my kids sports stuff a few times and oddly it isn’t my favorite activity - go figure.
+I like to think of my team as an actual Football team and I’m the head coach. This probably explains why I like HBO’s “[Hard Knocks](https://www.hbo.com/hard-knocks)” so much. I usually feel when I’m helping one of my PM’s on an issue or giving them feedback, or strategizing with them on a feature - I’m coaching. This space will be another outlet for me to do that. On a side note I truly enjoy coaching, ironically I’ve only actually coached my kids sports stuff a few times and oddly it isn’t my favorite activity - go figure.
 
 ## And… I Needed A Playgroud
 I wanted a place to play. A place where I could test new ideas, play with code and web technology, and a place where I could just tinker. I plan to really deliver value, help as many people as I can and have a ton of fun doing it. I’m glad we’re finally all here together! Let’s go!
