@@ -10,7 +10,7 @@ layout: default
           <span class="post-date">{{ page.date | date: '%B %d, %Y' }}</span>
           <span class="post-readtime">{{ page.readtime }} min read</span>
         </div>
-      <img class="post-image" alt="Article Image" src="https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto/c_scale,q_auto:good,w_845/{{ page.image }}">
+      <img class="post-image" alt="Article Image" data-src="https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto/c_scale,q_auto:good,w_845/{{ page.image }}">
       {{ content }}
     </section>
 
@@ -18,7 +18,7 @@ layout: default
 
     <section class="about-author">
       <div class="author-image">
-        <img alt="{{ site.author.name }}" src="https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto/c_scale,q_auto:good,w_225/{{ site.author.image }}">
+        <img alt="{{ site.author.name }}" data-src="https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto/c_scale,q_auto:good,w_225/{{ site.author.image }}">
       </div>
       <div class="author-bio">
         <h3>About {{ site.author.name }}</h3>
