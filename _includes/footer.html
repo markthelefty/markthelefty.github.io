@@ -37,14 +37,6 @@
   <p>&copy; {{ site.time | date: '%Y' }} All rights reserved. <span class="site-version">v{{ site.version }}</span></p>
 </div>
 </footer>
-  <script type="text/javascript">
-  [].slice.apply(document.querySelectorAll('img[data-src].d-image')).forEach(function(img) {
-    img.setAttribute('src', img.getAttribute('data-src'));
-    img.onload = function() {
-      img.removeAttribute('data-src');
-    };
-  });
-  </script>
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-600295-11"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
