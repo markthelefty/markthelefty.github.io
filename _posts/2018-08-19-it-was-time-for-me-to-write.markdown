@@ -5,7 +5,7 @@ description: It started at a dinner with a friend. When he asked me "What was ne
   professionally for you Mark?" I didn't have an answer, the more I thought about
   it - something dawned on me. I wanted to help coach people who wanted to learn about
   Product Management and I wanted to give back.
-image: v1534715325/page-images/it-was-time-to-write-post-image.jpg
+image: v1534756711/page-images/it-was-time-to-write-post-image.jpg
 readtime: 4
 ---
 
