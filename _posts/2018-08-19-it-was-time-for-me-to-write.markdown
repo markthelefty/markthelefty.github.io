@@ -1,10 +1,10 @@
 ---
 title: It Was Time For Me To Write
 date: 2018-08-19 17:15:00 -04:00
-description: It started at a dinner with a friend. When he asked me "What was next
-  professionally for you Mark?" I didn't have an answer, the more I thought about
-  it - something dawned on me. I wanted to help coach people who wanted to learn about
-  Product Management and I wanted to give back.
+description: It started at a dinner with a friend, when he asked me what was next
+  for me professionally. I didn't have an answer, the more I thought about it - something
+  dawned on me. I wanted to help coach people who wanted to learn about Product Management
+  and I wanted to give back.
 image: v1534756711/page-images/it-was-time-to-write-post-image.jpg
 readtime: 4
 ---
