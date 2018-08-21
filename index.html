@@ -5,6 +5,7 @@ image: v1534161359/post-images/mark-on-product.jpg
 
   <div class="article-grid">
     {% for post in paginator.posts %}
+    {% unless page.tags contains 'draft' %}
       <section>
         <a href="{{ post.url }}" class="card">
           <div class="thumb cld-responsive" style="background-image: url(https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/c_scale,q_auto:good,w_750/{{ post.image }});"></div>
@@ -19,6 +20,7 @@ image: v1534161359/post-images/mark-on-product.jpg
             </article>
         </a>
       </section>
+    {% endunless %}
     {% endfor %}
   </div><!--/article-grid-->
 
