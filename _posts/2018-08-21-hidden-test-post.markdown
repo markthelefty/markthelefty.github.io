@@ -21,7 +21,7 @@ This one was by far the hardest to adhere to. The first “no software” decisi
 
 ![Jekyll static site generator](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto/c_scale,q_auto:best/v1534902272/post-images/jekyll-screenshot.jpg){: .add-caption}
 
-There was one more thing that factored into the platform decision, while I didn’t want a CMS, I also didn’t want to be in “***developer mode***” all the time. In other words, sometimes I want to be in coding mode and other times I want to be in writing mode. When I’m in writing mode, I prefer not to be in a code editor. There’s no real reason why, it’s just how my brain works. Therefore, if I could have some kind of CMS front end that would be helpful, not a hard requirement - more of a “nice-to-have”.
+There was one more thing that factored into the platform decision, while I didn’t want a CMS, I also didn’t want to be in “*developer mode*” all the time. In other words, sometimes I want to be in coding mode and other times I want to be in writing mode. When I’m in writing mode, I prefer not to be in a code editor. There’s no real reason why, it’s just how my brain works. Therefore, if I could have some kind of CMS front end that would be helpful, not a hard requirement - more of a “nice-to-have”.
 
 To meet this need I went with [Siteleaf](https://www.siteleaf.com/). It’s a really nice “front end” to static Jekyll sites that makes doing quick updates really easy. I could use it within my ground rules because it’s not a dependency. I can stop using it tomorrow, open my site files in a code editor and off we go. It’s a win!
 ![Siteleaf's CMS for static sites](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto/c_scale,q_auto:best/v1534902273/post-images/siteleaf-screenshot.jpg){: .add-caption}
