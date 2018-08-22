@@ -33,13 +33,13 @@ Wait - a static site generator with no command-line, dude are you nuts? Nope (**
 I get it - it’s one of the most powerful tools on my machine, I don’t disagree it just wasn’t for me on this one. Plus as I started to think about where I wanted to host this site, there is one really good answer that allowed me to get around this ground rule.
 
 Because this is a personal project, I’m making all the decisions so I could choose what rules could be broken, and I did break a few. It would be silly to build any responsive website and not use a CSS compiler. Surely it can be done and I considered it, but SASS is my go-to and after trying to avoid it for a little while - when it came to media-queries not using a mixin for those made little sense. *So I added a software dependency*. The way I justified it was “if I am adding a dependency, make it one that could be easily replaced with something else later if needed”. So I added [CodeKit](https://codekitapp.com/) into the fold. It’s a Mac based tool that does a lot of things. For me it’s really just combining, processing and minifying my .scss files into an include file that Jekyll then inserts into the head. More on that later.
-![CodeKit Screenshot](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto/c_scale,q_auto:best/v1534902272/post-images/codekit-screenshot.jpg){.add-caption}
+![CodeKit Screenshot](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto/c_scale,q_auto:best/v1534902272/post-images/codekit-screenshot.jpg){: .add-caption}
 
 ## Rule 3: Open-source The Code
 I’ve used open-source code thousands of times for so many things, I’m sure we all have. Aside from the obvious benefit of open-source code being free, I’ve always valued the community built and battle tested aspect of it. As I look back and really think about the most important thing I’ve gotten from using open-source code is the ability to learn from it. Having access to all of a projects files to: edit, contribute, and read comments on Github etc. is an amazing way to learn.
 
 Seeing how others approach the same problems is probably the best way to learn. I decided for this project I would live out in the open. There’s nothing special about what’s behind this site, but as part of my “giving back” mantra - it’s all yours. It’s a totally open repo on [Github](https://github.com/markthelefty/markthelefty.github.io) - have it at. Like I said it’s nothing special, but I did solve a few coding challenges. If there’s something useful for you - feel free to use it.
-![Github Repo Screenshot](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto/c_scale,q_auto:best/v1534902522/post-images/github-repo-screenshot.jpg){.add-caption}
+![Github Repo Screenshot](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto/c_scale,q_auto:best/v1534902522/post-images/github-repo-screenshot.jpg){: .add-caption}
 
 ## Rule 4: No Server To Maintain
 There’s things I’m good at and then there’s server administration. It’s just one of those things I’ve never really worked hard enough at to master. Frankly, there were times in the past when using shared hosting or a VPS setup that I despised doing server maintenance at all. I always felt like “**dude I’m paying you for this thing, why can’t you do that**”? In truth it’s a balance, having access to the root directory of a server can solve many problems - and cause some good ones too!
@@ -47,10 +47,10 @@ There’s things I’m good at and then there’s server administration. It’s 
 This project had cloud hosting written all over it. I knew the config would be simple, and I didn’t have to consider a bunch of “**but what if we want X in the future**” questions. I thought about [AWS](https://aws.amazon.com/), [Google Cloud](https://cloud.google.com/) and [Azure](https://azure.microsoft.com/en-us/). I’ve used AWS quite a lot, but haven’t used Azure or Google Cloud really at all. Was this the time to take the plunge with one of them to learn and play? Probably, but ultimately I chose not to, because it felt too much like I was breaking rule #1 (No Dependencies). Sure I could move from one cloud provider to another if I wanted to, but setting it all up would be a hassle. I didn’t really need it.
 
 By now you can probably see where I’m going, I ended up using [Github pages](https://pages.github.com/). I figured I’d give it a shot because it has support for Jekyll built-in. In other words make a change to the markdown files on your local machine, commit the change to the master branch and voila - Github runs the build and your site is updated.
-![Github Pages Screenshot](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto/c_scale,q_auto:best/v1534902272/post-images/github-pages-screenshot.jpg){.add-caption}
+![Github Pages Screenshot](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto/c_scale,q_auto:best/v1534902272/post-images/github-pages-screenshot.jpg){: .add-caption}
 
 This did introduce a software dependency though - if you’re counting it’s the second. “How am I going to manage the Github repo with no common-line tool”? I decided to use the Github Mac app, I’m familiar with it and like CodeKit, if I had to switch it out there are many options like [Tower](https://www.git-tower.com/mac) for example. Or if I had to - I could use the command-line.
-![Github Mac App Screenshot](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto/c_scale,q_auto:best/v1534902272/post-images/github-app-screenshot.jpg)
+![Github Mac App Screenshot](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto/c_scale,q_auto:best/v1534902272/post-images/github-app-screenshot.jpg){: .add-caption}
 
 If you’ve ever considered using Github pages for a project - I highly recommend it. It’s fast, easy and free (**for one site**), I’ve been really impressed. So there it was - I was “serverless”. Does the term “serverless” feel like the wrong word for the setup? That’s to say its not wrong, but it’s not right either? Future post on that I suppose.
 
@@ -72,7 +72,7 @@ This rule was probably the most challenging to consistently adhere to throughout
 ***In the end, many small tweaks added up to a really fast site***. The single thing that made the biggest impact was injecting the CSS directly into the head of each page. At first I hated the idea, but I couldn’t believe the impact it had on performance. It also wasn’t really an issue for my workflow because I have CodeKit minify and auto-prefix the .scss file and produce it as a Jekyll include that gets added to every page on build.  I also added [CloudFlare](https://www.cloudflare.com/) as a CDN – no question it helped speed things up all around as well.
 
 The rest of the optimizations are fairly standard. They all add up to a 98-99 score from the [Google PageSpeed](https://developers.google.com/speed/pagespeed/insights/?url=markonproduct.com&tab=mobile) tool. It’s not really the score itself that mattered, instead the tool helped me evaluate if something I was trying to add to a page was worth the cost. Again a ground rule.
-![Google PageSpeed Screenshot](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto/c_scale,q_auto:best/v1534902272/post-images/google-pagespeed-screenshot.jpg)
+![Google PageSpeed Screenshot](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto/c_scale,q_auto:best/v1534902272/post-images/google-pagespeed-screenshot.jpg){: .add-caption}
 
 
 ## Rule 7: Do Not Pay $7 x 4
