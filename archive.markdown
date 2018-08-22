@@ -5,7 +5,7 @@ date: 2018-08-05 13:43:00 -04:00
 
 <section class="post">
 
-   {% for post in site.posts unless post.tags contains 'hidden' %}
+   {% for post in site.posts %}
        {% assign currentDate = post.date | date: "%Y" %}
        {% if currentDate != myDate %}
            {% unless forloop.first %}</ul>{% endunless %}
