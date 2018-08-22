@@ -57,7 +57,7 @@ If you’ve ever considered using GitHub pages for a project - I highly recommen
 ## Rule 5: No Huge Front End Framework
 Using a front end CSS/JS framework can be incredibly powerful and I absolutely recommend them. [Bootstrap](https://getbootstrap.com/), [Semantic UI](https://semantic-ui.com/), [Foundation](https://foundation.zurb.com/), [Materialize](https://materializecss.com/) etc. are all very good for their intended purpose. Here’s a list of the “[Top Ten](https://www.keycdn.com/blog/front-end-frameworks/)”  in 2018 if you’re interested. I’ve used Bootstrap many times and it really is great. It’s especially useful if you’re working with a large development team on a large application. It really helps force a unified approach to how the UI is designed and coded across teams and across the organization.
 
-***For my personal site, I decided they were overkill for the following reasons:***
+**For my personal site, I decided they were overkill for the following reasons:**
 
 1. Rule #6 – site speed, I wanted this site to be fast so I didn’t want to include a single line of CSS that I wasn’t using.
 2. As a content forward blog I didn’t need 85% of the components. 
