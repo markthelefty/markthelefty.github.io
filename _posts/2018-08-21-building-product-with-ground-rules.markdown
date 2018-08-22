@@ -84,7 +84,7 @@ You will need to buy a domain name and maintain that every year. That will cost 
 
 | Provider | Item | Cost Details |
 | --- | --- | --- |
-| Github Pages | Hosting | Free - One site per user for public repo |
+| GitHub Pages | Hosting | Free - One site per user for public repo |
 | Siteleaf | CMS System | Free - Developer plan meets my current needs |
 | Typekit | Web Fonts | Free - Two free fonts, 25k page views/ month |
 | Wufoo | Contact Form | Free - Up to 5 forms on the free plan |
