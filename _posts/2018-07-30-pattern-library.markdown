@@ -342,6 +342,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin aliquet sed magna
 ![Alt Text](img/url){: .width-6 .float-left}
 ```
 
+### Image With a Caption
+Image captions are set using JavaScript. Simply add the class `.add-caption` to the image markdown.
+![This is the image caption](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/c_scale,q_auto:good,w_845/v1534292126/post-images/sample-post-image.jpg){: .add-caption}
+```markdown
+![This is the image caption](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/c_scale,q_auto:good,w_845/v1534292126/post-images/sample-post-image.jpg){: .add-caption}
+```
+
 ### Linked Image
 [![Linked Image](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/c_scale,q_auto:good,w_845/v1534292126/post-images/sample-post-image.jpg)](http://www.example.com/ "Example Title")
 ```markdown
