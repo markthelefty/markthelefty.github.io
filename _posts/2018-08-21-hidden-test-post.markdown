@@ -49,7 +49,7 @@ By now you can probably see where I’m going, I ended up using [Github pages](h
 [IMAGE GITHUB PAGES]
 
 This did introduce a software dependency though - if you’re counting it’s the second. “How am I going to manage the Github repo with no common-line tool”? I decided to use the Github Mac app, I’m familiar with it and like CodeKit, if I had to switch it out there are many options like [Tower](https://www.git-tower.com/mac) for example. Or if I had to - I could use the command-line.
-[IMAGE GITHUB MAC APP]
+![Github Mac App Screenshot](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto/c_scale,q_auto:good,w_845/v1534902272/post-images/github-app-screenshot.jpg)
 
 If you’ve ever considered using Github pages for a project - I highly recommend it. It’s fast, easy and free (**for one site**), I’ve been really impressed. So there it was - I was “serverless”. Does the term “serverless” feel like the wrong word for the setup? That’s to say its not wrong, but it’s not right either? Future post on that I suppose.
 
