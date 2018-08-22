@@ -64,7 +64,7 @@ Using a front end CSS/JS framework can be incredibly powerful and I absolutely r
 3. I wanted to use little or NO JavaScript. Nothing against it, I just wanted to minimize it as dependency and I definitely didn’t want to use a JS library.
 
 In the end this was a fairly easy rule to follow. I spent more time than I would have liked coding HTML and CSS, but I used the [Lanyon](http://lanyon.getpoole.com/) theme as a starter, giving me a good base to work from.
-![Lanyon Screenshot](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto/c_scale,q_auto:best/v1534902272/post-images/lanyon-screenshot.jpg){: .add-caption}
+![Lanyon starter theme for Jekyll](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto/c_scale,q_auto:best/v1534902272/post-images/lanyon-screenshot.jpg){: .add-caption}
 
 ## Rule 6: It Must Be Fast As A Giselle
 This rule was probably the most challenging to consistently adhere to throughout the build. More than anything else, I wanted the site to deliver a great user experience - most importantly page speed. While working to make it really fast, initially it felt like I was making a lot of tradeoffs. In the end, most of these choices turned out to be short-term challenges as opposed to real long-term trade-offs. I found I had to be very disciplined with each line of code that was added to a page. 
