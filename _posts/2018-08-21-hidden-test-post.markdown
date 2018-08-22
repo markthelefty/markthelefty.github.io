@@ -71,7 +71,7 @@ This rule was probably the most challenging to consistently adhere to throughout
 ***In the end, many small tweaks added up to a really fast site***. The single thing that made the biggest impact was injecting the CSS directly into the head of each page. At first I hated the idea, but I couldn’t believe the impact it had on performance. It also wasn’t really an issue for my workflow because I have CodeKit minify and auto-prefix the .scss file and produce it as a Jekyll include that gets added to every page on build.  I also added [CloudFlare](https://www.cloudflare.com/) as a CDN – no question it helped speed things up all around as well.
 
 The rest of the optimizations are fairly standard. They all add up to a 98-99 score from the [Google PageSpeed](https://developers.google.com/speed/pagespeed/insights/?url=markonproduct.com&tab=mobile) tool. It’s not really the score itself that mattered, instead the tool helped me evaluate if something I was trying to add to a page was worth the cost. Again a ground rule.
-[IMAGE PAGE SPEED]
+![Google PageSpeed Screenshot](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto/c_scale,q_auto:good,w_845/v1534902272/post-images/google-pagespeed-screenshot.jpg)
 
 
 ## Rule 7: Do Not Pay $7 x 4
