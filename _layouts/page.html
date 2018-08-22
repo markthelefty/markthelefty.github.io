@@ -16,7 +16,7 @@ layout: default
     <aside class="related">
       <h2>Latest Posts:</h2>
         <ul class="related-posts">
-          {% for post in site.posts limit:4 %}
+          {% for post in site.posts limit:5 %}
           {% unless post.tags contains 'hidden' %}
           <li>
             <a href="{{ post.url }}" class="card">
