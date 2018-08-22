@@ -49,7 +49,7 @@ By now you can probably see where I’m going, I ended up using [Github pages](h
 ![Github Pages Screenshot](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto/c_scale,q_auto:best/v1534902272/post-images/github-pages-screenshot.jpg)
 
 This did introduce a software dependency though - if you’re counting it’s the second. “How am I going to manage the Github repo with no common-line tool”? I decided to use the Github Mac app, I’m familiar with it and like CodeKit, if I had to switch it out there are many options like [Tower](https://www.git-tower.com/mac) for example. Or if I had to - I could use the command-line.
-![Github Mac App Screenshot](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto/c_scale,q_auto:good,w_845/v1534902272/post-images/github-app-screenshot.jpg)
+![Github Mac App Screenshot](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto/c_scale,q_auto:best/v1534902272/post-images/github-app-screenshot.jpg)
 
 If you’ve ever considered using Github pages for a project - I highly recommend it. It’s fast, easy and free (**for one site**), I’ve been really impressed. So there it was - I was “serverless”. Does the term “serverless” feel like the wrong word for the setup? That’s to say its not wrong, but it’s not right either? Future post on that I suppose.
 
@@ -63,7 +63,7 @@ Using a front end CSS/JS framework can be incredibly powerful and I absolutely r
 3. I wanted to use little or NO JavaScript. Nothing against it, I just wanted to minimize it as dependency and I definitely didn’t want to use a JS library.
 
 In the end this was a fairly easy rule to follow. I spent more time than I would have liked coding HTML and CSS, but I used the [Lanyon](http://lanyon.getpoole.com/) theme as a starter, giving me a good base to work from.
-![Lanyon Screenshot](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto/c_scale,q_auto:good,w_845/v1534902272/post-images/lanyon-screenshot.jpg)
+![Lanyon Screenshot](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto/c_scale,q_auto:best/v1534902272/post-images/lanyon-screenshot.jpg)
 
 ## Rule 6: It Must Be Fast As A Giselle
 This rule was probably the most challenging to consistently adhere to throughout the build. More than anything else, I wanted the site to deliver a great user experience - most importantly page speed. While working to make it really fast, initially it felt like I was making a lot of tradeoffs. In the end, most of these choices turned out to be short-term challenges as opposed to real long-term trade-offs. I found I had to be very disciplined with each line of code that was added to a page. 
@@ -71,7 +71,7 @@ This rule was probably the most challenging to consistently adhere to throughout
 ***In the end, many small tweaks added up to a really fast site***. The single thing that made the biggest impact was injecting the CSS directly into the head of each page. At first I hated the idea, but I couldn’t believe the impact it had on performance. It also wasn’t really an issue for my workflow because I have CodeKit minify and auto-prefix the .scss file and produce it as a Jekyll include that gets added to every page on build.  I also added [CloudFlare](https://www.cloudflare.com/) as a CDN – no question it helped speed things up all around as well.
 
 The rest of the optimizations are fairly standard. They all add up to a 98-99 score from the [Google PageSpeed](https://developers.google.com/speed/pagespeed/insights/?url=markonproduct.com&tab=mobile) tool. It’s not really the score itself that mattered, instead the tool helped me evaluate if something I was trying to add to a page was worth the cost. Again a ground rule.
-![Google PageSpeed Screenshot](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto/c_scale,q_auto:good,w_845/v1534902272/post-images/google-pagespeed-screenshot.jpg)
+![Google PageSpeed Screenshot](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto/c_scale,q_auto:best/v1534902272/post-images/google-pagespeed-screenshot.jpg)
 
 
 ## Rule 7: Do Not Pay $7 x 4
