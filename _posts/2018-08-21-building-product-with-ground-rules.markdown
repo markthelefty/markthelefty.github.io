@@ -19,16 +19,16 @@ This one was by far the hardest to adhere to. The first “no software” decisi
 
 [Static site generators](https://davidwalsh.name/introduction-static-site-generators) have come a long way and there are more of them today than ever before. [Jekyll](https://jekyllrb.com/), [Hexo](https://hexo.io/), [Hugo](https://gohugo.io/), [Octopress](http://octopress.org/), [Pelican](https://blog.getpelican.com/), [Brunch](https://brunch.io/) etc… [Here’s a list](https://www.netlify.com/blog/2016/05/02/top-ten-static-website-generators/) from 2016 of the “Top Ten” if you’re interested. This again is where ground rules really help make decisions I can live with. All of these are great and all of them would probably have done the job perfectly. But then rules #2 and #3 came into play, I didn’t want to be forced to use the command-line and I didn’t want to maintain a server. More on those in a minute, ultimately this led me to [Jekyll](https://jekyllrb.com/). Jekyll was also a good choice because I’ve used it in the past and liked it, so I felt it would be less cumbersome to setup and easier get rolling.
 
-![CodeKit Screenshot](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto/c_scale,q_auto:best/v1534902272/post-images/jekyll-screenshot.jpg){.add-caption}
+![CodeKit Screenshot](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto/c_scale,q_auto:best/v1534902272/post-images/jekyll-screenshot.jpg){: .add-caption}
 
 There was one more thing that factored into the platform decision, while I didn’t want a CMS, I also didn’t want to be in “**developer mode**” all the time. In other words, sometimes I want to be in coding mode and other times I want to be in writing mode. When I’m in writing mode, I prefer not to be in a code editor. There’s no real reason why, it’s just how my brain works. Therefore, if I could have some kind of CMS front end that would be helpful, not a hard requirement - more of a “nice-to-have”.
 
 To meet this need I went with [Siteleaf](https://www.siteleaf.com/). It’s a really nice “front end” to static Jekyll sites that makes doing quick updates really easy. I could use it within my ground rules because it’s not a dependency. I can stop using it tomorrow, open my site files in a code editor and off we go. It’s a win!
-![Siteleaf Screenshot](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto/c_scale,q_auto:best/v1534902273/post-images/siteleaf-screenshot.jpg){.add-caption}
+![Siteleaf Screenshot](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto/c_scale,q_auto:best/v1534902273/post-images/siteleaf-screenshot.jpg){: .add-caption}
 
 ## Rule 2: No Command-line
 Wait - a static site generator with no command-line, dude are you nuts? Nope (**well yeah a little**). It’s why I set the ground rules. See here’s the thing, I’ve never been a command-line commando. I can certainly use it, but I’ve never been really good at it. In the past when using it for GIT, a task runner, or installing NPM modules - something ALWAYS goes wrong. Not “**end of the world wrong**” but wrong enough that I have to spend 15 minutes understanding an error message and then tweaking a config file.
-![Command-line Screenshot](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto/c_scale,q_auto:best/v1534902854/post-images/command-line-screenshot.jpg){.add-caption}
+![Command-line Screenshot](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto/c_scale,q_auto:best/v1534902854/post-images/command-line-screenshot.jpg){: .add-caption}
 
 I get it - it’s one of the most powerful tools on my machine, I don’t disagree it just wasn’t for me on this one. Plus as I started to think about where I wanted to host this site, there is one really good answer that allowed me to get around this ground rule.
 
@@ -64,7 +64,7 @@ Using a front end CSS/JS framework can be incredibly powerful and I absolutely r
 3. I wanted to use little or NO JavaScript. Nothing against it, I just wanted to minimize it as dependency and I definitely didn’t want to use a JS library.
 
 In the end this was a fairly easy rule to follow. I spent more time than I would have liked coding HTML and CSS, but I used the [Lanyon](http://lanyon.getpoole.com/) theme as a starter, giving me a good base to work from.
-![Lanyon Screenshot](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto/c_scale,q_auto:best/v1534902272/post-images/lanyon-screenshot.jpg)
+![Lanyon Screenshot](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto/c_scale,q_auto:best/v1534902272/post-images/lanyon-screenshot.jpg){: .add-caption}
 
 ## Rule 6: It Must Be Fast As A Giselle
 This rule was probably the most challenging to consistently adhere to throughout the build. More than anything else, I wanted the site to deliver a great user experience - most importantly page speed. While working to make it really fast, initially it felt like I was making a lot of tradeoffs. In the end, most of these choices turned out to be short-term challenges as opposed to real long-term trade-offs. I found I had to be very disciplined with each line of code that was added to a page. 
