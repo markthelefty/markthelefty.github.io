@@ -10,7 +10,7 @@ readtime: 11
 ## I Hate Rules, So Why Set Product Ground Rules?
 To consistently make the right decisions during a project, I’ve found setting some core “product ground rules” help ensure the team doesn’t go off-track. Even when working as an individual on personal projects, I find it invaluable to have some core principles to keep from going down rabbit holes. It’s the best way to not flip-flop on already made decisions and help keep scope prioritized and focused on the MVP.
 
->The mission for this site is to keep things simple; while delivering a powerful, lightning fast site that’s focused on presenting readable content. 
+>The mission for this site was to keep things simple; while delivering a powerful, lightning fast site that’s focused on presenting readable content. 
 
 Below are the rules I set (and mostly stuck to) while making the decisions for this project. They serve as a simplified, but real-world example of the ground rules concept.  They weren’t hard and fast, but they did help stay on track and deliver the project quickly.
 
