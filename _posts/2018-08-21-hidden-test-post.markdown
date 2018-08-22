@@ -27,7 +27,7 @@ To meet this need I went with [Siteleaf](https://www.siteleaf.com/). It’s a re
 
 ## Rule 2: No Command-line
 Wait - a static site generator with no command-line, dude are you nuts? Nope (**well yeah a little**). It’s why I set the ground rules. See here’s the thing, I’ve never been a command-line commando. I can certainly use it, but I’ve never been really good at it. In the past when using it for GIT, a task runner, or installing NPM modules - something ALWAYS goes wrong. Not “**end of the world wrong**” but wrong enough that I have to spend 15 minutes understanding an error message and then tweaking a config file.
-[IMAGE COMMAND-LINE]
+![Command-line Screenshot](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto/c_scale,q_auto:good,w_845/v1534902854/post-images/command-line-screenshot.jpg)
 
 I get it - it’s one of the most powerful tools on my machine, I don’t disagree it just wasn’t for me on this one. Plus as I started to think about where I wanted to host this site, there is one really good answer that allowed me to get around this ground rule.
 
