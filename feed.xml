@@ -21,7 +21,7 @@ layout: nil
  <webfeeds:related layout="card" target="browser"/>
 
  {% for post in site.posts %}
- {% unless page.tags contains 'draft' %}
+ {% unless post.tags contains 'hidden' %}
  <entry>
    <title>{{ post.title }}</title>
    <link href="{{ site.url }}{{ post.url }}"/>

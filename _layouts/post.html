@@ -33,13 +33,15 @@ layout: default
     <aside class="related">
       <h2>Read Next:</h2>
         <ul class="related-posts">
-          {% for post in site.related_posts limit:4 %}
+          {% for post in site.related_posts limit:5 %}
+          {% unless post.tags contains 'hidden' %}
           <li>
             <a href="{{ post.url }}" class="card">
               <div class="thumb" style="background-image: url(https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto/c_scale,q_auto:good,w_600/{{ post.image }});"></div>
               <h4 class="post-title">{{ post.title }}</h4>
             </a>
           </li>
+          {% endunless %}
           {% endfor %}
         </ul>
     </aside>
