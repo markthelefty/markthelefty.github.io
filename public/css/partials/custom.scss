@@ -342,6 +342,14 @@ tbody tr:nth-child(odd) td, tbody tr:nth-child(odd) th {
 .post-image {
   margin: 0 0 3rem 0;
 }
+.photo-caption {
+  color: #999;
+  font-size: .5rem;
+  text-align:center;
+  @include mq('phone') {
+    font-size: .7rem;
+  }
+}
 
 /* ==== Related Post Cards ==== */
 .related {
