@@ -343,7 +343,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin aliquet sed magna
 ```
 
 ### Image With a Caption
-Image captions are set using JavaScript. Simply add the class `.add-caption` to the image markdown.
+Image captions are set using JavaScript. Simply add the class `.add-caption` to the image markdown. The alt text will become the caption.
 ![This is the image caption](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/c_scale,q_auto:good,w_845/v1534292126/post-images/sample-post-image.jpg){: .add-caption}
 ```markdown
 ![This is the image caption](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/c_scale,q_auto:good,w_845/v1534292126/post-images/sample-post-image.jpg){: .add-caption}
