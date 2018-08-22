@@ -37,11 +37,19 @@
   <p>&copy; {{ site.time | date: '%Y' }} All rights reserved. <span class="site-version">v{{ site.version }}</span></p>
 </div>
 </footer>
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-600295-11"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', 'UA-600295-11');
-  </script>
-  <link rel="stylesheet" href="/public/css/syntax.css">
+<script>
+  const images = Array.from( document.querySelectorAll('.add-caption') );
+  images.forEach(image => {
+    let alt = image.getAttribute('alt');
+    if( alt )
+    {image.insertAdjacentHTML('afterEnd', `<p class="photo-caption">${alt}</p>`);}
+  });
+</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600295-11"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-600295-11');
+</script>
+<link rel="stylesheet" href="/public/css/syntax.css">
