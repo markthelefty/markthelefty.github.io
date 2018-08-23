@@ -1,10 +1,10 @@
 ---
 title: Pattern Library
 date: 2018-07-30 14:00:00 -04:00
-description: Every publication, application and organization can benefit from having
+description: Every publication, application, and organization can benefit from having
   consistent branding and design patterns. It takes some time and effort to build
   a complete pattern library, but the effort is worth it. This is the Mark On Product
-  pattern library - hopefully it's useful.
+  pattern library - hopefully, it's useful.
 image: v1534295795/post-images/pattern-library-post-image.jpg
 readtime: 9
 ---
@@ -119,7 +119,7 @@ Subscript <sub>text</sub>
 ```
 <br/>
 
-## Code Stlyes
+## Code Styles
 {: .divider}
 Code markup is automatically applied by the Markdown parser as long as the correct code type is added. Styles are handled by [Pygments](http://jwarby.github.io/jekyll-pygments-themes/languages/javascript.html) via the `syntax.css` stylesheet.
 
@@ -264,7 +264,7 @@ Images can be sized using [this Sketch template](https://res.cloudinary.com/dbrk
 
 The width is set by adding a class that divides the total column width by 8. `.width-1`, `.width-2`, `.width-3`, `.width-4`, `.width-5`, `.width-6`, `.width-7`, `.width-8`. Images are 100% wide by default so adding a width class isn't necessary. On small (*mobile sized*) screens all images are 100% wide by default.
 
-All image filetypes are acceptable, but care should be taken to ensure the appropriate types are being used. `.jpg` should be used for photos and `.png` should be used for design assets (*like logos*). 
+All image file types are acceptable, but care should be taken to ensure the appropriate types are being used. `.jpg` should be used for photos and `.png` should be used for design assets (*like logos*). 
 
 ### 12.5% Width
 ![Image 12.5% Wide](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/c_scale,q_auto:good,w_845/v1534292126/post-images/sample-post-image.jpg){: .width-1}
@@ -360,16 +360,16 @@ Image captions are set using JavaScript. Simply add the class `.add-caption` to 
 ```markdown
 ![Alt Text](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto/c_scale,q_auto:good,w_845/[file_number]/[folder_name]/[file_name])
 ```
-The `w_845` parameter determines the image width. It can be set to any width, in general it should be set to match the width class.
+The `w_845` parameter determines the image width. It can be set to any width, in general, it should be set to match the width class.
 
 The `q_auto:good` parameter determines the image quality the available options are: `q_auto:best` , `:good`, `:eco`, or `:low`.
 <br/>
 
 ## Horizontal Rules and Dividers
 {: .divider}
-In most cases dividing lines will be added by default as part of the design. In scenarios where you'd like to add a divider manually, there's two ways to do it.
+In most cases dividing lines will be added by default as part of the design. In scenarios where you'd like to add a divider manually, there are two ways to do it.
 
-The first is to add class `.divider`. This should be used to add a divider to an HTML element.
+The first is to add the class `.divider`. This should be used to add a divider to an HTML element.
 
 ### h3 With a Divider
 {: .divider}
