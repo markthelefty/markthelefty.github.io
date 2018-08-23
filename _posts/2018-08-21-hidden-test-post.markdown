@@ -93,5 +93,6 @@ You will need to buy a domain name and maintain that every year. That will cost 
 | Cloudflare | CDN | Free plan meets my needs |
 | Cloudinary | Image Hosting | Free - up to 10GB |
 
+
 ## Conclusion
 In the end, these ground rules forced me to stay on track focus on the MVP scope. It also allowed me to make decisions and stick with them, instead of remaking the same decisions with different outcomes. The site is fast, open source, and free to operate. Most importantly it delivers a content first approach designed for easy reading. 
