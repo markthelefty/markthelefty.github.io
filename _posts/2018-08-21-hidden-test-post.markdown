@@ -3,7 +3,7 @@ title: Building Product With Ground Rules
 date: 2018-08-21 19:43:00 -04:00
 tags:
 - hidden
-image: v1534756711/page-images/it-was-time-to-write-post-image.jpg
+image: v1534988787/post-images/building-product-with-ground-rules-post-image.jpg
 readtime: 11
 ---
 
