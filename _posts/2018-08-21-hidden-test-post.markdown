@@ -12,7 +12,7 @@ To consistently make the right decisions during a project, I’ve found setting 
 
 >The mission for this site was to keep things simple; while delivering a robust, lightning fast site that’s focused on presenting readable content. 
 
-Below are the rules I set (and mostly stuck to) while making the decisions for this project. They serve as a simplified, but a real-world example of the ground rules concept.  They weren’t hard and fast, but they helped stay on track and deliver the project quickly.
+Below are the rules I set (and mostly stuck to) while making the decisions for this project. They serve as a simplified, but a real-world example of the ground rules concept.  They weren’t hard and fast, but they helped to stay on track and deliver the project quickly.
 
 ## Rule 1: No Software Dependencies 
 This one was by far the hardest to consistently follow. The first “no software” decision to be made was the platform for the backend. The obvious choice would have been to use [Wordpress](https://wordpress.org/download/). Nothing against Wordpress, I’ve used it in the past on many projects, and it was precisely the right tool for the job, just not for this site. I didn’t need a database or any dynamic content. If I did, I would have considered Wordpress. Therefore, keeping with the rest of my ground rules [all CMS systems](https://makeawebsitehub.com/choose-right-blogging-platform/) were out. I had a suspicion that a static site generator would be the best option for this project and that’s exactly where I landed.
