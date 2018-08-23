@@ -82,7 +82,7 @@ This final one is more a principle of convenience over anything else. While I LO
 
 This basic rule was not to use a bunch of services that all come with small monthly charges. Better yet, I challenged myself to see if I could pull this whole thing off with NO monthly fees. I figured if someone else who had zero dollars to spend wanted to do this could they get this thing off the ground with no recurring monthly costs? Yep, 100%. 
 
-You will need to buy a domain name and maintain that every year. That will cost about $12-$15/year depending on where you go. However, besides that I’m incurring no other monthly costs here:
+You will need to buy a domain name and maintain that every year. That will cost about $12-$15/year depending on where you go. However, besides that I’m incurring no other monthly costs. Here's a breakdown of all the services used:
 
 | Provider | Item | Cost Details |
 | --- | --- | --- |
