@@ -33,7 +33,6 @@ This is a coded example:
  <webfeeds:related layout="card" target="browser"/>
 
  {% for post in site.posts %}
- {% unless post.tags contains 'hidden' %}
  <entry>
    <title>{{ post.title }}</title>
    <link href="{{ site.url }}{{ post.url }}"/>
@@ -44,7 +43,6 @@ This is a coded example:
    {{ post.content | xml_escape }}
    </content>
  </entry>
- {% endunless %}
  {% endfor %}
 
 </feed>
