@@ -7,13 +7,10 @@ image: v1535213655/post-images/code-post-image.jpg
 readtime: 1
 ---
 
-## Sub-Headline
-
-
 
 ![Feedly iPhone Mockup](https://res.cloudinary.com/dbrkuvff5/image/upload/v1535218675/post-images/iphone-feedly-mockup.jpg){: .width-2 .float-left}
 
-
+## Sub-Headline
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur imperdiet lobortis viverra. Phasellus eu felis urna. Morbi molestie urna urna, vitae fermentum lacus euismod quis. Nunc rutrum posuere tristique. Vestibulum consequat ac nunc eget blandit. Curabitur ultricies diam vitae sem bibendum semper. Aenean finibus gravida lobortis.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur imperdiet lobortis viverra. Phasellus eu felis urna. Morbi molestie urna urna, vitae fermentum lacus euismod quis. Nunc rutrum posuere tristique. Vestibulum consequat ac nunc eget blandit. Curabitur ultricies diam vitae sem bibendum semper. Aenean finibus gravida lobortis.
