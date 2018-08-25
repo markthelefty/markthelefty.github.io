@@ -13,6 +13,7 @@ This is a coded example:
 
 
 ```xml
+{% raw %}
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
 
@@ -47,4 +48,6 @@ This is a coded example:
  {% endfor %}
 
 </feed>
+{% endraw %}
 ```
+
