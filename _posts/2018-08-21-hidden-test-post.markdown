@@ -1,5 +1,5 @@
 ---
-title: Test Post
+title: Coding An Atom Feed Optimized For Feedly
 date: 2018-08-21 19:43:00 -04:00
 tags:
 - hidden
