@@ -18,9 +18,9 @@ Creating an Atom feed seems like an easy enough task right? Well, in theory it's
 Before we jump into code, if you're trying to decide between Atom or RSS - either can work fine. I opted to go with Atom because the standard newer, more robust, and designed to do exactly what I'm looking for.
 
 Before we jump into the code here's a few helpful links:
-*[Linked Text](http://url.com)
-*[Linked Text](http://url.com)
-*[Linked Text](http://url.com)
+*[The Atom feed for this site](https://markonproduct.com/feed.xml)
+*[W3 Validator](https://validator.w3.org/feed/check.cgi?url=https%3A%2F%2Fmarkonproduct.com%2Ffeed.xml)
+*[Tips from Feedly on optimizing your feed](https://blog.feedly.com/10-ways-to-optimize-your-feed-for-feedly/)
 *[Linked Text](http://url.com)
 *[Linked Text](http://url.com)
 
