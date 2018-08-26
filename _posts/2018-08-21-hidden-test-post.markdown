@@ -89,7 +89,7 @@ The code below is from the feed I created for this site. However, if you're read
 {% endraw %}
 ```
 
-## Let's break down the pieces 3
+## The Webfeeds Items For Feedly
 ```xml
 {% raw %}
 <webfeeds:cover image="path/to/image.jpg" />
