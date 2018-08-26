@@ -67,7 +67,9 @@ The code below is from the feed I created for this site. However, if you're read
 {% endraw %}
 ```
 
-## Version, Encoding, And Webfeeds Namespace
+## Let's Break It Down:
+### Version, Encoding, And Webfeeds Namespace
+This fairly typical and there's nothing really tricky here. The only thing out of the ordinary is `xmlns:webfeeds="http://webfeeds.org/rss/1.0"` that's adding the webfeeds to the namespace of the document so when we use it later the file will expect it. This allows the file to have custom elements and still validate.
 ```xml
 {% raw %}
 <?xml version="1.0" encoding="utf-8"?>
@@ -75,7 +77,7 @@ The code below is from the feed I created for this site. However, if you're read
 {% endraw %}
 ```
 
-## Site And Author Info
+### Site And Author Info
 ```xml
 {% raw %}
 <title>Mark On Product</title>
@@ -89,7 +91,7 @@ The code below is from the feed I created for this site. However, if you're read
 {% endraw %}
 ```
 
-## The Webfeeds Items For Feedly
+### The Webfeeds Items For Feedly
 ```xml
 {% raw %}
 <webfeeds:cover image="path/to/image.jpg" />
@@ -100,7 +102,7 @@ The code below is from the feed I created for this site. However, if you're read
 {% endraw %}
 ```
 
-## The Post And It's Metadata
+### The Post And It's Metadata
 ```xml
 {% raw %}
   <entry>
@@ -114,20 +116,6 @@ The code below is from the feed I created for this site. However, if you're read
   </entry>
 {% endraw %}
 ```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ### If You're Using Jekyll, Here's The Example With Liquid Tags:
 ```xml
