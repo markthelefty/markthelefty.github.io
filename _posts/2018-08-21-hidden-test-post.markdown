@@ -116,20 +116,6 @@ The code below is from the feed I created for this site. However, if you're read
 {% endraw %}
 ```
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### If You're Using Jekyll, Here's The Example With Liquid Tags:
 ```xml
 {% raw %}
