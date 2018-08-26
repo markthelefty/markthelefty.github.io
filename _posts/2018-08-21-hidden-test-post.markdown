@@ -9,7 +9,6 @@ readtime: 1
 
 <br>
 <br>
-
 ![Feedly iPhone Mockup](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/c_scale,q_auto:best,w_250/v1535218675/post-images/iphone-feedly-mockup.jpg){: .width-2 .float-left}
 
 ## It's Not Hard, But There Are A Few Hoops To Jump Through
@@ -18,7 +17,6 @@ As I built this site, I wanted an Atom or RSS feed that was optimized for Feedly
 Creating a feed seems like an easy enough task right? Well, in theory it's simple, but like anything worth doing in practice it can be a challenge. Before we jump into code, if you're trying to decide between Atom or RSS - either can work fine. I opted to go with Atom because the standard newer, more robust, and designed to do exactly what I'm looking for.
 
 <br>
-
 **Before we get into the code, here are a few tips:**
 ### 1. Name Your File Correctly
 You can name the XML file whatever you like. However, I'd suggest sticking with either rss.xml, atom.xml, or feed.xml. This is because most aggregators are set to look for your feed automatically by searching for an XML file matching these terms. [The Atom feed for this site.](https://markonproduct.com/feed.xml)
@@ -32,11 +30,8 @@ Feedly offers several tips in this post on their blog. I used the most critical 
 ### 4. Grab My Feed File From GitHub
 The code below is from the feed I created for this site. However, if you're reading this months or years after I posted that code, something might have changed. For the latest version of the file [grap it off GitHub.](https://github.com/markthelefty/markthelefty.github.io/blob/master/feed.xml)
 
-
 <hr>
-
 ### If You're In A Hurry This Is The Complete Feed XML:
-
 ```xml
 {% raw %}
 <?xml version="1.0" encoding="utf-8"?>
@@ -72,7 +67,7 @@ The code below is from the feed I created for this site. However, if you're read
 {% endraw %}
 ```
 
-## Let's break down the pieces 1
+## Version, Encoding, And Webfeeds Namespace
 ```xml
 {% raw %}
 <?xml version="1.0" encoding="utf-8"?>
@@ -80,7 +75,7 @@ The code below is from the feed I created for this site. However, if you're read
 {% endraw %}
 ```
 
-## Let's break down the pieces 2
+## Site And Author Info
 ```xml
 {% raw %}
 <title>Mark On Product</title>
@@ -94,7 +89,7 @@ The code below is from the feed I created for this site. However, if you're read
 {% endraw %}
 ```
 
-## Let's break down the pieces 3
+## The Webfeeds Items For Feedly
 ```xml
 {% raw %}
 <webfeeds:cover image="path/to/image.jpg" />
@@ -105,7 +100,7 @@ The code below is from the feed I created for this site. However, if you're read
 {% endraw %}
 ```
 
-## Let's break down the pieces 4
+## The Post And It's Metadata
 ```xml
 {% raw %}
   <entry>
