@@ -17,7 +17,7 @@ As I built this site, I wanted an Atom or RSS feed that was optimized for Feedly
 Creating a feed seems like an easy enough task right? Well, in theory it's simple, but like anything worth doing in practice it can be a challenge. Before we jump into code, if you're trying to decide between Atom or RSS - either can work fine. I opted to go with Atom because the standard newer, more robust, and designed to do exactly what I'm looking for.
 
 <br>
-**Before we get into the code, here are a few tips:**
+**Before you begin, here are a few tips:**
 ### 1. Name Your File Correctly
 You can name the XML file whatever you like. However, I'd suggest sticking with either rss.xml, atom.xml, or feed.xml. This is because most aggregators are set to look for your feed automatically by searching for an XML file matching these terms. [The Atom feed for this site.](https://markonproduct.com/feed.xml)
 
@@ -93,11 +93,11 @@ All the items you'd expect to find. Just be sure your date is displayed in XML d
 ```
 
 ### The Webfeeds Items For Feedly
-This is where the the Feedly optimizations come in. The 
+This is where the the Feedly optimizations come in. I have not had success with the cover photo or finding any reliable information on it's dimensions or where it is displayed. I have had success with the 96px icon and the 30px logo. The accent color is a Hex color to set the color of of hyperlinks in your posts. The related layout sets the layout style for related posts. 
 ```xml
 {% raw %}
 <webfeeds:cover image="path/to/image.jpg" />
-<webfeeds:icon>path/to/image.png</webfeeds:icon>
+<webfeeds:icon>path/to/icon-96x96.png</webfeeds:icon>
 <webfeeds:logo>path/to/logo-30px-height.svg</webfeeds:logo>
 <webfeeds:accentColor>67a43e</webfeeds:accentColor>
 <webfeeds:related layout="card" target="browser"/>
