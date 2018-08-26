@@ -75,7 +75,7 @@ The code below is from the feed I created for this site. However, if you're read
 {% endraw %}
 ```
 
-## Let's break down the pieces 2
+## Site And Author Info
 ```xml
 {% raw %}
 <title>Mark On Product</title>
