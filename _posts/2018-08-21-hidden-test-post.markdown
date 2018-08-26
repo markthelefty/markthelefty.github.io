@@ -27,7 +27,7 @@ You can name the XML file whatever you like. However, I'd suggest sticking with 
 Your feed should be valid. In other words, use a tool to check the syntax. It's really easy to make a small mistake that breaks the entire feed. I found it useful to help troubleshoot small mistakes. [W3 Validator.](https://validator.w3.org/feed/check.cgi?url=https%3A%2F%2Fmarkonproduct.com%2Ffeed.xml)
 
 ### 3. Check Out What Feedly Has To Say
-Feedly offers several tips in this post on their blog. I used the most critical ones for this feed. There are a few other things they suggest that you might find useful. [Tips from Feedly on optimizing your feed.](https://blog.feedly.com/10-ways-to-optimize-your-feed-for-feedly/)
+Feedly offers several tips in this post on their blog. I used the most critical ones for this feed. There are a few other tips they suggest that you might find useful. [Tips from Feedly on optimizing your feed.](https://blog.feedly.com/10-ways-to-optimize-your-feed-for-feedly/)
 
 ### 4. Grab My Feed File From GitHub
 The code below is from the feed I created for this site. However, if you're reading this months or years after I posted that code, something might have changed. For the latest version of the file [grap it off GitHub.](https://github.com/markthelefty/markthelefty.github.io/blob/master/feed.xml)
@@ -71,6 +71,162 @@ The code below is from the feed I created for this site. However, if you're read
 </feed>
 {% endraw %}
 ```
+
+## Let's break down the pieces 1
+```xml
+{% raw %}
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+
+<title>Mark On Product</title>
+<link href="https://markonproduct.com/feed.xml" rel="self"/>
+<link href="https://markonproduct.com/"/>
+<updated>2018-08-26T15:56:49-04:00</updated>
+<id>https://markonproduct.com/</id>
+<author>
+  <name>Mark Mitchell</name>
+</author>
+
+<webfeeds:cover image="path/to/image.jpg" />
+<webfeeds:icon>path/to/image.png</webfeeds:icon>
+<webfeeds:logo>path/to/image.svg</webfeeds:logo>
+<webfeeds:accentColor>67a43e</webfeeds:accentColor>
+<webfeeds:related layout="card" target="browser"/>
+
+
+  <entry>
+   <title>Sample Post Tile</title>
+   <link href="https://markonproduct.com/sample-post-title"/>
+   <updated>2018-08-23T06:16:00-04:00</updated>
+   <id>https://markonproduct.com/sample-post-title</id>
+   <content type="html">
+     <!--Post content goes here, be sure to XML escape the content-->
+   </content>
+  </entry>
+
+</feed>
+{% endraw %}
+```
+
+## Let's break down the pieces 2
+```xml
+{% raw %}
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+
+<title>Mark On Product</title>
+<link href="https://markonproduct.com/feed.xml" rel="self"/>
+<link href="https://markonproduct.com/"/>
+<updated>2018-08-26T15:56:49-04:00</updated>
+<id>https://markonproduct.com/</id>
+<author>
+  <name>Mark Mitchell</name>
+</author>
+
+<webfeeds:cover image="path/to/image.jpg" />
+<webfeeds:icon>path/to/image.png</webfeeds:icon>
+<webfeeds:logo>path/to/image.svg</webfeeds:logo>
+<webfeeds:accentColor>67a43e</webfeeds:accentColor>
+<webfeeds:related layout="card" target="browser"/>
+
+
+  <entry>
+   <title>Sample Post Tile</title>
+   <link href="https://markonproduct.com/sample-post-title"/>
+   <updated>2018-08-23T06:16:00-04:00</updated>
+   <id>https://markonproduct.com/sample-post-title</id>
+   <content type="html">
+     <!--Post content goes here, be sure to XML escape the content-->
+   </content>
+  </entry>
+
+</feed>
+{% endraw %}
+```
+
+## Let's break down the pieces 3
+```xml
+{% raw %}
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+
+<title>Mark On Product</title>
+<link href="https://markonproduct.com/feed.xml" rel="self"/>
+<link href="https://markonproduct.com/"/>
+<updated>2018-08-26T15:56:49-04:00</updated>
+<id>https://markonproduct.com/</id>
+<author>
+  <name>Mark Mitchell</name>
+</author>
+
+<webfeeds:cover image="path/to/image.jpg" />
+<webfeeds:icon>path/to/image.png</webfeeds:icon>
+<webfeeds:logo>path/to/image.svg</webfeeds:logo>
+<webfeeds:accentColor>67a43e</webfeeds:accentColor>
+<webfeeds:related layout="card" target="browser"/>
+
+
+  <entry>
+   <title>Sample Post Tile</title>
+   <link href="https://markonproduct.com/sample-post-title"/>
+   <updated>2018-08-23T06:16:00-04:00</updated>
+   <id>https://markonproduct.com/sample-post-title</id>
+   <content type="html">
+     <!--Post content goes here, be sure to XML escape the content-->
+   </content>
+  </entry>
+
+</feed>
+{% endraw %}
+```
+
+## Let's break down the pieces 4
+```xml
+{% raw %}
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+
+<title>Mark On Product</title>
+<link href="https://markonproduct.com/feed.xml" rel="self"/>
+<link href="https://markonproduct.com/"/>
+<updated>2018-08-26T15:56:49-04:00</updated>
+<id>https://markonproduct.com/</id>
+<author>
+  <name>Mark Mitchell</name>
+</author>
+
+<webfeeds:cover image="path/to/image.jpg" />
+<webfeeds:icon>path/to/image.png</webfeeds:icon>
+<webfeeds:logo>path/to/image.svg</webfeeds:logo>
+<webfeeds:accentColor>67a43e</webfeeds:accentColor>
+<webfeeds:related layout="card" target="browser"/>
+
+
+  <entry>
+   <title>Sample Post Tile</title>
+   <link href="https://markonproduct.com/sample-post-title"/>
+   <updated>2018-08-23T06:16:00-04:00</updated>
+   <id>https://markonproduct.com/sample-post-title</id>
+   <content type="html">
+     <!--Post content goes here, be sure to XML escape the content-->
+   </content>
+  </entry>
+
+</feed>
+{% endraw %}
+```
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
