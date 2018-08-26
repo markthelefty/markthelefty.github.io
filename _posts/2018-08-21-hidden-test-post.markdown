@@ -121,7 +121,7 @@ This is the meat of the post information. It's farily self-explanitory, the only
 ```
 
 ### If You're Using Jekyll, Here's The Example With Liquid Tags:
-Mark On PRoduct is built using Jekyll, below is the 
+Mark On Product is built using Jekyll, below is the exact template I use for the feed. 
 ```xml
 {% raw %}
 
