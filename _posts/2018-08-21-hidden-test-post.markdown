@@ -48,7 +48,7 @@ The code below is from the feed I created for this site. However, if you're read
 
 <webfeeds:cover image="path/to/image.jpg" />
 <webfeeds:icon>path/to/image.png</webfeeds:icon>
-<webfeeds:logo>path/to/image.svg</webfeeds:logo>
+<webfeeds:logo>path/to/logo-30px-height.svg</webfeeds:logo>
 <webfeeds:accentColor>67a43e</webfeeds:accentColor>
 <webfeeds:related layout="card" target="browser"/>
 
@@ -78,6 +78,7 @@ This fairly typical and there's nothing really tricky here. The only thing out o
 ```
 
 ### Site And Author Info
+All the items you'd expect to find. Just be sure your date is displayed in XML date format.
 ```xml
 {% raw %}
 <title>Mark On Product</title>
@@ -92,11 +93,12 @@ This fairly typical and there's nothing really tricky here. The only thing out o
 ```
 
 ### The Webfeeds Items For Feedly
+This is where the the Feedly optimizations come in. The 
 ```xml
 {% raw %}
 <webfeeds:cover image="path/to/image.jpg" />
 <webfeeds:icon>path/to/image.png</webfeeds:icon>
-<webfeeds:logo>path/to/image.svg</webfeeds:logo>
+<webfeeds:logo>path/to/logo-30px-height.svg</webfeeds:logo>
 <webfeeds:accentColor>67a43e</webfeeds:accentColor>
 <webfeeds:related layout="card" target="browser"/>
 {% endraw %}
@@ -134,7 +136,7 @@ This fairly typical and there's nothing really tricky here. The only thing out o
 
 <webfeeds:cover image="path/to/image.jpg" />
 <webfeeds:icon>path/to/image.png</webfeeds:icon>
-<webfeeds:logo>path/to/image.svg</webfeeds:logo>
+<webfeeds:logo>path/to/logo-30px-height.svg</webfeeds:logo>
 <webfeeds:accentColor>67a43e</webfeeds:accentColor>
 <webfeeds:related layout="card" target="browser"/>
 
