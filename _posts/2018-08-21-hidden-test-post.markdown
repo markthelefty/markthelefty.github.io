@@ -61,8 +61,8 @@ The code below is from the feed I created for this site. However, if you're read
   <entry>
    <title>Sample Post Tile</title>
    <link href="https://markonproduct.com/sample-post-title"/>
-   <updated>{{ post.date | date_to_xmlschema }}</updated>
-   <id>{{ site.url }}{{ post.id }}</id>
+   <updated>2018-08-23T06:16:00-04:00</updated>
+   <id>https://markonproduct.com/sample-post-title</id>
    <content type="html">
    {{ post.content | xml_escape }}
    </content>
