@@ -13,9 +13,9 @@ readtime: 1
 ![Feedly iPhone Mockup](https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto,q_auto/c_scale,q_auto:best,w_250/v1535218675/post-images/iphone-feedly-mockup.jpg){: .width-2 .float-left}
 
 ## An Atom Feed Optimized For Feedly That Also Validates
-Creating an Atom feed seems like an easy enough task right? Well, in theory it's simple, but like anything worth doing in practice it can be a challenge. 
+As I built this site I wanted an Atom/RSS feed that was optimized for Feedly. Feedly is an incredibly popular content aggregator and it made sense to optimize my feed for it.
 
-Before we jump into code, if you're trying to decide between Atom or RSS - either can work fine. I opted to go with Atom because the standard newer, more robust, and designed to do exactly what I'm looking for.
+Creating a feed seems like an easy enough task right? Well, in theory it's simple, but like anything worth doing in practice it can be a challenge. Before we jump into code, if you're trying to decide between Atom or RSS - either can work fine. I opted to go with Atom because the standard newer, more robust, and designed to do exactly what I'm looking for.
 
 Before we jump into the code here's a few helpful links:
 *[The Atom feed for this site](https://markonproduct.com/feed.xml)
