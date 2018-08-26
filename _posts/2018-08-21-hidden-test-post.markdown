@@ -78,6 +78,7 @@ This fairly typical and there's nothing really tricky here. The only thing out o
 ```
 
 ### Site And Author Info
+All the items you'd expect to find. Just be sure your date is displayed in XML date format.
 ```xml
 {% raw %}
 <title>Mark On Product</title>
