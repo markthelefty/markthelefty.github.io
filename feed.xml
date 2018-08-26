@@ -16,7 +16,7 @@ layout: nil
 
  <webfeeds:cover image="https://res.cloudinary.com/dbrkuvff5/image/upload/v1534161359/post-images/mark-on-product.jpg" />
  <webfeeds:icon>https://res.cloudinary.com/dbrkuvff5/image/upload/v1534497630/assets/favicon-96x96.png</webfeeds:icon>
- <webfeeds:logo>https://res.cloudinary.com/dbrkuvff5/image/upload/v1534707051/assets/logo-reversed.svg</webfeeds:logo>
+ <webfeeds:logo>https://res.cloudinary.com/dbrkuvff5/image/upload/v1535318149/assets/logo-30px-height.svg</webfeeds:logo>
  <webfeeds:accentColor>67a43e</webfeeds:accentColor>
  <webfeeds:related layout="card" target="browser"/>
 
