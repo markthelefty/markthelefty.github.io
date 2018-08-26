@@ -93,7 +93,7 @@ All the items you'd expect to find. Just be sure your date is displayed in XML d
 ```
 
 ### The Webfeeds Items For Feedly
-This is where the the Feedly optimizations come in. I have not had success with the cover photo or finding any reliable information on it's dimensions or where it is displayed. I have had success with the 96px icon and the 30px logo. The accent color is a Hex color to set the color of of hyperlinks in your posts. The related layout sets the layout style for related posts. 
+This is where the the Feedly optimizations come in. I have'nt had success with the cover photo or finding any reliable information on it's dimensions or where it is displayed. However, I've had success with the 96px icon and the 30px logo. The accent color is a Hex color to set the color of of hyperlinks in your posts. The related layout sets the layout style for related posts. 
 ```xml
 {% raw %}
 <webfeeds:cover image="path/to/image.jpg" />
