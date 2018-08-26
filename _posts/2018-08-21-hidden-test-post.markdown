@@ -15,7 +15,14 @@ readtime: 1
 ## An Atom Feed Optimized For Feedly That Also Validates
 Creating an Atom feed seems like an easy enough task right? Well, in theory it's simple, but like anything worth doing in practice it can be a challenge. 
 
+Before we jump into code, if you're trying to decide between Atom or RSS - either can work fine. I opted to go with Atom because the standard newer, more robust, and designed to do exactly what I'm looking for.
 
+Before we jump into the code here's a few helpful links:
+*[Linked Text](http://url.com)
+*[Linked Text](http://url.com)
+*[Linked Text](http://url.com)
+*[Linked Text](http://url.com)
+*[Linked Text](http://url.com)
 
 <hr>
 
