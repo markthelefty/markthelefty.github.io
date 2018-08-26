@@ -64,7 +64,7 @@ The code below is from the feed I created for this site. However, if you're read
    <updated>2018-08-23T06:16:00-04:00</updated>
    <id>https://markonproduct.com/sample-post-title</id>
    <content type="html">
-   {{ post.content | xml_escape }}
+     <!--Post content goes here, be sure yo XML escape the content-->
    </content>
   </entry>
 
