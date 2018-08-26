@@ -105,6 +105,7 @@ This is where the the Feedly optimizations come in. I have'nt had success with t
 ```
 
 ### The Post And It's Metadata
+This is the meat of the post information. It's farily self-explanitory, the only item I'd call out is that the post content itself nneds to XML escaped. 
 ```xml
 {% raw %}
   <entry>
@@ -120,8 +121,14 @@ This is where the the Feedly optimizations come in. I have'nt had success with t
 ```
 
 ### If You're Using Jekyll, Here's The Example With Liquid Tags:
+Mark On PRoduct is built using Jekyll, below is the 
 ```xml
 {% raw %}
+
+---
+layout: nil
+---
+
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
 
