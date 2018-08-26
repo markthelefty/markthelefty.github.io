@@ -97,7 +97,7 @@ This is where the the Feedly optimizations come in. The cover image
 ```xml
 {% raw %}
 <webfeeds:cover image="path/to/image.jpg" />
-<webfeeds:icon>path/to/image.png</webfeeds:icon>
+<webfeeds:icon>path/to/icon-96x96.png</webfeeds:icon>
 <webfeeds:logo>path/to/logo-30px-height.svg</webfeeds:logo>
 <webfeeds:accentColor>67a43e</webfeeds:accentColor>
 <webfeeds:related layout="card" target="browser"/>
