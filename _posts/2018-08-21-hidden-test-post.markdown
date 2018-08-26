@@ -42,13 +42,13 @@ The code below is from the feed I created for this site. However, if you're read
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
 
-<title>{{ site.title }}</title>
-<link href="{{ site.url }}/feed.xml" rel="self"/>
-<link href="{{ site.url }}/"/>
-<updated>{{ site.time | date_to_xmlschema }}</updated>
-<id>{{ site.url }}/</id>
+<title>Mark On Product</title>
+<link href="https://markonproduct.com/feed.xml" rel="self"/>
+<link href="https://markonproduct.com/"/>
+<updated>2018-08-26T15:56:49-04:00</updated>
+<id>https://markonproduct.com/</id>
 <author>
-  <name>{{ site.author.name }}</name>
+  <name>Mark Mitchell</name>
 </author>
 
 <webfeeds:cover image="path/to/image.jpg" />
@@ -57,17 +57,17 @@ The code below is from the feed I created for this site. However, if you're read
 <webfeeds:accentColor>67a43e</webfeeds:accentColor>
 <webfeeds:related layout="card" target="browser"/>
 
-{% for post in site.posts %}
+
   <entry>
-   <title>{{ post.title }}</title>
-   <link href="{{ site.url }}{{ post.url }}"/>
+   <title>Sample Post Tile</title>
+   <link href="https://markonproduct.com/sample-post-title"/>
    <updated>{{ post.date | date_to_xmlschema }}</updated>
    <id>{{ site.url }}{{ post.id }}</id>
    <content type="html">
    {{ post.content | xml_escape }}
    </content>
   </entry>
- {% endfor %}
+
 
 </feed>
 {% endraw %}
