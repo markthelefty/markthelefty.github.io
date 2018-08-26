@@ -72,6 +72,162 @@ The code below is from the feed I created for this site. However, if you're read
 {% endraw %}
 ```
 
+## Let's break down the pieces 1
+```xml
+{% raw %}
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+
+<title>Mark On Product</title>
+<link href="https://markonproduct.com/feed.xml" rel="self"/>
+<link href="https://markonproduct.com/"/>
+<updated>2018-08-26T15:56:49-04:00</updated>
+<id>https://markonproduct.com/</id>
+<author>
+  <name>Mark Mitchell</name>
+</author>
+
+<webfeeds:cover image="path/to/image.jpg" />
+<webfeeds:icon>path/to/image.png</webfeeds:icon>
+<webfeeds:logo>path/to/image.svg</webfeeds:logo>
+<webfeeds:accentColor>67a43e</webfeeds:accentColor>
+<webfeeds:related layout="card" target="browser"/>
+
+
+  <entry>
+   <title>Sample Post Tile</title>
+   <link href="https://markonproduct.com/sample-post-title"/>
+   <updated>2018-08-23T06:16:00-04:00</updated>
+   <id>https://markonproduct.com/sample-post-title</id>
+   <content type="html">
+     <!--Post content goes here, be sure to XML escape the content-->
+   </content>
+  </entry>
+
+</feed>
+{% endraw %}
+```
+
+## Let's break down the pieces 2
+```xml
+{% raw %}
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+
+<title>Mark On Product</title>
+<link href="https://markonproduct.com/feed.xml" rel="self"/>
+<link href="https://markonproduct.com/"/>
+<updated>2018-08-26T15:56:49-04:00</updated>
+<id>https://markonproduct.com/</id>
+<author>
+  <name>Mark Mitchell</name>
+</author>
+
+<webfeeds:cover image="path/to/image.jpg" />
+<webfeeds:icon>path/to/image.png</webfeeds:icon>
+<webfeeds:logo>path/to/image.svg</webfeeds:logo>
+<webfeeds:accentColor>67a43e</webfeeds:accentColor>
+<webfeeds:related layout="card" target="browser"/>
+
+
+  <entry>
+   <title>Sample Post Tile</title>
+   <link href="https://markonproduct.com/sample-post-title"/>
+   <updated>2018-08-23T06:16:00-04:00</updated>
+   <id>https://markonproduct.com/sample-post-title</id>
+   <content type="html">
+     <!--Post content goes here, be sure to XML escape the content-->
+   </content>
+  </entry>
+
+</feed>
+{% endraw %}
+```
+
+## Let's break down the pieces 3
+```xml
+{% raw %}
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+
+<title>Mark On Product</title>
+<link href="https://markonproduct.com/feed.xml" rel="self"/>
+<link href="https://markonproduct.com/"/>
+<updated>2018-08-26T15:56:49-04:00</updated>
+<id>https://markonproduct.com/</id>
+<author>
+  <name>Mark Mitchell</name>
+</author>
+
+<webfeeds:cover image="path/to/image.jpg" />
+<webfeeds:icon>path/to/image.png</webfeeds:icon>
+<webfeeds:logo>path/to/image.svg</webfeeds:logo>
+<webfeeds:accentColor>67a43e</webfeeds:accentColor>
+<webfeeds:related layout="card" target="browser"/>
+
+
+  <entry>
+   <title>Sample Post Tile</title>
+   <link href="https://markonproduct.com/sample-post-title"/>
+   <updated>2018-08-23T06:16:00-04:00</updated>
+   <id>https://markonproduct.com/sample-post-title</id>
+   <content type="html">
+     <!--Post content goes here, be sure to XML escape the content-->
+   </content>
+  </entry>
+
+</feed>
+{% endraw %}
+```
+
+## Let's break down the pieces 4
+```xml
+{% raw %}
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+
+<title>Mark On Product</title>
+<link href="https://markonproduct.com/feed.xml" rel="self"/>
+<link href="https://markonproduct.com/"/>
+<updated>2018-08-26T15:56:49-04:00</updated>
+<id>https://markonproduct.com/</id>
+<author>
+  <name>Mark Mitchell</name>
+</author>
+
+<webfeeds:cover image="path/to/image.jpg" />
+<webfeeds:icon>path/to/image.png</webfeeds:icon>
+<webfeeds:logo>path/to/image.svg</webfeeds:logo>
+<webfeeds:accentColor>67a43e</webfeeds:accentColor>
+<webfeeds:related layout="card" target="browser"/>
+
+
+  <entry>
+   <title>Sample Post Tile</title>
+   <link href="https://markonproduct.com/sample-post-title"/>
+   <updated>2018-08-23T06:16:00-04:00</updated>
+   <id>https://markonproduct.com/sample-post-title</id>
+   <content type="html">
+     <!--Post content goes here, be sure to XML escape the content-->
+   </content>
+  </entry>
+
+</feed>
+{% endraw %}
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ### If You're Using Jekyll, Here's The Example With Liquid Tags:
