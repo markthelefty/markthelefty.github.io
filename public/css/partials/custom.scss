@@ -190,6 +190,9 @@ pre code {
 }
 .highlight pre {
   margin-bottom: 0;
+  word-wrap: normal;
+  overflow: auto;
+  word-break: normal;
 }
 img {
   display: block;
