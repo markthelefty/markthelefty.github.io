@@ -67,7 +67,7 @@ The code below is from the feed I created for this site. However, if you're read
 {% endraw %}
 ```
 
-## Let's Break The Feed File From Above Into It's Pieces:
+## Let's Break It Down:
 ### Version, Encoding, And Webfeeds Namespace
 This fairly typical and there's nothing really tricky here. The only thing out of the ordinary is `xmlns:webfeeds="http://webfeeds.org/rss/1.0"` that's adding the webfeeds to the namespace of the document so when we use it later the file will expect it. This allows the file to have custom elements and still validate.
 ```xml
