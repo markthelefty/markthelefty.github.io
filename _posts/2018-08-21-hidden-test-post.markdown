@@ -23,8 +23,9 @@ You can generally name the XML file for your feed whatever you like. However, I'
 ### Validate Your XML
 You feed should be valid. In other words, use a tool to check the syntax. It's really easy to make a small mistake that breaks the entire feed. I found it useful to help troubleshoot small mistakes. [W3 Validator](https://validator.w3.org/feed/check.cgi?url=https%3A%2F%2Fmarkonproduct.com%2Ffeed.xml)
 
-### 
+### Also Check Out What Feedly Has To Say
 Feedly offers several tips on this post on their blog. I used the most critical ones for this feed. There are a few other things they suggest that you might find useful. [Tips from Feedly on optimizing your feed](https://blog.feedly.com/10-ways-to-optimize-your-feed-for-feedly/)
+
 
 The code below is from the feed I created for this site. However, if you're reading this months or years after I posted that code, something might have changed. For the latest version of the file [grap it off GitHub](https://github.com/markthelefty/markthelefty.github.io/blob/master/feed.xml)
 
