@@ -19,8 +19,11 @@ Creating a feed seems like an easy enough task right? Well, in theory it's simpl
 
 Before we jump into the code here's a few helpful links:
 *[The Atom feed for this site](https://markonproduct.com/feed.xml)
+
 *[W3 Validator](https://validator.w3.org/feed/check.cgi?url=https%3A%2F%2Fmarkonproduct.com%2Ffeed.xml)
+
 *[Tips from Feedly on optimizing your feed](https://blog.feedly.com/10-ways-to-optimize-your-feed-for-feedly/)
+
 *[The feed file for this site on GitHub](https://github.com/markthelefty/markthelefty.github.io/blob/master/feed.xml)
 
 
