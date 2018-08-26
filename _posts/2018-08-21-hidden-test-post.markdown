@@ -19,7 +19,7 @@ Before we jump into code, if you're trying to decide between Atom or RSS - eithe
 
 Before we jump into the code here's a few helpful links:
 *[The Atom feed for this site](https://markonproduct.com/feed.xml)
-*[Linked Text](http://url.com)
+*[W3 Validator](https://validator.w3.org/feed/check.cgi?url=https%3A%2F%2Fmarkonproduct.com%2Ffeed.xml)
 *[Linked Text](http://url.com)
 *[Linked Text](http://url.com)
 *[Linked Text](http://url.com)
