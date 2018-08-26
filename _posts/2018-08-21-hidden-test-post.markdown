@@ -35,7 +35,7 @@ The code below is from the feed I created for this site. However, if you're read
 
 <hr>
 
-### This is a coded example:
+### If You're In A Hurry This Is The Complete Feed XML:
 
 ```xml
 {% raw %}
