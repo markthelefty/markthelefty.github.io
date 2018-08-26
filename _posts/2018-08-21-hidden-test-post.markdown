@@ -19,7 +19,6 @@ Creating a feed seems like an easy enough task right? Well, in theory it's simpl
 
 <br>
 <br>
-<br>
 ### 1. Name Your File Correctly
 You can generally name the XML file for your feed whatever you like. However, I'd suggest sticking with either rss.xml, atom.xml, or feed.xml. The reason for this is most aggregators are set to look for your feed automatically by searching for an XML file matching these terms. [The Atom feed for this site.](https://markonproduct.com/feed.xml)
 
