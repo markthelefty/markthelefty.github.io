@@ -67,7 +67,8 @@ The code below is from the feed I created for this site. However, if you're read
 {% endraw %}
 ```
 
-## Version, Encoding, And Webfeeds Namespace
+## Let's Break The Feed File From Above Into It's Pieces:
+### Version, Encoding, And Webfeeds Namespace
 ```xml
 {% raw %}
 <?xml version="1.0" encoding="utf-8"?>
