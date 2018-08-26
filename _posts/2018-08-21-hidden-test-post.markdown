@@ -76,7 +76,7 @@ The code below is from the feed I created for this site. However, if you're read
 {% endraw %}
 ```
 
-## Site And Author Info
+### Site And Author Info
 ```xml
 {% raw %}
 <title>Mark On Product</title>
@@ -90,7 +90,7 @@ The code below is from the feed I created for this site. However, if you're read
 {% endraw %}
 ```
 
-## The Webfeeds Items For Feedly
+### The Webfeeds Items For Feedly
 ```xml
 {% raw %}
 <webfeeds:cover image="path/to/image.jpg" />
@@ -101,7 +101,7 @@ The code below is from the feed I created for this site. However, if you're read
 {% endraw %}
 ```
 
-## The Post And It's Metadata
+### The Post And It's Metadata
 ```xml
 {% raw %}
   <entry>
