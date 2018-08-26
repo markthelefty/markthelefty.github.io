@@ -17,6 +17,8 @@ As I built this site I wanted an Atom or RSS feed that was optimized for Feedly.
 
 Creating a feed seems like an easy enough task right? Well, in theory it's simple, but like anything worth doing in practice it can be a challenge. Before we jump into code, if you're trying to decide between Atom or RSS - either can work fine. I opted to go with Atom because the standard newer, more robust, and designed to do exactly what I'm looking for.
 
+Before we get into the code, here are a few tips:
+
 
 <br>
 ### 1. Name Your File Correctly
