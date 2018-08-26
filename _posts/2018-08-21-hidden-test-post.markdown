@@ -51,7 +51,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur imperdiet lob
    <updated>{{ post.date | date_to_xmlschema }}</updated>
    <id>{{ site.url }}{{ post.id }}</id>
    <content type="html">
-   	&lt;img class=&quot;post-image&quot; alt=&quot;Article Image&quot; src=&quot;https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto/c_scale,q_auto:good,w_845/{{ post.image | xml_escape }}&quot;&gt;
    {{ post.content | xml_escape }}
    </content>
   </entry>
