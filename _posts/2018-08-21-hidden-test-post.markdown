@@ -21,7 +21,7 @@ Creating a feed seems like an easy enough task right? Well, in theory it's simpl
 
 **Before we get into the code, here are a few tips:**
 ### 1. Name Your File Correctly
-You can generally name the XML file for your feed whatever you like. However, I'd suggest sticking with either rss.xml, atom.xml, or feed.xml. The reason for this is most aggregators are set to look for your feed automatically by searching for an XML file matching these terms. [The Atom feed for this site.](https://markonproduct.com/feed.xml)
+You can name the XML file whatever you like. However, I'd suggest sticking with either rss.xml, atom.xml, or feed.xml. The reason for this is most aggregators are set to look for your feed automatically by searching for an XML file matching these terms. [The Atom feed for this site.](https://markonproduct.com/feed.xml)
 
 ### 2. Validate Your XML
 You feed should be valid. In other words, use a tool to check the syntax. It's really easy to make a small mistake that breaks the entire feed. I found it useful to help troubleshoot small mistakes. [W3 Validator.](https://validator.w3.org/feed/check.cgi?url=https%3A%2F%2Fmarkonproduct.com%2Ffeed.xml)
