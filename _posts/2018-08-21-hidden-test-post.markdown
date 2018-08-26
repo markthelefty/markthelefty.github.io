@@ -38,9 +38,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur imperdiet lob
   <name>{{ site.author.name }}</name>
 </author>
 
-<webfeeds:cover image="https://res.cloudinary.com/dbrkuvff5/image/upload/v1534161359/post-images/mark-on-product.jpg" />
-<webfeeds:icon>https://res.cloudinary.com/dbrkuvff5/image/upload/v1534497630/assets/favicon-96x96.png</webfeeds:icon>
-<webfeeds:logo>https://res.cloudinary.com/dbrkuvff5/image/upload/v1534707051/assets/logo-reversed.svg</webfeeds:logo>
+<webfeeds:cover image="path/to/image.jpg" />
+<webfeeds:icon>path/to/image.png</webfeeds:icon>
+<webfeeds:logo>path/to/image.svg</webfeeds:logo>
 <webfeeds:accentColor>67a43e</webfeeds:accentColor>
 <webfeeds:related layout="card" target="browser"/>
 
@@ -51,7 +51,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur imperdiet lob
    <updated>{{ post.date | date_to_xmlschema }}</updated>
    <id>{{ site.url }}{{ post.id }}</id>
    <content type="html">
-   	&lt;img class=&quot;post-image&quot; alt=&quot;Article Image&quot; src=&quot;https://res.cloudinary.com/dbrkuvff5/image/upload/f_auto/c_scale,q_auto:good,w_845/{{ post.image | xml_escape }}&quot;&gt;
    {{ post.content | xml_escape }}
    </content>
   </entry>
