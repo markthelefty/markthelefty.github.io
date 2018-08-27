@@ -1,8 +1,6 @@
 ---
-title: Test Post
-date: 2018-08-21 19:43:00 -04:00
-tags:
-- hidden
+title: Coding An Atom Feed Optimized For Feedly
+date: 2018-08-27 05:17:00 -04:00
 description: Looking to optimize your blog's feed Feedly? It's not difficult, but
   there are some specific things you should do to get the best results. This article
   will show you how to validate your feed, add the Webfeeds metadata, and includes
