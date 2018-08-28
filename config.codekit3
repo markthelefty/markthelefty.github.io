@@ -131,13 +131,6 @@
 		"oAP": "\/_posts\/2018-08-09-enhance-your-product-management-skills-during-your-lunch-break.markdown",
 		"oF": 0
 		},
-	"\/_posts\/2018-08-09-everything-you-need-to-know-about-product-management.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_posts\/2018-08-09-everything-you-need-to-know-about-product-management.markdown",
-		"oF": 0
-		},
 	"\/_posts\/2018-08-09-five-new-thoughts-about-product-management-that-will-turn-your-world-upside-down.markdown": {
 		"cB": 0,
 		"ft": 8192,
@@ -152,13 +145,6 @@
 		"oAP": "\/_posts\/2018-08-09-how-you-know-youre-doing-product-management-the-right-way.markdown",
 		"oF": 0
 		},
-	"\/_posts\/2018-08-09-seven-little-tricks-to-achieve-the-best-results-in-product-management.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_posts\/2018-08-09-seven-little-tricks-to-achieve-the-best-results-in-product-management.markdown",
-		"oF": 0
-		},
 	"\/_posts\/2018-08-19-it-was-time-for-me-to-write.markdown": {
 		"cB": 0,
 		"ft": 8192,
@@ -166,11 +152,18 @@
 		"oAP": "\/_posts\/2018-08-19-it-was-time-for-me-to-write.markdown",
 		"oF": 0
 		},
-	"\/_posts\/2018-08-21-building-product-with-ground-rules.markdown": {
+	"\/_posts\/2018-08-21-hidden-test-post.markdown": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/_posts\/2018-08-21-building-product-with-ground-rules.markdown",
+		"oAP": "\/_posts\/2018-08-21-hidden-test-post.markdown",
+		"oF": 0
+		},
+	"\/_posts\/2018-08-23-building-with-product-ground-rules.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_posts\/2018-08-23-building-with-product-ground-rules.markdown",
 		"oF": 0
 		},
 	"\/about-mark-mitchell.md": {
@@ -228,6 +221,13 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/feed.xml",
+		"oF": 0
+		},
+	"\/Gemfile": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/Gemfile",
 		"oF": 0
 		},
 	"\/google59c03b44e95bee7c.html": {

@@ -24,6 +24,10 @@ defaults:
     description: 
     image: 
     is_page: true
+- scope:
+    path: "assets/**/*.pdf"
+    values:
+    sitemap: false
 markdown: kramdown
 rouge: true
 permalink: "/:title"
@@ -47,3 +51,4 @@ version: 2.1.5
 github:
   repo: https://github.com/markthelefty/markthelefty.github.io
 plugins: 
+- jekyll-sitemap
