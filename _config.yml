@@ -24,9 +24,6 @@ defaults:
     description: 
     image: 
     is_page: true
-- scope:
-    path: "assets/**/*.pdf"
-    values:
 markdown: kramdown
 rouge: true
 permalink: "/:title"
