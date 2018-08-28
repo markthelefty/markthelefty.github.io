@@ -27,7 +27,6 @@ defaults:
 - scope:
     path: "assets/**/*.pdf"
     values:
-    sitemap: false
 markdown: kramdown
 rouge: true
 permalink: "/:title"
