@@ -110,13 +110,6 @@
 		"oAP": "\/_posts\/2018-08-09-5-common-myths-about-product-management.markdown",
 		"oF": 0
 		},
-	"\/_posts\/2018-08-09-5-explanation-on-why-product-management-is-important.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_posts\/2018-08-09-5-explanation-on-why-product-management-is-important.markdown",
-		"oF": 0
-		},
 	"\/_posts\/2018-08-09-all-you-need-to-know-about-product-management.markdown": {
 		"cB": 0,
 		"ft": 8192,
@@ -164,6 +157,13 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_posts\/2018-08-23-building-with-product-ground-rules.markdown",
+		"oF": 0
+		},
+	"\/_posts\/2018-08-27-coding-an-atom-feed-optimized-for-feedly.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_posts\/2018-08-27-coding-an-atom-feed-optimized-for-feedly.markdown",
 		"oF": 0
 		},
 	"\/about-mark-mitchell.md": {
