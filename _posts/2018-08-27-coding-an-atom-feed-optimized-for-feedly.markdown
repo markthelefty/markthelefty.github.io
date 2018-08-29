@@ -1,10 +1,10 @@
 ---
 title: Coding An Atom Feed Optimized For Feedly
 date: 2018-08-27 05:17:00 -04:00
-description: Looking to optimize your blog's feed Feedly? It's not difficult, but
-  there are some specific things you should do to get the best results. This article
-  will show you how to validate your feed, add the Webfeeds metadata, and includes
-  a Jekyll Atom feed template as well.
+description: Looking to optimize your blog's feed for Feedly? It's not difficult,
+  but there are some specific things you can do to get the best results. This article
+  will show you how to validate your feed, add Webfeeds metadata, and includes a Jekyll
+  Atom feed template to get you started.
 image: v1535213655/post-images/code-post-image.jpg
 readtime: 5
 ---
