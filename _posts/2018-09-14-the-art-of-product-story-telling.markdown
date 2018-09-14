@@ -10,7 +10,7 @@ Creating a valuable product that solves users problems is hard. Equally as chall
 
 Instead, we need to tell a story - and I don’t mean some fluffy marketing stuff, I mean the real deal. We need to be very crisp communicating why this product matters to the world, how it fits into their lives and why they should care about it in the first place.
 
-## Example
+## We'll Use An Example
 Let’s use Google Photos (*or a Google Photos like product*) as an example. We’ll start by listing some of the basic core features:
 
 * It uploads the photos quickly, automatically and the uploaded images are high-quality
