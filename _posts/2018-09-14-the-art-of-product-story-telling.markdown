@@ -19,7 +19,7 @@ Let’s use Google Photos (*or a Google Photos like product*) as an example. We�
 
 Now imagine yourself up on stage doing a keynote where you’re announcing this great new product to the world for the first time. What would you say? It would probably be something like the following:
 
-*Today we’re excited to announce our new photo management app called Google Photos. It will allow you to automatically upload photos from any device to the web. The uploaded photos will be high-quality and accessible from any computer.*
+*"Today we’re excited to announce our new photo management app called Google Photos. It will allow you to automatically upload photos from any device to the web. The uploaded photos will be high-quality and accessible from any computer."*
 
 This is nice and we’ve all seen these types of statements from the product marketing department of companies all over the world - forever. There’s a glaring problem with that statement though, any guess what it is? *Answer: It’s not solving any problems at all*.
 
@@ -52,7 +52,7 @@ Lastly, we need to think about the broader eco-system around our product. How do
 ## Let’s Craft This Product Story
 Remember you’re on stage in front of a thousand people - now go for it!
 
-*We all know how time-consuming manually organizing photos can be, making it difficult later to find specific images. What if you never had to think about how your photos were organized? What if all you had to do was focus on getting that great shot, no matter what camera or computer you used? You take the pictures, leave organizing them up to us.*
+*"We all know how time-consuming manually organizing photos can be, making it difficult later to find specific images. What if you never had to think about how your photos were organized? What if all you had to do was focus on getting that great shot, no matter what camera or computer you used? You take the pictures, leave organizing them up to us."*
 
 ## Conclusion
 Product storytelling is an art that it takes time to master. As we’re telling the story of our product, stay focused on the problem we’re solving not the solution we built. Our potential users are looking to solve problems - it’s important we’re articulating the value of our product as it aligns with their problem.
