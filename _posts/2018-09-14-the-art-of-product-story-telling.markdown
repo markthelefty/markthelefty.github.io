@@ -7,7 +7,7 @@ readtime: 4
 
 Creating a valuable product that solves users problems is hard. Equally as difficult is illustrating to potential users why they should use our product to solve their problem. As Product Managers it’s really easy to fall into the trap of selling the solution - that’s the logical path. Resist it, because outside of the four walls of your office - the reality is, nobody cares.
 
-Instead, we need to tell a story - and I don’t mean some fluffy marketing stuff, I mean the real deal. We need be very crisp communicating why this product matters to the world, how it fits into their lives and why they should care about it in the first place.
+Instead, we need to tell a story - and I don’t mean some fluffy marketing stuff, I mean the real deal. We need to be very crisp communicating why this product matters to the world, how it fits into their lives and why they should care about it in the first place.
 
 ## Example
 Let’s use Google Photos (/or a Google Photos like product/) as an example. We’ll start by listing some of the basic core features:
