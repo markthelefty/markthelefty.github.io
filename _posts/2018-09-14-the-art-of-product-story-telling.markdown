@@ -13,9 +13,9 @@ Instead, we need to tell a story - and I don’t mean some fluffy marketing stuf
 ## Example
 Let’s use Google Photos (or a Google Photos like product) as an example. We’ll start by listing some of the basic core features:
 
--It uploads the photos quickly, automatically and the uploaded images are high-quality
--Users can access photos on multiple devices including the web
--Photos are organized automatically by date
+* It uploads the photos quickly, automatically and the uploaded images are high-quality
+* Users can access photos on multiple devices including the web
+* Photos are organized automatically by date
 
 Now imagine yourself up on stage doing a keynote where you’re announcing this great new product to the world for the first time. What would you say? It would probably be something like the following:
 
