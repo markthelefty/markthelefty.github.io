@@ -38,16 +38,16 @@ Let’s break this into two parts. Part 1 “photos will be high-quality”. Tha
 
 
 ## So How Would We Tell This Story?
-1. We’ll start by identifying what the problem is that this product is trying to solve. When it comes to photos (or collections of anything for that matter) it’s organization. Users are typically terrible at organizing things, and if they do come up with a way to do it, often they struggle to stick with it. Note: I’m assuming that for the sale of this example. If this were the Real world, we would have learned this as part of our discovery and solution testing process.
+First, we’ll start by identifying what the problem is that this product is trying to solve. When it comes to photos (or collections of anything for that matter) it’s organization. Users are typically terrible at organizing things, and if they do come up with a way to do it, often they struggle to stick with it. Note: I’m assuming that for the sale of this example. If this were the Real world, we would have learned this as part of our discovery and solution testing process.
 
 > The problem this product is solving is organization.
 
-2. Next, let’s break down organization into the sub-problems that typically lead to organization challenges.
+Next, let’s break down organization into the sub-problems that typically lead to organization challenges.
 a. Putting photos into one destination from multiple sources.
 b. Grouping photos into collections.
 c. Searching for photos using methods including date, content, location etc.
 
-3. Lastly, we need to think about the broader eco-system around our product. How does it fit into the current product/device landscape? What’s the future of photography? What’s the future of photography equipment?
+Lastly, we need to think about the broader eco-system around our product. How does it fit into the current product/device landscape? What’s the future of photography? What’s the future of photography equipment?
 
 ## Let’s Craft This Product Story
 Remember you’re on stage in front of a thousand people - now go for it!
