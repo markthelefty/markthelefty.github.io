@@ -24,15 +24,15 @@ Now imagine yourself up on stage doing a keynote where you’re announcing this 
 This is nice and we’ve all seen these types of statements from the product marketing department of companies all over the world - forever. There’s a glaring problem with that statement though, any guess what it is? *Answer: It’s not solving any problems at all*.
 
 ## Let’s Break It Down
-1. “Today we’re excited to announce our new photo management app called Google Photos”
+1. “**Today we’re excited to announce our new photo management app called Google Photos**”
 This is fine nothing to add here - wait a minute did we say “photo management app”. What’s a photo management app? Am I looking to “manage photos”? No, I am not. As a user, I might be in need of managing my photos, but I probably haven’t yet considered that as a problem.
 *Takeaway:* This statement assumes we know what the problem is. We don’t - at least not yet. We want to focus on solving the problem, not selling an assumed solution.
 
-2. “It will allow you to automatically upload photos from any device to the web.”
+2. “**It will allow you to automatically upload photos from any device to the web.**”
 “Automatically” is the best part of this sentence. Users love things that are automated, so that’s a win. The main issue with this statement is the premise of uploading to the web. Uploading things to the web can be a challenge but it’s not really a problem. Not to mention features like this are table steaks at this point.
 *Takeaway:* If our product is assumed to have a table steak feature, don’t even say it, because it dilutes the main message.
 
-3. “The uploaded photos will be high-quality and accessible from any computer.”
+3. “**The uploaded photos will be high-quality and accessible from any computer.**”
 Let’s break this into two parts. Part 1 “photos will be high-quality”. That’s great but I assume that I mean I’d hate to think that this product will take my high-quality images and make them low quality. Part 2 “accessible from any computer,” excellent - but how? In an app, over the web, maybe both?
 *Takeaway*: These are features and the details of these matter but they are details and not a vital part of the story.
 
