@@ -25,7 +25,7 @@ This statement works, and we see many like it from the product marketing departm
 
 ## Let’s Break It Down
 1. “**Today we’re excited to announce our new photo management app called Google Photos**”
-This is fine nothing to add here - wait a minute did we say “photo management app.” What’s a photo management app? Am I looking to “manage photos”? No, probably not. As a user, I might be in need of managing photos, but I probably haven’t yet considered that as a problem.
+This is fine nothing to add here - wait a minute did we say “photo management app.” What’s a photo management app? Am I looking to “manage photos”? No, probably not. As a user, I might be in need of managing photos, but I probably haven’t yet identified that as a the problem.
 *Takeaway:* This statement assumes we know what the problem is. We don’t - at least not yet. We want to focus on solving the problem, not selling an assumed solution.
 
 2. “**It will allow you to automatically upload photos from any device to the web.**”
