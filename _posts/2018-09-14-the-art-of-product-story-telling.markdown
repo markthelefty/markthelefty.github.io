@@ -42,7 +42,7 @@ First, we’ll identify what the exact problem is that this product is trying to
 
 > The problem this product is solving is **organization**.
 
-Next, let’s break down organization into the sub-problems:
+Next, let’s break down organization into smaller sub-problems:
 * a. Putting photos into one destination from multiple sources.
 * b. Grouping photos into collections.
 * c. Searching for photos using methods including date, content, location etc.
