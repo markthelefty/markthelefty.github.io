@@ -33,7 +33,7 @@ This is fine nothing to add here - wait a minute did we say “photo management 
 *Takeaway:* If our product is assumed to have a table steak feature, don’t even say it, because it dilutes the main message.
 
 3. “**The uploaded photos will be high-quality and accessible from any computer.**”
-Let’s break this into two parts. Part 1: “photos will be high-quality.” That’s great, but I would assume that I'd hate to think that this product will take my high-quality images and make them low-quality. Part 2: “accessible from any computer,” excellent - but how? In an app, over the web, maybe both?
+Let’s break this into two parts. Part 1: “photos will be high-quality.” That’s great, but I would assume that I'd hate to think that this product will take my high-quality images and make them low-quality. Part 2: “accessible from any computer,” excellent, but how? In an app, over the web, maybe both?
 *Takeaway*: These are features, the details of these features matter but they are details and not a vital part of the story.
 
 
