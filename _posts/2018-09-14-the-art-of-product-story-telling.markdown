@@ -45,7 +45,7 @@ First, we’ll identify what the exact problem is that this product is trying to
 Next, let’s break down organization into smaller sub-problems:
 * a. Putting photos into one destination from multiple sources.
 * b. Grouping photos into collections.
-* c. Searching for photos using methods including date, content, location etc.
+* c. Searching for photos using meta-data including date, content, location etc.
 
 Lastly, we need to think about the broader ecosystem around our product. How does it fit into the current product/device landscape? What’s the future of photography? What’s the future of photography equipment?
 
