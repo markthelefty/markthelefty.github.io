@@ -13,9 +13,9 @@ Instead, we need to tell a story - and I don’t mean some fluffy marketing stuf
 ## We'll Use A Photo App As An Example
 Let’s use Google Photos (*or a Google Photos-like product*) as an example. We’ll start by listing some of the core features:
 
-* It uploads the photos quickly, automatically and the uploaded images are high-quality
-* Users can access photos on multiple devices including the web
-* Photos are organized automatically by date
+* It uploads the photos quickly, automatically and the uploaded images are high-quality.
+* Users can access photos on multiple devices including the web.
+* Photos are organized automatically by date.
 
 Now imagine we're up on stage doing a keynote announcing this great new product to the world for the first time. What would we say? It could be something like the following:
 
@@ -42,7 +42,7 @@ First, we’ll identify what the exact problem is that this product is trying to
 
 > The problem this product is solving is **organization**.
 
-Next, let’s break down organization into the sub-problems:
+Next, let’s break down organization into smaller sub-problems:
 * a. Putting photos into one destination from multiple sources.
 * b. Grouping photos into collections.
 * c. Searching for photos using methods including date, content, location etc.
