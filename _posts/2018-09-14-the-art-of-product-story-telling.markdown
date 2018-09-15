@@ -17,7 +17,7 @@ Let’s use Google Photos (*or a Google Photos-like product*) as an example. We�
 * Users can access photos on multiple devices including the web
 * Photos are organized automatically by date
 
-Now imagine yourself up on stage doing a keynote where you’re announcing this great new product to the world for the first time. What would you say? It would probably be something like the following:
+Now imagine we're up on stage doing a keynote announcing this great new product to the world for the first time. What would we say? It would likely be something like the following:
 
 *"Today we’re excited to announce our new photo management app called Google Photos. It will allow you to automatically upload photos from any device to the web. The uploaded photos will be high-quality and accessible from any computer."*
 
