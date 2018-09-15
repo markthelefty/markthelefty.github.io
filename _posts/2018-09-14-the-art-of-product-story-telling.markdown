@@ -40,7 +40,7 @@ Let’s break this into two parts. Part 1 “photos will be high-quality”. Tha
 ## So How Would We Tell This Story?
 First, we’ll identify what the exact problem is that this product is trying to solve. When it comes to photos (*or collections of anything for that matter*) it’s organization. Users are typically terrible at organizing things, and if they do come up with a way to do it, they struggle to stick with it. Note: I’m assuming that for the sale of this example. If this were the real world, we would have learned this as part of our discovery and solution testing process.
 
-> The problem this product is solving is organization.
+> The problem this product is solving is **organization**.
 
 Next, let’s break down organization into the sub-problems that typically lead to organization challenges.
 a. Putting photos into one destination from multiple sources.
