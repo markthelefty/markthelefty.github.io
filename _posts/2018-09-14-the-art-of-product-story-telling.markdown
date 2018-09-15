@@ -49,7 +49,7 @@ Next, let’s break down organization into the sub-problems:
 
 Lastly, we need to think about the broader ecosystem around our product. How does it fit into the current product/device landscape? What’s the future of photography? What’s the future of photography equipment?
 
-## Let’s Craft This Product Story
+## Now We're Ready To Craft This Product Story
 Remember you’re on stage in front of a thousand people - now go for it!
 
 *"We all know how time-consuming manually organizing photos can be, making it difficult later to find specific images. What if you never had to think about how your photos were organized? What if all you had to do was focus on getting that great shot, no matter what camera or computer you used? You take the pictures, leave organizing them up to us."*
