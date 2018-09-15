@@ -47,7 +47,7 @@ Next, let’s break down organization into the sub-problems:
 *b. Grouping photos into collections.
 *c. Searching for photos using methods including date, content, location etc.
 
-Lastly, we need to think about the broader eco-system around our product. How does it fit into the current product/device landscape? What’s the future of photography? What’s the future of photography equipment?
+Lastly, we need to think about the broader ecosystem around our product. How does it fit into the current product/device landscape? What’s the future of photography? What’s the future of photography equipment?
 
 ## Let’s Craft This Product Story
 Remember you’re on stage in front of a thousand people - now go for it!
