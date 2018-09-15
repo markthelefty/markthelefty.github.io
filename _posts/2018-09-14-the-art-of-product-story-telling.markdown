@@ -37,7 +37,7 @@ Let’s break this into two parts. Part 1: “photos will be high-quality.” Th
 **Takeaway**: These are features, the details of these features matter but they are details and not a vital part of the story.
 
 
-## So How Would We Tell This Story?
+## How Would We Tell This Story?
 First, we’ll identify what the exact problem is that this product is trying to solve. When it comes to photos (*or collections of anything for that matter*) it’s organization. Users are typically terrible at organizing things, and if they do come up with a way to do it on their own, they struggle to stick with it. Note: I’m assuming the user problem for sake of this example. If this were the real world, we would have learned this as part of our discovery and solution testing process.
 
 <span class="lead">The problem this product is solving is organization</span>.
