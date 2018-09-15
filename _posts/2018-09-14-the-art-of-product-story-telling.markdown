@@ -1,6 +1,10 @@
 ---
 title: The Art Of Product Storytelling
 date: 2018-09-14 18:27:00 -04:00
+description: How do we communicate the value of our product to prospective users?
+  As Product Managers, it's easy for us to sell our solution. Resist that urge because,
+  in reality, nobody cares about what we've built. Instead - we need to communicate
+  how our product truly solves user problems.
 image: v1536963997/post-images/the-art-of-product-story-telling.jpg
 readtime: 4
 ---
