@@ -21,7 +21,7 @@ Now imagine we're up on stage doing a keynote announcing this great new product 
 
 *"Today we’re excited to announce our new photo management app called Google Photos. It will allow you to automatically upload photos from any device to the web. The uploaded photos will be high-quality and accessible from any computer."*
 
-This statement works, and we see many like it from the product marketing department's all the time. There’s a glaring problem with it though, any guess what it is? *Answer: It’s not solving any problems at all*.
+This statement works, and we see many like it from the product marketing departments all the time. There’s a glaring problem with it though, any guess what it is? *Answer: It’s not solving any problems at all*.
 
 ## Let’s Break It Down
 1. “**Today we’re excited to announce our new photo management app called Google Photos**”
