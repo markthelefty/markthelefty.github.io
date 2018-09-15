@@ -26,15 +26,15 @@ This statement works, and we see many like it from the product marketing departm
 ## Let’s Break It Down
 1. “**Today we’re excited to announce our new photo management app called Google Photos**”
 This is fine nothing to add here - wait a minute did we say “photo management app.” What’s a photo management app? Am I looking to “manage photos”? No, probably not. As a user, I might be in need of managing photos, but I probably haven’t yet identified that as the problem.
-*Takeaway:* This statement assumes we know what the problem is. We don’t - at least not yet. We want to focus on solving the problem, not selling an assumed solution.
+**Takeaway:** This statement assumes we know what the problem is. We don’t - at least not yet. We want to focus on solving the problem, not selling an assumed solution.
 
 2. “**It will allow you to automatically upload photos from any device to the web.**”
 “Automatically” is the best part of this sentence. Users love things that are automated, so that’s a win. The main issue with this statement is the premise of uploading to the web. Uploading photos to the web can be a challenge, but it’s not a real problem. Not to mention features like this are table steaks at this point.
-*Takeaway:* If our product is assumed to have a table steak feature, don’t even say it, because it dilutes the main message.
+**Takeaway:** If our product is assumed to have a table steak feature, don’t even say it, because it dilutes the main message.
 
 3. “**The uploaded photos will be high-quality and accessible from any computer.**”
 Let’s break this into two parts. Part 1: “photos will be high-quality.” That’s great, but I would assume that I'd hate to think that this product will take my high-quality images and make them low-quality. Part 2: “accessible from any computer,” excellent, but how? In an app, over the web, maybe both?
-*Takeaway*: These are features, the details of these features matter but they are details and not a vital part of the story.
+**Takeaway**: These are features, the details of these features matter but they are details and not a vital part of the story.
 
 
 ## So How Would We Tell This Story?
