@@ -1,10 +1,10 @@
 ---
 title: About Me
 date: 2018-07-14 14:18:00 -04:00
-description: I started in the music business in New York City. Today, I'm VP of Product
-  at a large fintech company leading a team of 30 Product Managers. I live in Atlanta
-  with my wonderful wife and our three children. Like many Product Managers, I too
-  traveled an unusual path to get here.
+description: I started in the music business in New York City. Today, I'm Managing
+  Director of Product at a large fintech company leading a team of 30 Product Managers.
+  I live in Atlanta with my wonderful wife and our three children. Like many Product
+  Managers, I too traveled an unusual path to get here.
 image: v1534161359/post-images/mark-on-product.jpg
 layout: page
 ---
@@ -76,6 +76,6 @@ I had the opportunity to work on fun marketing projects, [Super Bowl](https://yo
 
 ## Today (2020)
 
-Today, I live in Atlanta, Georgia. I’m a Managing Director of Product at a large fintech company. Our platform is used by many of the largest companies in the world to manage their equity compensation benefit programs. I lead a fantastic team of 30 Product Managers and report to the President of the business. I manage the roadmap, enhancement prioritization, and overall product strategy and direction while also playing an active role in other areas including Sales, Relationship Management, and Customer Service.
+I live in Atlanta, Georgia. I’m Managing Director of Product at a large fintech company. Our platform is used by many of the largest companies in the world to manage their equity compensation benefit programs. I lead a fantastic team of 30 Product Managers and report to the President of the business. I manage the roadmap, enhancement prioritization, and overall product strategy and direction while also playing an active role in other areas including Sales, Relationship Management, and Customer Service.
 
 Thanks for stopping by, I’d like to hear from you. Feel free to [send me a note](https://markonproduct.com/contact), or let's connect on [Twitter](https://twitter.com/MarkMitchell) or [LinkedIn](https://www.linkedin.com/in/markreidmitchell/).
