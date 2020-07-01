@@ -2,7 +2,7 @@
 title: About Me
 date: 2018-07-14 14:18:00 -04:00
 description: I started in the music business in New York City. Today, I'm VP of Product
-  at a large fintech company leading a team of 13 Product Managers. I live in Atlanta
+  at a large fintech company leading a team of 30 Product Managers. I live in Atlanta
   with my wonderful wife and our three children. Like many Product Managers, I too
   traveled an unusual path to get here.
 image: v1534161359/post-images/mark-on-product.jpg
