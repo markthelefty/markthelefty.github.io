@@ -74,8 +74,8 @@ Eventually, I came across a job posting for a UI design gig at a large New York-
 
 I had the opportunity to work on fun marketing projects, [Super Bowl](https://youtu.be/TienbePEbOY?t=7s) ads and lots of UI design. Exposed to all of the parts of a real company, UI, and app design was still the thing I loved doing. I especially enjoyed building something big from beginning to end; it reminded me of making records. UI design eventually turned into running a UX prototyping team. Prototyping eventually turned into owning a product. So there it was… holy moly I’m in Product Management. I was just some dude off the street who started in the music business, next time I looked up I was VP of Product Management. I was as surprised as anyone. In truth, though I knew I had been working nights and weekends for years, it felt like an overnight success, but it wasn’t.
 
-## Today (2018)
+## Today (2020)
 
-Today, I live in Atlanta, Georgia. I’m VP, Product Management at a large fintech company. Our platform is used by many of the largest companies in the world to manage their equity compensation benefit programs. I lead a fantastic team of 13 Product Managers and report to the President of the business. I manage the roadmap, enhancement prioritization, and overall product strategy and direction while also playing an active role in other areas including Sales, Relationship Management, and Customer Service.
+Today, I live in Atlanta, Georgia. I’m VP, Product Management at a large fintech company. Our platform is used by many of the largest companies in the world to manage their equity compensation benefit programs. I lead a fantastic team of 30 Product Managers and report to the President of the business. I manage the roadmap, enhancement prioritization, and overall product strategy and direction while also playing an active role in other areas including Sales, Relationship Management, and Customer Service.
 
 Thanks for stopping by, I’d like to hear from you. Feel free to [send me a note](https://markonproduct.com/contact), or let's connect on [Twitter](https://twitter.com/MarkMitchell) or [LinkedIn](https://www.linkedin.com/in/markreidmitchell/).
