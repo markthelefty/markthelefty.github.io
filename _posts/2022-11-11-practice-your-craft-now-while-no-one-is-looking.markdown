@@ -20,7 +20,7 @@ For this post, I want to focus on the opening of the talk where I laid out what 
 
 <span class="lead">The idea is that when a baseball player gets to the majors, we’re seeing a fully developed output.</span>
 <br>
-He developed his craft and skill over many years as a youth, in high school and in the “*Farm Leagues*”.
+He developed his craft and skill over many years as a youth, in high school, and in the “*Farm Leagues*”.
 
 He did this while no one was looking and became good in the background. When he arrived in the Major Leagues he was fully developed - ready to go and every improvement or challenge that he faces going forward will be done publicly. His days of private failures are over.
 
