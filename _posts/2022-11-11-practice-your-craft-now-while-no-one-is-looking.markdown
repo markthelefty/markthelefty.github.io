@@ -38,7 +38,7 @@ Other examples of core skills include being a good communicator, being a natural
 ### Be Intentional About Where You Need To Improve
 **This is where we intentionally focus on developing the bottom core skill**. I like to use the word “intentional” because this isn’t something we “try” or “hope” to do - we need to focus on it. Think about what that skill is.
 
-How can we work on it almost every day? Think of this improvement like exercise. If you want to meaningfully improve your fitness, you know what that would require. This is the same - look for specific ways to improve this skill a little everyday. 
+How can we work on it almost every day? Think of this improvement like exercise. If you want to meaningfully improve your fitness, you know what that would require. This is the same - look for specific ways to improve this skill a little every day. 
 
 ### Plan and Attack The Improvement Areas
 **Rise and repeat the process above for all of the core skills that need improvement**. I’d suggest you work on one at a time, maybe one per year - for a year. Again like fitness, don’t try to immediately improve everything, pick one thing and go deep on it.
