@@ -14,7 +14,7 @@ Last week I was lucky enough to be invited to speak to 35 colleagues as part of 
 
 The session topics were geared towards helping them grow and develop into our next generation of leaders while propelling theirs careers to the next level. Example sessions were “**Executive Communication**”, “**Influencing Without Authority**”, and “**Crafting a Strategy and Vision**” among others. 
 
-I was asked to give the talk on “Crafting a Strategy and Vision”. It was a natural topic for me given my role as Chief Product Officer. Much of the talk was aimed at the tactical methods I use to form our Product Strategy and Vision, then communicate it effectively. There are probably at least five posts I could write on that topic and I will in time.
+I was asked to give the talk on “**Crafting a Strategy and Vision**”. It was a natural topic for me given my role as Chief Product Officer. Much of the talk was aimed at the tactical methods I use to form our Product Strategy and Vision, then communicate it effectively. There are probably at least five posts I could write on that topic and I will in time.
 
 For this post, I want to focus on the open of the talk where I laid out what I like to call the “Career Farm League Time-period”. The concept stems from a baseball analogy, but I think it can apply to almost any development based activity where what we see in real-life is actually the fully developed “finished product”. It was in the lab for many years before we were ever exposed to the finished product.
 
