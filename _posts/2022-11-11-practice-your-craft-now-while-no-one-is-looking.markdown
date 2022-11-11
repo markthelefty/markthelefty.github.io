@@ -24,7 +24,7 @@ He developed his craft and skill over many years as a youth, in high school, and
 
 He did this while no one was looking and became good in the background. When he arrived in the Major Leagues he was fully developed - ready to go and every improvement or challenge that he faces going forward will be done publicly. His days of private failures are over.
 
-I wanted to convey to the emerging leaders that they should intentionally focus on their growth and areas of improvement during this time period over anything else. Intense development and learning should happen during the Farm League time-period so when they get to the Major League portion of their career it’s all about high-level execution and gradual improvement. 
+I wanted to convey to the emerging leaders that they should intentionally focus on their growth and areas of improvement during this time period over anything else. Intense development and learning should happen during the Farm League time period so when they get to the Major League portion of their career it’s all about high-level execution and gradual improvement. 
 
 This is an oversimplification for the sake of this post (and the talk) but I think the idea is sound. In reality, learning can and should occur continually over the duration of your career. However, I believe you can significantly speed things up if your intentional about several focus areas during the Farm League period.
 
