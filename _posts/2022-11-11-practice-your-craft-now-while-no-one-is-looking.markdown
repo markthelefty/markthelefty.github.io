@@ -10,7 +10,7 @@ readtime: 6
 ---
 
 <br>
-Last week I was lucky enough to be invited to speak to 35 colleagues as part of an Emerging Leaders Retreat. It was a wonderful two day event designed to bring together high performing individuals to learn, network, and collaborate.
+Last week I was lucky enough to be invited to speak to 35 colleagues as part of an Emerging Leaders Retreat. It was a wonderful two-day event designed to bring together high performing individuals to learn, network, and collaborate.
 
 The session topics were geared towards helping them grow and develop into our next generation of leaders while propelling theirs careers to the next level. Example sessions were “**Executive Communication**”, “**Influencing Without Authority**”, and “**Crafting a Strategy and Vision**” among others. 
 
