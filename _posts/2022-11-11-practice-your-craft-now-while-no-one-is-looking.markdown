@@ -60,4 +60,4 @@ For some reason early in our career, we have a natural tendency to set income, t
 
 Here’s my issue with these types of goals: income and titles are lagging indicators of your progress. Or put differently, they are the result of doing much of what’s laid out in this post. Instead of setting goals that are based on lagging indicators, set your goals on leading indicators. The leading indicators are the work required to improve your core skills.
 
-The core skill improvement will lead to the income and title outcome you’re looking for. So next time you’re thinking about how much money you want to earn next year, instead train yourself to think about your plan for improving on your core skills. The income and title will follow I promise.
+The core skill improvement will lead to the income and title outcome you’re looking for. So next time you’re thinking about how much money you want to earn next year, instead train yourself to think about your plan for improving your core skills. The income and title will follow I promise.
