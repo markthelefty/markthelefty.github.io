@@ -5,6 +5,7 @@ image: v1668186125/post-images/practice-your-craft-now-while-no-one-is-looking.j
 readtime: 6
 ---
 
+<br>
 This week I was lucky enough to be invited to speak to 35 colleagues as part of an Emerging Leaders Retreat. It was a wonderful 2 day event designed to bring together high performing individuals to learn, network and collaborate. The session topics were geared towards helping them grow and develop into our next generation of leaders while propelling theirs careers to the next level. Example sessions were “Executive Communication”, “Influencing Without Authority”, and “Crafting a Strategy and Vision” among others. 
 
 I was asked to give the talk on “Crafting a Strategy and Vision”. It was a natural topic for me given my role as Chief Product Officer. Much of the talk was aimed at the tactical methods I use to form our Product Strategy and Vision, then communicate it effectively. There are probably at least five posts I could write on that topic and I will in time.
