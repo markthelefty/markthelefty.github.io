@@ -36,7 +36,7 @@ This is an oversimplification for the sake of this post (and the talk) but I thi
 Other examples of core skills include being a good communicator, being a natural leader, being a structured thinker, having a knack for selling, or having a mind for numbers. There are many more and none are right or wrong - the idea is to understand what yours are and more importantly - are not. The goal is to work on the weaknesses, you won’t need to be amazing at everything to be successful so don’t overthink it, I suggest identifying your top and your bottom ones.
 
 ### Be Intentional About Where You Need To Improve
-**This is where we intentionally focus on developing the bottom core skill**. I like to use the word “intentional” because this isn’t something we “try” or “hope” to do - we need to focus on it. Think about what that skill is?
+**This is where we intentionally focus on developing the bottom core skill**. I like to use the word “intentional” because this isn’t something we “try” or “hope” to do - we need to focus on it. Think about what that skill is.
 
 How can we work on it almost everyday? Think of this improvement like exercise. If you want to meaningfully improve your fitness, you know what that would require. This is the same - look for specific ways to improve this skill a little everyday. 
 
