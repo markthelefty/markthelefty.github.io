@@ -48,7 +48,7 @@ Track your improvement and your progress. Build a plan and think of it as a plan
 ### Measure and Repeat Every Single Year
 **Every year will be different**. Your areas of improvement will change and evolve, and that’s a good thing! However, your process for how you improve and measure your progress should not change much. For example, a core skill focus area for me a few years back was to improve my preparation process for keynoting and presenting.
 
-I really wanted to reduce the time it took me to outline a talk, write the content, design the slides and rehearse. The improve this I started to track the hours against these items (every time I do them) to look for where I could improve. I write down what went well, what took too long, and what I will do next time to improve. I still do this today to continually measure and improve. This is true for several other core skill improvement areas I’m also working on.  
+I wanted to reduce the time it took me to outline a talk, write the content, design the slides and rehearse. The improve this I started to track the hours against these items (every time I do them) to look for where I could improve. I write down what went well, what took too long, and what I will do next time to improve. I still do this today to continually measure and improve. This is true for several other core skill improvement areas I’m also working on.  
 
 ### Think About The Outcomes
 **The final idea that I wanted to discuss was the outcomes of practicing now while no one is looking**. What are the real benefits of getting better in the Farm League period of our careers?
