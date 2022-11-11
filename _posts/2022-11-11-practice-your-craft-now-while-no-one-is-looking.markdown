@@ -26,7 +26,7 @@ He did this while no one was looking and became good in the background. When he 
 
 I wanted to convey to the emerging leaders that they should intentionally focus on their growth and areas of improvement during this time period over anything else. Intense development and learning should happen during the Farm League time period so when they get to the Major League portion of their career it’s all about high-level execution and gradual improvement. 
 
-This is an oversimplification for the sake of this post (and the talk) but I think the idea is sound. In reality, learning can and should occur continually throughout your career. However, I believe you can significantly speed things up if your intentional about several focus areas during the Farm League period.
+This is an oversimplification for the sake of this post (and the talk) but I think the idea is sound. In reality, learning can and should occur continually throughout your career. However, I believe you can significantly speed things up if you're intentional about several focus areas during the Farm League period.
 
 ## What Are The Most Important Career Fram League Focus Areas?
 
