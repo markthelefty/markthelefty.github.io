@@ -55,7 +55,7 @@ I wanted to reduce the time it took me to outline a talk, write the content, des
 
 The obvious one is that it’s the best way to prepare you for what’s next. I like to think that your improvement areas today should be setting you up for your bigger role tomorrow. Can you articulate what that is? What would it take to get there? What you would honestly need to improve to make that happen?
 
-### Final Note On Income, Title, and Age Based Goals
+### Final Note On Income, Title, and Age-Based Goals
 For some reason early in our career we have natural tendency to set income, title, or age based achievement measurements and goals. We need to resist this tendency. These are statements like “I want to make six figures by the time I’m 30” or “I want to be a Vice President by the time I’m 40” etc.
 
 Here’s my issue with these types of goals: income and titles are lagging indicators of your progress. Or put differently, they are the result of doing much of what’s laid out in this post. Instead of setting goals that are based on lagging indicators, set your goals on leading indicators. The leading indicators are the work required to improve your core skills.
