@@ -58,6 +58,6 @@ The obvious one is that it’s the best way to prepare you for what’s next. I 
 ### Final Note On Income, Title, and Age-Based Goals
 For some reason early in our career, we have a natural tendency to set income, title, or age-based achievement measurements and goals. We need to resist this tendency. These are statements like “*I want to make six figures by the time I’m 30*” or “*I want to be a Vice President by the time I’m 40*” etc.
 
-Here’s my issue with these types of goals: income and titles are lagging indicators of your progress. Or put differently, they are the result of doing much of what’s laid out in this post. Instead of setting goals that are based on lagging indicators, set your goals on leading indicators. The leading indicators are the work required to improve your core skills.
+Here’s my issue with these types of goals: **income and titles are lagging indicators of your progress**. Or put differently, they are the result of doing much of what’s laid out in this post. Instead of setting goals that are based on lagging indicators, set your goals on leading indicators. The leading indicators are the work required to improve your core skills.
 
 The core skill improvement will lead to the income and title outcome you’re looking for. So next time you’re thinking about how much money you want to earn next year, instead train yourself to think about your plan for improving your core skills. The income and title will follow I promise.
