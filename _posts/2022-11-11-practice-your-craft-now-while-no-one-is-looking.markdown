@@ -1,6 +1,10 @@
 ---
 title: Practice Your Craft Now, While No One Is Looking
 date: 2022-11-11 12:04:00 -05:00
+description: Early in our career we get a special opportunity to get better at our
+  craft when no one is looking. We should use this time to understand what we’re naturally
+  good at and what we need to improve. Then take intentional steps to work on these
+  things so we’re ready to take the big swings.
 image: v1668186125/post-images/practice-your-craft-now-while-no-one-is-looking.jpg
 readtime: 6
 ---
