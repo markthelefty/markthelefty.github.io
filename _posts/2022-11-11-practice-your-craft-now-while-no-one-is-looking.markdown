@@ -33,7 +33,7 @@ This is an oversimplification for the sake of this post (and the talk) but I thi
 ### Understand Your Core Skills
 **Start by thinking about what you’re naturally good at**. I tend to think of these as the things you were born with, the things you knew you were good at back in elementary school. This is not “I’m good at design”, it’s more like “I’m good at distilling complex concepts into simpler ideas”.
 
-Other examples of core skills include being a good communicator, being a natural leader, being a structured thinker, having a knack for selling, or having a mind for numbers. There are many more and none are right or wrong - the idea is to understand what yours are and more importantly - are not. The goal is to work on the weaknesses, you won’t need to be amazing at everything to be successful so don’t overthink it, I suggest identifying your top and your bottom one.
+Other examples of core skills include being a good communicator, being a natural leader, being a structured thinker, having a knack for selling, or having a mind for numbers. There are many more and none are right or wrong - the idea is to understand what yours are and more importantly - are not. The goal is to work on the weaknesses, you won’t need to be amazing at everything to be successful so don’t overthink it, I suggest identifying your top and your bottom ones.
 
 ### Be Intentional About Where You Need To Improve
 **This is where we intentionally focus on developing the bottom core skill**. I like to use the word “intentional” because this isn’t something we “try” or “hope” to do - we need to focus on it. Think about what that skill is?
