@@ -46,3 +46,4 @@ paginate: 12
 version: 2.1.5
 github:
   repo: https://github.com/markthelefty/markthelefty.github.io
+plugins: [jekyll-paginate]

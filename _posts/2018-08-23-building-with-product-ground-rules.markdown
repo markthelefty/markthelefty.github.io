@@ -7,6 +7,7 @@ description: In Product Management, there are times when setting ground rules ca
   the tools and services used on this site.
 image: v1534988787/post-images/building-product-with-ground-rules-post-image.jpg
 readtime: 11
+layout: post
 ---
 
 ## I Hate Rules, So Why Set Product Ground Rules?

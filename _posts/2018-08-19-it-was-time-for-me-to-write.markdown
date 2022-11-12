@@ -7,6 +7,7 @@ description: It started at a dinner with a friend, when he asked me what was nex
   and I wanted to give back.
 image: v1534756711/page-images/it-was-time-to-write-post-image.jpg
 readtime: 4
+layout: post
 ---
 
 ## It Started At a Dinner

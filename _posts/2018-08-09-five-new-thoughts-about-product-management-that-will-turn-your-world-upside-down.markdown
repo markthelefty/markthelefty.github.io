@@ -10,6 +10,7 @@ description: 'Although moreover mistaken kindness me feelings do be marianne. So
   elsewhere you belonging continued commanded she. '
 image: v1533853938/samples/Death_to_Stock_Chasing_Sunrise_5_Ivan_Calderon.jpg
 readtime: 7
+layout: post
 ---
 
 The purpose of this pattern library is to serve as a reference for how commonly used components should be marked up and styled. Mark On Product is written using [Markdown](https://daringfireball.net/projects/markdown/). Most core components are written using [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/). Many of the common patterns are detailed below, this [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) is also helpful. The [GitHub Markdown](https://help.github.com/categories/writing-on-github/) documentation also serves as a great reference.

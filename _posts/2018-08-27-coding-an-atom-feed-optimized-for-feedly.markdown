@@ -7,6 +7,7 @@ description: Looking to optimize your blog's feed for Feedly? It's not difficult
   Atom feed template to get you started.
 image: v1535213655/post-images/code-post-image.jpg
 readtime: 5
+layout: post
 ---
 
 <br>

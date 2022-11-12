@@ -7,6 +7,7 @@ description: Early in our career we get a special opportunity to get better at o
   things so we’re ready to take the big swings.
 image: v1668186125/post-images/practice-your-craft-now-while-no-one-is-looking.jpg
 readtime: 6
+layout: post
 ---
 
 <br>

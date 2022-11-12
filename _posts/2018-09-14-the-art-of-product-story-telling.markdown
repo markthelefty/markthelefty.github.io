@@ -7,6 +7,7 @@ description: How do we communicate the value of our product to prospective users
   how our product truly solves user problems.
 image: v1536963997/post-images/the-art-of-product-story-telling.jpg
 readtime: 4
+layout: post
 ---
 
 <br>

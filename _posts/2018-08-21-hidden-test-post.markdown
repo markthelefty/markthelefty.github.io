@@ -5,5 +5,6 @@ tags:
 - hidden
 image: upload/v1534292126/post-images/sample-post-image.jpg
 readtime: 1
+layout: post
 ---
 
